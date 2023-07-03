@@ -12,3 +12,7 @@ gcc table.c -o table -I /usr/include/postgresql -lpq -std=c99
 ALTER USER postgres PASSWORD 'postgres';
 
 psql -U postgres -W
+\c testdb
+
+
+./table db:testdb:Cars:cr:"Id INTEGER PRIMARY KEY, Name VARCHAR(20), Price INT"

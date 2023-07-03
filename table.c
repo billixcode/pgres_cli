@@ -33,6 +33,7 @@ int main(int argc, char* argv[]) {
 
     bool create_table = false;
     bool delete_table = false;
+    bool insert_values = false;
     bool debug = false;
 
     struct database db ;
@@ -55,6 +56,9 @@ int main(int argc, char* argv[]) {
                 strcpy(db.sql, token_5);
             }else if (strcmp(db.op,"de") == 0){
                 delete_table  = true;
+            }else if (strcmp(db.op,"is") == 0){
+                insert_values  = true;
+                strcpy(db.sql, token_5);
             }else{
                 fprintf(stderr, "Unknown table option: %s . exiting\n", db.op);
                 exit(1);
@@ -95,7 +99,10 @@ int main(int argc, char* argv[]) {
 
         char drop_tble_cmd[1024];
         snprintf(drop_tble_cmd, 1024, "DROP TABLE IF EXISTS %s", db.table);
-        printf("drop table is %s\n", drop_tble_cmd);
+        if (debug){
+            printf("drop table is %s\n", drop_tble_cmd);
+        }
+        
         res = PQexec(conn, drop_tble_cmd);
         
         if (PQresultStatus(res) != PGRES_COMMAND_OK) {
@@ -109,7 +116,9 @@ int main(int argc, char* argv[]) {
 
         char create_tble_cmd[2056];
         snprintf(create_tble_cmd, 2056, "CREATE TABLE %s(%s)", db.table, db.sql);
-        printf("create_tble_cmd is %s\n", create_tble_cmd);
+        if (debug){
+            printf("create_tble_cmd is %s\n", create_tble_cmd);
+        }
         res = PQexec(conn, create_tble_cmd);
             
         if (PQresultStatus(res) != PGRES_COMMAND_OK) {
@@ -119,6 +128,23 @@ int main(int argc, char* argv[]) {
         PQclear(res);
     
     }
+
+
+    if (insert_values){
+        char insert_values_cmd[2056];
+        snprintf(insert_values_cmd, 2056, "INSERT INTO %s VALUES(%s)", db.table, db.sql);
+        if (debug){
+            printf("insert_values_cmd is %s\n", insert_values_cmd);
+        }
+        res = PQexec(conn, insert_values_cmd);
+        
+        if (PQresultStatus(res) != PGRES_COMMAND_OK) 
+            do_exit(conn, res);     
+        
+        PQclear(res);    
+
+    }
+
     PQfinish(conn);
 
     return 0;
