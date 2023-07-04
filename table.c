@@ -201,29 +201,21 @@ int main(int argc, char* argv[]) {
         }    
         int ncols = PQnfields(res);
         int rows = PQntuples(res);
-        printf("num cols %d\n", ncols);
-        printf("num rows %d\n", rows);
-        int string_size = 150;
+        if (debug){
+            printf("num cols %d\n", ncols);
+            printf("num rows %d\n", rows);
+        }
+        int string_size = 200;
         for(int i=0; i<rows; i++) {
-            char result[ncols * string_size];
-/*             for(int y=0; y<ncols; y++) {
-                char col_res[100];
-                snprintf(col_res, 100, "%s |", PQgetvalue(res, i, y));
-                strcat(result,col_res);
-            } */
-
+            
+            printf("| ");
             for (int y=0; y<ncols; y++) {
-                char temp[150]  = "|";
-                sprintf(temp, "%s |", PQgetvalue(res, i, y));
-                strcat(result, temp);
-
+                
+                printf("%s |", PQgetvalue(res, i, y));
                 if ( y == ncols -1){
-                     strcat(result, "\n");
+                     printf("\n");
                 }
             } 
-           
-            //printf("%s",result);
-            printf("%s | %s | %s | %s | %s | %s | %s | %s\n", PQgetvalue(res, i, 0), PQgetvalue(res, i, 1), PQgetvalue(res, i, 2),PQgetvalue(res, i, 3), PQgetvalue(res, i, 4), PQgetvalue(res, i, 5), PQgetvalue(res, i, 6), PQgetvalue(res, i, 7));
         }    
     }
 
