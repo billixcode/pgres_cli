@@ -16,3 +16,4 @@ psql -U postgres -W
 
 
 ./table db:testdb:Cars:cr:"Id INTEGER PRIMARY KEY, Name VARCHAR(20), Price INT"
+./table db:testdb:sales:cr:"cust varchar(20), prod varchar(20), day integer, month integer, year integer, state char(2), quant integer, date date"

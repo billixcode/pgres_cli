@@ -1,8 +1,7 @@
 insert into sales values ('Dan', 'Ham', 17, 6, 2016, 'PA', 825, '2016-06-17');
 insert into sales values ('Claire', 'Fish', 28, 11, 2016, 'CT', 84, '2016-11-28');
 insert into sales values ('Dan', 'Apple', 12, 11, 2017, 'CT', 973, '2017-11-12');
-insert into sales values ('Chae', 'Jellies', 13, 10, 2016, 'NJ', 756, '2016-10-
-13');
+insert into sales values ('Chae', 'Jellies', 13, 10, 2016, 'NJ', 756, '2016-10-13');
 insert into sales values ('Chae', 'Ham', 11, 4, 2017, 'NY', 464, '2017-04-11');
 insert into sales values ('Mia', 'Fish', 25, 9, 2017, 'NJ', 56, '2017-09-25');
 insert into sales values ('Mia', 'Dates', 15, 7, 2018, 'PA', 523, '2018-07-15');
@@ -19,30 +18,24 @@ insert into sales values ('Chae', 'Dates', 17, 6, 2020, 'NJ', 584, '2020-06-17')
 insert into sales values ('Dan', 'Grapes', 11, 9, 2018, 'CT', 966, '2018-09-11');
 insert into sales values ('Wally', 'Ham', 18, 10, 2018, 'NY', 461, '2018-10-18');
 insert into sales values ('Helen', 'Ham', 15, 11, 2019, 'CT', 392, '2019-11-15');
-insert into sales values ('Helen', 'Grapes', 10, 12, 2018, 'PA', 545, '2018-12-
-10');
-insert into sales values ('Claire', 'Grapes', 1, 10, 2017, 'CT', 477, '2017-10-
-01');
+insert into sales values ('Helen', 'Grapes', 10, 12, 2018, 'PA', 545, '2018-12-10');
+insert into sales values ('Claire', 'Grapes', 1, 10, 2017, 'CT', 477, '2017-10-01');
 insert into sales values ('Helen', 'Ham', 24, 8, 2017, 'NJ', 826, '2017-08-24');
 insert into sales values ('Helen', 'Cherry', 30, 6, 2018, 'CT', 226, '2018-06-30');
 insert into sales values ('Emily', 'Cherry', 22, 1, 2018, 'NY', 306, '2018-01-22');
 insert into sales values ('Dan', 'Fish', 1, 12, 2017, 'NJ', 184, '2017-12-01');
 insert into sales values ('Sam', 'Ham', 29, 3, 2018, 'CT', 735, '2018-03-29');
 insert into sales values ('Sam', 'Ice', 7, 8, 2017, 'CT', 353, '2017-08-07');
-insert into sales values ('Claire', 'Jellies', 1, 11, 2019, 'CT', 200, '2019-11-
-01');
+insert into sales values ('Claire', 'Jellies', 1, 11, 2019, 'CT', 200, '2019-11-01');
 insert into sales values ('Helen', 'Ice', 18, 11, 2018, 'NJ', 704, '2018-11-18');
 insert into sales values ('Wally', 'Ham', 5, 8, 2018, 'NJ', 907, '2018-08-05');
 insert into sales values ('Dan', 'Apple', 14, 10, 2020, 'PA', 261, '2020-10-14');
 insert into sales values ('Dan', 'Eggs', 27, 8, 2019, 'PA', 129, '2019-08-27');
 insert into sales values ('Dan', 'Apple', 16, 3, 2018, 'CT', 61, '2018-03-16');
-insert into sales values ('Claire', 'Jellies', 18, 10, 2016, 'NY', 677, '2016-10-
-18');
-insert into sales values ('Claire', 'Butter', 17, 11, 2019, 'NJ', 833, '2019-11-
-17');
+insert into sales values ('Claire', 'Jellies', 18, 10, 2016, 'NY', 677, '2016-10-18');
+insert into sales values ('Claire', 'Butter', 17, 11, 2019, 'NJ', 833, '2019-11-17');
 insert into sales values ('Mia', 'Eggs', 23, 1, 2020, 'NJ', 757, '2020-01-23');
-insert into sales values ('Claire', 'Jellies', 23, 12, 2017, 'CT', 821, '2017-12-
-23');
+insert into sales values ('Claire', 'Jellies', 23, 12, 2017, 'CT', 821, '2017-12-23');
 insert into sales values ('Boo', 'Dates', 4, 3, 2018, 'CT', 808, '2018-03-04');
 insert into sales values ('Dan', 'Jellies', 20, 1, 2020, 'PA', 972, '2020-01-20');
 insert into sales values ('Sam', 'Grapes', 10, 7, 2018, 'PA', 518, '2018-07-10');
@@ -55,8 +48,7 @@ insert into sales values ('Emily', 'Ice', 9, 6, 2016, 'CT', 623, '2016-06-09');
 insert into sales values ('Sam', 'Ham', 21, 12, 2017, 'PA', 293, '2017-12-21');
 insert into sales values ('Emily', 'Ham', 9, 2, 2016, 'CT', 916, '2016-02-09');
 insert into sales values ('Dan', 'Ice', 5, 5, 2020, 'PA', 442, '2020-05-05');
-insert into sales values ('Claire', 'Cherry', 28, 8, 2017, 'NY', 961, '2017-08-
-28');
+insert into sales values ('Claire', 'Cherry', 28, 8, 2017, 'NY', 961, '2017-08-28');
 insert into sales values ('Chae', 'Butter', 21, 10, 2019, 'CT', 422, '2019-10-21');
 insert into sales values ('Boo', 'Ice', 30, 1, 2020, 'PA', 642, '2020-01-30');
 insert into sales values ('Boo', 'Dates', 16, 4, 2016, 'PA', 990, '2016-04-16');
@@ -84,8 +76,7 @@ insert into sales values ('Sam', 'Grapes', 13, 5, 2018, 'CT', 740, '2018-05-13')
 insert into sales values ('Emily', 'Ice', 10, 1, 2020, 'NY', 487, '2020-01-10');
 insert into sales values ('Wally', 'Cherry', 9, 12, 2018, 'NY', 837, '2018-12-09');
 insert into sales values ('Emily', 'Cherry', 26, 4, 2020, 'CT', 972, '2020-04-26');
-insert into sales values ('Claire', 'Cherry', 19, 3, 2017, 'CT', 467, '2017-03-
-19');
+insert into sales values ('Claire', 'Cherry', 19, 3, 2017, 'CT', 467, '2017-03-19');
 insert into sales values ('Dan', 'Fish', 13, 7, 2020, 'CT', 602, '2020-07-13');
 insert into sales values ('Helen', 'Ham', 14, 8, 2018, 'CT', 695, '2018-08-14');
 insert into sales values ('Helen', 'Dates', 23, 9, 2016, 'CT', 923, '2016-09-23');
@@ -100,14 +91,12 @@ insert into sales values ('Wally', 'Dates', 3, 3, 2016, 'NJ', 643, '2016-03-03')
 insert into sales values ('Chae', 'Fish', 9, 5, 2018, 'NJ', 598, '2018-05-09');
 insert into sales values ('Mia', 'Ham', 22, 7, 2019, 'NY', 462, '2019-07-22');
 insert into sales values ('Mia', 'Cherry', 31, 1, 2018, 'NY', 644, '2018-01-31');
-insert into sales values ('Claire', 'Cherry', 10, 4, 2016, 'CT', 266, '2016-04-
-10');
+insert into sales values ('Claire', 'Cherry', 10, 4, 2016, 'CT', 266, '2016-04-10');
 insert into sales values ('Sam', 'Ice', 10, 5, 2016, 'NY', 913, '2016-05-10');
 insert into sales values ('Chae', 'Apple', 5, 5, 2016, 'PA', 921, '2016-05-05');
 insert into sales values ('Sam', 'Eggs', 28, 10, 2016, 'CT', 912, '2016-10-28');
 insert into sales values ('Dan', 'Ham', 22, 6, 2016, 'NJ', 305, '2016-06-22');
-insert into sales values ('Helen', 'Jellies', 13, 2, 2017, 'CT', 663, '2017-02-
-13');
+insert into sales values ('Helen', 'Jellies', 13, 2, 2017, 'CT', 663, '2017-02-13');
 insert into sales values ('Wally', 'Apple', 22, 4, 2020, 'CT', 553, '2020-04-22');
 insert into sales values ('Claire', 'Cherry', 9, 7, 2019, 'CT', 707, '2019-07-09');
 insert into sales values ('Claire', 'Ham', 28, 4, 2019, 'NJ', 878, '2019-04-28');
@@ -145,13 +134,11 @@ insert into sales values ('Wally', 'Dates', 18, 12, 2018, 'PA', 290, '2018-12-18
 insert into sales values ('Mia', 'Dates', 19, 3, 2019, 'PA', 634, '2019-03-19');
 insert into sales values ('Dan', 'Cherry', 30, 6, 2019, 'PA', 487, '2019-06-30');
 insert into sales values ('Helen', 'Butter', 7, 1, 2017, 'CT', 18, '2017-01-07');
-insert into sales values ('Claire', 'Apple', 13, 11, 2020, 'CT', 240, '2020-11-
-13');
+insert into sales values ('Claire', 'Apple', 13, 11, 2020, 'CT', 240, '2020-11-13');
 insert into sales values ('Sam', 'Jellies', 1, 5, 2017, 'NY', 453, '2017-05-01');
 insert into sales values ('Boo', 'Apple', 12, 8, 2020, 'PA', 449, '2020-08-12');
 insert into sales values ('Chae', 'Eggs', 8, 3, 2020, 'NY', 372, '2020-03-08');
-insert into sales values ('Claire', 'Jellies', 29, 9, 2018, 'NJ', 777, '2018-09-
-29');
+insert into sales values ('Claire', 'Jellies', 29, 9, 2018, 'NJ', 777, '2018-09-29');
 insert into sales values ('Sam', 'Cherry', 28, 6, 2019, 'NY', 284, '2019-06-28');
 insert into sales values ('Dan', 'Ice', 3, 7, 2016, 'NJ', 365, '2016-07-03');
 insert into sales values ('Boo', 'Cherry', 8, 9, 2020, 'CT', 2, '2020-09-08');
@@ -189,8 +176,7 @@ insert into sales values ('Helen', 'Jellies', 2, 1, 2017, 'NY', 783, '2017-01-02
 insert into sales values ('Emily', 'Cherry', 25, 1, 2017, 'NJ', 560, '2017-01-25');
 insert into sales values ('Mia', 'Ice', 17, 9, 2019, 'PA', 642, '2019-09-17');
 insert into sales values ('Claire', 'Grapes', 3, 2, 2017, 'PA', 288, '2017-02-03');
-insert into sales values ('Claire', 'Apple', 17, 11, 2019, 'NJ', 314, '2019-11-
-17');
+insert into sales values ('Claire', 'Apple', 17, 11, 2019, 'NJ', 314, '2019-11-17');
 insert into sales values ('Emily', 'Eggs', 19, 2, 2016, 'PA', 233, '2016-02-19');
 insert into sales values ('Sam', 'Jellies', 8, 8, 2019, 'NY', 145, '2019-08-08');
 insert into sales values ('Wally', 'Grapes', 16, 3, 2019, 'CT', 157, '2019-03-16');
@@ -235,8 +221,7 @@ insert into sales values ('Sam', 'Cherry', 11, 3, 2018, 'PA', 800, '2018-03-11')
 insert into sales values ('Emily', 'Dates', 25, 3, 2020, 'NY', 187, '2020-03-25');
 insert into sales values ('Emily', 'Ham', 23, 2, 2018, 'NJ', 495, '2018-02-23');
 insert into sales values ('Boo', 'Grapes', 30, 4, 2019, 'CT', 998, '2019-04-30');
-insert into sales values ('Wally', 'Cherry', 23, 12, 2016, 'PA', 828, '2016-12-
-23');
+insert into sales values ('Wally', 'Cherry', 23, 12, 2016, 'PA', 828, '2016-12-23');
 insert into sales values ('Boo', 'Eggs', 9, 9, 2018, 'NJ', 609, '2018-09-09');
 insert into sales values ('Mia', 'Ham', 22, 6, 2017, 'NY', 894, '2017-06-22');
 insert into sales values ('Chae', 'Apple', 14, 6, 2019, 'NY', 900, '2019-06-14');
@@ -252,11 +237,9 @@ insert into sales values ('Claire', 'Dates', 7, 5, 2017, 'NJ', 779, '2017-05-07'
 insert into sales values ('Dan', 'Ham', 3, 2, 2019, 'PA', 515, '2019-02-03');
 insert into sales values ('Mia', 'Jellies', 4, 5, 2017, 'NY', 519, '2017-05-04');
 insert into sales values ('Mia', 'Jellies', 7, 12, 2019, 'PA', 371, '2019-12-07');
-insert into sales values ('Claire', 'Grapes', 29, 3, 2018, 'CT', 654, '2018-03-
-29');
+insert into sales values ('Claire', 'Grapes', 29, 3, 2018, 'CT', 654, '2018-03-29');
 insert into sales values ('Emily', 'Ham', 20, 6, 2019, 'CT', 339, '2019-06-20');
-insert into sales values ('Wally', 'Jellies', 18, 2, 2017, 'PA', 689, '2017-02-
-18');
+insert into sales values ('Wally', 'Jellies', 18, 2, 2017, 'PA', 689, '2017-02-18');
 insert into sales values ('Mia', 'Eggs', 30, 1, 2018, 'CT', 431, '2018-01-30');
 insert into sales values ('Wally', 'Apple', 30, 9, 2020, 'NY', 130, '2020-09-30');
 insert into sales values ('Chae', 'Dates', 9, 3, 2019, 'PA', 488, '2019-03-09');
@@ -275,13 +258,11 @@ insert into sales values ('Sam', 'Jellies', 24, 11, 2016, 'PA', 255, '2016-11-24
 insert into sales values ('Helen', 'Grapes', 9, 9, 2020, 'CT', 88, '2020-09-09');
 insert into sales values ('Chae', 'Butter', 22, 9, 2016, 'NJ', 474, '2016-09-22');
 insert into sales values ('Helen', 'Jellies', 9, 5, 2017, 'NY', 976, '2017-05-09');
-insert into sales values ('Emily', 'Jellies', 11, 11, 2018, 'PA', 592, '2018-11-
-11');
+insert into sales values ('Emily', 'Jellies', 11, 11, 2018, 'PA', 592, '2018-11-11');
 insert into sales values ('Mia', 'Dates', 2, 5, 2016, 'NJ', 510, '2016-05-02');
 insert into sales values ('Sam', 'Dates', 24, 12, 2018, 'CT', 532, '2018-12-24');
 insert into sales values ('Dan', 'Ice', 15, 8, 2016, 'NY', 340, '2016-08-15');
-insert into sales values ('Claire', 'Butter', 15, 2, 2016, 'CT', 338, '2016-02-
-15');
+insert into sales values ('Claire', 'Butter', 15, 2, 2016, 'CT', 338, '2016-02-15');
 insert into sales values ('Boo', 'Dates', 6, 3, 2016, 'PA', 962, '2016-03-06');
 insert into sales values ('Helen', 'Dates', 10, 2, 2020, 'CT', 12, '2020-02-10');
 insert into sales values ('Emily', 'Ice', 28, 4, 2018, 'NJ', 858, '2018-04-28');
@@ -313,8 +294,7 @@ insert into sales values ('Helen', 'Butter', 3, 8, 2019, 'NJ', 614, '2019-08-03'
 insert into sales values ('Dan', 'Jellies', 9, 6, 2017, 'NJ', 422, '2017-06-09');
 insert into sales values ('Dan', 'Grapes', 9, 11, 2017, 'CT', 557, '2017-11-09');
 insert into sales values ('Claire', 'Ham', 11, 5, 2019, 'NY', 349, '2019-05-11');
-insert into sales values ('Helen', 'Butter', 31, 10, 2017, 'NY', 832, '2017-10-
-31');
+insert into sales values ('Helen', 'Butter', 31, 10, 2017, 'NY', 832, '2017-10-31');
 insert into sales values ('Mia', 'Fish', 3, 12, 2016, 'CT', 258, '2016-12-03');
 insert into sales values ('Sam', 'Grapes', 10, 12, 2020, 'CT', 225, '2020-12-10');
 insert into sales values ('Chae', 'Fish', 24, 9, 2017, 'NJ', 184, '2017-09-24');
@@ -331,13 +311,11 @@ insert into sales values ('Boo', 'Cherry', 19, 3, 2018, 'NJ', 816, '2018-03-19')
 insert into sales values ('Sam', 'Fish', 20, 11, 2020, 'PA', 899, '2020-11-20');
 insert into sales values ('Dan', 'Apple', 28, 12, 2018, 'CT', 840, '2018-12-28');
 insert into sales values ('Helen', 'Dates', 6, 11, 2017, 'NY', 950, '2017-11-06');
-insert into sales values ('Emily', 'Butter', 11, 12, 2016, 'NY', 927, '2016-12-
-11');
+insert into sales values ('Emily', 'Butter', 11, 12, 2016, 'NY', 927, '2016-12-11');
 insert into sales values ('Claire', 'Fish', 12, 10, 2020, 'NJ', 913, '2020-10-12');
 insert into sales values ('Dan', 'Cherry', 2, 1, 2016, 'NJ', 271, '2016-01-02');
 insert into sales values ('Wally', 'Eggs', 18, 8, 2020, 'PA', 212, '2020-08-18');
-insert into sales values ('Chae', 'Jellies', 16, 10, 2018, 'NY', 330, '2018-10-
-16');
+insert into sales values ('Chae', 'Jellies', 16, 10, 2018, 'NY', 330, '2018-10-16');
 insert into sales values ('Mia', 'Jellies', 13, 1, 2020, 'NY', 903, '2020-01-13');
 insert into sales values ('Claire', 'Fish', 26, 5, 2018, 'NJ', 330, '2018-05-26');
 insert into sales values ('Dan', 'Dates', 14, 9, 2019, 'PA', 451, '2019-09-14');
@@ -357,17 +335,14 @@ insert into sales values ('Helen', 'Cherry', 3, 7, 2019, 'CT', 659, '2019-07-03'
 insert into sales values ('Boo', 'Dates', 19, 6, 2018, 'NJ', 631, '2018-06-19');
 insert into sales values ('Emily', 'Butter', 27, 1, 2018, 'NJ', 471, '2018-01-27');
 insert into sales values ('Helen', 'Ham', 24, 1, 2018, 'NY', 128, '2018-01-24');
-insert into sales values ('Helen', 'Jellies', 15, 8, 2017, 'PA', 943, '2017-08-
-15');
+insert into sales values ('Helen', 'Jellies', 15, 8, 2017, 'PA', 943, '2017-08-15');
 insert into sales values ('Helen', 'Ice', 5, 10, 2019, 'CT', 183, '2019-10-05');
 insert into sales values ('Mia', 'Fish', 16, 10, 2016, 'CT', 916, '2016-10-16');
 insert into sales values ('Chae', 'Ham', 8, 6, 2016, 'CT', 960, '2016-06-08');
-insert into sales values ('Helen', 'Jellies', 16, 12, 2019, 'CT', 77, '2019-12-
-16');
+insert into sales values ('Helen', 'Jellies', 16, 12, 2019, 'CT', 77, '2019-12-16');
 insert into sales values ('Boo', 'Butter', 23, 11, 2017, 'NJ', 959, '2017-11-23');
 insert into sales values ('Helen', 'Ham', 12, 3, 2017, 'CT', 487, '2017-03-12');
-insert into sales values ('Wally', 'Jellies', 3, 10, 2019, 'NY', 734, '2019-10-
-03');
+insert into sales values ('Wally', 'Jellies', 3, 10, 2019, 'NY', 734, '2019-10-03');
 insert into sales values ('Wally', 'Eggs', 27, 12, 2020, 'PA', 982, '2020-12-27');
 insert into sales values ('Sam', 'Apple', 21, 12, 2019, 'CT', 467, '2019-12-21');
 insert into sales values ('Sam', 'Cherry', 29, 11, 2019, 'PA', 514, '2019-11-29');
@@ -405,18 +380,15 @@ insert into sales values ('Mia', 'Butter', 24, 1, 2019, 'NY', 370, '2019-01-24')
 insert into sales values ('Wally', 'Jellies', 4, 4, 2020, 'CT', 803, '2020-04-04');
 insert into sales values ('Wally', 'Dates', 1, 10, 2018, 'NY', 617, '2018-10-01');
 insert into sales values ('Dan', 'Ham', 13, 7, 2020, 'PA', 389, '2020-07-13');
-insert into sales values ('Claire', 'Butter', 31, 7, 2016, 'PA', 992, '2016-07-
-31');
+insert into sales values ('Claire', 'Butter', 31, 7, 2016, 'PA', 992, '2016-07-31');
 insert into sales values ('Chae', 'Ham', 23, 11, 2017, 'NY', 521, '2017-11-23');
 insert into sales values ('Wally', 'Eggs', 21, 3, 2016, 'CT', 809, '2016-03-21');
-insert into sales values ('Helen', 'Grapes', 13, 10, 2016, 'CT', 841, '2016-10-
-13');
+insert into sales values ('Helen', 'Grapes', 13, 10, 2016, 'CT', 841, '2016-10-13');
 insert into sales values ('Helen', 'Apple', 30, 6, 2019, 'CT', 713, '2019-06-30');
 insert into sales values ('Emily', 'Butter', 12, 5, 2018, 'NJ', 259, '2018-05-12');
 insert into sales values ('Helen', 'Fish', 29, 11, 2016, 'NJ', 699, '2016-11-29');
 insert into sales values ('Chae', 'Dates', 9, 12, 2017, 'NY', 747, '2017-12-09');
-insert into sales values ('Claire', 'Grapes', 19, 5, 2017, 'NJ', 738, '2017-05-
-19');
+insert into sales values ('Claire', 'Grapes', 19, 5, 2017, 'NJ', 738, '2017-05-19');
 insert into sales values ('Claire', 'Ice', 5, 8, 2019, 'PA', 400, '2019-08-05');
 insert into sales values ('Chae', 'Eggs', 21, 5, 2018, 'NJ', 343, '2018-05-21');
 insert into sales values ('Dan', 'Eggs', 10, 9, 2020, 'NY', 792, '2020-09-10');
@@ -424,21 +396,16 @@ insert into sales values ('Boo', 'Ham', 24, 6, 2019, 'CT', 676, '2019-06-24');
 insert into sales values ('Mia', 'Ice', 20, 9, 2018, 'NJ', 684, '2018-09-20');
 insert into sales values ('Helen', 'Butter', 4, 4, 2018, 'CT', 952, '2018-04-04');
 insert into sales values ('Sam', 'Cherry', 17, 5, 2017, 'NJ', 201, '2017-05-17');
-insert into sales values ('Helen', 'Jellies', 30, 1, 2016, 'NY', 247, '2016-01-
-30');
-insert into sales values ('Helen', 'Grapes', 30, 12, 2019, 'NY', 422, '2019-12-
-30');
+insert into sales values ('Helen', 'Jellies', 30, 1, 2016, 'NY', 247, '2016-01-30');
+insert into sales values ('Helen', 'Grapes', 30, 12, 2019, 'NY', 422, '2019-12-30');
 insert into sales values ('Boo', 'Ham', 13, 1, 2020, 'NJ', 382, '2020-01-13');
 insert into sales values ('Chae', 'Apple', 25, 8, 2020, 'CT', 126, '2020-08-25');
 insert into sales values ('Mia', 'Jellies', 10, 9, 2018, 'PA', 969, '2018-09-10');
-insert into sales values ('Claire', 'Grapes', 6, 11, 2019, 'PA', 595, '2019-11-
-06');
+insert into sales values ('Claire', 'Grapes', 6, 11, 2019, 'PA', 595, '2019-11-06');
 insert into sales values ('Mia', 'Eggs', 10, 9, 2019, 'NY', 874, '2019-09-10');
 insert into sales values ('Dan', 'Grapes', 28, 8, 2017, 'NY', 621, '2017-08-28');
-insert into sales values ('Claire', 'Cherry', 14, 5, 2019, 'CT', 733, '2019-05-
-14');
-insert into sales values ('Claire', 'Grapes', 17, 4, 2017, 'PA', 521, '2017-04-
-17');
+insert into sales values ('Claire', 'Cherry', 14, 5, 2019, 'CT', 733, '2019-05-14');
+insert into sales values ('Claire', 'Grapes', 17, 4, 2017, 'PA', 521, '2017-04-17');
 insert into sales values ('Mia', 'Jellies', 15, 7, 2019, 'PA', 528, '2019-07-15');
 insert into sales values ('Boo', 'Ice', 27, 11, 2017, 'NJ', 744, '2017-11-27');
 insert into sales values ('Helen', 'Eggs', 3, 8, 2017, 'NY', 845, '2017-08-03');
@@ -447,8 +414,7 @@ insert into sales values ('Sam', 'Eggs', 21, 9, 2017, 'CT', 258, '2017-09-21');
 insert into sales values ('Chae', 'Cherry', 12, 10, 2018, 'PA', 655, '2018-10-12');
 insert into sales values ('Boo', 'Butter', 14, 1, 2017, 'PA', 983, '2017-01-14');
 insert into sales values ('Helen', 'Butter', 24, 6, 2016, 'CT', 418, '2016-06-24');
-insert into sales values ('Helen', 'Jellies', 20, 11, 2020, 'NY', 397, '2020-11-
-20');
+insert into sales values ('Helen', 'Jellies', 20, 11, 2020, 'NY', 397, '2020-11-20');
 insert into sales values ('Boo', 'Grapes', 20, 1, 2020, 'NY', 550, '2020-01-20');
 insert into sales values ('Boo', 'Eggs', 6, 7, 2020, 'NY', 307, '2020-07-06');
 insert into sales values ('Boo', 'Ice', 23, 5, 2017, 'NJ', 880, '2017-05-23');
@@ -471,19 +437,16 @@ insert into sales values ('Helen', 'Fish', 16, 6, 2020, 'CT', 731, '2020-06-16')
 insert into sales values ('Boo', 'Cherry', 6, 1, 2020, 'NY', 948, '2020-01-06');
 insert into sales values ('Boo', 'Ice', 22, 9, 2016, 'NJ', 950, '2016-09-22');
 insert into sales values ('Wally', 'Ice', 12, 12, 2018, 'NY', 591, '2018-12-12');
-insert into sales values ('Claire', 'Cherry', 12, 7, 2016, 'NY', 792, '2016-07-
-12');
+insert into sales values ('Claire', 'Cherry', 12, 7, 2016, 'NY', 792, '2016-07-12');
 insert into sales values ('Wally', 'Cherry', 29, 3, 2016, 'PA', 778, '2016-03-29');
 insert into sales values ('Wally', 'Ham', 11, 8, 2017, 'NJ', 668, '2017-08-11');
 insert into sales values ('Wally', 'Apple', 13, 9, 2016, 'NY', 446, '2016-09-13');
 insert into sales values ('Sam', 'Butter', 25, 10, 2020, 'NY', 404, '2020-10-25');
-insert into sales values ('Claire', 'Grapes', 16, 4, 2016, 'NJ', 162, '2016-04-
-16');
+insert into sales values ('Claire', 'Grapes', 16, 4, 2016, 'NJ', 162, '2016-04-16');
 insert into sales values ('Wally', 'Eggs', 4, 12, 2019, 'CT', 151, '2019-12-04');
 insert into sales values ('Helen', 'Grapes', 6, 11, 2019, 'NY', 677, '2019-11-06');
 insert into sales values ('Mia', 'Grapes', 10, 11, 2016, 'NY', 912, '2016-11-10');
-insert into sales values ('Emily', 'Butter', 31, 10, 2017, 'NY', 495, '2017-10-
-31');
+insert into sales values ('Emily', 'Butter', 31, 10, 2017, 'NY', 495, '2017-10-31');
 insert into sales values ('Boo', 'Jellies', 8, 6, 2019, 'NY', 699, '2019-06-08');
 insert into sales values ('Emily', 'Apple', 4, 10, 2016, 'PA', 81, '2016-10-04');
 insert into sales values ('Dan', 'Dates', 29, 3, 2017, 'NJ', 21, '2017-03-29');
@@ -495,26 +458,21 @@ insert into sales values ('Chae', 'Grapes', 27, 8, 2018, 'NY', 539, '2018-08-27'
 insert into sales values ('Dan', 'Fish', 27, 9, 2018, 'NJ', 929, '2018-09-27');
 insert into sales values ('Helen', 'Butter', 17, 7, 2018, 'NY', 291, '2018-07-17');
 insert into sales values ('Claire', 'Dates', 17, 4, 2017, 'NY', 967, '2017-04-17');
-insert into sales values ('Wally', 'Butter', 19, 11, 2017, 'PA', 480, '2017-11-
-19');
-insert into sales values ('Wally', 'Grapes', 13, 10, 2019, 'PA', 987, '2019-10-
-13');
-insert into sales values ('Claire', 'Grapes', 20, 11, 2018, 'PA', 326, '2018-11-
-20');
+insert into sales values ('Wally', 'Butter', 19, 11, 2017, 'PA', 480, '2017-11-19');
+insert into sales values ('Wally', 'Grapes', 13, 10, 2019, 'PA', 987, '2019-10-13');
+insert into sales values ('Claire', 'Grapes', 20, 11, 2018, 'PA', 326, '2018-11-20');
 insert into sales values ('Dan', 'Eggs', 7, 7, 2016, 'NJ', 744, '2016-07-07');
 insert into sales values ('Dan', 'Cherry', 3, 11, 2016, 'NJ', 510, '2016-11-03');
 insert into sales values ('Mia', 'Ham', 23, 6, 2020, 'NJ', 244, '2020-06-23');
 insert into sales values ('Dan', 'Dates', 11, 6, 2020, 'NJ', 462, '2020-06-11');
-insert into sales values ('Emily', 'Cherry', 13, 12, 2017, 'PA', 325, '2017-12-
-13');
+insert into sales values ('Emily', 'Cherry', 13, 12, 2017, 'PA', 325, '2017-12-13');
 insert into sales values ('Sam', 'Ice', 16, 10, 2016, 'NY', 72, '2016-10-16');
 insert into sales values ('Dan', 'Grapes', 1, 2, 2018, 'NY', 863, '2018-02-01');
 insert into sales values ('Dan', 'Ice', 16, 3, 2018, 'CT', 630, '2018-03-16');
 insert into sales values ('Boo', 'Cherry', 17, 3, 2018, 'CT', 382, '2018-03-17');
 insert into sales values ('Sam', 'Apple', 28, 8, 2020, 'CT', 348, '2020-08-28');
 insert into sales values ('Claire', 'Grapes', 7, 4, 2018, 'PA', 508, '2018-04-07');
-insert into sales values ('Claire', 'Cherry', 11, 8, 2016, 'CT', 947, '2016-08-
-11');
+insert into sales values ('Claire', 'Cherry', 11, 8, 2016, 'CT', 947, '2016-08-11');
 insert into sales values ('Chae', 'Dates', 29, 4, 2016, 'PA', 264, '2016-04-29');
 insert into sales values ('Boo', 'Ice', 30, 12, 2019, 'PA', 352, '2019-12-30');
 insert into sales values ('Sam', 'Eggs', 2, 9, 2016, 'NJ', 270, '2016-09-02');
@@ -522,17 +480,14 @@ insert into sales values ('Sam', 'Fish', 28, 9, 2020, 'NJ', 409, '2020-09-28');
 insert into sales values ('Dan', 'Eggs', 10, 1, 2016, 'CT', 335, '2016-01-10');
 insert into sales values ('Dan', 'Eggs', 30, 1, 2016, 'CT', 813, '2016-01-30');
 insert into sales values ('Claire', 'Butter', 2, 9, 2016, 'NY', 201, '2016-09-02');
-insert into sales values ('Emily', 'Cherry', 22, 12, 2017, 'CT', 627, '2017-12-
-22');
+insert into sales values ('Emily', 'Cherry', 22, 12, 2017, 'CT', 627, '2017-12-22');
 insert into sales values ('Boo', 'Eggs', 25, 10, 2016, 'NY', 676, '2016-10-25');
-insert into sales values ('Wally', 'Jellies', 8, 11, 2018, 'PA', 655, '2018-11-
-08');
+insert into sales values ('Wally', 'Jellies', 8, 11, 2018, 'PA', 655, '2018-11-08');
 insert into sales values ('Sam', 'Eggs', 8, 5, 2018, 'PA', 987, '2018-05-08');
 insert into sales values ('Emily', 'Fish', 17, 6, 2018, 'NY', 76, '2018-06-17');
 insert into sales values ('Boo', 'Butter', 5, 11, 2020, 'NY', 623, '2020-11-05');
 insert into sales values ('Mia', 'Ice', 11, 9, 2019, 'NY', 958, '2019-09-11');
-insert into sales values ('Claire', 'Cherry', 10, 9, 2017, 'NY', 781, '2017-09-
-10');
+insert into sales values ('Claire', 'Cherry', 10, 9, 2017, 'NY', 781, '2017-09-10');
 insert into sales values ('Chae', 'Fish', 5, 2, 2017, 'CT', 275, '2017-02-05');
 insert into sales values ('Helen', 'Butter', 8, 4, 2019, 'CT', 740, '2019-04-08');
 insert into sales values ('Sam', 'Grapes', 12, 2, 2017, 'NJ', 525, '2017-02-12');
@@ -549,21 +504,18 @@ insert into sales values ('Sam', 'Grapes', 17, 12, 2017, 'PA', 775, '2017-12-17'
 insert into sales values ('Claire', 'Apple', 15, 3, 2019, 'CT', 69, '2019-03-15');
 insert into sales values ('Chae', 'Butter', 31, 5, 2018, 'CT', 3, '2018-05-31');
 insert into sales values ('Boo', 'Cherry', 10, 6, 2018, 'PA', 492, '2018-06-10');
-insert into sales values ('Claire', 'Butter', 10, 7, 2017, 'CT', 747, '2017-07-
-10');
+insert into sales values ('Claire', 'Butter', 10, 7, 2017, 'CT', 747, '2017-07-10');
 insert into sales values ('Wally', 'Grapes', 11, 3, 2019, 'NY', 686, '2019-03-11');
 insert into sales values ('Mia', 'Apple', 27, 11, 2018, 'CT', 910, '2018-11-27');
 insert into sales values ('Helen', 'Eggs', 2, 11, 2019, 'PA', 7, '2019-11-02');
 insert into sales values ('Emily', 'Eggs', 9, 9, 2018, 'NJ', 688, '2018-09-09');
-insert into sales values ('Helen', 'Grapes', 14, 10, 2019, 'PA', 194, '2019-10-
-14');
+insert into sales values ('Helen', 'Grapes', 14, 10, 2019, 'PA', 194, '2019-10-14');
 insert into sales values ('Dan', 'Jellies', 2, 9, 2016, 'NY', 683, '2016-09-02');
 insert into sales values ('Claire', 'Apple', 3, 11, 2018, 'NJ', 190, '2018-11-03');
 insert into sales values ('Claire', 'Eggs', 13, 1, 2017, 'PA', 538, '2017-01-13');
 insert into sales values ('Emily', 'Dates', 9, 11, 2017, 'NY', 886, '2017-11-09');
 insert into sales values ('Boo', 'Dates', 7, 3, 2018, 'PA', 886, '2018-03-07');
-insert into sales values ('Claire', 'Grapes', 11, 3, 2016, 'NJ', 871, '2016-03-
-11');
+insert into sales values ('Claire', 'Grapes', 11, 3, 2016, 'NJ', 871, '2016-03-11');
 insert into sales values ('Chae', 'Jellies', 11, 1, 2016, 'NY', 440, '2016-01-11');
 insert into sales values ('Emily', 'Ham', 19, 1, 2019, 'NY', 253, '2019-01-19');
 insert into sales values ('Chae', 'Ice', 30, 11, 2017, 'NJ', 259, '2017-11-30');
@@ -581,10 +533,8 @@ insert into sales values ('Helen', 'Fish', 11, 10, 2019, 'CT', 977, '2019-10-11'
 insert into sales values ('Wally', 'Fish', 15, 5, 2019, 'PA', 750, '2019-05-15');
 insert into sales values ('Dan', 'Dates', 2, 3, 2017, 'PA', 66, '2017-03-02');
 insert into sales values ('Dan', 'Dates', 22, 8, 2016, 'NJ', 343, '2016-08-22');
-insert into sales values ('Claire', 'Cherry', 31, 7, 2017, 'NY', 175, '2017-07-
-31');
-insert into sales values ('Helen', 'Butter', 25, 10, 2017, 'NY', 443, '2017-10-
-25');
+insert into sales values ('Claire', 'Cherry', 31, 7, 2017, 'NY', 175, '2017-07-31');
+insert into sales values ('Helen', 'Butter', 25, 10, 2017, 'NY', 443, '2017-10-25');
 insert into sales values ('Mia', 'Eggs', 3, 12, 2016, 'CT', 25, '2016-12-03');
 insert into sales values ('Emily', 'Eggs', 9, 12, 2016, 'NJ', 333, '2016-12-09');
 insert into sales values ('Mia', 'Fish', 8, 9, 2017, 'PA', 918, '2017-09-08');
@@ -594,22 +544,19 @@ insert into sales values ('Boo', 'Dates', 24, 2, 2020, 'NY', 1000, '2020-02-24')
 insert into sales values ('Chae', 'Ice', 25, 6, 2017, 'NJ', 595, '2017-06-25');
 insert into sales values ('Boo', 'Eggs', 16, 1, 2017, 'CT', 600, '2017-01-16');
 insert into sales values ('Mia', 'Eggs', 26, 7, 2017, 'CT', 645, '2017-07-26');
-insert into sales values ('Claire', 'Grapes', 10, 1, 2018, 'NJ', 485, '2018-01-
-10');
+insert into sales values ('Claire', 'Grapes', 10, 1, 2018, 'NJ', 485, '2018-01-10');
 insert into sales values ('Chae', 'Dates', 20, 1, 2018, 'NJ', 575, '2018-01-20');
 insert into sales values ('Emily', 'Dates', 8, 11, 2019, 'NY', 992, '2019-11-08');
 insert into sales values ('Boo', 'Jellies', 28, 11, 2018, 'PA', 859, '2018-11-28');
 insert into sales values ('Emily', 'Butter', 2, 7, 2017, 'PA', 412, '2017-07-02');
 insert into sales values ('Emily', 'Ham', 3, 5, 2018, 'PA', 59, '2018-05-03');
-insert into sales values ('Emily', 'Jellies', 23, 4, 2018, 'NY', 386, '2018-04-
-23');
+insert into sales values ('Emily', 'Jellies', 23, 4, 2018, 'NY', 386, '2018-04-23');
 insert into sales values ('Dan', 'Dates', 5, 11, 2019, 'NJ', 113, '2019-11-05');
 insert into sales values ('Emily', 'Eggs', 3, 8, 2017, 'NY', 378, '2017-08-03');
 insert into sales values ('Helen', 'Grapes', 25, 6, 2016, 'NJ', 890, '2016-06-25');
 insert into sales values ('Sam', 'Ham', 12, 8, 2019, 'NJ', 343, '2019-08-12');
 insert into sales values ('Dan', 'Apple', 5, 8, 2019, 'CT', 845, '2019-08-05');
-insert into sales values ('Claire', 'Jellies', 1, 7, 2018, 'NJ', 797, '2018-07-
-01');
+insert into sales values ('Claire', 'Jellies', 1, 7, 2018, 'NJ', 797, '2018-07-01');
 insert into sales values ('Wally', 'Fish', 28, 2, 2020, 'CT', 741, '2020-02-28');
 insert into sales values ('Mia', 'Cherry', 4, 1, 2017, 'PA', 991, '2017-01-04');
 insert into sales values ('Boo', 'Jellies', 25, 12, 2016, 'NY', 662, '2016-12-25');
@@ -648,30 +595,25 @@ insert into sales values ('Sam', 'Ice', 10, 2, 2018, 'NJ', 913, '2018-02-10');
 insert into sales values ('Dan', 'Jellies', 2, 10, 2018, 'NY', 583, '2018-10-02');
 insert into sales values ('Dan', 'Dates', 25, 2, 2020, 'NJ', 937, '2020-02-25');
 insert into sales values ('Helen', 'Dates', 9, 12, 2018, 'NJ', 600, '2018-12-09');
-insert into sales values ('Helen', 'Jellies', 11, 7, 2019, 'PA', 390, '2019-07-
-11');
+insert into sales values ('Helen', 'Jellies', 11, 7, 2019, 'PA', 390, '2019-07-11');
 insert into sales values ('Sam', 'Apple', 10, 12, 2018, 'NJ', 909, '2018-12-10');
 insert into sales values ('Helen', 'Fish', 2, 12, 2016, 'NY', 943, '2016-12-02');
 insert into sales values ('Sam', 'Dates', 10, 2, 2018, 'CT', 537, '2018-02-10');
 insert into sales values ('Mia', 'Ice', 14, 9, 2018, 'NY', 968, '2018-09-14');
 insert into sales values ('Chae', 'Ice', 27, 3, 2017, 'NY', 980, '2017-03-27');
-insert into sales values ('Claire', 'Grapes', 11, 12, 2016, 'PA', 174, '2016-12-
-11');
+insert into sales values ('Claire', 'Grapes', 11, 12, 2016, 'PA', 174, '2016-12-11');
 insert into sales values ('Helen', 'Cherry', 31, 8, 2018, 'NJ', 387, '2018-08-31');
 insert into sales values ('Mia', 'Ice', 24, 12, 2018, 'PA', 797, '2018-12-24');
 insert into sales values ('Emily', 'Apple', 14, 6, 2020, 'PA', 248, '2020-06-14');
 insert into sales values ('Boo', 'Ham', 10, 10, 2017, 'CT', 43, '2017-10-10');
-insert into sales values ('Helen', 'Cherry', 28, 10, 2016, 'NJ', 298, '2016-10-
-28');
+insert into sales values ('Helen', 'Cherry', 28, 10, 2016, 'NJ', 298, '2016-10-28');
 insert into sales values ('Helen', 'Ham', 17, 10, 2019, 'CT', 221, '2019-10-17');
 insert into sales values ('Sam', 'Jellies', 10, 11, 2017, 'NJ', 949, '2017-11-10');
 insert into sales values ('Wally', 'Fish', 8, 12, 2018, 'PA', 812, '2018-12-08');
-insert into sales values ('Claire', 'Grapes', 10, 10, 2020, 'NJ', 815, '2020-10-
-10');
+insert into sales values ('Claire', 'Grapes', 10, 10, 2020, 'NJ', 815, '2020-10-10');
 insert into sales values ('Emily', 'Dates', 9, 8, 2018, 'NJ', 870, '2018-08-09');
 insert into sales values ('Wally', 'Ice', 15, 9, 2016, 'NY', 673, '2016-09-15');
-insert into sales values ('Emily', 'Jellies', 31, 1, 2016, 'CT', 131, '2016-01-
-31');
+insert into sales values ('Emily', 'Jellies', 31, 1, 2016, 'CT', 131, '2016-01-31');
 insert into sales values ('Dan', 'Ham', 6, 2, 2016, 'NJ', 356, '2016-02-06');
 insert into sales values ('Claire', 'Eggs', 30, 11, 2018, 'CT', 229, '2018-11-30');
 insert into sales values ('Wally', 'Grapes', 22, 8, 2016, 'NY', 26, '2016-08-22');
@@ -685,8 +627,7 @@ insert into sales values ('Emily', 'Eggs', 29, 1, 2019, 'CT', 626, '2019-01-29')
 insert into sales values ('Helen', 'Fish', 10, 1, 2016, 'NJ', 458, '2016-01-10');
 insert into sales values ('Sam', 'Ham', 10, 1, 2016, 'PA', 71, '2016-01-10');
 insert into sales values ('Wally', 'Butter', 21, 1, 2018, 'PA', 611, '2018-01-21');
-insert into sales values ('Claire', 'Grapes', 29, 6, 2017, 'CT', 932, '2017-06-
-29');
+insert into sales values ('Claire', 'Grapes', 29, 6, 2017, 'CT', 932, '2017-06-29');
 insert into sales values ('Boo', 'Eggs', 26, 4, 2019, 'NJ', 450, '2019-04-26');
 insert into sales values ('Dan', 'Butter', 1, 5, 2019, 'NJ', 757, '2019-05-01');
 insert into sales values ('Dan', 'Eggs', 27, 9, 2017, 'CT', 122, '2017-09-27');
@@ -701,8 +642,7 @@ insert into sales values ('Dan', 'Fish', 11, 5, 2019, 'NJ', 676, '2019-05-11');
 insert into sales values ('Helen', 'Ice', 11, 11, 2017, 'NY', 350, '2017-11-11');
 insert into sales values ('Mia', 'Apple', 14, 2, 2019, 'NY', 821, '2019-02-14');
 insert into sales values ('Helen', 'Apple', 19, 9, 2020, 'CT', 947, '2020-09-19');
-insert into sales values ('Claire', 'Grapes', 26, 8, 2019, 'NJ', 225, '2019-08-
-26');
+insert into sales values ('Claire', 'Grapes', 26, 8, 2019, 'NJ', 225, '2019-08-26');
 insert into sales values ('Chae', 'Fish', 13, 2, 2017, 'CT', 154, '2017-02-13');
 insert into sales values ('Emily', 'Ham', 4, 12, 2020, 'CT', 113, '2020-12-04');
 insert into sales values ('Dan', 'Cherry', 19, 6, 2017, 'PA', 834, '2017-06-19');
@@ -733,8 +673,7 @@ insert into sales values ('Chae', 'Ham', 22, 3, 2020, 'CT', 357, '2020-03-22');
 insert into sales values ('Sam', 'Ice', 21, 3, 2018, 'NJ', 576, '2018-03-21');
 insert into sales values ('Sam', 'Cherry', 11, 12, 2016, 'PA', 922, '2016-12-11');
 insert into sales values ('Chae', 'Butter', 4, 3, 2019, 'CT', 31, '2019-03-04');
-insert into sales values ('Claire', 'Grapes', 25, 3, 2016, 'NJ', 323, '2016-03-
-25');
+insert into sales values ('Claire', 'Grapes', 25, 3, 2016, 'NJ', 323, '2016-03-25');
 insert into sales values ('Emily', 'Dates', 8, 6, 2020, 'NJ', 246, '2020-06-08');
 insert into sales values ('Chae', 'Ham', 9, 9, 2019, 'NJ', 211, '2019-09-09');
 insert into sales values ('Boo', 'Ham', 22, 3, 2020, 'NY', 223, '2020-03-22');
@@ -744,8 +683,7 @@ insert into sales values ('Sam', 'Grapes', 11, 12, 2018, 'CT', 476, '2018-12-11'
 insert into sales values ('Dan', 'Grapes', 12, 12, 2017, 'CT', 72, '2017-12-12');
 insert into sales values ('Mia', 'Fish', 8, 5, 2018, 'PA', 80, '2018-05-08');
 insert into sales values ('Helen', 'Ham', 26, 10, 2020, 'CT', 616, '2020-10-26');
-insert into sales values ('Emily', 'Butter', 13, 12, 2018, 'PA', 983, '2018-12-
-13');
+insert into sales values ('Emily', 'Butter', 13, 12, 2018, 'PA', 983, '2018-12-13');
 insert into sales values ('Chae', 'Fish', 28, 12, 2019, 'CT', 593, '2019-12-28');
 insert into sales values ('Chae', 'Ham', 14, 1, 2016, 'NJ', 455, '2016-01-14');
 insert into sales values ('Claire', 'Fish', 8, 1, 2017, 'PA', 27, '2017-01-08');
@@ -756,8 +694,7 @@ insert into sales values ('Helen', 'Cherry', 9, 8, 2016, 'CT', 551, '2016-08-09'
 insert into sales values ('Boo', 'Grapes', 11, 12, 2018, 'PA', 953, '2018-12-11');
 insert into sales values ('Mia', 'Ham', 6, 9, 2019, 'NJ', 67, '2019-09-06');
 insert into sales values ('Dan', 'Dates', 6, 6, 2018, 'PA', 603, '2018-06-06');
-insert into sales values ('Helen', 'Jellies', 5, 10, 2017, 'NJ', 866, '2017-10-
-05');
+insert into sales values ('Helen', 'Jellies', 5, 10, 2017, 'NJ', 866, '2017-10-05');
 insert into sales values ('Mia', 'Jellies', 19, 11, 2018, 'NJ', 976, '2018-11-19');
 insert into sales values ('Dan', 'Ice', 26, 2, 2016, 'NY', 590, '2016-02-26');
 insert into sales values ('Chae', 'Ice', 1, 3, 2017, 'NY', 105, '2017-03-01');
@@ -785,8 +722,7 @@ insert into sales values ('Mia', 'Dates', 4, 12, 2020, 'NJ', 222, '2020-12-04');
 insert into sales values ('Helen', 'Fish', 24, 5, 2016, 'PA', 282, '2016-05-24');
 insert into sales values ('Emily', 'Ice', 14, 2, 2017, 'PA', 679, '2017-02-14');
 insert into sales values ('Emily', 'Jellies', 5, 2, 2019, 'NJ', 953, '2019-02-05');
-insert into sales values ('Claire', 'Butter', 17, 4, 2018, 'NJ', 853, '2018-04-
-17');
+insert into sales values ('Claire', 'Butter', 17, 4, 2018, 'NJ', 853, '2018-04-17');
 insert into sales values ('Boo', 'Apple', 20, 10, 2018, 'NY', 378, '2018-10-20');
 insert into sales values ('Claire', 'Dates', 8, 3, 2016, 'NY', 200, '2016-03-08');
 insert into sales values ('Sam', 'Cherry', 15, 7, 2016, 'NJ', 196, '2016-07-15');
@@ -797,8 +733,7 @@ insert into sales values ('Helen', 'Eggs', 15, 9, 2017, 'NY', 325, '2017-09-15')
 insert into sales values ('Chae', 'Apple', 14, 8, 2019, 'CT', 884, '2019-08-14');
 insert into sales values ('Sam', 'Fish', 19, 4, 2018, 'NY', 506, '2018-04-19');
 insert into sales values ('Sam', 'Ham', 27, 2, 2017, 'PA', 434, '2017-02-27');
-insert into sales values ('Claire', 'Butter', 11, 5, 2018, 'NY', 846, '2018-05-
-11');
+insert into sales values ('Claire', 'Butter', 11, 5, 2018, 'NY', 846, '2018-05-11');
 insert into sales values ('Helen', 'Ham', 5, 8, 2020, 'CT', 842, '2020-08-05');
 insert into sales values ('Chae', 'Fish', 19, 3, 2016, 'PA', 443, '2016-03-19');
 insert into sales values ('Chae', 'Grapes', 24, 8, 2017, 'CT', 711, '2017-08-24');
@@ -808,8 +743,7 @@ insert into sales values ('Emily', 'Grapes', 19, 1, 2020, 'CT', 478, '2020-01-19
 insert into sales values ('Dan', 'Ham', 9, 8, 2019, 'PA', 768, '2019-08-09');
 insert into sales values ('Claire', 'Eggs', 13, 8, 2018, 'NJ', 508, '2018-08-13');
 insert into sales values ('Claire', 'Eggs', 22, 3, 2016, 'PA', 390, '2016-03-22');
-insert into sales values ('Wally', 'Jellies', 27, 4, 2019, 'CT', 866, '2019-04-
-27');
+insert into sales values ('Wally', 'Jellies', 27, 4, 2019, 'CT', 866, '2019-04-27');
 insert into sales values ('Sam', 'Grapes', 15, 6, 2019, 'CT', 528, '2019-06-15');
 insert into sales values ('Dan', 'Ice', 23, 4, 2017, 'CT', 605, '2017-04-23');
 insert into sales values ('Claire', 'Ice', 13, 3, 2016, 'CT', 177, '2016-03-13');
@@ -819,8 +753,7 @@ insert into sales values ('Chae', 'Fish', 6, 5, 2019, 'PA', 193, '2019-05-06');
 insert into sales values ('Mia', 'Ham', 20, 1, 2018, 'PA', 120, '2018-01-20');
 insert into sales values ('Chae', 'Dates', 13, 10, 2019, 'NY', 76, '2019-10-13');
 insert into sales values ('Chae', 'Cherry', 4, 11, 2019, 'NY', 426, '2019-11-04');
-insert into sales values ('Emily', 'Jellies', 29, 3, 2018, 'PA', 237, '2018-03-
-29');
+insert into sales values ('Emily', 'Jellies', 29, 3, 2018, 'PA', 237, '2018-03-29');
 insert into sales values ('Claire', 'Ham', 2, 12, 2020, 'NJ', 82, '2020-12-02');
 insert into sales values ('Sam', 'Jellies', 27, 11, 2020, 'NY', 309, '2020-11-27');
 insert into sales values ('Emily', 'Ice', 6, 7, 2020, 'NJ', 570, '2020-07-06');
@@ -907,8 +840,7 @@ insert into sales values ('Mia', 'Fish', 16, 4, 2020, 'CT', 832, '2020-04-16');
 insert into sales values ('Chae', 'Ham', 16, 10, 2016, 'CT', 290, '2016-10-16');
 insert into sales values ('Dan', 'Apple', 15, 7, 2019, 'NY', 487, '2019-07-15');
 insert into sales values ('Sam', 'Eggs', 10, 2, 2018, 'CT', 802, '2018-02-10');
-insert into sales values ('Claire', 'Jellies', 17, 7, 2018, 'NY', 358, '2018-07-
-17');
+insert into sales values ('Claire', 'Jellies', 17, 7, 2018, 'NY', 358, '2018-07-17');
 insert into sales values ('Mia', 'Jellies', 15, 4, 2020, 'NY', 311, '2020-04-15');
 insert into sales values ('Boo', 'Eggs', 19, 9, 2016, 'NY', 52, '2016-09-19');
 insert into sales values ('Boo', 'Ham', 6, 7, 2019, 'PA', 183, '2019-07-06');
@@ -917,15 +849,12 @@ insert into sales values ('Emily', 'Apple', 17, 11, 2019, 'PA', 545, '2019-11-17
 insert into sales values ('Sam', 'Ham', 28, 10, 2016, 'NY', 767, '2016-10-28');
 insert into sales values ('Emily', 'Fish', 30, 11, 2017, 'PA', 115, '2017-11-30');
 insert into sales values ('Chae', 'Apple', 1, 2, 2016, 'NY', 68, '2016-02-01');
-insert into sales values ('Claire', 'Cherry', 26, 11, 2019, 'PA', 505, '2019-11-
-26');
+insert into sales values ('Claire', 'Cherry', 26, 11, 2019, 'PA', 505, '2019-11-26');
 insert into sales values ('Sam', 'Jellies', 25, 10, 2020, 'CT', 940, '2020-10-25');
 insert into sales values ('Wally', 'Cherry', 12, 2, 2017, 'CT', 168, '2017-02-12');
 insert into sales values ('Claire', 'Grapes', 3, 1, 2017, 'NJ', 161, '2017-01-03');
-insert into sales values ('Claire', 'Butter', 24, 6, 2020, 'PA', 392, '2020-06-
-24');
-insert into sales values ('Wally', 'Jellies', 10, 7, 2016, 'NJ', 947, '2016-07-
-10');
+insert into sales values ('Claire', 'Butter', 24, 6, 2020, 'PA', 392, '2020-06-24');
+insert into sales values ('Wally', 'Jellies', 10, 7, 2016, 'NJ', 947, '2016-07-10');
 insert into sales values ('Chae', 'Apple', 15, 5, 2020, 'PA', 47, '2020-05-15');
 insert into sales values ('Claire', 'Dates', 23, 1, 2020, 'NY', 880, '2020-01-23');
 insert into sales values ('Sam', 'Fish', 13, 2, 2019, 'CT', 716, '2019-02-13');
@@ -940,17 +869,14 @@ insert into sales values ('Mia', 'Eggs', 21, 6, 2016, 'CT', 8, '2016-06-21');
 insert into sales values ('Sam', 'Dates', 17, 2, 2020, 'CT', 581, '2020-02-17');
 insert into sales values ('Chae', 'Dates', 29, 4, 2017, 'NY', 972, '2017-04-29');
 insert into sales values ('Helen', 'Apple', 3, 2, 2016, 'NJ', 539, '2016-02-03');
-insert into sales values ('Emily', 'Cherry', 28, 12, 2018, 'PA', 965, '2018-12-
-28');
+insert into sales values ('Emily', 'Cherry', 28, 12, 2018, 'PA', 965, '2018-12-28');
 insert into sales values ('Dan', 'Ice', 20, 11, 2018, 'NJ', 382, '2018-11-20');
 insert into sales values ('Dan', 'Ice', 30, 8, 2016, 'NY', 671, '2016-08-30');
 insert into sales values ('Sam', 'Grapes', 11, 9, 2016, 'NJ', 993, '2016-09-11');
 insert into sales values ('Wally', 'Eggs', 3, 10, 2017, 'CT', 399, '2017-10-03');
 insert into sales values ('Mia', 'Butter', 20, 3, 2019, 'CT', 4, '2019-03-20');
-insert into sales values ('Emily', 'Jellies', 10, 11, 2020, 'PA', 825, '2020-11-
-10');
-insert into sales values ('Claire', 'Butter', 17, 12, 2017, 'NJ', 585, '2017-12-
-17');
+insert into sales values ('Emily', 'Jellies', 10, 11, 2020, 'PA', 825, '2020-11-10');
+insert into sales values ('Claire', 'Butter', 17, 12, 2017, 'NJ', 585, '2017-12-17');
 insert into sales values ('Wally', 'Eggs', 14, 3, 2018, 'NY', 322, '2018-03-14');
 insert into sales values ('Chae', 'Ice', 20, 4, 2018, 'PA', 528, '2018-04-20');
 insert into sales values ('Emily', 'Butter', 1, 9, 2018, 'PA', 917, '2018-09-01');
@@ -964,8 +890,7 @@ insert into sales values ('Helen', 'Grapes', 11, 4, 2019, 'NY', 418, '2019-04-11
 insert into sales values ('Dan', 'Butter', 3, 6, 2017, 'NJ', 862, '2017-06-03');
 insert into sales values ('Boo', 'Butter', 26, 7, 2017, 'NJ', 756, '2017-07-26');
 insert into sales values ('Dan', 'Ice', 27, 4, 2018, 'CT', 640, '2018-04-27');
-insert into sales values ('Helen', 'Jellies', 21, 9, 2018, 'PA', 349, '2018-09-
-21');
+insert into sales values ('Helen', 'Jellies', 21, 9, 2018, 'PA', 349, '2018-09-21');
 insert into sales values ('Claire', 'Fish', 24, 11, 2018, 'CT', 509, '2018-11-24');
 insert into sales values ('Chae', 'Eggs', 24, 6, 2018, 'NY', 811, '2018-06-24');
 insert into sales values ('Sam', 'Cherry', 17, 5, 2016, 'NJ', 404, '2016-05-17');
@@ -974,11 +899,9 @@ insert into sales values ('Claire', 'Ham', 20, 8, 2018, 'PA', 430, '2018-08-20')
 insert into sales values ('Helen', 'Fish', 2, 4, 2018, 'CT', 915, '2018-04-02');
 insert into sales values ('Emily', 'Fish', 1, 12, 2020, 'NJ', 987, '2020-12-01');
 insert into sales values ('Dan', 'Cherry', 23, 3, 2019, 'CT', 713, '2019-03-23');
-insert into sales values ('Claire', 'Jellies', 11, 6, 2016, 'CT', 748, '2016-06-
-11');
+insert into sales values ('Claire', 'Jellies', 11, 6, 2016, 'CT', 748, '2016-06-11');
 insert into sales values ('Mia', 'Dates', 2, 5, 2016, 'PA', 193, '2016-05-02');
-insert into sales values ('Helen', 'Butter', 21, 10, 2018, 'CT', 825, '2018-10-
-21');
+insert into sales values ('Helen', 'Butter', 21, 10, 2018, 'CT', 825, '2018-10-21');
 insert into sales values ('Chae', 'Ice', 28, 12, 2020, 'NJ', 472, '2020-12-28');
 insert into sales values ('Mia', 'Ham', 3, 1, 2020, 'PA', 646, '2020-01-03');
 insert into sales values ('Chae', 'Ham', 17, 6, 2016, 'NJ', 745, '2016-06-17');
@@ -998,8 +921,7 @@ insert into sales values ('Boo', 'Ice', 28, 1, 2020, 'PA', 195, '2020-01-28');
 insert into sales values ('Dan', 'Jellies', 22, 11, 2018, 'PA', 641, '2018-11-22');
 insert into sales values ('Wally', 'Eggs', 9, 8, 2017, 'CT', 54, '2017-08-09');
 insert into sales values ('Emily', 'Ham', 30, 8, 2018, 'NJ', 319, '2018-08-30');
-insert into sales values ('Emily', 'Jellies', 17, 4, 2017, 'NY', 826, '2017-04-
-17');
+insert into sales values ('Emily', 'Jellies', 17, 4, 2017, 'NY', 826, '2017-04-17');
 insert into sales values ('Dan', 'Fish', 29, 1, 2018, 'PA', 692, '2018-01-29');
 insert into sales values ('Mia', 'Ice', 17, 11, 2017, 'CT', 156, '2017-11-17');
 insert into sales values ('Mia', 'Eggs', 29, 4, 2016, 'NY', 702, '2016-04-29');
@@ -1064,8 +986,7 @@ insert into sales values ('Chae', 'Cherry', 18, 9, 2020, 'CT', 928, '2020-09-18'
 insert into sales values ('Mia', 'Grapes', 10, 5, 2017, 'NY', 139, '2017-05-10');
 insert into sales values ('Chae', 'Dates', 19, 12, 2018, 'NJ', 862, '2018-12-19');
 insert into sales values ('Helen', 'Ice', 6, 11, 2018, 'NY', 357, '2018-11-06');
-insert into sales values ('Emily', 'Butter', 11, 11, 2017, 'CT', 578, '2017-11-
-11');
+insert into sales values ('Emily', 'Butter', 11, 11, 2017, 'CT', 578, '2017-11-11');
 insert into sales values ('Emily', 'Grapes', 9, 11, 2017, 'NY', 950, '2017-11-09');
 insert into sales values ('Sam', 'Eggs', 26, 12, 2018, 'CT', 638, '2018-12-26');
 insert into sales values ('Chae', 'Eggs', 7, 1, 2016, 'CT', 181, '2016-01-07');
@@ -1073,8 +994,7 @@ insert into sales values ('Mia', 'Apple', 25, 12, 2017, 'PA', 152, '2017-12-25')
 insert into sales values ('Helen', 'Butter', 22, 8, 2019, 'NY', 444, '2019-08-22');
 insert into sales values ('Chae', 'Ham', 15, 4, 2017, 'NY', 466, '2017-04-15');
 insert into sales values ('Mia', 'Dates', 16, 9, 2018, 'PA', 919, '2018-09-16');
-insert into sales values ('Emily', 'Jellies', 19, 11, 2017, 'NJ', 117, '2017-11-
-19');
+insert into sales values ('Emily', 'Jellies', 19, 11, 2017, 'NJ', 117, '2017-11-19');
 insert into sales values ('Mia', 'Dates', 20, 9, 2020, 'NJ', 511, '2020-09-20');
 insert into sales values ('Emily', 'Apple', 8, 10, 2020, 'PA', 187, '2020-10-08');
 insert into sales values ('Claire', 'Dates', 14, 4, 2019, 'NY', 164, '2019-04-14');
@@ -1092,41 +1012,34 @@ insert into sales values ('Mia', 'Jellies', 29, 7, 2020, 'CT', 60, '2020-07-29')
 insert into sales values ('Emily', 'Dates', 8, 8, 2019, 'NJ', 863, '2019-08-08');
 insert into sales values ('Mia', 'Cherry', 26, 1, 2016, 'CT', 143, '2016-01-26');
 insert into sales values ('Emily', 'Eggs', 16, 7, 2018, 'NY', 572, '2018-07-16');
-insert into sales values ('Claire', 'Butter', 10, 2, 2019, 'PA', 534, '2019-02-
-10');
+insert into sales values ('Claire', 'Butter', 10, 2, 2019, 'PA', 534, '2019-02-10');
 insert into sales values ('Boo', 'Ham', 25, 2, 2018, 'PA', 23, '2018-02-25');
 insert into sales values ('Chae', 'Butter', 3, 11, 2020, 'NJ', 598, '2020-11-03');
 insert into sales values ('Chae', 'Dates', 16, 5, 2016, 'CT', 624, '2016-05-16');
 insert into sales values ('Sam', 'Butter', 18, 1, 2019, 'CT', 65, '2019-01-18');
 insert into sales values ('Sam', 'Eggs', 18, 7, 2018, 'NJ', 67, '2018-07-18');
 insert into sales values ('Mia', 'Fish', 13, 4, 2017, 'PA', 421, '2017-04-13');
-insert into sales values ('Claire', 'Jellies', 14, 12, 2017, 'CT', 138, '2017-12-
-14');
-insert into sales values ('Emily', 'Butter', 27, 12, 2020, 'PA', 340, '2020-12-
-27');
+insert into sales values ('Claire', 'Jellies', 14, 12, 2017, 'CT', 138, '2017-12-14');
+insert into sales values ('Emily', 'Butter', 27, 12, 2020, 'PA', 340, '2020-12-27');
 insert into sales values ('Mia', 'Butter', 25, 1, 2020, 'NJ', 340, '2020-01-25');
 insert into sales values ('Sam', 'Ice', 27, 1, 2019, 'NY', 700, '2019-01-27');
 insert into sales values ('Emily', 'Grapes', 31, 5, 2017, 'PA', 201, '2017-05-31');
 insert into sales values ('Emily', 'Cherry', 8, 6, 2017, 'NY', 378, '2017-06-08');
-insert into sales values ('Claire', 'Butter', 25, 3, 2019, 'PA', 305, '2019-03-
-25');
+insert into sales values ('Claire', 'Butter', 25, 3, 2019, 'PA', 305, '2019-03-25');
 insert into sales values ('Dan', 'Jellies', 30, 6, 2017, 'NY', 700, '2017-06-30');
 insert into sales values ('Sam', 'Ice', 19, 7, 2019, 'NY', 593, '2019-07-19');
 insert into sales values ('Mia', 'Butter', 10, 2, 2018, 'PA', 309, '2018-02-10');
 insert into sales values ('Helen', 'Cherry', 18, 3, 2019, 'NJ', 761, '2019-03-18');
 insert into sales values ('Emily', 'Apple', 3, 2, 2019, 'PA', 853, '2019-02-03');
-insert into sales values ('Claire', 'Grapes', 24, 11, 2017, 'NJ', 859, '2017-11-
-24');
+insert into sales values ('Claire', 'Grapes', 24, 11, 2017, 'NJ', 859, '2017-11-24');
 insert into sales values ('Wally', 'Apple', 28, 6, 2018, 'NJ', 173, '2018-06-28');
 insert into sales values ('Dan', 'Cherry', 27, 9, 2018, 'NY', 995, '2018-09-27');
 insert into sales values ('Helen', 'Apple', 15, 11, 2017, 'PA', 767, '2017-11-15');
 insert into sales values ('Sam', 'Fish', 29, 1, 2019, 'CT', 896, '2019-01-29');
 insert into sales values ('Wally', 'Eggs', 9, 6, 2020, 'CT', 286, '2020-06-09');
-insert into sales values ('Wally', 'Butter', 12, 11, 2016, 'NY', 470, '2016-11-
-12');
+insert into sales values ('Wally', 'Butter', 12, 11, 2016, 'NY', 470, '2016-11-12');
 insert into sales values ('Wally', 'Ice', 21, 2, 2020, 'NJ', 421, '2020-02-21');
-insert into sales values ('Helen', 'Cherry', 30, 10, 2016, 'PA', 795, '2016-10-
-30');
+insert into sales values ('Helen', 'Cherry', 30, 10, 2016, 'PA', 795, '2016-10-30');
 insert into sales values ('Helen', 'Cherry', 26, 3, 2016, 'CT', 143, '2016-03-26');
 insert into sales values ('Dan', 'Cherry', 8, 8, 2019, 'CT', 170, '2019-08-08');
 insert into sales values ('Claire', 'Ice', 15, 10, 2018, 'NJ', 32, '2018-10-15');
@@ -1138,18 +1051,14 @@ insert into sales values ('Boo', 'Cherry', 27, 2, 2017, 'CT', 263, '2017-02-27')
 insert into sales values ('Wally', 'Butter', 2, 6, 2020, 'NJ', 399, '2020-06-02');
 insert into sales values ('Dan', 'Grapes', 23, 9, 2019, 'NY', 489, '2019-09-23');
 insert into sales values ('Mia', 'Ham', 3, 4, 2019, 'NY', 461, '2019-04-03');
-insert into sales values ('Emily', 'Cherry', 16, 10, 2020, 'NY', 724, '2020-10-
-16');
-insert into sales values ('Claire', 'Grapes', 20, 4, 2019, 'PA', 740, '2019-04-
-20');
-insert into sales values ('Claire', 'Jellies', 20, 1, 2019, 'NY', 459, '2019-01-
-20');
+insert into sales values ('Emily', 'Cherry', 16, 10, 2020, 'NY', 724, '2020-10-16');
+insert into sales values ('Claire', 'Grapes', 20, 4, 2019, 'PA', 740, '2019-04-20');
+insert into sales values ('Claire', 'Jellies', 20, 1, 2019, 'NY', 459, '2019-01-20');
 insert into sales values ('Helen', 'Butter', 11, 4, 2019, 'PA', 515, '2019-04-11');
 insert into sales values ('Claire', 'Ice', 9, 12, 2019, 'CT', 476, '2019-12-09');
 insert into sales values ('Boo', 'Grapes', 23, 7, 2016, 'PA', 737, '2016-07-23');
 insert into sales values ('Helen', 'Cherry', 1, 2, 2018, 'PA', 613, '2018-02-01');
-insert into sales values ('Emily', 'Jellies', 10, 12, 2019, 'NY', 41, '2019-12-
-10');
+insert into sales values ('Emily', 'Jellies', 10, 12, 2019, 'NY', 41, '2019-12-10');
 insert into sales values ('Emily', 'Fish', 28, 9, 2020, 'CT', 559, '2020-09-28');
 insert into sales values ('Dan', 'Grapes', 27, 12, 2016, 'CT', 188, '2016-12-27');
 insert into sales values ('Boo', 'Jellies', 4, 7, 2017, 'CT', 40, '2017-07-04');
@@ -1158,31 +1067,25 @@ insert into sales values ('Wally', 'Butter', 22, 3, 2019, 'CT', 39, '2019-03-22'
 insert into sales values ('Chae', 'Apple', 13, 3, 2017, 'NJ', 787, '2017-03-13');
 insert into sales values ('Helen', 'Ice', 22, 7, 2020, 'NY', 694, '2020-07-22');
 insert into sales values ('Mia', 'Dates', 21, 2, 2019, 'CT', 886, '2019-02-21');
-insert into sales values ('Wally', 'Jellies', 11, 1, 2019, 'NY', 328, '2019-01-
-11');
+insert into sales values ('Wally', 'Jellies', 11, 1, 2019, 'NY', 328, '2019-01-11');
 insert into sales values ('Claire', 'Eggs', 8, 9, 2018, 'PA', 503, '2018-09-08');
 insert into sales values ('Emily', 'Cherry', 17, 3, 2016, 'NJ', 631, '2016-03-17');
-insert into sales values ('Claire', 'Grapes', 23, 11, 2018, 'PA', 807, '2018-11-
-23');
+insert into sales values ('Claire', 'Grapes', 23, 11, 2018, 'PA', 807, '2018-11-23');
 insert into sales values ('Claire', 'Dates', 15, 9, 2018, 'PA', 83, '2018-09-15');
 insert into sales values ('Boo', 'Eggs', 23, 1, 2017, 'NJ', 861, '2017-01-23');
 insert into sales values ('Chae', 'Eggs', 23, 4, 2017, 'NJ', 848, '2017-04-23');
 insert into sales values ('Mia', 'Jellies', 27, 8, 2016, 'NJ', 832, '2016-08-27');
-insert into sales values ('Claire', 'Butter', 9, 12, 2020, 'CT', 874, '2020-12-
-09');
+insert into sales values ('Claire', 'Butter', 9, 12, 2020, 'CT', 874, '2020-12-09');
 insert into sales values ('Mia', 'Cherry', 23, 1, 2020, 'NJ', 325, '2020-01-23');
-insert into sales values ('Helen', 'Jellies', 13, 4, 2016, 'PA', 463, '2016-04-
-13');
+insert into sales values ('Helen', 'Jellies', 13, 4, 2016, 'PA', 463, '2016-04-13');
 insert into sales values ('Mia', 'Dates', 19, 5, 2018, 'NJ', 316, '2018-05-19');
 insert into sales values ('Wally', 'Ham', 9, 9, 2018, 'NY', 781, '2018-09-09');
-insert into sales values ('Helen', 'Cherry', 12, 10, 2020, 'PA', 229, '2020-10-
-12');
+insert into sales values ('Helen', 'Cherry', 12, 10, 2020, 'PA', 229, '2020-10-12');
 insert into sales values ('Wally', 'Ham', 19, 1, 2016, 'NJ', 719, '2016-01-19');
 insert into sales values ('Emily', 'Ice', 20, 11, 2017, 'CT', 72, '2017-11-20');
 insert into sales values ('Helen', 'Grapes', 6, 1, 2020, 'NJ', 597, '2020-01-06');
 insert into sales values ('Boo', 'Fish', 30, 11, 2020, 'PA', 906, '2020-11-30');
-insert into sales values ('Claire', 'Jellies', 30, 4, 2020, 'CT', 22, '2020-04-
-30');
+insert into sales values ('Claire', 'Jellies', 30, 4, 2020, 'CT', 22, '2020-04-30');
 insert into sales values ('Helen', 'Cherry', 10, 4, 2018, 'CT', 593, '2018-04-10');
 insert into sales values ('Mia', 'Grapes', 22, 2, 2020, 'PA', 44, '2020-02-22');
 insert into sales values ('Boo', 'Grapes', 21, 11, 2018, 'NY', 72, '2018-11-21');
@@ -1212,8 +1115,7 @@ insert into sales values ('Mia', 'Ham', 12, 5, 2019, 'CT', 39, '2019-05-12');
 insert into sales values ('Mia', 'Jellies', 21, 8, 2019, 'CT', 841, '2019-08-21');
 insert into sales values ('Boo', 'Jellies', 21, 8, 2016, 'NY', 254, '2016-08-21');
 insert into sales values ('Wally', 'Jellies', 7, 7, 2020, 'PA', 750, '2020-07-07');
-insert into sales values ('Claire', 'Grapes', 18, 10, 2017, 'CT', 640, '2017-10-
-18');
+insert into sales values ('Claire', 'Grapes', 18, 10, 2017, 'CT', 640, '2017-10-18');
 insert into sales values ('Dan', 'Fish', 12, 1, 2020, 'NJ', 421, '2020-01-12');
 insert into sales values ('Wally', 'Ham', 3, 4, 2016, 'PA', 527, '2016-04-03');
 insert into sales values ('Emily', 'Jellies', 6, 8, 2018, 'NJ', 101, '2018-08-06');
@@ -1229,32 +1131,27 @@ insert into sales values ('Dan', 'Fish', 10, 5, 2018, 'NJ', 440, '2018-05-10');
 insert into sales values ('Claire', 'Dates', 2, 8, 2020, 'NJ', 147, '2020-08-02');
 insert into sales values ('Wally', 'Eggs', 29, 12, 2018, 'CT', 289, '2018-12-29');
 insert into sales values ('Wally', 'Ham', 30, 11, 2019, 'PA', 446, '2019-11-30');
-insert into sales values ('Helen', 'Jellies', 30, 10, 2018, 'CT', 717, '2018-10-
-30');
+insert into sales values ('Helen', 'Jellies', 30, 10, 2018, 'CT', 717, '2018-10-30');
 insert into sales values ('Mia', 'Butter', 29, 5, 2017, 'NY', 20, '2017-05-29');
 insert into sales values ('Dan', 'Butter', 23, 10, 2020, 'CT', 233, '2020-10-23');
 insert into sales values ('Emily', 'Cherry', 19, 3, 2020, 'PA', 736, '2020-03-19');
-insert into sales values ('Claire', 'Dates', 18, 12, 2018, 'NJ', 136, '2018-12-
-18');
+insert into sales values ('Claire', 'Dates', 18, 12, 2018, 'NJ', 136, '2018-12-18');
 insert into sales values ('Dan', 'Eggs', 2, 10, 2016, 'CT', 807, '2016-10-02');
 insert into sales values ('Wally', 'Cherry', 29, 7, 2019, 'NY', 263, '2019-07-29');
 insert into sales values ('Sam', 'Dates', 6, 10, 2019, 'NY', 628, '2019-10-06');
 insert into sales values ('Chae', 'Grapes', 9, 8, 2016, 'CT', 371, '2016-08-09');
 insert into sales values ('Sam', 'Jellies', 4, 2, 2016, 'PA', 475, '2016-02-04');
 insert into sales values ('Sam', 'Apple', 6, 8, 2016, 'NJ', 564, '2016-08-06');
-insert into sales values ('Claire', 'Apple', 17, 12, 2016, 'NY', 615, '2016-12-
-17');
+insert into sales values ('Claire', 'Apple', 17, 12, 2016, 'NY', 615, '2016-12-17');
 insert into sales values ('Boo', 'Cherry', 23, 12, 2016, 'NJ', 968, '2016-12-23');
 insert into sales values ('Claire', 'Ham', 27, 1, 2016, 'CT', 680, '2016-01-27');
 insert into sales values ('Sam', 'Dates', 3, 12, 2018, 'NY', 399, '2018-12-03');
 insert into sales values ('Wally', 'Fish', 21, 3, 2019, 'PA', 727, '2019-03-21');
-insert into sales values ('Claire', 'Dates', 16, 12, 2018, 'NY', 295, '2018-12-
-16');
+insert into sales values ('Claire', 'Dates', 16, 12, 2018, 'NY', 295, '2018-12-16');
 insert into sales values ('Chae', 'Dates', 19, 11, 2019, 'PA', 969, '2019-11-19');
 insert into sales values ('Boo', 'Eggs', 8, 7, 2017, 'NY', 990, '2017-07-08');
 insert into sales values ('Chae', 'Butter', 8, 12, 2019, 'NJ', 400, '2019-12-08');
-insert into sales values ('Emily', 'Butter', 24, 12, 2018, 'CT', 921, '2018-12-
-24');
+insert into sales values ('Emily', 'Butter', 24, 12, 2018, 'CT', 921, '2018-12-24');
 insert into sales values ('Helen', 'Ham', 28, 7, 2020, 'CT', 410, '2020-07-28');
 insert into sales values ('Mia', 'Eggs', 15, 6, 2016, 'CT', 931, '2016-06-15');
 insert into sales values ('Wally', 'Fish', 19, 12, 2016, 'CT', 19, '2016-12-19');
@@ -1283,8 +1180,7 @@ insert into sales values ('Mia', 'Fish', 2, 11, 2016, 'PA', 190, '2016-11-02');
 insert into sales values ('Wally', 'Eggs', 14, 1, 2020, 'PA', 951, '2020-01-14');
 insert into sales values ('Mia', 'Eggs', 17, 8, 2016, 'PA', 953, '2016-08-17');
 insert into sales values ('Emily', 'Dates', 6, 5, 2018, 'NY', 753, '2018-05-06');
-insert into sales values ('Claire', 'Grapes', 18, 3, 2018, 'CT', 224, '2018-03-
-18');
+insert into sales values ('Claire', 'Grapes', 18, 3, 2018, 'CT', 224, '2018-03-18');
 insert into sales values ('Sam', 'Fish', 30, 6, 2019, 'CT', 754, '2019-06-30');
 insert into sales values ('Claire', 'Eggs', 24, 5, 2016, 'NY', 66, '2016-05-24');
 insert into sales values ('Dan', 'Ice', 3, 10, 2016, 'NJ', 441, '2016-10-03');
@@ -1293,21 +1189,18 @@ insert into sales values ('Mia', 'Apple', 11, 8, 2017, 'CT', 346, '2017-08-11');
 insert into sales values ('Wally', 'Grapes', 1, 11, 2018, 'PA', 371, '2018-11-01');
 insert into sales values ('Mia', 'Apple', 2, 1, 2017, 'CT', 908, '2017-01-02');
 insert into sales values ('Emily', 'Fish', 31, 1, 2016, 'CT', 932, '2016-01-31');
-insert into sales values ('Claire', 'Jellies', 28, 11, 2020, 'CT', 877, '2020-11-
-28');
+insert into sales values ('Claire', 'Jellies', 28, 11, 2020, 'CT', 877, '2020-11-28');
 insert into sales values ('Mia', 'Butter', 19, 5, 2020, 'CT', 400, '2020-05-19');
 insert into sales values ('Helen', 'Butter', 5, 3, 2019, 'PA', 557, '2019-03-05');
 insert into sales values ('Dan', 'Eggs', 26, 10, 2016, 'PA', 756, '2016-10-26');
 insert into sales values ('Wally', 'Fish', 10, 3, 2017, 'PA', 641, '2017-03-10');
 insert into sales values ('Mia', 'Dates', 25, 12, 2016, 'CT', 597, '2016-12-25');
-insert into sales values ('Claire', 'Grapes', 24, 6, 2018, 'CT', 443, '2018-06-
-24');
+insert into sales values ('Claire', 'Grapes', 24, 6, 2018, 'CT', 443, '2018-06-24');
 insert into sales values ('Mia', 'Ham', 23, 7, 2016, 'PA', 405, '2016-07-23');
 insert into sales values ('Dan', 'Ham', 27, 8, 2020, 'NJ', 532, '2020-08-27');
 insert into sales values ('Wally', 'Fish', 18, 1, 2018, 'NY', 550, '2018-01-18');
 insert into sales values ('Mia', 'Eggs', 23, 8, 2016, 'NJ', 866, '2016-08-23');
-insert into sales values ('Emily', 'Jellies', 15, 6, 2016, 'NJ', 794, '2016-06-
-15');
+insert into sales values ('Emily', 'Jellies', 15, 6, 2016, 'NJ', 794, '2016-06-15');
 insert into sales values ('Emily', 'Grapes', 10, 9, 2019, 'PA', 483, '2019-09-10');
 insert into sales values ('Claire', 'Eggs', 16, 1, 2017, 'NY', 199, '2017-01-16');
 insert into sales values ('Chae', 'Apple', 10, 7, 2018, 'PA', 180, '2018-07-10');
@@ -1322,8 +1215,7 @@ insert into sales values ('Sam', 'Ice', 24, 11, 2016, 'CT', 186, '2016-11-24');
 insert into sales values ('Wally', 'Fish', 18, 3, 2016, 'PA', 402, '2016-03-18');
 insert into sales values ('Helen', 'Butter', 18, 6, 2019, 'CT', 67, '2019-06-18');
 insert into sales values ('Emily', 'Fish', 6, 11, 2020, 'CT', 490, '2020-11-06');
-insert into sales values ('Helen', 'Jellies', 22, 2, 2016, 'PA', 236, '2016-02-
-22');
+insert into sales values ('Helen', 'Jellies', 22, 2, 2016, 'PA', 236, '2016-02-22');
 insert into sales values ('Boo', 'Eggs', 20, 3, 2018, 'PA', 378, '2018-03-20');
 insert into sales values ('Dan', 'Ice', 28, 7, 2019, 'NY', 623, '2019-07-28');
 insert into sales values ('Sam', 'Ham', 1, 5, 2018, 'PA', 731, '2018-05-01');
@@ -1336,8 +1228,7 @@ insert into sales values ('Chae', 'Butter', 25, 9, 2020, 'PA', 811, '2020-09-25'
 insert into sales values ('Sam', 'Ice', 4, 2, 2017, 'NJ', 802, '2017-02-04');
 insert into sales values ('Wally', 'Dates', 21, 9, 2017, 'NY', 535, '2017-09-21');
 insert into sales values ('Claire', 'Fish', 20, 6, 2018, 'NY', 612, '2018-06-20');
-insert into sales values ('Wally', 'Grapes', 16, 12, 2020, 'CT', 164, '2020-12-
-16');
+insert into sales values ('Wally', 'Grapes', 16, 12, 2020, 'CT', 164, '2020-12-16');
 insert into sales values ('Mia', 'Butter', 1, 5, 2017, 'PA', 457, '2017-05-01');
 insert into sales values ('Wally', 'Fish', 29, 4, 2019, 'CT', 329, '2019-04-29');
 insert into sales values ('Sam', 'Ice', 8, 4, 2019, 'PA', 788, '2019-04-08');
@@ -1361,8 +1252,7 @@ insert into sales values ('Emily', 'Ham', 23, 11, 2017, 'NJ', 500, '2017-11-23')
 insert into sales values ('Helen', 'Jellies', 24, 8, 2020, 'PA', 79, '2020-08-24');
 insert into sales values ('Sam', 'Jellies', 2, 5, 2019, 'NY', 478, '2019-05-02');
 insert into sales values ('Sam', 'Ham', 9, 11, 2016, 'CT', 248, '2016-11-09');
-insert into sales values ('Emily', 'Jellies', 21, 7, 2019, 'PA', 576, '2019-07-
-21');
+insert into sales values ('Emily', 'Jellies', 21, 7, 2019, 'PA', 576, '2019-07-21');
 insert into sales values ('Boo', 'Ham', 25, 10, 2020, 'NY', 328, '2020-10-25');
 insert into sales values ('Mia', 'Butter', 5, 8, 2016, 'CT', 156, '2016-08-05');
 insert into sales values ('Helen', 'Fish', 31, 5, 2016, 'NY', 228, '2016-05-31');
@@ -1379,8 +1269,7 @@ insert into sales values ('Helen', 'Eggs', 19, 9, 2020, 'NJ', 103, '2020-09-19')
 insert into sales values ('Mia', 'Ham', 6, 12, 2017, 'CT', 600, '2017-12-06');
 insert into sales values ('Chae', 'Butter', 18, 11, 2018, 'CT', 124, '2018-11-18');
 insert into sales values ('Wally', 'Cherry', 6, 6, 2019, 'CT', 481, '2019-06-06');
-insert into sales values ('Claire', 'Apple', 22, 12, 2019, 'CT', 734, '2019-12-
-22');
+insert into sales values ('Claire', 'Apple', 22, 12, 2019, 'CT', 734, '2019-12-22');
 insert into sales values ('Boo', 'Eggs', 4, 5, 2018, 'PA', 962, '2018-05-04');
 insert into sales values ('Sam', 'Apple', 1, 5, 2019, 'PA', 475, '2019-05-01');
 insert into sales values ('Wally', 'Ice', 24, 10, 2019, 'NJ', 778, '2019-10-24');
@@ -1388,8 +1277,7 @@ insert into sales values ('Emily', 'Dates', 22, 9, 2017, 'NY', 233, '2017-09-22'
 insert into sales values ('Mia', 'Eggs', 7, 2, 2020, 'CT', 413, '2020-02-07');
 insert into sales values ('Mia', 'Butter', 20, 12, 2016, 'NY', 751, '2016-12-20');
 insert into sales values ('Wally', 'Apple', 6, 11, 2018, 'CT', 358, '2018-11-06');
-insert into sales values ('Helen', 'Jellies', 29, 8, 2017, 'CT', 799, '2017-08-
-29');
+insert into sales values ('Helen', 'Jellies', 29, 8, 2017, 'CT', 799, '2017-08-29');
 insert into sales values ('Sam', 'Grapes', 3, 11, 2018, 'NY', 182, '2018-11-03');
 insert into sales values ('Dan', 'Ham', 24, 7, 2018, 'CT', 862, '2018-07-24');
 insert into sales values ('Emily', 'Apple', 12, 12, 2018, 'CT', 631, '2018-12-12');
@@ -1401,8 +1289,7 @@ insert into sales values ('Claire', 'Ice', 15, 5, 2017, 'PA', 163, '2017-05-15')
 insert into sales values ('Helen', 'Butter', 9, 12, 2020, 'NJ', 589, '2020-12-09');
 insert into sales values ('Wally', 'Ham', 24, 9, 2018, 'NJ', 49, '2018-09-24');
 insert into sales values ('Boo', 'Jellies', 28, 9, 2016, 'CT', 35, '2016-09-28');
-insert into sales values ('Helen', 'Jellies', 29, 8, 2019, 'NJ', 322, '2019-08-
-29');
+insert into sales values ('Helen', 'Jellies', 29, 8, 2019, 'NJ', 322, '2019-08-29');
 insert into sales values ('Emily', 'Ham', 18, 6, 2020, 'NY', 434, '2020-06-18');
 insert into sales values ('Wally', 'Ham', 16, 10, 2019, 'PA', 590, '2019-10-16');
 insert into sales values ('Helen', 'Dates', 17, 10, 2020, 'NJ', 493, '2020-10-17');
@@ -1415,8 +1302,7 @@ insert into sales values ('Mia', 'Jellies', 17, 7, 2017, 'NY', 401, '2017-07-17'
 insert into sales values ('Mia', 'Dates', 23, 1, 2016, 'CT', 532, '2016-01-23');
 insert into sales values ('Sam', 'Jellies', 30, 6, 2018, 'CT', 677, '2018-06-30');
 insert into sales values ('Claire', 'Jellies', 4, 2, 2017, 'NJ', 53, '2017-02-04');
-insert into sales values ('Claire', 'Jellies', 3, 5, 2017, 'NJ', 145, '2017-05-
-03');
+insert into sales values ('Claire', 'Jellies', 3, 5, 2017, 'NJ', 145, '2017-05-03');
 insert into sales values ('Boo', 'Ham', 2, 9, 2019, 'PA', 473, '2019-09-02');
 insert into sales values ('Emily', 'Fish', 7, 8, 2016, 'NJ', 3, '2016-08-07');
 insert into sales values ('Emily', 'Butter', 30, 5, 2020, 'NY', 553, '2020-05-30');
@@ -1429,8 +1315,7 @@ insert into sales values ('Wally', 'Ice', 16, 8, 2019, 'NJ', 353, '2019-08-16');
 insert into sales values ('Claire', 'Apple', 4, 1, 2020, 'NY', 697, '2020-01-04');
 insert into sales values ('Dan', 'Grapes', 19, 2, 2016, 'CT', 36, '2016-02-19');
 insert into sales values ('Mia', 'Butter', 16, 7, 2018, 'NJ', 890, '2018-07-16');
-insert into sales values ('Wally', 'Butter', 10, 12, 2017, 'NJ', 581, '2017-12-
-10');
+insert into sales values ('Wally', 'Butter', 10, 12, 2017, 'NJ', 581, '2017-12-10');
 insert into sales values ('Dan', 'Ice', 14, 9, 2017, 'NJ', 600, '2017-09-14');
 insert into sales values ('Wally', 'Apple', 25, 6, 2018, 'PA', 862, '2018-06-25');
 insert into sales values ('Dan', 'Butter', 30, 9, 2019, 'NJ', 837, '2019-09-30');
@@ -1469,8 +1354,7 @@ insert into sales values ('Wally', 'Eggs', 26, 6, 2019, 'CT', 456, '2019-06-26')
 insert into sales values ('Claire', 'Cherry', 3, 1, 2018, 'CT', 733, '2018-01-03');
 insert into sales values ('Emily', 'Fish', 17, 11, 2019, 'CT', 474, '2019-11-17');
 insert into sales values ('Wally', 'Cherry', 4, 4, 2016, 'CT', 743, '2016-04-04');
-insert into sales values ('Wally', 'Butter', 15, 11, 2019, 'CT', 624, '2019-11-
-15');
+insert into sales values ('Wally', 'Butter', 15, 11, 2019, 'CT', 624, '2019-11-15');
 insert into sales values ('Claire', 'Eggs', 15, 4, 2019, 'CT', 40, '2019-04-15');
 insert into sales values ('Emily', 'Jellies', 7, 3, 2017, 'CT', 175, '2017-03-07');
 insert into sales values ('Wally', 'Ham', 18, 12, 2020, 'NY', 518, '2020-12-18');
@@ -1518,12 +1402,10 @@ insert into sales values ('Dan', 'Jellies', 7, 7, 2019, 'CT', 406, '2019-07-07')
 insert into sales values ('Boo', 'Grapes', 4, 12, 2020, 'NJ', 766, '2020-12-04');
 insert into sales values ('Emily', 'Ice', 30, 5, 2018, 'CT', 382, '2018-05-30');
 insert into sales values ('Wally', 'Fish', 12, 3, 2019, 'NJ', 451, '2019-03-12');
-insert into sales values ('Emily', 'Jellies', 11, 5, 2019, 'CT', 909, '2019-05-
-11');
+insert into sales values ('Emily', 'Jellies', 11, 5, 2019, 'CT', 909, '2019-05-11');
 insert into sales values ('Emily', 'Eggs', 14, 10, 2016, 'NY', 307, '2016-10-14');
 insert into sales values ('Dan', 'Fish', 20, 9, 2017, 'NJ', 271, '2017-09-20');
-insert into sales values ('Claire', 'Jellies', 9, 12, 2019, 'CT', 162, '2019-12-
-09');
+insert into sales values ('Claire', 'Jellies', 9, 12, 2019, 'CT', 162, '2019-12-09');
 insert into sales values ('Wally', 'Cherry', 28, 2, 2016, 'PA', 815, '2016-02-28');
 insert into sales values ('Emily', 'Grapes', 10, 10, 2016, 'PA', 49, '2016-10-10');
 insert into sales values ('Emily', 'Eggs', 20, 12, 2020, 'NY', 134, '2020-12-20');
@@ -1533,13 +1415,11 @@ insert into sales values ('Helen', 'Apple', 4, 9, 2018, 'PA', 975, '2018-09-04')
 insert into sales values ('Dan', 'Grapes', 20, 8, 2018, 'NY', 821, '2018-08-20');
 insert into sales values ('Dan', 'Dates', 17, 7, 2016, 'CT', 173, '2016-07-17');
 insert into sales values ('Emily', 'Fish', 9, 9, 2020, 'PA', 661, '2020-09-09');
-insert into sales values ('Wally', 'Jellies', 29, 10, 2017, 'NJ', 946, '2017-10-
-29');
+insert into sales values ('Wally', 'Jellies', 29, 10, 2017, 'NJ', 946, '2017-10-29');
 insert into sales values ('Mia', 'Jellies', 13, 9, 2020, 'CT', 6, '2020-09-13');
 insert into sales values ('Boo', 'Butter', 5, 10, 2016, 'CT', 983, '2016-10-05');
 insert into sales values ('Chae', 'Cherry', 6, 6, 2016, 'NY', 477, '2016-06-06');
-insert into sales values ('Chae', 'Jellies', 16, 11, 2017, 'PA', 131, '2017-11-
-16');
+insert into sales values ('Chae', 'Jellies', 16, 11, 2017, 'PA', 131, '2017-11-16');
 insert into sales values ('Chae', 'Butter', 14, 6, 2018, 'PA', 582, '2018-06-14');
 insert into sales values ('Chae', 'Cherry', 28, 8, 2016, 'NJ', 122, '2016-08-28');
 insert into sales values ('Mia', 'Eggs', 8, 4, 2019, 'CT', 924, '2019-04-08');
@@ -1551,8 +1431,7 @@ insert into sales values ('Wally', 'Fish', 8, 2, 2019, 'PA', 466, '2019-02-08');
 insert into sales values ('Boo', 'Cherry', 4, 1, 2016, 'NJ', 908, '2016-01-04');
 insert into sales values ('Emily', 'Cherry', 12, 7, 2017, 'CT', 610, '2017-07-12');
 insert into sales values ('Claire', 'Grapes', 5, 2, 2017, 'PA', 370, '2017-02-05');
-insert into sales values ('Claire', 'Jellies', 5, 9, 2016, 'NY', 907, '2016-09-
-05');
+insert into sales values ('Claire', 'Jellies', 5, 9, 2016, 'NY', 907, '2016-09-05');
 insert into sales values ('Mia', 'Fish', 25, 2, 2020, 'NY', 741, '2020-02-25');
 insert into sales values ('Dan', 'Dates', 21, 8, 2019, 'NJ', 378, '2019-08-21');
 insert into sales values ('Sam', 'Jellies', 31, 10, 2017, 'PA', 891, '2017-10-31');
@@ -1560,14 +1439,12 @@ insert into sales values ('Dan', 'Ice', 4, 6, 2020, 'CT', 953, '2020-06-04');
 insert into sales values ('Helen', 'Dates', 5, 11, 2018, 'CT', 750, '2018-11-05');
 insert into sales values ('Helen', 'Dates', 19, 2, 2018, 'NY', 380, '2018-02-19');
 insert into sales values ('Boo', 'Ice', 4, 8, 2020, 'CT', 542, '2020-08-04');
-insert into sales values ('Helen', 'Jellies', 10, 2, 2017, 'NY', 408, '2017-02-
-10');
+insert into sales values ('Helen', 'Jellies', 10, 2, 2017, 'NY', 408, '2017-02-10');
 insert into sales values ('Dan', 'Jellies', 30, 3, 2018, 'PA', 552, '2018-03-30');
 insert into sales values ('Wally', 'Cherry', 14, 7, 2020, 'CT', 349, '2020-07-14');
 insert into sales values ('Sam', 'Ice', 25, 11, 2016, 'CT', 413, '2016-11-25');
 insert into sales values ('Dan', 'Dates', 20, 2, 2020, 'NJ', 728, '2020-02-20');
-insert into sales values ('Wally', 'Jellies', 22, 8, 2018, 'NJ', 841, '2018-08-
-22');
+insert into sales values ('Wally', 'Jellies', 22, 8, 2018, 'NJ', 841, '2018-08-22');
 insert into sales values ('Boo', 'Butter', 30, 1, 2019, 'CT', 163, '2019-01-30');
 insert into sales values ('Mia', 'Apple', 9, 10, 2020, 'NY', 479, '2020-10-09');
 insert into sales values ('Emily', 'Ice', 10, 7, 2020, 'NY', 370, '2020-07-10');
@@ -1577,8 +1454,7 @@ insert into sales values ('Helen', 'Apple', 17, 8, 2019, 'CT', 360, '2019-08-17'
 insert into sales values ('Claire', 'Apple', 8, 4, 2016, 'CT', 541, '2016-04-08');
 insert into sales values ('Chae', 'Eggs', 26, 4, 2020, 'NJ', 588, '2020-04-26');
 insert into sales values ('Dan', 'Fish', 25, 10, 2019, 'NY', 327, '2019-10-25');
-insert into sales values ('Claire', 'Grapes', 30, 4, 2019, 'NY', 370, '2019-04-
-30');
+insert into sales values ('Claire', 'Grapes', 30, 4, 2019, 'NY', 370, '2019-04-30');
 insert into sales values ('Helen', 'Fish', 16, 12, 2018, 'NJ', 325, '2018-12-16');
 insert into sales values ('Chae', 'Apple', 21, 8, 2017, 'NY', 449, '2017-08-21');
 insert into sales values ('Wally', 'Eggs', 9, 1, 2020, 'NY', 542, '2020-01-09');
@@ -1592,8 +1468,7 @@ insert into sales values ('Helen', 'Ham', 23, 1, 2020, 'CT', 651, '2020-01-23');
 insert into sales values ('Wally', 'Eggs', 9, 5, 2016, 'NJ', 985, '2016-05-09');
 insert into sales values ('Helen', 'Butter', 8, 8, 2017, 'CT', 673, '2017-08-08');
 insert into sales values ('Helen', 'Ham', 15, 5, 2016, 'CT', 53, '2016-05-15');
-insert into sales values ('Claire', 'Butter', 17, 9, 2018, 'NJ', 478, '2018-09-
-17');
+insert into sales values ('Claire', 'Butter', 17, 9, 2018, 'NJ', 478, '2018-09-17');
 insert into sales values ('Boo', 'Butter', 1, 6, 2018, 'CT', 420, '2018-06-01');
 insert into sales values ('Dan', 'Eggs', 23, 9, 2019, 'PA', 666, '2019-09-23');
 insert into sales values ('Wally', 'Grapes', 1, 1, 2016, 'CT', 308, '2016-01-01');
@@ -1640,20 +1515,17 @@ insert into sales values ('Mia', 'Ham', 13, 1, 2019, 'CT', 714, '2019-01-13');
 insert into sales values ('Boo', 'Eggs', 2, 1, 2017, 'NJ', 61, '2017-01-02');
 insert into sales values ('Sam', 'Ham', 27, 5, 2019, 'CT', 379, '2019-05-27');
 insert into sales values ('Chae', 'Cherry', 12, 6, 2019, 'NJ', 353, '2019-06-12');
-insert into sales values ('Claire', 'Dates', 25, 12, 2019, 'NY', 135, '2019-12-
-25');
+insert into sales values ('Claire', 'Dates', 25, 12, 2019, 'NY', 135, '2019-12-25');
 insert into sales values ('Helen', 'Apple', 31, 7, 2016, 'NJ', 544, '2016-07-31');
 insert into sales values ('Boo', 'Dates', 20, 11, 2016, 'CT', 387, '2016-11-20');
 insert into sales values ('Mia', 'Eggs', 13, 1, 2019, 'CT', 398, '2019-01-13');
 insert into sales values ('Wally', 'Grapes', 15, 8, 2018, 'CT', 810, '2018-08-15');
 insert into sales values ('Chae', 'Eggs', 12, 1, 2019, 'PA', 952, '2019-01-12');
-insert into sales values ('Helen', 'Jellies', 21, 5, 2017, 'NJ', 361, '2017-05-
-21');
+insert into sales values ('Helen', 'Jellies', 21, 5, 2017, 'NJ', 361, '2017-05-21');
 insert into sales values ('Wally', 'Cherry', 9, 7, 2017, 'CT', 300, '2017-07-09');
 insert into sales values ('Wally', 'Jellies', 8, 4, 2017, 'NY', 491, '2017-04-08');
 insert into sales values ('Helen', 'Ham', 22, 7, 2018, 'NY', 248, '2018-07-22');
-insert into sales values ('Claire', 'Cherry', 25, 5, 2019, 'NJ', 720, '2019-05-
-25');
+insert into sales values ('Claire', 'Cherry', 25, 5, 2019, 'NJ', 720, '2019-05-25');
 insert into sales values ('Mia', 'Eggs', 15, 4, 2016, 'CT', 24, '2016-04-15');
 insert into sales values ('Emily', 'Apple', 3, 12, 2020, 'NJ', 380, '2020-12-03');
 insert into sales values ('Helen', 'Cherry', 23, 1, 2016, 'NY', 36, '2016-01-23');
@@ -1670,15 +1542,12 @@ insert into sales values ('Mia', 'Ice', 26, 8, 2016, 'CT', 204, '2016-08-26');
 insert into sales values ('Claire', 'Grapes', 23, 9, 2018, 'CT', 99, '2018-09-23');
 insert into sales values ('Sam', 'Fish', 7, 5, 2020, 'CT', 262, '2020-05-07');
 insert into sales values ('Dan', 'Apple', 6, 10, 2018, 'CT', 876, '2018-10-06');
-insert into sales values ('Emily', 'Butter', 20, 11, 2019, 'NY', 146, '2019-11-
-20');
+insert into sales values ('Emily', 'Butter', 20, 11, 2019, 'NY', 146, '2019-11-20');
 insert into sales values ('Emily', 'Dates', 20, 9, 2020, 'PA', 7, '2020-09-20');
 insert into sales values ('Boo', 'Grapes', 12, 3, 2020, 'PA', 680, '2020-03-12');
 insert into sales values ('Sam', 'Apple', 14, 9, 2020, 'PA', 1, '2020-09-14');
-insert into sales values ('Claire', 'Jellies', 18, 11, 2017, 'NJ', 990, '2017-11-
-18');
-insert into sales values ('Claire', 'Cherry', 8, 11, 2016, 'NJ', 866, '2016-11-
-08');
+insert into sales values ('Claire', 'Jellies', 18, 11, 2017, 'NJ', 990, '2017-11-18');
+insert into sales values ('Claire', 'Cherry', 8, 11, 2016, 'NJ', 866, '2016-11-08');
 insert into sales values ('Claire', 'Ice', 8, 8, 2019, 'NY', 743, '2019-08-08');
 insert into sales values ('Claire', 'Apple', 16, 6, 2018, 'NJ', 356, '2018-06-16');
 insert into sales values ('Boo', 'Butter', 19, 5, 2017, 'NY', 569, '2017-05-19');
@@ -1711,8 +1580,7 @@ insert into sales values ('Wally', 'Ice', 2, 1, 2020, 'NJ', 427, '2020-01-02');
 insert into sales values ('Mia', 'Butter', 19, 7, 2020, 'NY', 834, '2020-07-19');
 insert into sales values ('Mia', 'Eggs', 18, 12, 2019, 'CT', 67, '2019-12-18');
 insert into sales values ('Chae', 'Eggs', 19, 6, 2019, 'NY', 982, '2019-06-19');
-insert into sales values ('Wally', 'Jellies', 17, 4, 2020, 'CT', 103, '2020-04-
-17');
+insert into sales values ('Wally', 'Jellies', 17, 4, 2020, 'CT', 103, '2020-04-17');
 insert into sales values ('Claire', 'Eggs', 15, 5, 2018, 'NY', 470, '2018-05-15');
 insert into sales values ('Sam', 'Grapes', 21, 3, 2016, 'NJ', 150, '2016-03-21');
 insert into sales values ('Claire', 'Ham', 8, 7, 2019, 'CT', 985, '2019-07-08');
@@ -1725,8 +1593,7 @@ insert into sales values ('Emily', 'Fish', 27, 2, 2017, 'CT', 491, '2017-02-27')
 insert into sales values ('Mia', 'Grapes', 26, 11, 2017, 'NJ', 65, '2017-11-26');
 insert into sales values ('Chae', 'Jellies', 20, 11, 2019, 'NY', 40, '2019-11-20');
 insert into sales values ('Dan', 'Dates', 1, 1, 2016, 'CT', 755, '2016-01-01');
-insert into sales values ('Wally', 'Grapes', 16, 11, 2017, 'PA', 796, '2017-11-
-16');
+insert into sales values ('Wally', 'Grapes', 16, 11, 2017, 'PA', 796, '2017-11-16');
 insert into sales values ('Sam', 'Apple', 22, 11, 2019, 'NJ', 321, '2019-11-22');
 insert into sales values ('Helen', 'Dates', 19, 2, 2019, 'NJ', 461, '2019-02-19');
 insert into sales values ('Claire', 'Ham', 1, 8, 2020, 'NJ', 623, '2020-08-01');
@@ -1739,13 +1606,11 @@ insert into sales values ('Sam', 'Ham', 28, 9, 2020, 'PA', 731, '2020-09-28');
 insert into sales values ('Claire', 'Eggs', 13, 5, 2019, 'PA', 802, '2019-05-13');
 insert into sales values ('Boo', 'Ice', 9, 3, 2019, 'PA', 103, '2019-03-09');
 insert into sales values ('Mia', 'Jellies', 24, 1, 2020, 'CT', 366, '2020-01-24');
-insert into sales values ('Wally', 'Butter', 29, 10, 2016, 'CT', 271, '2016-10-
-29');
+insert into sales values ('Wally', 'Butter', 29, 10, 2016, 'CT', 271, '2016-10-29');
 insert into sales values ('Emily', 'Cherry', 5, 12, 2016, 'NY', 883, '2016-12-05');
 insert into sales values ('Helen', 'Ice', 8, 11, 2016, 'NJ', 359, '2016-11-08');
 insert into sales values ('Chae', 'Dates', 25, 1, 2020, 'CT', 732, '2020-01-25');
-insert into sales values ('Emily', 'Cherry', 29, 10, 2016, 'NJ', 592, '2016-10-
-29');
+insert into sales values ('Emily', 'Cherry', 29, 10, 2016, 'NJ', 592, '2016-10-29');
 insert into sales values ('Claire', 'Apple', 4, 9, 2016, 'CT', 472, '2016-09-04');
 insert into sales values ('Sam', 'Cherry', 13, 11, 2016, 'PA', 880, '2016-11-13');
 insert into sales values ('Claire', 'Ice', 24, 4, 2018, 'PA', 414, '2018-04-24');
@@ -1761,8 +1626,7 @@ insert into sales values ('Chae', 'Apple', 4, 4, 2020, 'CT', 746, '2020-04-04');
 insert into sales values ('Mia', 'Dates', 1, 5, 2018, 'CT', 504, '2018-05-01');
 insert into sales values ('Sam', 'Cherry', 24, 3, 2020, 'NJ', 537, '2020-03-24');
 insert into sales values ('Emily', 'Ham', 17, 4, 2020, 'PA', 834, '2020-04-17');
-insert into sales values ('Wally', 'Jellies', 27, 11, 2017, 'NJ', 405, '2017-11-
-27');
+insert into sales values ('Wally', 'Jellies', 27, 11, 2017, 'NJ', 405, '2017-11-27');
 insert into sales values ('Chae', 'Ice', 14, 10, 2019, 'PA', 855, '2019-10-14');
 insert into sales values ('Chae', 'Dates', 27, 8, 2017, 'NJ', 507, '2017-08-27');
 insert into sales values ('Chae', 'Butter', 20, 2, 2018, 'NY', 229, '2018-02-20');
@@ -1771,8 +1635,7 @@ insert into sales values ('Wally', 'Ice', 2, 5, 2020, 'NY', 749, '2020-05-02');
 insert into sales values ('Emily', 'Apple', 22, 6, 2017, 'CT', 620, '2017-06-22');
 insert into sales values ('Wally', 'Ice', 30, 4, 2017, 'NJ', 906, '2017-04-30');
 insert into sales values ('Helen', 'Fish', 18, 3, 2017, 'PA', 97, '2017-03-18');
-insert into sales values ('Helen', 'Grapes', 10, 12, 2019, 'NJ', 993, '2019-12-
-10');
+insert into sales values ('Helen', 'Grapes', 10, 12, 2019, 'NJ', 993, '2019-12-10');
 insert into sales values ('Sam', 'Dates', 12, 8, 2018, 'NY', 92, '2018-08-12');
 insert into sales values ('Helen', 'Dates', 20, 9, 2016, 'CT', 604, '2016-09-20');
 insert into sales values ('Boo', 'Grapes', 21, 11, 2020, 'CT', 631, '2020-11-21');
@@ -1795,8 +1658,7 @@ insert into sales values ('Sam', 'Jellies', 6, 7, 2017, 'NY', 997, '2017-07-06')
 insert into sales values ('Chae', 'Butter', 16, 6, 2016, 'NY', 352, '2016-06-16');
 insert into sales values ('Dan', 'Dates', 15, 3, 2020, 'CT', 286, '2020-03-15');
 insert into sales values ('Wally', 'Jellies', 2, 8, 2016, 'CT', 329, '2016-08-02');
-insert into sales values ('Emily', 'Jellies', 11, 7, 2017, 'PA', 449, '2017-07-
-11');
+insert into sales values ('Emily', 'Jellies', 11, 7, 2017, 'PA', 449, '2017-07-11');
 insert into sales values ('Emily', 'Grapes', 18, 5, 2018, 'NY', 727, '2018-05-18');
 insert into sales values ('Wally', 'Ice', 22, 10, 2019, 'PA', 211, '2019-10-22');
 insert into sales values ('Boo', 'Eggs', 11, 11, 2017, 'NY', 363, '2017-11-11');
@@ -1821,8 +1683,7 @@ insert into sales values ('Wally', 'Eggs', 10, 12, 2016, 'PA', 382, '2016-12-10'
 insert into sales values ('Claire', 'Apple', 6, 3, 2018, 'NY', 78, '2018-03-06');
 insert into sales values ('Chae', 'Cherry', 22, 10, 2019, 'CT', 127, '2019-10-22');
 insert into sales values ('Mia', 'Apple', 12, 5, 2019, 'PA', 844, '2019-05-12');
-insert into sales values ('Claire', 'Grapes', 18, 1, 2016, 'NJ', 377, '2016-01-
-18');
+insert into sales values ('Claire', 'Grapes', 18, 1, 2016, 'NJ', 377, '2016-01-18');
 insert into sales values ('Wally', 'Eggs', 11, 6, 2016, 'NY', 72, '2016-06-11');
 insert into sales values ('Mia', 'Fish', 20, 9, 2020, 'NY', 501, '2020-09-20');
 insert into sales values ('Boo', 'Fish', 4, 6, 2016, 'CT', 601, '2016-06-04');
@@ -1837,16 +1698,14 @@ insert into sales values ('Chae', 'Apple', 27, 9, 2018, 'PA', 294, '2018-09-27')
 insert into sales values ('Sam', 'Cherry', 16, 1, 2017, 'PA', 747, '2017-01-16');
 insert into sales values ('Claire', 'Butter', 4, 3, 2016, 'CT', 198, '2016-03-04');
 insert into sales values ('Chae', 'Grapes', 1, 6, 2016, 'NJ', 598, '2016-06-01');
-insert into sales values ('Helen', 'Grapes', 20, 12, 2016, 'CT', 632, '2016-12-
-20');
+insert into sales values ('Helen', 'Grapes', 20, 12, 2016, 'CT', 632, '2016-12-20');
 insert into sales values ('Helen', 'Grapes', 15, 4, 2016, 'NY', 815, '2016-04-15');
 insert into sales values ('Chae', 'Eggs', 17, 1, 2017, 'NY', 661, '2017-01-17');
 insert into sales values ('Chae', 'Ice', 5, 9, 2020, 'CT', 74, '2020-09-05');
 insert into sales values ('Emily', 'Ham', 24, 8, 2019, 'NJ', 254, '2019-08-24');
 insert into sales values ('Mia', 'Butter', 20, 12, 2016, 'NJ', 236, '2016-12-20');
 insert into sales values ('Sam', 'Fish', 24, 10, 2017, 'CT', 133, '2017-10-24');
-insert into sales values ('Claire', 'Butter', 21, 1, 2018, 'PA', 333, '2018-01-
-21');
+insert into sales values ('Claire', 'Butter', 21, 1, 2018, 'PA', 333, '2018-01-21');
 insert into sales values ('Chae', 'Grapes', 8, 8, 2018, 'PA', 577, '2018-08-08');
 insert into sales values ('Mia', 'Butter', 3, 5, 2017, 'NJ', 355, '2017-05-03');
 insert into sales values ('Sam', 'Jellies', 20, 9, 2018, 'NY', 938, '2018-09-20');
@@ -1861,8 +1720,7 @@ insert into sales values ('Helen', 'Cherry', 9, 2, 2019, 'NJ', 588, '2019-02-09'
 insert into sales values ('Chae', 'Apple', 24, 3, 2018, 'NJ', 215, '2018-03-24');
 insert into sales values ('Emily', 'Fish', 13, 3, 2016, 'CT', 127, '2016-03-13');
 insert into sales values ('Claire', 'Ice', 15, 9, 2020, 'NJ', 763, '2020-09-15');
-insert into sales values ('Claire', 'Butter', 21, 8, 2018, 'NY', 544, '2018-08-
-21');
+insert into sales values ('Claire', 'Butter', 21, 8, 2018, 'NY', 544, '2018-08-21');
 insert into sales values ('Emily', 'Butter', 10, 8, 2016, 'NY', 558, '2016-08-10');
 insert into sales values ('Chae', 'Cherry', 26, 4, 2017, 'NY', 865, '2017-04-26');
 insert into sales values ('Dan', 'Jellies', 14, 3, 2016, 'NJ', 839, '2016-03-14');
@@ -1879,8 +1737,7 @@ insert into sales values ('Claire', 'Eggs', 12, 9, 2017, 'NY', 279, '2017-09-12'
 insert into sales values ('Emily', 'Eggs', 9, 2, 2018, 'NJ', 672, '2018-02-09');
 insert into sales values ('Helen', 'Eggs', 13, 4, 2017, 'NJ', 946, '2017-04-13');
 insert into sales values ('Helen', 'Ice', 30, 4, 2019, 'CT', 106, '2019-04-30');
-insert into sales values ('Emily', 'Cherry', 20, 10, 2017, 'NY', 164, '2017-10-
-20');
+insert into sales values ('Emily', 'Cherry', 20, 10, 2017, 'NY', 164, '2017-10-20');
 insert into sales values ('Helen', 'Ice', 11, 7, 2017, 'CT', 496, '2017-07-11');
 insert into sales values ('Helen', 'Cherry', 1, 7, 2016, 'CT', 594, '2016-07-01');
 insert into sales values ('Dan', 'Jellies', 16, 10, 2018, 'CT', 412, '2018-10-16');
@@ -1895,8 +1752,7 @@ insert into sales values ('Sam', 'Ham', 10, 4, 2020, 'NJ', 807, '2020-04-10');
 insert into sales values ('Chae', 'Grapes', 22, 3, 2020, 'NJ', 566, '2020-03-22');
 insert into sales values ('Emily', 'Ham', 25, 6, 2018, 'NJ', 172, '2018-06-25');
 insert into sales values ('Mia', 'Ice', 16, 9, 2017, 'PA', 308, '2017-09-16');
-insert into sales values ('Claire', 'Cherry', 10, 6, 2019, 'CT', 691, '2019-06-
-10');
+insert into sales values ('Claire', 'Cherry', 10, 6, 2019, 'CT', 691, '2019-06-10');
 insert into sales values ('Mia', 'Ham', 27, 3, 2020, 'NJ', 908, '2020-03-27');
 insert into sales values ('Sam', 'Ham', 13, 3, 2020, 'NY', 905, '2020-03-13');
 insert into sales values ('Boo', 'Butter', 26, 8, 2016, 'PA', 20, '2016-08-26');
@@ -1934,26 +1790,21 @@ insert into sales values ('Helen', 'Dates', 4, 3, 2016, 'PA', 186, '2016-03-04')
 insert into sales values ('Sam', 'Apple', 16, 3, 2016, 'CT', 758, '2016-03-16');
 insert into sales values ('Claire', 'Ham', 27, 3, 2019, 'PA', 257, '2019-03-27');
 insert into sales values ('Mia', 'Ice', 29, 4, 2020, 'PA', 750, '2020-04-29');
-insert into sales values ('Helen', 'Grapes', 13, 11, 2016, 'PA', 232, '2016-11-
-13');
-insert into sales values ('Claire', 'Cherry', 30, 9, 2017, 'CT', 864, '2017-09-
-30');
+insert into sales values ('Helen', 'Grapes', 13, 11, 2016, 'PA', 232, '2016-11-13');
+insert into sales values ('Claire', 'Cherry', 30, 9, 2017, 'CT', 864, '2017-09-30');
 insert into sales values ('Boo', 'Apple', 3, 4, 2016, 'NY', 103, '2016-04-03');
 insert into sales values ('Emily', 'Eggs', 30, 12, 2016, 'NJ', 766, '2016-12-30');
 insert into sales values ('Claire', 'Eggs', 14, 8, 2016, 'CT', 145, '2016-08-14');
 insert into sales values ('Sam', 'Jellies', 20, 10, 2020, 'NJ', 386, '2020-10-20');
 insert into sales values ('Sam', 'Jellies', 22, 6, 2020, 'PA', 338, '2020-06-22');
 insert into sales values ('Mia', 'Grapes', 27, 3, 2017, 'PA', 322, '2017-03-27');
-insert into sales values ('Wally', 'Grapes', 21, 12, 2020, 'PA', 964, '2020-12-
-21');
+insert into sales values ('Wally', 'Grapes', 21, 12, 2020, 'PA', 964, '2020-12-21');
 insert into sales values ('Sam', 'Apple', 11, 9, 2019, 'PA', 608, '2019-09-11');
 insert into sales values ('Dan', 'Ham', 13, 8, 2018, 'CT', 322, '2018-08-13');
 insert into sales values ('Emily', 'Ice', 30, 8, 2016, 'PA', 152, '2016-08-30');
 insert into sales values ('Wally', 'Fish', 20, 7, 2019, 'NJ', 195, '2019-07-20');
-insert into sales values ('Claire', 'Apple', 11, 10, 2016, 'NY', 705, '2016-10-
-11');
-insert into sales values ('Claire', 'Butter', 19, 12, 2020, 'CT', 736, '2020-12-
-19');
+insert into sales values ('Claire', 'Apple', 11, 10, 2016, 'NY', 705, '2016-10-11');
+insert into sales values ('Claire', 'Butter', 19, 12, 2020, 'CT', 736, '2020-12-19');
 insert into sales values ('Emily', 'Ice', 29, 4, 2019, 'CT', 413, '2019-04-29');
 insert into sales values ('Dan', 'Grapes', 6, 10, 2016, 'NJ', 679, '2016-10-06');
 insert into sales values ('Boo', 'Butter', 4, 3, 2016, 'NJ', 529, '2016-03-04');
@@ -1961,14 +1812,12 @@ insert into sales values ('Boo', 'Grapes', 18, 12, 2020, 'NJ', 1, '2020-12-18');
 insert into sales values ('Chae', 'Apple', 26, 1, 2018, 'NJ', 427, '2018-01-26');
 insert into sales values ('Wally', 'Apple', 8, 4, 2017, 'CT', 953, '2017-04-08');
 insert into sales values ('Emily', 'Ice', 25, 5, 2017, 'PA', 448, '2017-05-25');
-insert into sales values ('Emily', 'Jellies', 26, 12, 2019, 'NY', 651, '2019-12-
-26');
+insert into sales values ('Emily', 'Jellies', 26, 12, 2019, 'NY', 651, '2019-12-26');
 insert into sales values ('Mia', 'Butter', 19, 1, 2020, 'NY', 305, '2020-01-19');
 insert into sales values ('Chae', 'Apple', 11, 7, 2018, 'PA', 724, '2018-07-11');
 insert into sales values ('Chae', 'Ice', 30, 3, 2019, 'CT', 936, '2019-03-30');
 insert into sales values ('Chae', 'Eggs', 23, 10, 2020, 'NY', 987, '2020-10-23');
-insert into sales values ('Claire', 'Jellies', 28, 9, 2020, 'PA', 287, '2020-09-
-28');
+insert into sales values ('Claire', 'Jellies', 28, 9, 2020, 'PA', 287, '2020-09-28');
 insert into sales values ('Boo', 'Jellies', 23, 3, 2018, 'NJ', 699, '2018-03-23');
 insert into sales values ('Claire', 'Ham', 23, 4, 2019, 'NY', 78, '2019-04-23');
 insert into sales values ('Mia', 'Ice', 9, 7, 2016, 'NY', 156, '2016-07-09');
@@ -2001,8 +1850,7 @@ insert into sales values ('Mia', 'Grapes', 21, 5, 2020, 'CT', 578, '2020-05-21')
 insert into sales values ('Boo', 'Jellies', 9, 1, 2019, 'PA', 249, '2019-01-09');
 insert into sales values ('Claire', 'Eggs', 14, 1, 2017, 'NJ', 590, '2017-01-14');
 insert into sales values ('Sam', 'Eggs', 15, 2, 2018, 'NY', 50, '2018-02-15');
-insert into sales values ('Wally', 'Jellies', 24, 12, 2018, 'CT', 641, '2018-12-
-24');
+insert into sales values ('Wally', 'Jellies', 24, 12, 2018, 'CT', 641, '2018-12-24');
 insert into sales values ('Wally', 'Ice', 13, 9, 2017, 'NY', 434, '2017-09-13');
 insert into sales values ('Chae', 'Jellies', 4, 4, 2016, 'NY', 80, '2016-04-04');
 insert into sales values ('Chae', 'Eggs', 2, 3, 2017, 'CT', 244, '2017-03-02');
@@ -2010,16 +1858,14 @@ insert into sales values ('Emily', 'Eggs', 9, 11, 2019, 'CT', 445, '2019-11-09')
 insert into sales values ('Mia', 'Jellies', 27, 2, 2019, 'NJ', 649, '2019-02-27');
 insert into sales values ('Sam', 'Jellies', 16, 10, 2018, 'NJ', 872, '2018-10-16');
 insert into sales values ('Dan', 'Eggs', 5, 11, 2017, 'NJ', 193, '2017-11-05');
-insert into sales values ('Claire', 'Cherry', 10, 11, 2020, 'NJ', 997, '2020-11-
-10');
+insert into sales values ('Claire', 'Cherry', 10, 11, 2020, 'NJ', 997, '2020-11-10');
 insert into sales values ('Boo', 'Cherry', 11, 6, 2017, 'PA', 287, '2017-06-11');
 insert into sales values ('Chae', 'Cherry', 19, 10, 2020, 'PA', 795, '2020-10-19');
 insert into sales values ('Mia', 'Eggs', 3, 1, 2016, 'NY', 452, '2016-01-03');
 insert into sales values ('Boo', 'Ice', 10, 11, 2016, 'CT', 338, '2016-11-10');
 insert into sales values ('Sam', 'Jellies', 29, 10, 2020, 'NJ', 888, '2020-10-29');
 insert into sales values ('Boo', 'Fish', 25, 5, 2018, 'NJ', 107, '2018-05-25');
-insert into sales values ('Claire', 'Grapes', 15, 5, 2017, 'NY', 434, '2017-05-
-15');
+insert into sales values ('Claire', 'Grapes', 15, 5, 2017, 'NY', 434, '2017-05-15');
 insert into sales values ('Claire', 'Ice', 30, 5, 2016, 'NY', 823, '2016-05-30');
 insert into sales values ('Helen', 'Apple', 22, 8, 2018, 'CT', 975, '2018-08-22');
 insert into sales values ('Boo', 'Jellies', 24, 2, 2020, 'NY', 784, '2020-02-24');
@@ -2036,10 +1882,8 @@ insert into sales values ('Wally', 'Eggs', 9, 3, 2016, 'NJ', 746, '2016-03-09');
 insert into sales values ('Emily', 'Ice', 2, 6, 2016, 'NY', 116, '2016-06-02');
 insert into sales values ('Claire', 'Fish', 25, 3, 2018, 'NJ', 40, '2018-03-25');
 insert into sales values ('Chae', 'Jellies', 12, 7, 2016, 'PA', 575, '2016-07-12');
-insert into sales values ('Claire', 'Cherry', 30, 8, 2018, 'NJ', 106, '2018-08-
-30');
-insert into sales values ('Helen', 'Jellies', 17, 7, 2020, 'NJ', 852, '2020-07-
-17');
+insert into sales values ('Claire', 'Cherry', 30, 8, 2018, 'NJ', 106, '2018-08-30');
+insert into sales values ('Helen', 'Jellies', 17, 7, 2020, 'NJ', 852, '2020-07-17');
 insert into sales values ('Sam', 'Jellies', 9, 5, 2019, 'CT', 956, '2019-05-09');
 insert into sales values ('Mia', 'Apple', 3, 2, 2017, 'PA', 780, '2017-02-03');
 insert into sales values ('Chae', 'Grapes', 5, 3, 2016, 'NY', 625, '2016-03-05');
@@ -2047,17 +1891,14 @@ insert into sales values ('Mia', 'Jellies', 5, 9, 2018, 'CT', 84, '2018-09-05');
 insert into sales values ('Chae', 'Ice', 5, 1, 2017, 'NY', 957, '2017-01-05');
 insert into sales values ('Emily', 'Fish', 14, 1, 2017, 'NY', 40, '2017-01-14');
 insert into sales values ('Dan', 'Butter', 20, 11, 2020, 'NY', 602, '2020-11-20');
-insert into sales values ('Claire', 'Grapes', 28, 2, 2019, 'PA', 235, '2019-02-
-28');
+insert into sales values ('Claire', 'Grapes', 28, 2, 2019, 'PA', 235, '2019-02-28');
 insert into sales values ('Emily', 'Ice', 21, 10, 2016, 'NJ', 769, '2016-10-21');
 insert into sales values ('Chae', 'Jellies', 29, 5, 2020, 'NY', 131, '2020-05-29');
 insert into sales values ('Sam', 'Butter', 9, 6, 2016, 'CT', 594, '2016-06-09');
 insert into sales values ('Claire', 'Ice', 24, 3, 2018, 'NY', 689, '2018-03-24');
 insert into sales values ('Dan', 'Dates', 13, 8, 2020, 'PA', 1, '2020-08-13');
-insert into sales values ('Wally', 'Butter', 22, 12, 2016, 'PA', 263, '2016-12-
-22');
-insert into sales values ('Claire', 'Cherry', 4, 11, 2020, 'NJ', 983, '2020-11-
-04');
+insert into sales values ('Wally', 'Butter', 22, 12, 2016, 'PA', 263, '2016-12-22');
+insert into sales values ('Claire', 'Cherry', 4, 11, 2020, 'NJ', 983, '2020-11-04');
 insert into sales values ('Dan', 'Ice', 14, 12, 2018, 'NY', 276, '2018-12-14');
 insert into sales values ('Dan', 'Butter', 26, 3, 2017, 'NY', 974, '2017-03-26');
 insert into sales values ('Sam', 'Fish', 23, 10, 2017, 'NJ', 353, '2017-10-23');
@@ -2068,10 +1909,8 @@ insert into sales values ('Mia', 'Fish', 24, 11, 2019, 'NY', 67, '2019-11-24');
 insert into sales values ('Boo', 'Eggs', 11, 3, 2018, 'CT', 867, '2018-03-11');
 insert into sales values ('Claire', 'Apple', 7, 8, 2020, 'NJ', 199, '2020-08-07');
 insert into sales values ('Helen', 'Butter', 26, 4, 2016, 'NJ', 630, '2016-04-26');
-insert into sales values ('Wally', 'Butter', 19, 11, 2016, 'NJ', 876, '2016-11-
-19');
-insert into sales values ('Wally', 'Butter', 10, 12, 2016, 'CT', 136, '2016-12-
-10');
+insert into sales values ('Wally', 'Butter', 19, 11, 2016, 'NJ', 876, '2016-11-19');
+insert into sales values ('Wally', 'Butter', 10, 12, 2016, 'CT', 136, '2016-12-10');
 insert into sales values ('Emily', 'Fish', 21, 9, 2017, 'PA', 630, '2017-09-21');
 insert into sales values ('Dan', 'Butter', 14, 10, 2019, 'PA', 580, '2019-10-14');
 insert into sales values ('Sam', 'Fish', 13, 1, 2018, 'NY', 930, '2018-01-13');
@@ -2079,8 +1918,7 @@ insert into sales values ('Emily', 'Ice', 26, 12, 2017, 'PA', 952, '2017-12-26')
 insert into sales values ('Wally', 'Ice', 19, 2, 2018, 'CT', 923, '2018-02-19');
 insert into sales values ('Chae', 'Dates', 25, 9, 2018, 'CT', 920, '2018-09-25');
 insert into sales values ('Emily', 'Cherry', 23, 2, 2020, 'CT', 6, '2020-02-23');
-insert into sales values ('Claire', 'Grapes', 13, 12, 2020, 'NY', 842, '2020-12-
-13');
+insert into sales values ('Claire', 'Grapes', 13, 12, 2020, 'NY', 842, '2020-12-13');
 insert into sales values ('Helen', 'Ham', 26, 12, 2019, 'NJ', 521, '2019-12-26');
 insert into sales values ('Boo', 'Butter', 28, 6, 2017, 'CT', 919, '2017-06-28');
 insert into sales values ('Sam', 'Fish', 8, 1, 2017, 'NY', 544, '2017-01-08');
@@ -2093,8 +1931,7 @@ insert into sales values ('Dan', 'Butter', 13, 10, 2018, 'NJ', 92, '2018-10-13')
 insert into sales values ('Mia', 'Grapes', 15, 9, 2018, 'CT', 424, '2018-09-15');
 insert into sales values ('Sam', 'Grapes', 19, 7, 2020, 'NJ', 695, '2020-07-19');
 insert into sales values ('Mia', 'Fish', 9, 9, 2016, 'NY', 937, '2016-09-09');
-insert into sales values ('Claire', 'Jellies', 21, 5, 2019, 'NY', 913, '2019-05-
-21');
+insert into sales values ('Claire', 'Jellies', 21, 5, 2019, 'NY', 913, '2019-05-21');
 insert into sales values ('Mia', 'Apple', 4, 6, 2017, 'CT', 931, '2017-06-04');
 insert into sales values ('Emily', 'Apple', 7, 7, 2016, 'NJ', 549, '2016-07-07');
 insert into sales values ('Emily', 'Ham', 11, 4, 2020, 'CT', 952, '2020-04-11');
@@ -2179,8 +2016,7 @@ insert into sales values ('Claire', 'Ham', 30, 11, 2020, 'CT', 586, '2020-11-30'
 insert into sales values ('Boo', 'Cherry', 13, 10, 2020, 'NY', 688, '2020-10-13');
 insert into sales values ('Wally', 'Butter', 31, 1, 2017, 'NJ', 45, '2017-01-31');
 insert into sales values ('Chae', 'Cherry', 10, 9, 2020, 'NY', 628, '2020-09-10');
-insert into sales values ('Wally', 'Jellies', 18, 2, 2019, 'NY', 518, '2019-02-
-18');
+insert into sales values ('Wally', 'Jellies', 18, 2, 2019, 'NY', 518, '2019-02-18');
 insert into sales values ('Mia', 'Grapes', 8, 9, 2018, 'NY', 226, '2018-09-08');
 insert into sales values ('Helen', 'Grapes', 30, 9, 2018, 'PA', 284, '2018-09-30');
 insert into sales values ('Dan', 'Apple', 20, 10, 2020, 'NJ', 542, '2020-10-20');
@@ -2193,8 +2029,7 @@ insert into sales values ('Helen', 'Dates', 11, 6, 2017, 'PA', 537, '2017-06-11'
 insert into sales values ('Claire', 'Apple', 28, 6, 2019, 'NY', 852, '2019-06-28');
 insert into sales values ('Boo', 'Grapes', 4, 7, 2017, 'NY', 835, '2017-07-04');
 insert into sales values ('Emily', 'Fish', 5, 10, 2018, 'CT', 312, '2018-10-05');
-insert into sales values ('Claire', 'Apple', 17, 10, 2019, 'CT', 568, '2019-10-
-17');
+insert into sales values ('Claire', 'Apple', 17, 10, 2019, 'CT', 568, '2019-10-17');
 insert into sales values ('Emily', 'Grapes', 11, 7, 2016, 'NJ', 922, '2016-07-11');
 insert into sales values ('Mia', 'Grapes', 19, 6, 2020, 'PA', 373, '2020-06-19');
 insert into sales values ('Emily', 'Grapes', 9, 9, 2016, 'NJ', 911, '2016-09-09');
@@ -2216,8 +2051,7 @@ insert into sales values ('Chae', 'Dates', 1, 12, 2020, 'CT', 536, '2020-12-01')
 insert into sales values ('Sam', 'Ice', 9, 3, 2020, 'NJ', 900, '2020-03-09');
 insert into sales values ('Boo', 'Grapes', 15, 11, 2019, 'NY', 295, '2019-11-15');
 insert into sales values ('Boo', 'Fish', 20, 3, 2019, 'PA', 159, '2019-03-20');
-insert into sales values ('Helen', 'Jellies', 31, 8, 2018, 'NY', 977, '2018-08-
-31');
+insert into sales values ('Helen', 'Jellies', 31, 8, 2018, 'NY', 977, '2018-08-31');
 insert into sales values ('Boo', 'Grapes', 6, 4, 2016, 'CT', 552, '2016-04-06');
 insert into sales values ('Sam', 'Cherry', 23, 4, 2019, 'NY', 944, '2019-04-23');
 insert into sales values ('Chae', 'Cherry', 20, 3, 2018, 'CT', 348, '2018-03-20');
@@ -2230,8 +2064,7 @@ insert into sales values ('Helen', 'Cherry', 30, 3, 2016, 'CT', 561, '2016-03-30
 insert into sales values ('Dan', 'Eggs', 1, 1, 2020, 'NY', 633, '2020-01-01');
 insert into sales values ('Helen', 'Butter', 29, 4, 2017, 'PA', 23, '2017-04-29');
 insert into sales values ('Boo', 'Eggs', 21, 8, 2016, 'PA', 150, '2016-08-21');
-insert into sales values ('Wally', 'Butter', 20, 10, 2016, 'NJ', 684, '2016-10-
-20');
+insert into sales values ('Wally', 'Butter', 20, 10, 2016, 'NJ', 684, '2016-10-20');
 insert into sales values ('Boo', 'Butter', 11, 10, 2016, 'NY', 993, '2016-10-11');
 insert into sales values ('Wally', 'Ham', 14, 3, 2018, 'NY', 841, '2018-03-14');
 insert into sales values ('Boo', 'Apple', 27, 3, 2020, 'NJ', 8, '2020-03-27');
@@ -2244,15 +2077,12 @@ insert into sales values ('Chae', 'Apple', 4, 2, 2018, 'NJ', 684, '2018-02-04');
 insert into sales values ('Boo', 'Butter', 2, 2, 2016, 'NY', 461, '2016-02-02');
 insert into sales values ('Boo', 'Ham', 5, 11, 2020, 'NJ', 393, '2020-11-05');
 insert into sales values ('Claire', 'Eggs', 8, 12, 2018, 'NJ', 91, '2018-12-08');
-insert into sales values ('Emily', 'Jellies', 10, 10, 2018, 'CT', 653, '2018-10-
-10');
+insert into sales values ('Emily', 'Jellies', 10, 10, 2018, 'CT', 653, '2018-10-10');
 insert into sales values ('Emily', 'Eggs', 30, 4, 2016, 'NJ', 196, '2016-04-30');
 insert into sales values ('Helen', 'Butter', 23, 5, 2019, 'CT', 305, '2019-05-23');
 insert into sales values ('Dan', 'Dates', 24, 12, 2020, 'NJ', 395, '2020-12-24');
-insert into sales values ('Claire', 'Grapes', 10, 4, 2018, 'NY', 302, '2018-04-
-10');
-insert into sales values ('Helen', 'Jellies', 26, 5, 2018, 'CT', 235, '2018-05-
-26');
+insert into sales values ('Claire', 'Grapes', 10, 4, 2018, 'NY', 302, '2018-04-10');
+insert into sales values ('Helen', 'Jellies', 26, 5, 2018, 'CT', 235, '2018-05-26');
 insert into sales values ('Sam', 'Ice', 18, 2, 2018, 'PA', 313, '2018-02-18');
 insert into sales values ('Chae', 'Apple', 29, 4, 2018, 'NJ', 567, '2018-04-29');
 insert into sales values ('Dan', 'Dates', 10, 12, 2017, 'NJ', 506, '2017-12-10');
@@ -2275,14 +2105,12 @@ insert into sales values ('Boo', 'Ice', 23, 3, 2017, 'NY', 116, '2017-03-23');
 insert into sales values ('Dan', 'Cherry', 10, 2, 2016, 'PA', 886, '2016-02-10');
 insert into sales values ('Sam', 'Butter', 12, 1, 2020, 'CT', 724, '2020-01-12');
 insert into sales values ('Dan', 'Ice', 9, 9, 2020, 'NJ', 871, '2020-09-09');
-insert into sales values ('Helen', 'Jellies', 12, 6, 2016, 'NY', 680, '2016-06-
-12');
+insert into sales values ('Helen', 'Jellies', 12, 6, 2016, 'NY', 680, '2016-06-12');
 insert into sales values ('Emily', 'Apple', 28, 9, 2017, 'CT', 287, '2017-09-28');
 insert into sales values ('Emily', 'Ice', 20, 5, 2016, 'CT', 48, '2016-05-20');
 insert into sales values ('Helen', 'Dates', 25, 2, 2016, 'NY', 584, '2016-02-25');
 insert into sales values ('Claire', 'Butter', 6, 9, 2016, 'NY', 214, '2016-09-06');
-insert into sales values ('Emily', 'Grapes', 11, 10, 2017, 'NY', 468, '2017-10-
-11');
+insert into sales values ('Emily', 'Grapes', 11, 10, 2017, 'NY', 468, '2017-10-11');
 insert into sales values ('Chae', 'Dates', 11, 9, 2017, 'NY', 589, '2017-09-11');
 insert into sales values ('Sam', 'Cherry', 19, 3, 2019, 'CT', 97, '2019-03-19');
 insert into sales values ('Emily', 'Jellies', 8, 9, 2017, 'CT', 460, '2017-09-08');
@@ -2297,14 +2125,11 @@ insert into sales values ('Wally', 'Apple', 3, 6, 2020, 'PA', 385, '2020-06-03')
 insert into sales values ('Wally', 'Ham', 1, 9, 2019, 'NY', 272, '2019-09-01');
 insert into sales values ('Sam', 'Butter', 29, 9, 2019, 'NJ', 354, '2019-09-29');
 insert into sales values ('Emily', 'Cherry', 8, 11, 2017, 'NY', 75, '2017-11-08');
-insert into sales values ('Claire', 'Grapes', 24, 11, 2017, 'CT', 189, '2017-11-
-24');
+insert into sales values ('Claire', 'Grapes', 24, 11, 2017, 'CT', 189, '2017-11-24');
 insert into sales values ('Sam', 'Apple', 19, 4, 2018, 'NY', 498, '2018-04-19');
-insert into sales values ('Claire', 'Grapes', 17, 1, 2018, 'CT', 383, '2018-01-
-17');
+insert into sales values ('Claire', 'Grapes', 17, 1, 2018, 'CT', 383, '2018-01-17');
 insert into sales values ('Chae', 'Jellies', 16, 9, 2016, 'NJ', 147, '2016-09-16');
-insert into sales values ('Claire', 'Jellies', 8, 3, 2019, 'NY', 275, '2019-03-
-08');
+insert into sales values ('Claire', 'Jellies', 8, 3, 2019, 'NY', 275, '2019-03-08');
 insert into sales values ('Sam', 'Fish', 20, 2, 2019, 'PA', 265, '2019-02-20');
 insert into sales values ('Helen', 'Eggs', 14, 6, 2020, 'CT', 818, '2020-06-14');
 insert into sales values ('Dan', 'Ham', 29, 9, 2020, 'NY', 728, '2020-09-29');
@@ -2316,8 +2141,7 @@ insert into sales values ('Wally', 'Eggs', 13, 5, 2016, 'NJ', 752, '2016-05-13')
 insert into sales values ('Claire', 'Ice', 3, 7, 2018, 'CT', 807, '2018-07-03');
 insert into sales values ('Helen', 'Eggs', 16, 4, 2020, 'NY', 500, '2020-04-16');
 insert into sales values ('Chae', 'Grapes', 2, 3, 2018, 'PA', 992, '2018-03-02');
-insert into sales values ('Helen', 'Jellies', 1, 12, 2016, 'NY', 850, '2016-12-
-01');
+insert into sales values ('Helen', 'Jellies', 1, 12, 2016, 'NY', 850, '2016-12-01');
 insert into sales values ('Helen', 'Apple', 23, 8, 2018, 'NY', 493, '2018-08-23');
 insert into sales values ('Dan', 'Jellies', 15, 5, 2019, 'CT', 872, '2019-05-15');
 insert into sales values ('Claire', 'Dates', 7, 6, 2018, 'NJ', 79, '2018-06-07');
@@ -2355,8 +2179,7 @@ insert into sales values ('Claire', 'Ham', 16, 7, 2017, 'CT', 620, '2017-07-16')
 insert into sales values ('Chae', 'Grapes', 25, 5, 2016, 'NJ', 997, '2016-05-25');
 insert into sales values ('Chae', 'Jellies', 26, 12, 2017, 'NJ', 11, '2017-12-26');
 insert into sales values ('Sam', 'Ice', 9, 12, 2016, 'NY', 835, '2016-12-09');
-insert into sales values ('Helen', 'Jellies', 12, 6, 2020, 'PA', 563, '2020-06-
-12');
+insert into sales values ('Helen', 'Jellies', 12, 6, 2020, 'PA', 563, '2020-06-12');
 insert into sales values ('Wally', 'Cherry', 15, 7, 2017, 'PA', 57, '2017-07-15');
 insert into sales values ('Chae', 'Ice', 17, 4, 2017, 'NJ', 495, '2017-04-17');
 insert into sales values ('Mia', 'Fish', 2, 10, 2017, 'NY', 805, '2017-10-02');
@@ -2365,8 +2188,7 @@ insert into sales values ('Dan', 'Ice', 5, 1, 2017, 'NY', 533, '2017-01-05');
 insert into sales values ('Sam', 'Jellies', 19, 1, 2019, 'NJ', 298, '2019-01-19');
 insert into sales values ('Emily', 'Ham', 21, 10, 2016, 'CT', 850, '2016-10-21');
 insert into sales values ('Wally', 'Grapes', 17, 6, 2018, 'CT', 684, '2018-06-17');
-insert into sales values ('Claire', 'Jellies', 21, 5, 2018, 'NJ', 994, '2018-05-
-21');
+insert into sales values ('Claire', 'Jellies', 21, 5, 2018, 'NJ', 994, '2018-05-21');
 insert into sales values ('Helen', 'Ham', 7, 8, 2020, 'NJ', 763, '2020-08-07');
 insert into sales values ('Boo', 'Cherry', 4, 12, 2019, 'PA', 83, '2019-12-04');
 insert into sales values ('Sam', 'Jellies', 7, 7, 2018, 'PA', 376, '2018-07-07');
@@ -2394,8 +2216,7 @@ insert into sales values ('Chae', 'Fish', 15, 8, 2018, 'CT', 412, '2018-08-15');
 insert into sales values ('Claire', 'Apple', 27, 4, 2019, 'PA', 371, '2019-04-27');
 insert into sales values ('Dan', 'Ice', 11, 3, 2017, 'NJ', 45, '2017-03-11');
 insert into sales values ('Helen', 'Butter', 22, 2, 2019, 'NY', 279, '2019-02-22');
-insert into sales values ('Claire', 'Cherry', 22, 5, 2017, 'CT', 866, '2017-05-
-22');
+insert into sales values ('Claire', 'Cherry', 22, 5, 2017, 'CT', 866, '2017-05-22');
 insert into sales values ('Helen', 'Butter', 24, 6, 2020, 'NY', 261, '2020-06-24');
 insert into sales values ('Chae', 'Apple', 29, 5, 2020, 'PA', 222, '2020-05-29');
 insert into sales values ('Sam', 'Ice', 7, 4, 2016, 'NJ', 865, '2016-04-07');
@@ -2418,8 +2239,7 @@ insert into sales values ('Helen', 'Ice', 2, 10, 2017, 'NY', 975, '2017-10-02');
 insert into sales values ('Wally', 'Butter', 30, 8, 2016, 'CT', 712, '2016-08-30');
 insert into sales values ('Dan', 'Ice', 24, 4, 2018, 'NY', 438, '2018-04-24');
 insert into sales values ('Sam', 'Dates', 26, 3, 2019, 'CT', 444, '2019-03-26');
-insert into sales values ('Emily', 'Jellies', 29, 6, 2018, 'CT', 781, '2018-06-
-29');
+insert into sales values ('Emily', 'Jellies', 29, 6, 2018, 'CT', 781, '2018-06-29');
 insert into sales values ('Chae', 'Fish', 27, 8, 2017, 'NY', 848, '2017-08-27');
 insert into sales values ('Emily', 'Ham', 20, 12, 2020, 'NJ', 75, '2020-12-20');
 insert into sales values ('Helen', 'Ham', 6, 8, 2018, 'NJ', 651, '2018-08-06');
@@ -2456,8 +2276,7 @@ insert into sales values ('Helen', 'Eggs', 1, 1, 2019, 'PA', 623, '2019-01-01');
 insert into sales values ('Boo', 'Dates', 21, 1, 2018, 'NY', 603, '2018-01-21');
 insert into sales values ('Claire', 'Dates', 20, 6, 2017, 'NJ', 203, '2017-06-20');
 insert into sales values ('Sam', 'Butter', 4, 7, 2019, 'PA', 322, '2019-07-04');
-insert into sales values ('Helen', 'Jellies', 24, 3, 2016, 'NJ', 320, '2016-03-
-24');
+insert into sales values ('Helen', 'Jellies', 24, 3, 2016, 'NJ', 320, '2016-03-24');
 insert into sales values ('Sam', 'Cherry', 12, 4, 2020, 'PA', 840, '2020-04-12');
 insert into sales values ('Sam', 'Fish', 4, 1, 2016, 'NJ', 159, '2016-01-04');
 insert into sales values ('Helen', 'Eggs', 8, 1, 2017, 'PA', 951, '2017-01-08');
@@ -2475,21 +2294,18 @@ insert into sales values ('Dan', 'Ham', 11, 2, 2020, 'NY', 298, '2020-02-11');
 insert into sales values ('Sam', 'Ham', 22, 9, 2018, 'PA', 768, '2018-09-22');
 insert into sales values ('Emily', 'Dates', 19, 7, 2016, 'NY', 721, '2016-07-19');
 insert into sales values ('Sam', 'Eggs', 10, 12, 2016, 'NJ', 36, '2016-12-10');
-insert into sales values ('Claire', 'Jellies', 22, 2, 2020, 'NY', 409, '2020-02-
-22');
+insert into sales values ('Claire', 'Jellies', 22, 2, 2020, 'NY', 409, '2020-02-22');
 insert into sales values ('Boo', 'Butter', 17, 11, 2016, 'NY', 793, '2016-11-17');
 insert into sales values ('Emily', 'Fish', 5, 6, 2019, 'NJ', 660, '2019-06-05');
 insert into sales values ('Wally', 'Grapes', 12, 3, 2020, 'CT', 912, '2020-03-12');
 insert into sales values ('Sam', 'Apple', 12, 12, 2019, 'PA', 171, '2019-12-12');
 insert into sales values ('Mia', 'Cherry', 19, 9, 2017, 'NY', 311, '2017-09-19');
-insert into sales values ('Claire', 'Cherry', 6, 11, 2019, 'PA', 908, '2019-11-
-06');
+insert into sales values ('Claire', 'Cherry', 6, 11, 2019, 'PA', 908, '2019-11-06');
 insert into sales values ('Chae', 'Cherry', 13, 5, 2020, 'NY', 982, '2020-05-13');
 insert into sales values ('Boo', 'Grapes', 25, 8, 2018, 'PA', 40, '2018-08-25');
 insert into sales values ('Boo', 'Butter', 9, 2, 2020, 'CT', 180, '2020-02-09');
 insert into sales values ('Wally', 'Fish', 17, 8, 2019, 'NJ', 998, '2019-08-17');
-insert into sales values ('Claire', 'Cherry', 13, 7, 2017, 'NY', 329, '2017-07-
-13');
+insert into sales values ('Claire', 'Cherry', 13, 7, 2017, 'NY', 329, '2017-07-13');
 insert into sales values ('Claire', 'Apple', 7, 4, 2017, 'PA', 444, '2017-04-07');
 insert into sales values ('Chae', 'Eggs', 24, 9, 2020, 'CT', 320, '2020-09-24');
 insert into sales values ('Boo', 'Fish', 10, 10, 2020, 'NJ', 14, '2020-10-10');
@@ -2519,8 +2335,7 @@ insert into sales values ('Sam', 'Eggs', 25, 3, 2018, 'NY', 957, '2018-03-25');
 insert into sales values ('Helen', 'Ham', 19, 2, 2016, 'NY', 283, '2016-02-19');
 insert into sales values ('Dan', 'Ice', 14, 9, 2019, 'NJ', 924, '2019-09-14');
 insert into sales values ('Helen', 'Cherry', 30, 4, 2018, 'NJ', 113, '2018-04-30');
-insert into sales values ('Claire', 'Jellies', 9, 7, 2020, 'CT', 623, '2020-07-
-09');
+insert into sales values ('Claire', 'Jellies', 9, 7, 2020, 'CT', 623, '2020-07-09');
 insert into sales values ('Wally', 'Apple', 17, 5, 2016, 'PA', 316, '2016-05-17');
 insert into sales values ('Dan', 'Grapes', 19, 2, 2016, 'NJ', 315, '2016-02-19');
 insert into sales values ('Boo', 'Eggs', 2, 6, 2016, 'PA', 962, '2016-06-02');
@@ -2529,8 +2344,7 @@ insert into sales values ('Chae', 'Eggs', 27, 10, 2019, 'NY', 994, '2019-10-27')
 insert into sales values ('Mia', 'Ice', 24, 12, 2018, 'NJ', 838, '2018-12-24');
 insert into sales values ('Wally', 'Butter', 8, 2, 2018, 'CT', 302, '2018-02-08');
 insert into sales values ('Chae', 'Eggs', 12, 10, 2016, 'NY', 822, '2016-10-12');
-insert into sales values ('Claire', 'Butter', 11, 1, 2020, 'CT', 186, '2020-01-
-11');
+insert into sales values ('Claire', 'Butter', 11, 1, 2020, 'CT', 186, '2020-01-11');
 insert into sales values ('Dan', 'Grapes', 17, 12, 2019, 'PA', 744, '2019-12-17');
 insert into sales values ('Sam', 'Fish', 13, 11, 2016, 'NJ', 34, '2016-11-13');
 insert into sales values ('Dan', 'Cherry', 8, 4, 2017, 'PA', 55, '2017-04-08');
@@ -2554,8 +2368,7 @@ insert into sales values ('Claire', 'Eggs', 1, 10, 2018, 'NJ', 539, '2018-10-01'
 insert into sales values ('Boo', 'Ice', 19, 6, 2017, 'NY', 977, '2017-06-19');
 insert into sales values ('Dan', 'Apple', 1, 6, 2016, 'NJ', 143, '2016-06-01');
 insert into sales values ('Dan', 'Jellies', 19, 7, 2020, 'NJ', 659, '2020-07-19');
-insert into sales values ('Claire', 'Butter', 19, 2, 2020, 'CT', 718, '2020-02-
-19');
+insert into sales values ('Claire', 'Butter', 19, 2, 2020, 'CT', 718, '2020-02-19');
 insert into sales values ('Wally', 'Dates', 2, 1, 2016, 'CT', 96, '2016-01-02');
 insert into sales values ('Emily', 'Ham', 21, 7, 2019, 'NJ', 678, '2019-07-21');
 insert into sales values ('Dan', 'Cherry', 15, 3, 2016, 'PA', 976, '2016-03-15');
@@ -2564,8 +2377,7 @@ insert into sales values ('Chae', 'Butter', 16, 12, 2019, 'NY', 478, '2019-12-16
 insert into sales values ('Sam', 'Jellies', 4, 9, 2019, 'PA', 599, '2019-09-04');
 insert into sales values ('Wally', 'Fish', 8, 5, 2017, 'CT', 873, '2017-05-08');
 insert into sales values ('Helen', 'Dates', 22, 10, 2019, 'CT', 380, '2019-10-22');
-insert into sales values ('Wally', 'Cherry', 12, 11, 2019, 'CT', 365, '2019-11-
-12');
+insert into sales values ('Wally', 'Cherry', 12, 11, 2019, 'CT', 365, '2019-11-12');
 insert into sales values ('Mia', 'Jellies', 3, 3, 2019, 'NJ', 576, '2019-03-03');
 insert into sales values ('Boo', 'Ham', 27, 5, 2019, 'NJ', 291, '2019-05-27');
 insert into sales values ('Chae', 'Ham', 20, 11, 2018, 'PA', 566, '2018-11-20');
@@ -2573,8 +2385,7 @@ insert into sales values ('Sam', 'Ice', 3, 4, 2016, 'PA', 289, '2016-04-03');
 insert into sales values ('Mia', 'Ham', 25, 4, 2018, 'CT', 555, '2018-04-25');
 insert into sales values ('Boo', 'Ice', 6, 7, 2018, 'PA', 17, '2018-07-06');
 insert into sales values ('Dan', 'Cherry', 4, 4, 2016, 'PA', 124, '2016-04-04');
-insert into sales values ('Claire', 'Jellies', 11, 2, 2018, 'NJ', 268, '2018-02-
-11');
+insert into sales values ('Claire', 'Jellies', 11, 2, 2018, 'NJ', 268, '2018-02-11');
 insert into sales values ('Sam', 'Apple', 28, 2, 2019, 'PA', 614, '2019-02-28');
 insert into sales values ('Helen', 'Cherry', 2, 8, 2019, 'NY', 641, '2019-08-02');
 insert into sales values ('Boo', 'Ice', 21, 4, 2018, 'PA', 398, '2018-04-21');
@@ -2582,35 +2393,29 @@ insert into sales values ('Wally', 'Fish', 11, 8, 2017, 'NJ', 606, '2017-08-11')
 insert into sales values ('Sam', 'Apple', 3, 8, 2019, 'NY', 34, '2019-08-03');
 insert into sales values ('Boo', 'Jellies', 21, 8, 2020, 'NY', 249, '2020-08-21');
 insert into sales values ('Mia', 'Ham', 29, 4, 2019, 'CT', 416, '2019-04-29');
-insert into sales values ('Claire', 'Jellies', 30, 8, 2019, 'NJ', 293, '2019-08-
-30');
+insert into sales values ('Claire', 'Jellies', 30, 8, 2019, 'NJ', 293, '2019-08-30');
 insert into sales values ('Helen', 'Grapes', 1, 1, 2018, 'PA', 944, '2018-01-01');
-insert into sales values ('Emily', 'Cherry', 26, 12, 2017, 'CT', 660, '2017-12-
-26');
+insert into sales values ('Emily', 'Cherry', 26, 12, 2017, 'CT', 660, '2017-12-26');
 insert into sales values ('Chae', 'Apple', 11, 2, 2020, 'CT', 943, '2020-02-11');
 insert into sales values ('Wally', 'Dates', 28, 10, 2019, 'PA', 222, '2019-10-28');
 insert into sales values ('Claire', 'Ham', 24, 3, 2018, 'PA', 527, '2018-03-24');
 insert into sales values ('Helen', 'Ham', 30, 8, 2017, 'PA', 251, '2017-08-30');
-insert into sales values ('Claire', 'Grapes', 19, 10, 2016, 'NY', 435, '2016-10-
-19');
+insert into sales values ('Claire', 'Grapes', 19, 10, 2016, 'NY', 435, '2016-10-19');
 insert into sales values ('Mia', 'Butter', 3, 7, 2016, 'NY', 742, '2016-07-03');
 insert into sales values ('Wally', 'Butter', 23, 7, 2020, 'NJ', 847, '2020-07-23');
 insert into sales values ('Mia', 'Grapes', 20, 5, 2017, 'NJ', 153, '2017-05-20');
 insert into sales values ('Sam', 'Fish', 9, 6, 2020, 'NY', 378, '2020-06-09');
 insert into sales values ('Emily', 'Cherry', 22, 3, 2016, 'NY', 335, '2016-03-22');
 insert into sales values ('Boo', 'Eggs', 14, 9, 2017, 'PA', 92, '2017-09-14');
-insert into sales values ('Emily', 'Cherry', 23, 10, 2018, 'NY', 504, '2018-10-
-23');
+insert into sales values ('Emily', 'Cherry', 23, 10, 2018, 'NY', 504, '2018-10-23');
 insert into sales values ('Emily', 'Eggs', 17, 11, 2018, 'NY', 210, '2018-11-17');
-insert into sales values ('Claire', 'Butter', 16, 8, 2019, 'CT', 704, '2019-08-
-16');
+insert into sales values ('Claire', 'Butter', 16, 8, 2019, 'CT', 704, '2019-08-16');
 insert into sales values ('Chae', 'Dates', 12, 9, 2018, 'PA', 699, '2018-09-12');
 insert into sales values ('Boo', 'Eggs', 26, 3, 2020, 'CT', 480, '2020-03-26');
 insert into sales values ('Boo', 'Jellies', 28, 5, 2018, 'NJ', 167, '2018-05-28');
 insert into sales values ('Helen', 'Fish', 11, 10, 2019, 'NJ', 963, '2019-10-11');
 insert into sales values ('Chae', 'Butter', 16, 11, 2016, 'CT', 575, '2016-11-16');
-insert into sales values ('Claire', 'Butter', 27, 2, 2019, 'NY', 371, '2019-02-
-27');
+insert into sales values ('Claire', 'Butter', 27, 2, 2019, 'NY', 371, '2019-02-27');
 insert into sales values ('Dan', 'Eggs', 2, 6, 2020, 'CT', 674, '2020-06-02');
 insert into sales values ('Helen', 'Butter', 31, 3, 2016, 'PA', 613, '2016-03-31');
 insert into sales values ('Wally', 'Ham', 1, 2, 2018, 'NY', 832, '2018-02-01');
@@ -2641,8 +2446,7 @@ insert into sales values ('Chae', 'Cherry', 18, 7, 2017, 'PA', 201, '2017-07-18'
 insert into sales values ('Wally', 'Fish', 1, 2, 2018, 'NY', 766, '2018-02-01');
 insert into sales values ('Sam', 'Ham', 31, 5, 2018, 'CT', 342, '2018-05-31');
 insert into sales values ('Chae', 'Apple', 15, 3, 2018, 'PA', 553, '2018-03-15');
-insert into sales values ('Wally', 'Jellies', 24, 10, 2018, 'NJ', 327, '2018-10-
-24');
+insert into sales values ('Wally', 'Jellies', 24, 10, 2018, 'NJ', 327, '2018-10-24');
 insert into sales values ('Boo', 'Cherry', 20, 7, 2018, 'CT', 774, '2018-07-20');
 insert into sales values ('Dan', 'Ham', 1, 5, 2018, 'NY', 489, '2018-05-01');
 insert into sales values ('Helen', 'Ice', 19, 10, 2020, 'CT', 306, '2020-10-19');
@@ -2652,11 +2456,9 @@ insert into sales values ('Sam', 'Fish', 19, 8, 2020, 'CT', 212, '2020-08-19');
 insert into sales values ('Boo', 'Butter', 3, 4, 2020, 'CT', 488, '2020-04-03');
 insert into sales values ('Mia', 'Ice', 27, 7, 2017, 'CT', 865, '2017-07-27');
 insert into sales values ('Emily', 'Fish', 17, 5, 2020, 'CT', 301, '2020-05-17');
-insert into sales values ('Wally', 'Jellies', 1, 12, 2019, 'NJ', 984, '2019-12-
-01');
+insert into sales values ('Wally', 'Jellies', 1, 12, 2019, 'NJ', 984, '2019-12-01');
 insert into sales values ('Sam', 'Grapes', 12, 10, 2019, 'NJ', 415, '2019-10-12');
-insert into sales values ('Claire', 'Jellies', 20, 4, 2017, 'CT', 495, '2017-04-
-20');
+insert into sales values ('Claire', 'Jellies', 20, 4, 2017, 'CT', 495, '2017-04-20');
 insert into sales values ('Wally', 'Ham', 27, 4, 2018, 'NJ', 623, '2018-04-27');
 insert into sales values ('Wally', 'Dates', 13, 4, 2017, 'PA', 596, '2017-04-13');
 insert into sales values ('Wally', 'Butter', 6, 1, 2020, 'CT', 89, '2020-01-06');
@@ -2679,8 +2481,7 @@ insert into sales values ('Sam', 'Cherry', 14, 5, 2019, 'PA', 483, '2019-05-14')
 insert into sales values ('Emily', 'Apple', 12, 9, 2016, 'PA', 294, '2016-09-12');
 insert into sales values ('Dan', 'Ice', 12, 9, 2017, 'NJ', 393, '2017-09-12');
 insert into sales values ('Sam', 'Butter', 11, 3, 2016, 'NJ', 696, '2016-03-11');
-insert into sales values ('Claire', 'Grapes', 24, 1, 2018, 'CT', 213, '2018-01-
-24');
+insert into sales values ('Claire', 'Grapes', 24, 1, 2018, 'CT', 213, '2018-01-24');
 insert into sales values ('Dan', 'Apple', 21, 1, 2018, 'NJ', 1000, '2018-01-21');
 insert into sales values ('Chae', 'Ice', 29, 5, 2016, 'NJ', 366, '2016-05-29');
 insert into sales values ('Sam', 'Apple', 19, 11, 2018, 'NJ', 983, '2018-11-19');
@@ -2693,8 +2494,7 @@ insert into sales values ('Chae', 'Apple', 30, 4, 2016, 'PA', 287, '2016-04-30')
 insert into sales values ('Emily', 'Cherry', 15, 12, 2017, 'NJ', 45, '2017-12-15');
 insert into sales values ('Wally', 'Apple', 24, 10, 2020, 'PA', 942, '2020-10-24');
 insert into sales values ('Chae', 'Ice', 26, 5, 2018, 'NJ', 418, '2018-05-26');
-insert into sales values ('Claire', 'Grapes', 26, 1, 2020, 'NJ', 519, '2020-01-
-26');
+insert into sales values ('Claire', 'Grapes', 26, 1, 2020, 'NJ', 519, '2020-01-26');
 insert into sales values ('Helen', 'Fish', 17, 5, 2019, 'CT', 556, '2019-05-17');
 insert into sales values ('Boo', 'Apple', 28, 7, 2016, 'NJ', 869, '2016-07-28');
 insert into sales values ('Chae', 'Eggs', 11, 9, 2016, 'CT', 460, '2016-09-11');
@@ -2704,8 +2504,7 @@ insert into sales values ('Sam', 'Fish', 31, 10, 2019, 'NY', 552, '2019-10-31');
 insert into sales values ('Wally', 'Eggs', 7, 2, 2018, 'NY', 518, '2018-02-07');
 insert into sales values ('Boo', 'Fish', 11, 10, 2016, 'NJ', 131, '2016-10-11');
 insert into sales values ('Chae', 'Cherry', 11, 10, 2020, 'PA', 679, '2020-10-11');
-insert into sales values ('Emily', 'Butter', 16, 11, 2020, 'CT', 150, '2020-11-
-16');
+insert into sales values ('Emily', 'Butter', 16, 11, 2020, 'CT', 150, '2020-11-16');
 insert into sales values ('Emily', 'Jellies', 3, 3, 2020, 'CT', 399, '2020-03-03');
 insert into sales values ('Helen', 'Eggs', 16, 5, 2020, 'PA', 373, '2020-05-16');
 insert into sales values ('Emily', 'Ham', 19, 6, 2017, 'NJ', 581, '2017-06-19');
@@ -2713,8 +2512,7 @@ insert into sales values ('Helen', 'Fish', 6, 11, 2019, 'PA', 212, '2019-11-06')
 insert into sales values ('Wally', 'Fish', 14, 3, 2016, 'CT', 567, '2016-03-14');
 insert into sales values ('Chae', 'Butter', 27, 8, 2019, 'NJ', 961, '2019-08-27');
 insert into sales values ('Mia', 'Grapes', 30, 7, 2016, 'NY', 193, '2016-07-30');
-insert into sales values ('Helen', 'Jellies', 24, 1, 2016, 'NJ', 654, '2016-01-
-24');
+insert into sales values ('Helen', 'Jellies', 24, 1, 2016, 'NJ', 654, '2016-01-24');
 insert into sales values ('Chae', 'Ham', 9, 2, 2020, 'NJ', 742, '2020-02-09');
 insert into sales values ('Wally', 'Ice', 14, 4, 2019, 'NJ', 452, '2019-04-14');
 insert into sales values ('Helen', 'Ham', 30, 6, 2020, 'NJ', 434, '2020-06-30');
@@ -2749,10 +2547,8 @@ insert into sales values ('Boo', 'Butter', 8, 6, 2019, 'PA', 500, '2019-06-08');
 insert into sales values ('Wally', 'Butter', 22, 7, 2018, 'CT', 351, '2018-07-22');
 insert into sales values ('Sam', 'Dates', 22, 5, 2019, 'CT', 266, '2019-05-22');
 insert into sales values ('Boo', 'Ice', 20, 5, 2016, 'PA', 73, '2016-05-20');
-insert into sales values ('Emily', 'Jellies', 17, 11, 2017, 'CT', 92, '2017-11-
-17');
-insert into sales values ('Helen', 'Grapes', 27, 10, 2018, 'CT', 174, '2018-10-
-27');
+insert into sales values ('Emily', 'Jellies', 17, 11, 2017, 'CT', 92, '2017-11-17');
+insert into sales values ('Helen', 'Grapes', 27, 10, 2018, 'CT', 174, '2018-10-27');
 insert into sales values ('Sam', 'Jellies', 4, 12, 2016, 'CT', 115, '2016-12-04');
 insert into sales values ('Chae', 'Grapes', 31, 1, 2018, 'NJ', 520, '2018-01-31');
 insert into sales values ('Sam', 'Butter', 2, 3, 2020, 'NY', 474, '2020-03-02');
@@ -2768,8 +2564,7 @@ insert into sales values ('Dan', 'Cherry', 12, 2, 2017, 'PA', 512, '2017-02-12')
 insert into sales values ('Dan', 'Butter', 23, 8, 2019, 'NJ', 912, '2019-08-23');
 insert into sales values ('Mia', 'Dates', 20, 1, 2017, 'NJ', 703, '2017-01-20');
 insert into sales values ('Wally', 'Ice', 8, 10, 2019, 'NY', 516, '2019-10-08');
-insert into sales values ('Claire', 'Grapes', 28, 7, 2017, 'PA', 336, '2017-07-
-28');
+insert into sales values ('Claire', 'Grapes', 28, 7, 2017, 'PA', 336, '2017-07-28');
 insert into sales values ('Chae', 'Ham', 8, 12, 2018, 'NY', 850, '2018-12-08');
 insert into sales values ('Emily', 'Dates', 21, 3, 2020, 'NY', 54, '2020-03-21');
 insert into sales values ('Emily', 'Dates', 8, 11, 2018, 'PA', 204, '2018-11-08');
@@ -2786,8 +2581,7 @@ insert into sales values ('Wally', 'Eggs', 28, 10, 2018, 'NJ', 245, '2018-10-28'
 insert into sales values ('Claire', 'Fish', 8, 9, 2016, 'CT', 764, '2016-09-08');
 insert into sales values ('Sam', 'Grapes', 15, 3, 2020, 'NJ', 165, '2020-03-15');
 insert into sales values ('Chae', 'Ice', 19, 11, 2019, 'CT', 859, '2019-11-19');
-insert into sales values ('Emily', 'Jellies', 24, 1, 2018, 'NY', 665, '2018-01-
-24');
+insert into sales values ('Emily', 'Jellies', 24, 1, 2018, 'NY', 665, '2018-01-24');
 insert into sales values ('Wally', 'Ice', 19, 5, 2017, 'PA', 823, '2017-05-19');
 insert into sales values ('Helen', 'Dates', 22, 2, 2020, 'NY', 987, '2020-02-22');
 insert into sales values ('Wally', 'Cherry', 5, 6, 2019, 'NJ', 449, '2019-06-05');
@@ -2835,8 +2629,7 @@ insert into sales values ('Wally', 'Apple', 2, 3, 2017, 'NJ', 837, '2017-03-02')
 insert into sales values ('Emily', 'Dates', 26, 11, 2019, 'CT', 874, '2019-11-26');
 insert into sales values ('Chae', 'Cherry', 12, 3, 2020, 'NY', 52, '2020-03-12');
 insert into sales values ('Boo', 'Jellies', 22, 2, 2019, 'PA', 591, '2019-02-22');
-insert into sales values ('Emily', 'Cherry', 28, 10, 2018, 'NY', 317, '2018-10-
-28');
+insert into sales values ('Emily', 'Cherry', 28, 10, 2018, 'NY', 317, '2018-10-28');
 insert into sales values ('Dan', 'Grapes', 6, 4, 2016, 'CT', 960, '2016-04-06');
 insert into sales values ('Chae', 'Jellies', 28, 11, 2016, 'PA', 49, '2016-11-28');
 insert into sales values ('Helen', 'Cherry', 16, 2, 2018, 'CT', 436, '2018-02-16');
@@ -2849,8 +2642,7 @@ insert into sales values ('Chae', 'Ham', 31, 8, 2017, 'NJ', 782, '2017-08-31');
 insert into sales values ('Boo', 'Dates', 4, 6, 2019, 'NY', 674, '2019-06-04');
 insert into sales values ('Dan', 'Jellies', 27, 7, 2016, 'PA', 194, '2016-07-27');
 insert into sales values ('Mia', 'Jellies', 15, 10, 2020, 'NY', 257, '2020-10-15');
-insert into sales values ('Claire', 'Grapes', 18, 4, 2018, 'NJ', 217, '2018-04-
-18');
+insert into sales values ('Claire', 'Grapes', 18, 4, 2018, 'NJ', 217, '2018-04-18');
 insert into sales values ('Helen', 'Dates', 8, 3, 2018, 'CT', 711, '2018-03-08');
 insert into sales values ('Helen', 'Dates', 28, 2, 2017, 'NY', 731, '2017-02-28');
 insert into sales values ('Boo', 'Fish', 2, 2, 2016, 'NY', 336, '2016-02-02');
@@ -2873,15 +2665,12 @@ insert into sales values ('Mia', 'Fish', 26, 1, 2018, 'NJ', 972, '2018-01-26');
 insert into sales values ('Dan', 'Apple', 26, 3, 2016, 'PA', 313, '2016-03-26');
 insert into sales values ('Emily', 'Dates', 12, 6, 2016, 'PA', 371, '2016-06-12');
 insert into sales values ('Boo', 'Cherry', 11, 12, 2016, 'NY', 530, '2016-12-11');
-insert into sales values ('Chae', 'Jellies', 20, 10, 2016, 'NJ', 964, '2016-10-
-20');
+insert into sales values ('Chae', 'Jellies', 20, 10, 2016, 'NJ', 964, '2016-10-20');
 insert into sales values ('Wally', 'Eggs', 12, 11, 2020, 'PA', 714, '2020-11-12');
-insert into sales values ('Claire', 'Jellies', 15, 11, 2020, 'NJ', 849, '2020-11-
-15');
+insert into sales values ('Claire', 'Jellies', 15, 11, 2020, 'NJ', 849, '2020-11-15');
 insert into sales values ('Sam', 'Ice', 7, 6, 2017, 'CT', 399, '2017-06-07');
 insert into sales values ('Boo', 'Fish', 11, 6, 2017, 'NJ', 163, '2017-06-11');
-insert into sales values ('Claire', 'Butter', 31, 7, 2019, 'PA', 719, '2019-07-
-31');
+insert into sales values ('Claire', 'Butter', 31, 7, 2019, 'PA', 719, '2019-07-31');
 insert into sales values ('Helen', 'Ham', 6, 5, 2019, 'NJ', 622, '2019-05-06');
 insert into sales values ('Wally', 'Eggs', 29, 7, 2016, 'CT', 547, '2016-07-29');
 insert into sales values ('Dan', 'Fish', 5, 12, 2018, 'NY', 590, '2018-12-05');
@@ -2890,15 +2679,12 @@ insert into sales values ('Sam', 'Ham', 26, 5, 2019, 'PA', 667, '2019-05-26');
 insert into sales values ('Boo', 'Grapes', 28, 10, 2017, 'PA', 751, '2017-10-28');
 insert into sales values ('Mia', 'Jellies', 10, 4, 2020, 'NJ', 847, '2020-04-10');
 insert into sales values ('Emily', 'Grapes', 31, 3, 2017, 'NJ', 502, '2017-03-31');
-insert into sales values ('Claire', 'Apple', 27, 11, 2017, 'NY', 384, '2017-11-
-27');
-insert into sales values ('Claire', 'Grapes', 24, 8, 2017, 'NY', 713, '2017-08-
-24');
+insert into sales values ('Claire', 'Apple', 27, 11, 2017, 'NY', 384, '2017-11-27');
+insert into sales values ('Claire', 'Grapes', 24, 8, 2017, 'NY', 713, '2017-08-24');
 insert into sales values ('Sam', 'Butter', 29, 12, 2016, 'CT', 966, '2016-12-29');
 insert into sales values ('Mia', 'Eggs', 22, 4, 2017, 'NJ', 599, '2017-04-22');
 insert into sales values ('Dan', 'Ham', 8, 8, 2017, 'NJ', 799, '2017-08-08');
-insert into sales values ('Wally', 'Cherry', 25, 12, 2016, 'NY', 188, '2016-12-
-25');
+insert into sales values ('Wally', 'Cherry', 25, 12, 2016, 'NY', 188, '2016-12-25');
 insert into sales values ('Helen', 'Butter', 19, 8, 2017, 'NY', 503, '2017-08-19');
 insert into sales values ('Sam', 'Eggs', 3, 8, 2017, 'PA', 928, '2017-08-03');
 insert into sales values ('Wally', 'Grapes', 15, 4, 2017, 'CT', 558, '2017-04-15');
@@ -2936,8 +2722,7 @@ insert into sales values ('Dan', 'Apple', 8, 6, 2019, 'CT', 884, '2019-06-08');
 insert into sales values ('Dan', 'Cherry', 16, 1, 2017, 'CT', 141, '2017-01-16');
 insert into sales values ('Sam', 'Eggs', 13, 9, 2016, 'CT', 725, '2016-09-13');
 insert into sales values ('Helen', 'Cherry', 14, 5, 2020, 'PA', 920, '2020-05-14');
-insert into sales values ('Emily', 'Jellies', 10, 8, 2019, 'NY', 397, '2019-08-
-10');
+insert into sales values ('Emily', 'Jellies', 10, 8, 2019, 'NY', 397, '2019-08-10');
 insert into sales values ('Mia', 'Cherry', 1, 7, 2017, 'PA', 6, '2017-07-01');
 insert into sales values ('Sam', 'Eggs', 15, 1, 2020, 'NY', 305, '2020-01-15');
 insert into sales values ('Chae', 'Grapes', 11, 12, 2018, 'PA', 71, '2018-12-11');
@@ -2946,11 +2731,9 @@ insert into sales values ('Wally', 'Grapes', 24, 9, 2018, 'NY', 63, '2018-09-24'
 insert into sales values ('Sam', 'Cherry', 4, 2, 2017, 'PA', 113, '2017-02-04');
 insert into sales values ('Helen', 'Dates', 1, 2, 2019, 'NJ', 349, '2019-02-01');
 insert into sales values ('Sam', 'Dates', 13, 5, 2019, 'NJ', 35, '2019-05-13');
-insert into sales values ('Helen', 'Cherry', 15, 10, 2018, 'CT', 589, '2018-10-
-15');
+insert into sales values ('Helen', 'Cherry', 15, 10, 2018, 'CT', 589, '2018-10-15');
 insert into sales values ('Boo', 'Jellies', 26, 11, 2019, 'NY', 3, '2019-11-26');
-insert into sales values ('Claire', 'Grapes', 29, 6, 2020, 'PA', 333, '2020-06-
-29');
+insert into sales values ('Claire', 'Grapes', 29, 6, 2020, 'PA', 333, '2020-06-29');
 insert into sales values ('Helen', 'Grapes', 18, 9, 2020, 'NJ', 822, '2020-09-18');
 insert into sales values ('Sam', 'Apple', 16, 10, 2018, 'NJ', 516, '2018-10-16');
 insert into sales values ('Wally', 'Eggs', 28, 2, 2016, 'PA', 786, '2016-02-28');
@@ -2962,8 +2745,7 @@ insert into sales values ('Dan', 'Ice', 23, 8, 2019, 'PA', 642, '2019-08-23');
 insert into sales values ('Boo', 'Fish', 23, 7, 2019, 'NY', 269, '2019-07-23');
 insert into sales values ('Wally', 'Ham', 3, 4, 2020, 'NJ', 506, '2020-04-03');
 insert into sales values ('Emily', 'Grapes', 7, 10, 2018, 'CT', 463, '2018-10-07');
-insert into sales values ('Emily', 'Jellies', 6, 12, 2019, 'CT', 874, '2019-12-
-06');
+insert into sales values ('Emily', 'Jellies', 6, 12, 2019, 'CT', 874, '2019-12-06');
 insert into sales values ('Sam', 'Jellies', 3, 1, 2016, 'CT', 323, '2016-01-03');
 insert into sales values ('Chae', 'Grapes', 23, 11, 2020, 'PA', 636, '2020-11-23');
 insert into sales values ('Mia', 'Butter', 26, 2, 2018, 'NY', 761, '2018-02-26');
@@ -2972,11 +2754,9 @@ insert into sales values ('Emily', 'Ham', 25, 5, 2017, 'PA', 360, '2017-05-25');
 insert into sales values ('Sam', 'Fish', 11, 10, 2018, 'NY', 374, '2018-10-11');
 insert into sales values ('Boo', 'Ice', 16, 6, 2017, 'CT', 419, '2017-06-16');
 insert into sales values ('Sam', 'Butter', 11, 11, 2019, 'CT', 289, '2019-11-11');
-insert into sales values ('Claire', 'Butter', 17, 12, 2019, 'NY', 681, '2019-12-
-17');
+insert into sales values ('Claire', 'Butter', 17, 12, 2019, 'NY', 681, '2019-12-17');
 insert into sales values ('Sam', 'Eggs', 1, 3, 2018, 'CT', 740, '2018-03-01');
-insert into sales values ('Wally', 'Butter', 10, 11, 2020, 'NY', 217, '2020-11-
-10');
+insert into sales values ('Wally', 'Butter', 10, 11, 2020, 'NY', 217, '2020-11-10');
 insert into sales values ('Sam', 'Dates', 29, 6, 2016, 'PA', 582, '2016-06-29');
 insert into sales values ('Emily', 'Apple', 3, 2, 2019, 'PA', 677, '2019-02-03');
 insert into sales values ('Chae', 'Jellies', 3, 11, 2020, 'CT', 968, '2020-11-03');
@@ -3031,11 +2811,9 @@ insert into sales values ('Sam', 'Fish', 17, 6, 2020, 'CT', 594, '2020-06-17');
 insert into sales values ('Helen', 'Jellies', 5, 6, 2019, 'NJ', 907, '2019-06-05');
 insert into sales values ('Chae', 'Dates', 24, 8, 2018, 'PA', 119, '2018-08-24');
 insert into sales values ('Boo', 'Dates', 30, 3, 2019, 'CT', 103, '2019-03-30');
-insert into sales values ('Wally', 'Butter', 28, 12, 2019, 'PA', 515, '2019-12-
-28');
+insert into sales values ('Wally', 'Butter', 28, 12, 2019, 'PA', 515, '2019-12-28');
 insert into sales values ('Chae', 'Dates', 10, 6, 2017, 'NY', 632, '2017-06-10');
-insert into sales values ('Claire', 'Jellies', 18, 10, 2020, 'PA', 747, '2020-10-
-18');
+insert into sales values ('Claire', 'Jellies', 18, 10, 2020, 'PA', 747, '2020-10-18');
 insert into sales values ('Chae', 'Grapes', 17, 7, 2018, 'NJ', 847, '2018-07-17');
 insert into sales values ('Emily', 'Grapes', 26, 9, 2017, 'PA', 785, '2017-09-26');
 insert into sales values ('Boo', 'Jellies', 15, 6, 2017, 'NY', 381, '2017-06-15');
@@ -3050,34 +2828,27 @@ insert into sales values ('Wally', 'Cherry', 2, 9, 2019, 'NY', 335, '2019-09-02'
 insert into sales values ('Emily', 'Cherry', 7, 4, 2020, 'PA', 999, '2020-04-07');
 insert into sales values ('Chae', 'Fish', 2, 4, 2020, 'PA', 448, '2020-04-02');
 insert into sales values ('Emily', 'Ham', 14, 7, 2017, 'PA', 805, '2017-07-14');
-insert into sales values ('Claire', 'Butter', 22, 4, 2016, 'CT', 554, '2016-04-
-22');
+insert into sales values ('Claire', 'Butter', 22, 4, 2016, 'CT', 554, '2016-04-22');
 insert into sales values ('Wally', 'Ham', 28, 9, 2016, 'NY', 492, '2016-09-28');
 insert into sales values ('Boo', 'Grapes', 31, 12, 2018, 'CT', 181, '2018-12-31');
-insert into sales values ('Wally', 'Jellies', 24, 8, 2018, 'NY', 525, '2018-08-
-24');
+insert into sales values ('Wally', 'Jellies', 24, 8, 2018, 'NY', 525, '2018-08-24');
 insert into sales values ('Boo', 'Butter', 19, 8, 2019, 'CT', 907, '2019-08-19');
 insert into sales values ('Helen', 'Grapes', 10, 5, 2017, 'NJ', 482, '2017-05-10');
 insert into sales values ('Emily', 'Fish', 15, 7, 2020, 'NY', 756, '2020-07-15');
-insert into sales values ('Claire', 'Jellies', 5, 4, 2020, 'NY', 512, '2020-04-
-05');
+insert into sales values ('Claire', 'Jellies', 5, 4, 2020, 'NY', 512, '2020-04-05');
 insert into sales values ('Helen', 'Jellies', 17, 12, 2017, 'NY', 3, '2017-12-17');
 insert into sales values ('Claire', 'Dates', 7, 9, 2017, 'PA', 152, '2017-09-07');
 insert into sales values ('Dan', 'Dates', 13, 7, 2018, 'PA', 229, '2018-07-13');
 insert into sales values ('Dan', 'Apple', 13, 9, 2020, 'NY', 657, '2020-09-13');
-insert into sales values ('Claire', 'Jellies', 10, 6, 2017, 'NJ', 521, '2017-06-
-10');
+insert into sales values ('Claire', 'Jellies', 10, 6, 2017, 'NJ', 521, '2017-06-10');
 insert into sales values ('Chae', 'Grapes', 26, 10, 2016, 'CT', 264, '2016-10-26');
 insert into sales values ('Mia', 'Butter', 3, 6, 2020, 'NJ', 198, '2020-06-03');
 insert into sales values ('Sam', 'Butter', 12, 1, 2017, 'PA', 328, '2017-01-12');
 insert into sales values ('Emily', 'Grapes', 29, 9, 2019, 'CT', 62, '2019-09-29');
-insert into sales values ('Helen', 'Butter', 10, 12, 2020, 'NY', 542, '2020-12-
-10');
+insert into sales values ('Helen', 'Butter', 10, 12, 2020, 'NY', 542, '2020-12-10');
 insert into sales values ('Chae', 'Butter', 2, 12, 2017, 'NY', 487, '2017-12-02');
-insert into sales values ('Wally', 'Jellies', 8, 10, 2018, 'CT', 971, '2018-10-
-08');
-insert into sales values ('Claire', 'Jellies', 24, 6, 2020, 'NY', 124, '2020-06-
-24');
+insert into sales values ('Wally', 'Jellies', 8, 10, 2018, 'CT', 971, '2018-10-08');
+insert into sales values ('Claire', 'Jellies', 24, 6, 2020, 'NY', 124, '2020-06-24');
 insert into sales values ('Sam', 'Eggs', 11, 9, 2018, 'NJ', 527, '2018-09-11');
 insert into sales values ('Mia', 'Ham', 20, 12, 2019, 'PA', 541, '2019-12-20');
 insert into sales values ('Emily', 'Apple', 7, 6, 2016, 'CT', 984, '2016-06-07');
@@ -3094,8 +2865,7 @@ insert into sales values ('Claire', 'Dates', 15, 9, 2020, 'NJ', 63, '2020-09-15'
 insert into sales values ('Dan', 'Cherry', 23, 1, 2017, 'CT', 378, '2017-01-23');
 insert into sales values ('Boo', 'Grapes', 14, 1, 2019, 'PA', 958, '2019-01-14');
 insert into sales values ('Boo', 'Apple', 10, 9, 2016, 'CT', 464, '2016-09-10');
-insert into sales values ('Claire', 'Jellies', 30, 8, 2019, 'PA', 506, '2019-08-
-30');
+insert into sales values ('Claire', 'Jellies', 30, 8, 2019, 'PA', 506, '2019-08-30');
 insert into sales values ('Wally', 'Ham', 16, 1, 2018, 'PA', 903, '2018-01-16');
 insert into sales values ('Dan', 'Ice', 19, 1, 2017, 'NY', 443, '2017-01-19');
 insert into sales values ('Mia', 'Ice', 31, 3, 2019, 'NY', 949, '2019-03-31');
@@ -3105,21 +2875,18 @@ insert into sales values ('Dan', 'Cherry', 1, 12, 2019, 'CT', 497, '2019-12-01')
 insert into sales values ('Dan', 'Jellies', 23, 1, 2018, 'PA', 418, '2018-01-23');
 insert into sales values ('Emily', 'Apple', 4, 12, 2016, 'CT', 347, '2016-12-04');
 insert into sales values ('Emily', 'Apple', 11, 2, 2018, 'CT', 252, '2018-02-11');
-insert into sales values ('Claire', 'Butter', 30, 4, 2016, 'CT', 598, '2016-04-
-30');
+insert into sales values ('Claire', 'Butter', 30, 4, 2016, 'CT', 598, '2016-04-30');
 insert into sales values ('Wally', 'Grapes', 24, 9, 2020, 'NY', 778, '2020-09-24');
 insert into sales values ('Emily', 'Fish', 16, 8, 2016, 'NJ', 524, '2016-08-16');
 insert into sales values ('Wally', 'Apple', 4, 6, 2018, 'NY', 759, '2018-06-04');
 insert into sales values ('Emily', 'Apple', 13, 2, 2020, 'NY', 685, '2020-02-13');
-insert into sales values ('Claire', 'Cherry', 11, 11, 2020, 'NY', 514, '2020-11-
-11');
+insert into sales values ('Claire', 'Cherry', 11, 11, 2020, 'NY', 514, '2020-11-11');
 insert into sales values ('Chae', 'Ice', 19, 7, 2018, 'CT', 317, '2018-07-19');
 insert into sales values ('Sam', 'Dates', 5, 9, 2019, 'NJ', 5, '2019-09-05');
 insert into sales values ('Mia', 'Fish', 4, 8, 2017, 'PA', 715, '2017-08-04');
 insert into sales values ('Sam', 'Fish', 9, 12, 2018, 'CT', 868, '2018-12-09');
 insert into sales values ('Emily', 'Dates', 14, 9, 2016, 'NJ', 97, '2016-09-14');
-insert into sales values ('Claire', 'Jellies', 18, 10, 2018, 'NJ', 144, '2018-10-
-18');
+insert into sales values ('Claire', 'Jellies', 18, 10, 2018, 'NJ', 144, '2018-10-18');
 insert into sales values ('Emily', 'Apple', 12, 10, 2016, 'NY', 957, '2016-10-12');
 insert into sales values ('Sam', 'Grapes', 8, 4, 2020, 'NY', 875, '2020-04-08');
 insert into sales values ('Claire', 'Ice', 31, 1, 2017, 'NY', 276, '2017-01-31');
@@ -3134,8 +2901,7 @@ insert into sales values ('Mia', 'Ice', 11, 3, 2017, 'NJ', 130, '2017-03-11');
 insert into sales values ('Boo', 'Ham', 22, 10, 2020, 'CT', 295, '2020-10-22');
 insert into sales values ('Emily', 'Fish', 22, 11, 2018, 'NJ', 763, '2018-11-22');
 insert into sales values ('Emily', 'Eggs', 16, 6, 2020, 'NY', 273, '2020-06-16');
-insert into sales values ('Emily', 'Jellies', 25, 4, 2017, 'NJ', 630, '2017-04-
-25');
+insert into sales values ('Emily', 'Jellies', 25, 4, 2017, 'NJ', 630, '2017-04-25');
 insert into sales values ('Helen', 'Grapes', 29, 8, 2019, 'CT', 355, '2019-08-29');
 insert into sales values ('Wally', 'Ham', 19, 11, 2017, 'NY', 379, '2017-11-19');
 insert into sales values ('Emily', 'Dates', 6, 3, 2020, 'NY', 79, '2020-03-06');
@@ -3144,8 +2910,7 @@ insert into sales values ('Sam', 'Apple', 24, 4, 2020, 'CT', 873, '2020-04-24');
 insert into sales values ('Helen', 'Ice', 22, 7, 2016, 'PA', 408, '2016-07-22');
 insert into sales values ('Boo', 'Dates', 24, 2, 2019, 'CT', 331, '2019-02-24');
 insert into sales values ('Sam', 'Cherry', 10, 3, 2017, 'PA', 125, '2017-03-10');
-insert into sales values ('Emily', 'Jellies', 11, 7, 2017, 'CT', 984, '2017-07-
-11');
+insert into sales values ('Emily', 'Jellies', 11, 7, 2017, 'CT', 984, '2017-07-11');
 insert into sales values ('Dan', 'Butter', 23, 6, 2017, 'CT', 990, '2017-06-23');
 insert into sales values ('Boo', 'Ice', 16, 10, 2019, 'NY', 45, '2019-10-16');
 insert into sales values ('Wally', 'Ham', 14, 8, 2020, 'NY', 163, '2020-08-14');
@@ -3164,8 +2929,7 @@ insert into sales values ('Dan', 'Cherry', 11, 7, 2020, 'PA', 423, '2020-07-11')
 insert into sales values ('Wally', 'Fish', 30, 8, 2019, 'PA', 499, '2019-08-30');
 insert into sales values ('Chae', 'Apple', 20, 1, 2018, 'NJ', 582, '2018-01-20');
 insert into sales values ('Mia', 'Ham', 10, 9, 2018, 'PA', 26, '2018-09-10');
-insert into sales values ('Chae', 'Jellies', 24, 12, 2018, 'CT', 847, '2018-12-
-24');
+insert into sales values ('Chae', 'Jellies', 24, 12, 2018, 'CT', 847, '2018-12-24');
 insert into sales values ('Dan', 'Butter', 30, 8, 2016, 'CT', 555, '2016-08-30');
 insert into sales values ('Sam', 'Fish', 10, 1, 2017, 'PA', 688, '2017-01-10');
 insert into sales values ('Helen', 'Ice', 7, 12, 2018, 'CT', 265, '2018-12-07');
@@ -3173,8 +2937,7 @@ insert into sales values ('Sam', 'Ice', 11, 9, 2018, 'PA', 482, '2018-09-11');
 insert into sales values ('Dan', 'Grapes', 2, 5, 2016, 'CT', 695, '2016-05-02');
 insert into sales values ('Boo', 'Eggs', 29, 10, 2018, 'PA', 560, '2018-10-29');
 insert into sales values ('Emily', 'Fish', 19, 10, 2019, 'NY', 858, '2019-10-19');
-insert into sales values ('Emily', 'Jellies', 27, 5, 2018, 'PA', 254, '2018-05-
-27');
+insert into sales values ('Emily', 'Jellies', 27, 5, 2018, 'PA', 254, '2018-05-27');
 insert into sales values ('Boo', 'Jellies', 10, 5, 2016, 'PA', 484, '2016-05-10');
 insert into sales values ('Sam', 'Butter', 22, 11, 2019, 'CT', 978, '2019-11-22');
 insert into sales values ('Chae', 'Jellies', 23, 8, 2020, 'PA', 390, '2020-08-23');
@@ -3209,15 +2972,13 @@ insert into sales values ('Dan', 'Apple', 4, 12, 2019, 'PA', 679, '2019-12-04');
 insert into sales values ('Helen', 'Dates', 8, 11, 2017, 'PA', 726, '2017-11-08');
 insert into sales values ('Emily', 'Ice', 5, 12, 2016, 'NY', 458, '2016-12-05');
 insert into sales values ('Boo', 'Jellies', 15, 7, 2017, 'PA', 406, '2017-07-15');
-insert into sales values ('Helen', 'Jellies', 9, 10, 2019, 'PA', 307, '2019-10-
-09');
+insert into sales values ('Helen', 'Jellies', 9, 10, 2019, 'PA', 307, '2019-10-09');
 insert into sales values ('Wally', 'Apple', 17, 1, 2016, 'PA', 768, '2016-01-17');
 insert into sales values ('Sam', 'Butter', 11, 9, 2017, 'NJ', 251, '2017-09-11');
 insert into sales values ('Chae', 'Apple', 10, 9, 2018, 'NJ', 253, '2018-09-10');
 insert into sales values ('Wally', 'Cherry', 13, 8, 2019, 'NY', 409, '2019-08-13');
 insert into sales values ('Boo', 'Eggs', 6, 9, 2019, 'NY', 734, '2019-09-06');
-insert into sales values ('Claire', 'Grapes', 28, 5, 2016, 'PA', 334, '2016-05-
-28');
+insert into sales values ('Claire', 'Grapes', 28, 5, 2016, 'PA', 334, '2016-05-28');
 insert into sales values ('Mia', 'Cherry', 8, 6, 2020, 'NJ', 362, '2020-06-08');
 insert into sales values ('Helen', 'Eggs', 27, 1, 2019, 'NY', 227, '2019-01-27');
 insert into sales values ('Boo', 'Jellies', 28, 9, 2018, 'CT', 590, '2018-09-28');
@@ -3225,8 +2986,7 @@ insert into sales values ('Helen', 'Ham', 7, 11, 2018, 'NY', 756, '2018-11-07');
 insert into sales values ('Chae', 'Dates', 25, 6, 2019, 'NJ', 2, '2019-06-25');
 insert into sales values ('Wally', 'Cherry', 3, 11, 2016, 'CT', 735, '2016-11-03');
 insert into sales values ('Boo', 'Eggs', 29, 3, 2017, 'NY', 929, '2017-03-29');
-insert into sales values ('Claire', 'Jellies', 7, 4, 2019, 'NJ', 889, '2019-04-
-07');
+insert into sales values ('Claire', 'Jellies', 7, 4, 2019, 'NJ', 889, '2019-04-07');
 insert into sales values ('Claire', 'Fish', 11, 2, 2019, 'NY', 374, '2019-02-11');
 insert into sales values ('Emily', 'Grapes', 7, 8, 2016, 'NY', 412, '2016-08-07');
 insert into sales values ('Dan', 'Apple', 10, 5, 2020, 'NY', 342, '2020-05-10');
@@ -3245,8 +3005,7 @@ insert into sales values ('Sam', 'Butter', 20, 3, 2016, 'NJ', 139, '2016-03-20')
 insert into sales values ('Chae', 'Fish', 2, 2, 2020, 'CT', 390, '2020-02-02');
 insert into sales values ('Chae', 'Apple', 17, 7, 2017, 'PA', 346, '2017-07-17');
 insert into sales values ('Boo', 'Grapes', 26, 1, 2019, 'NY', 596, '2019-01-26');
-insert into sales values ('Claire', 'Cherry', 27, 3, 2017, 'NY', 819, '2017-03-
-27');
+insert into sales values ('Claire', 'Cherry', 27, 3, 2017, 'NY', 819, '2017-03-27');
 insert into sales values ('Emily', 'Ham', 10, 4, 2016, 'NJ', 338, '2016-04-10');
 insert into sales values ('Emily', 'Cherry', 29, 1, 2018, 'NJ', 314, '2018-01-29');
 insert into sales values ('Sam', 'Fish', 10, 9, 2020, 'PA', 166, '2020-09-10');
@@ -3257,12 +3016,10 @@ insert into sales values ('Dan', 'Cherry', 1, 9, 2016, 'CT', 654, '2016-09-01');
 insert into sales values ('Mia', 'Butter', 4, 6, 2018, 'PA', 754, '2018-06-04');
 insert into sales values ('Boo', 'Cherry', 12, 8, 2019, 'NJ', 982, '2019-08-12');
 insert into sales values ('Claire', 'Eggs', 11, 3, 2020, 'PA', 749, '2020-03-11');
-insert into sales values ('Wally', 'Grapes', 27, 11, 2018, 'NY', 684, '2018-11-
-27');
+insert into sales values ('Wally', 'Grapes', 27, 11, 2018, 'NY', 684, '2018-11-27');
 insert into sales values ('Emily', 'Ice', 5, 3, 2017, 'NY', 349, '2017-03-05');
 insert into sales values ('Dan', 'Fish', 15, 10, 2020, 'CT', 936, '2020-10-15');
-insert into sales values ('Claire', 'Butter', 14, 10, 2019, 'PA', 466, '2019-10-
-14');
+insert into sales values ('Claire', 'Butter', 14, 10, 2019, 'PA', 466, '2019-10-14');
 insert into sales values ('Dan', 'Grapes', 24, 4, 2019, 'NJ', 6, '2019-04-24');
 insert into sales values ('Dan', 'Eggs', 8, 8, 2020, 'NJ', 119, '2020-08-08');
 insert into sales values ('Claire', 'Ham', 4, 11, 2017, 'PA', 702, '2017-11-04');
@@ -3291,8 +3048,7 @@ insert into sales values ('Boo', 'Apple', 13, 11, 2019, 'NJ', 16, '2019-11-13');
 insert into sales values ('Claire', 'Ham', 30, 10, 2016, 'CT', 541, '2016-10-30');
 insert into sales values ('Mia', 'Grapes', 20, 5, 2017, 'PA', 661, '2017-05-20');
 insert into sales values ('Claire', 'Fish', 27, 1, 2017, 'NJ', 398, '2017-01-27');
-insert into sales values ('Helen', 'Butter', 28, 11, 2018, 'PA', 289, '2018-11-
-28');
+insert into sales values ('Helen', 'Butter', 28, 11, 2018, 'PA', 289, '2018-11-28');
 insert into sales values ('Sam', 'Grapes', 26, 3, 2017, 'NJ', 501, '2017-03-26');
 insert into sales values ('Boo', 'Grapes', 24, 9, 2016, 'NY', 939, '2016-09-24');
 insert into sales values ('Dan', 'Apple', 4, 8, 2020, 'NY', 791, '2020-08-04');
@@ -3314,12 +3070,9 @@ insert into sales values ('Wally', 'Jellies', 7, 6, 2020, 'PA', 291, '2020-06-07
 insert into sales values ('Mia', 'Fish', 14, 10, 2016, 'CT', 950, '2016-10-14');
 insert into sales values ('Boo', 'Apple', 17, 4, 2018, 'CT', 870, '2018-04-17');
 insert into sales values ('Dan', 'Fish', 13, 1, 2020, 'NJ', 428, '2020-01-13');
-insert into sales values ('Claire', 'Jellies', 8, 12, 2018, 'NJ', 722, '2018-12-
-08');
-insert into sales values ('Emily', 'Jellies', 19, 9, 2020, 'NY', 712, '2020-09-
-19');
-insert into sales values ('Wally', 'Jellies', 3, 10, 2020, 'NY', 150, '2020-10-
-03');
+insert into sales values ('Claire', 'Jellies', 8, 12, 2018, 'NJ', 722, '2018-12-08');
+insert into sales values ('Emily', 'Jellies', 19, 9, 2020, 'NY', 712, '2020-09-19');
+insert into sales values ('Wally', 'Jellies', 3, 10, 2020, 'NY', 150, '2020-10-03');
 insert into sales values ('Chae', 'Eggs', 10, 8, 2020, 'CT', 521, '2020-08-10');
 insert into sales values ('Emily', 'Ice', 7, 9, 2017, 'NJ', 551, '2017-09-07');
 insert into sales values ('Boo', 'Ham', 5, 2, 2019, 'PA', 847, '2019-02-05');
@@ -3329,8 +3082,7 @@ insert into sales values ('Wally', 'Ice', 18, 5, 2017, 'CT', 71, '2017-05-18');
 insert into sales values ('Mia', 'Ice', 4, 4, 2020, 'NJ', 753, '2020-04-04');
 insert into sales values ('Mia', 'Butter', 7, 12, 2016, 'PA', 962, '2016-12-07');
 insert into sales values ('Emily', 'Grapes', 18, 8, 2019, 'NJ', 95, '2019-08-18');
-insert into sales values ('Claire', 'Jellies', 22, 9, 2017, 'PA', 799, '2017-09-
-22');
+insert into sales values ('Claire', 'Jellies', 22, 9, 2017, 'PA', 799, '2017-09-22');
 insert into sales values ('Emily', 'Grapes', 9, 9, 2018, 'PA', 374, '2018-09-09');
 insert into sales values ('Sam', 'Butter', 16, 7, 2019, 'NY', 574, '2019-07-16');
 insert into sales values ('Helen', 'Fish', 26, 9, 2018, 'NJ', 978, '2018-09-26');
@@ -3347,8 +3099,7 @@ insert into sales values ('Chae', 'Butter', 19, 8, 2018, 'PA', 995, '2018-08-19'
 insert into sales values ('Dan', 'Apple', 2, 7, 2016, 'NY', 576, '2016-07-02');
 insert into sales values ('Emily', 'Ham', 1, 12, 2017, 'NY', 334, '2017-12-01');
 insert into sales values ('Boo', 'Cherry', 13, 7, 2020, 'NJ', 910, '2020-07-13');
-insert into sales values ('Claire', 'Butter', 31, 3, 2016, 'PA', 560, '2016-03-
-31');
+insert into sales values ('Claire', 'Butter', 31, 3, 2016, 'PA', 560, '2016-03-31');
 insert into sales values ('Chae', 'Dates', 24, 4, 2016, 'NY', 149, '2016-04-24');
 insert into sales values ('Claire', 'Ice', 1, 11, 2020, 'CT', 422, '2020-11-01');
 insert into sales values ('Helen', 'Fish', 5, 2, 2019, 'NJ', 872, '2019-02-05');
@@ -3374,8 +3125,7 @@ insert into sales values ('Chae', 'Dates', 6, 12, 2018, 'NJ', 234, '2018-12-06')
 insert into sales values ('Boo', 'Jellies', 7, 7, 2017, 'PA', 106, '2017-07-07');
 insert into sales values ('Wally', 'Ham', 27, 10, 2018, 'PA', 660, '2018-10-27');
 insert into sales values ('Mia', 'Jellies', 5, 2, 2016, 'CT', 602, '2016-02-05');
-insert into sales values ('Helen', 'Jellies', 15, 5, 2016, 'PA', 958, '2016-05-
-15');
+insert into sales values ('Helen', 'Jellies', 15, 5, 2016, 'PA', 958, '2016-05-15');
 insert into sales values ('Wally', 'Ham', 19, 9, 2016, 'NJ', 574, '2016-09-19');
 insert into sales values ('Helen', 'Dates', 31, 1, 2018, 'NJ', 162, '2018-01-31');
 insert into sales values ('Chae', 'Fish', 24, 3, 2016, 'NY', 14, '2016-03-24');
@@ -3384,24 +3134,20 @@ insert into sales values ('Emily', 'Fish', 5, 9, 2019, 'NY', 277, '2019-09-05');
 insert into sales values ('Sam', 'Dates', 18, 11, 2017, 'CT', 545, '2017-11-18');
 insert into sales values ('Claire', 'Fish', 26, 7, 2016, 'NJ', 582, '2016-07-26');
 insert into sales values ('Sam', 'Cherry', 15, 4, 2018, 'PA', 456, '2018-04-15');
-insert into sales values ('Helen', 'Cherry', 12, 10, 2016, 'CT', 639, '2016-10-
-12');
+insert into sales values ('Helen', 'Cherry', 12, 10, 2016, 'CT', 639, '2016-10-12');
 insert into sales values ('Sam', 'Fish', 10, 2, 2019, 'NY', 508, '2019-02-10');
-insert into sales values ('Emily', 'Jellies', 18, 10, 2019, 'NY', 74, '2019-10-
-18');
+insert into sales values ('Emily', 'Jellies', 18, 10, 2019, 'NY', 74, '2019-10-18');
 insert into sales values ('Mia', 'Ice', 31, 8, 2017, 'CT', 80, '2017-08-31');
 insert into sales values ('Helen', 'Ham', 29, 11, 2017, 'CT', 815, '2017-11-29');
 insert into sales values ('Claire', 'Ham', 22, 4, 2019, 'NJ', 968, '2019-04-22');
 insert into sales values ('Sam', 'Dates', 4, 7, 2020, 'CT', 246, '2020-07-04');
 insert into sales values ('Wally', 'Apple', 28, 2, 2017, 'CT', 233, '2017-02-28');
-insert into sales values ('Claire', 'Jellies', 4, 4, 2017, 'NJ', 695, '2017-04-
-04');
+insert into sales values ('Claire', 'Jellies', 4, 4, 2017, 'NJ', 695, '2017-04-04');
 insert into sales values ('Sam', 'Dates', 21, 5, 2020, 'CT', 105, '2020-05-21');
 insert into sales values ('Emily', 'Grapes', 22, 1, 2016, 'NJ', 405, '2016-01-22');
 insert into sales values ('Chae', 'Fish', 29, 11, 2020, 'CT', 596, '2020-11-29');
 insert into sales values ('Mia', 'Fish', 8, 8, 2019, 'NJ', 172, '2019-08-08');
-insert into sales values ('Helen', 'Cherry', 15, 12, 2018, 'CT', 416, '2018-12-
-15');
+insert into sales values ('Helen', 'Cherry', 15, 12, 2018, 'CT', 416, '2018-12-15');
 insert into sales values ('Sam', 'Grapes', 17, 7, 2020, 'CT', 450, '2020-07-17');
 insert into sales values ('Boo', 'Grapes', 5, 12, 2016, 'PA', 432, '2016-12-05');
 insert into sales values ('Claire', 'Ice', 11, 12, 2019, 'NJ', 27, '2019-12-11');
@@ -3409,8 +3155,7 @@ insert into sales values ('Dan', 'Apple', 24, 4, 2019, 'NJ', 128, '2019-04-24');
 insert into sales values ('Helen', 'Fish', 2, 9, 2017, 'CT', 674, '2017-09-02');
 insert into sales values ('Emily', 'Ham', 22, 2, 2020, 'NY', 419, '2020-02-22');
 insert into sales values ('Sam', 'Dates', 4, 12, 2020, 'PA', 670, '2020-12-04');
-insert into sales values ('Emily', 'Cherry', 13, 10, 2019, 'PA', 692, '2019-10-
-13');
+insert into sales values ('Emily', 'Cherry', 13, 10, 2019, 'PA', 692, '2019-10-13');
 insert into sales values ('Boo', 'Dates', 26, 4, 2018, 'NJ', 52, '2018-04-26');
 insert into sales values ('Dan', 'Grapes', 30, 7, 2020, 'NY', 870, '2020-07-30');
 insert into sales values ('Claire', 'Ham', 9, 8, 2016, 'CT', 5, '2016-08-09');
@@ -3439,8 +3184,7 @@ insert into sales values ('Mia', 'Butter', 7, 2, 2020, 'NJ', 920, '2020-02-07');
 insert into sales values ('Chae', 'Cherry', 16, 5, 2020, 'NJ', 399, '2020-05-16');
 insert into sales values ('Mia', 'Eggs', 4, 12, 2020, 'PA', 745, '2020-12-04');
 insert into sales values ('Helen', 'Ice', 26, 7, 2020, 'NJ', 749, '2020-07-26');
-insert into sales values ('Emily', 'Jellies', 16, 12, 2020, 'CT', 685, '2020-12-
-16');
+insert into sales values ('Emily', 'Jellies', 16, 12, 2020, 'CT', 685, '2020-12-16');
 insert into sales values ('Emily', 'Cherry', 14, 10, 2019, 'CT', 55, '2019-10-14');
 insert into sales values ('Claire', 'Butter', 9, 3, 2020, 'NJ', 797, '2020-03-09');
 insert into sales values ('Wally', 'Dates', 15, 10, 2018, 'PA', 702, '2018-10-15');
@@ -3448,8 +3192,7 @@ insert into sales values ('Emily', 'Eggs', 25, 2, 2019, 'NY', 320, '2019-02-25')
 insert into sales values ('Mia', 'Dates', 30, 12, 2020, 'NY', 493, '2020-12-30');
 insert into sales values ('Boo', 'Eggs', 14, 8, 2016, 'CT', 726, '2016-08-14');
 insert into sales values ('Dan', 'Ham', 14, 3, 2016, 'NY', 401, '2016-03-14');
-insert into sales values ('Claire', 'Jellies', 29, 3, 2020, 'PA', 359, '2020-03-
-29');
+insert into sales values ('Claire', 'Jellies', 29, 3, 2020, 'PA', 359, '2020-03-29');
 insert into sales values ('Claire', 'Dates', 16, 2, 2018, 'NY', 35, '2018-02-16');
 insert into sales values ('Mia', 'Fish', 26, 6, 2016, 'CT', 383, '2016-06-26');
 insert into sales values ('Boo', 'Ice', 8, 6, 2020, 'NY', 158, '2020-06-08');
@@ -3474,8 +3217,7 @@ insert into sales values ('Wally', 'Fish', 18, 2, 2018, 'NY', 308, '2018-02-18')
 insert into sales values ('Wally', 'Butter', 26, 9, 2016, 'PA', 683, '2016-09-26');
 insert into sales values ('Chae', 'Dates', 22, 3, 2016, 'NJ', 231, '2016-03-22');
 insert into sales values ('Claire', 'Butter', 4, 2, 2018, 'PA', 773, '2018-02-04');
-insert into sales values ('Emily', 'Butter', 26, 12, 2017, 'PA', 483, '2017-12-
-26');
+insert into sales values ('Emily', 'Butter', 26, 12, 2017, 'PA', 483, '2017-12-26');
 insert into sales values ('Wally', 'Eggs', 19, 12, 2019, 'NJ', 54, '2019-12-19');
 insert into sales values ('Emily', 'Ham', 11, 12, 2020, 'NY', 389, '2020-12-11');
 insert into sales values ('Wally', 'Ice', 14, 1, 2017, 'CT', 957, '2017-01-14');
@@ -3498,16 +3240,12 @@ insert into sales values ('Claire', 'Apple', 8, 7, 2020, 'CT', 77, '2020-07-08')
 insert into sales values ('Mia', 'Fish', 15, 4, 2019, 'CT', 921, '2019-04-15');
 insert into sales values ('Emily', 'Dates', 13, 4, 2016, 'NJ', 171, '2016-04-13');
 insert into sales values ('Sam', 'Apple', 29, 9, 2018, 'NY', 195, '2018-09-29');
-insert into sales values ('Claire', 'Cherry', 27, 4, 2020, 'NY', 841, '2020-04-
-27');
-insert into sales values ('Claire', 'Butter', 2, 11, 2017, 'CT', 649, '2017-11-
-02');
+insert into sales values ('Claire', 'Cherry', 27, 4, 2020, 'NY', 841, '2020-04-27');
+insert into sales values ('Claire', 'Butter', 2, 11, 2017, 'CT', 649, '2017-11-02');
 insert into sales values ('Wally', 'Cherry', 26, 5, 2019, 'NY', 971, '2019-05-26');
 insert into sales values ('Boo', 'Jellies', 6, 9, 2018, 'NJ', 418, '2018-09-06');
-insert into sales values ('Wally', 'Jellies', 29, 4, 2019, 'PA', 517, '2019-04-
-29');
-insert into sales values ('Emily', 'Butter', 11, 12, 2016, 'NJ', 296, '2016-12-
-11');
+insert into sales values ('Wally', 'Jellies', 29, 4, 2019, 'PA', 517, '2019-04-29');
+insert into sales values ('Emily', 'Butter', 11, 12, 2016, 'NJ', 296, '2016-12-11');
 insert into sales values ('Chae', 'Grapes', 26, 12, 2019, 'NY', 121, '2019-12-26');
 insert into sales values ('Emily', 'Apple', 20, 8, 2016, 'NY', 32, '2016-08-20');
 insert into sales values ('Chae', 'Butter', 29, 10, 2018, 'NJ', 709, '2018-10-29');
@@ -3566,8 +3304,7 @@ insert into sales values ('Sam', 'Ham', 18, 10, 2018, 'PA', 97, '2018-10-18');
 insert into sales values ('Boo', 'Grapes', 30, 9, 2017, 'NJ', 391, '2017-09-30');
 insert into sales values ('Claire', 'Dates', 3, 1, 2020, 'NY', 260, '2020-01-03');
 insert into sales values ('Dan', 'Eggs', 14, 8, 2016, 'NY', 706, '2016-08-14');
-insert into sales values ('Claire', 'Butter', 27, 6, 2016, 'NY', 365, '2016-06-
-27');
+insert into sales values ('Claire', 'Butter', 27, 6, 2016, 'NY', 365, '2016-06-27');
 insert into sales values ('Mia', 'Dates', 12, 5, 2016, 'PA', 342, '2016-05-12');
 insert into sales values ('Boo', 'Dates', 14, 12, 2017, 'PA', 343, '2017-12-14');
 insert into sales values ('Chae', 'Butter', 20, 7, 2016, 'PA', 990, '2016-07-20');
@@ -3582,14 +3319,12 @@ insert into sales values ('Claire', 'Fish', 7, 3, 2017, 'PA', 917, '2017-03-07')
 insert into sales values ('Wally', 'Ice', 7, 12, 2017, 'CT', 966, '2017-12-07');
 insert into sales values ('Dan', 'Ham', 5, 3, 2019, 'NJ', 691, '2019-03-05');
 insert into sales values ('Wally', 'Fish', 20, 7, 2020, 'NJ', 318, '2020-07-20');
-insert into sales values ('Claire', 'Cherry', 29, 7, 2019, 'PA', 183, '2019-07-
-29');
+insert into sales values ('Claire', 'Cherry', 29, 7, 2019, 'PA', 183, '2019-07-29');
 insert into sales values ('Claire', 'Eggs', 9, 8, 2020, 'NJ', 785, '2020-08-09');
 insert into sales values ('Dan', 'Dates', 22, 12, 2019, 'CT', 370, '2019-12-22');
 insert into sales values ('Dan', 'Apple', 16, 6, 2020, 'NY', 371, '2020-06-16');
 insert into sales values ('Boo', 'Jellies', 11, 2, 2020, 'NJ', 145, '2020-02-11');
-insert into sales values ('Emily', 'Cherry', 26, 10, 2019, 'NJ', 917, '2019-10-
-26');
+insert into sales values ('Emily', 'Cherry', 26, 10, 2019, 'NJ', 917, '2019-10-26');
 insert into sales values ('Helen', 'Ham', 21, 4, 2018, 'NY', 200, '2018-04-21');
 insert into sales values ('Sam', 'Butter', 1, 2, 2019, 'CT', 779, '2019-02-01');
 insert into sales values ('Mia', 'Butter', 26, 8, 2016, 'CT', 139, '2016-08-26');
@@ -3600,8 +3335,7 @@ insert into sales values ('Dan', 'Dates', 19, 3, 2020, 'NJ', 916, '2020-03-19');
 insert into sales values ('Helen', 'Apple', 18, 12, 2018, 'PA', 39, '2018-12-18');
 insert into sales values ('Sam', 'Apple', 1, 8, 2016, 'NJ', 477, '2016-08-01');
 insert into sales values ('Wally', 'Fish', 27, 4, 2017, 'NJ', 428, '2017-04-27');
-insert into sales values ('Claire', 'Apple', 10, 10, 2020, 'NY', 115, '2020-10-
-10');
+insert into sales values ('Claire', 'Apple', 10, 10, 2020, 'NY', 115, '2020-10-10');
 insert into sales values ('Dan', 'Ice', 16, 9, 2016, 'NJ', 882, '2016-09-16');
 insert into sales values ('Boo', 'Fish', 9, 8, 2017, 'NY', 27, '2017-08-09');
 insert into sales values ('Emily', 'Cherry', 29, 7, 2020, 'PA', 480, '2020-07-29');
@@ -3627,8 +3361,7 @@ insert into sales values ('Claire', 'Fish', 25, 10, 2017, 'NJ', 845, '2017-10-25
 insert into sales values ('Chae', 'Dates', 22, 6, 2017, 'NY', 950, '2017-06-22');
 insert into sales values ('Claire', 'Fish', 13, 10, 2019, 'CT', 205, '2019-10-13');
 insert into sales values ('Wally', 'Butter', 9, 7, 2017, 'PA', 296, '2017-07-09');
-insert into sales values ('Wally', 'Butter', 14, 12, 2018, 'NJ', 809, '2018-12-
-14');
+insert into sales values ('Wally', 'Butter', 14, 12, 2018, 'NJ', 809, '2018-12-14');
 insert into sales values ('Emily', 'Jellies', 7, 5, 2018, 'NJ', 577, '2018-05-07');
 insert into sales values ('Dan', 'Fish', 2, 2, 2020, 'NJ', 251, '2020-02-02');
 insert into sales values ('Chae', 'Cherry', 26, 4, 2019, 'NY', 157, '2019-04-26');
@@ -3669,18 +3402,14 @@ insert into sales values ('Emily', 'Ice', 13, 7, 2017, 'NJ', 506, '2017-07-13');
 insert into sales values ('Mia', 'Jellies', 16, 11, 2020, 'CT', 891, '2020-11-16');
 insert into sales values ('Emily', 'Butter', 4, 3, 2017, 'NY', 629, '2017-03-04');
 insert into sales values ('Claire', 'Fish', 4, 8, 2016, 'CT', 507, '2016-08-04');
-insert into sales values ('Claire', 'Jellies', 2, 8, 2016, 'NY', 378, '2016-08-
-02');
-insert into sales values ('Emily', 'Cherry', 28, 11, 2018, 'NJ', 459, '2018-11-
-28');
+insert into sales values ('Claire', 'Jellies', 2, 8, 2016, 'NY', 378, '2016-08-02');
+insert into sales values ('Emily', 'Cherry', 28, 11, 2018, 'NJ', 459, '2018-11-28');
 insert into sales values ('Chae', 'Jellies', 13, 5, 2020, 'CT', 821, '2020-05-13');
-insert into sales values ('Emily', 'Jellies', 13, 5, 2020, 'NY', 302, '2020-05-
-13');
+insert into sales values ('Emily', 'Jellies', 13, 5, 2020, 'NY', 302, '2020-05-13');
 insert into sales values ('Helen', 'Cherry', 16, 7, 2016, 'NJ', 429, '2016-07-16');
 insert into sales values ('Mia', 'Eggs', 2, 8, 2017, 'CT', 42, '2017-08-02');
 insert into sales values ('Dan', 'Cherry', 12, 1, 2017, 'NJ', 751, '2017-01-12');
-insert into sales values ('Helen', 'Jellies', 14, 6, 2020, 'NJ', 942, '2020-06-
-14');
+insert into sales values ('Helen', 'Jellies', 14, 6, 2020, 'NJ', 942, '2020-06-14');
 insert into sales values ('Emily', 'Eggs', 30, 6, 2018, 'NJ', 154, '2018-06-30');
 insert into sales values ('Sam', 'Jellies', 1, 1, 2019, 'PA', 637, '2019-01-01');
 insert into sales values ('Dan', 'Eggs', 5, 9, 2019, 'NJ', 925, '2019-09-05');
@@ -3739,8 +3468,7 @@ insert into sales values ('Dan', 'Dates', 2, 3, 2016, 'CT', 409, '2016-03-02');
 insert into sales values ('Chae', 'Cherry', 6, 1, 2017, 'PA', 763, '2017-01-06');
 insert into sales values ('Sam', 'Butter', 7, 1, 2020, 'PA', 163, '2020-01-07');
 insert into sales values ('Chae', 'Fish', 29, 7, 2016, 'NJ', 781, '2016-07-29');
-insert into sales values ('Claire', 'Butter', 17, 2, 2017, 'NY', 326, '2017-02-
-17');
+insert into sales values ('Claire', 'Butter', 17, 2, 2017, 'NY', 326, '2017-02-17');
 insert into sales values ('Emily', 'Ice', 2, 4, 2018, 'PA', 599, '2018-04-02');
 insert into sales values ('Dan', 'Butter', 26, 4, 2016, 'CT', 840, '2016-04-26');
 insert into sales values ('Dan', 'Cherry', 31, 12, 2017, 'PA', 602, '2017-12-31');
@@ -3758,12 +3486,10 @@ insert into sales values ('Emily', 'Butter', 7, 11, 2018, 'PA', 543, '2018-11-07
 insert into sales values ('Boo', 'Ice', 2, 6, 2016, 'CT', 691, '2016-06-02');
 insert into sales values ('Sam', 'Ham', 11, 12, 2017, 'NY', 820, '2017-12-11');
 insert into sales values ('Mia', 'Apple', 17, 12, 2016, 'PA', 331, '2016-12-17');
-insert into sales values ('Claire', 'Cherry', 15, 4, 2019, 'PA', 549, '2019-04-
-15');
+insert into sales values ('Claire', 'Cherry', 15, 4, 2019, 'PA', 549, '2019-04-15');
 insert into sales values ('Dan', 'Cherry', 24, 3, 2018, 'PA', 544, '2018-03-24');
 insert into sales values ('Mia', 'Jellies', 25, 6, 2018, 'CT', 362, '2018-06-25');
-insert into sales values ('Wally', 'Jellies', 24, 12, 2016, 'NJ', 363, '2016-12-
-24');
+insert into sales values ('Wally', 'Jellies', 24, 12, 2016, 'NJ', 363, '2016-12-24');
 insert into sales values ('Mia', 'Eggs', 12, 1, 2017, 'NY', 612, '2017-01-12');
 insert into sales values ('Claire', 'Dates', 16, 1, 2016, 'PA', 981, '2016-01-16');
 insert into sales values ('Chae', 'Butter', 25, 1, 2017, 'NY', 425, '2017-01-25');
@@ -3781,8 +3507,7 @@ insert into sales values ('Dan', 'Jellies', 21, 8, 2016, 'PA', 31, '2016-08-21')
 insert into sales values ('Boo', 'Ham', 3, 2, 2017, 'NJ', 186, '2017-02-03');
 insert into sales values ('Claire', 'Ice', 19, 5, 2020, 'CT', 441, '2020-05-19');
 insert into sales values ('Boo', 'Ham', 17, 9, 2018, 'PA', 422, '2018-09-17');
-insert into sales values ('Claire', 'Jellies', 9, 1, 2020, 'CT', 784, '2020-01-
-09');
+insert into sales values ('Claire', 'Jellies', 9, 1, 2020, 'CT', 784, '2020-01-09');
 insert into sales values ('Wally', 'Cherry', 26, 4, 2020, 'NJ', 490, '2020-04-26');
 insert into sales values ('Chae', 'Cherry', 25, 5, 2016, 'NY', 827, '2016-05-25');
 insert into sales values ('Chae', 'Grapes', 14, 7, 2016, 'NJ', 959, '2016-07-14');
@@ -3799,8 +3524,7 @@ insert into sales values ('Helen', 'Fish', 23, 11, 2020, 'PA', 667, '2020-11-23'
 insert into sales values ('Emily', 'Dates', 22, 1, 2020, 'NJ', 761, '2020-01-22');
 insert into sales values ('Wally', 'Ice', 2, 4, 2018, 'NJ', 851, '2018-04-02');
 insert into sales values ('Wally', 'Eggs', 30, 6, 2019, 'CT', 182, '2019-06-30');
-insert into sales values ('Claire', 'Jellies', 25, 7, 2016, 'PA', 975, '2016-07-
-25');
+insert into sales values ('Claire', 'Jellies', 25, 7, 2016, 'PA', 975, '2016-07-25');
 insert into sales values ('Sam', 'Jellies', 21, 6, 2016, 'CT', 290, '2016-06-21');
 insert into sales values ('Wally', 'Fish', 1, 3, 2019, 'NY', 632, '2019-03-01');
 insert into sales values ('Sam', 'Dates', 4, 10, 2016, 'NJ', 240, '2016-10-04');
@@ -3832,8 +3556,7 @@ insert into sales values ('Claire', 'Eggs', 29, 3, 2020, 'NY', 331, '2020-03-29'
 insert into sales values ('Claire', 'Ham', 5, 10, 2019, 'NY', 204, '2019-10-05');
 insert into sales values ('Dan', 'Ice', 3, 2, 2018, 'CT', 54, '2018-02-03');
 insert into sales values ('Boo', 'Eggs', 21, 7, 2020, 'CT', 459, '2020-07-21');
-insert into sales values ('Helen', 'Jellies', 29, 6, 2016, 'NJ', 220, '2016-06-
-29');
+insert into sales values ('Helen', 'Jellies', 29, 6, 2016, 'NJ', 220, '2016-06-29');
 insert into sales values ('Chae', 'Cherry', 26, 12, 2016, 'CT', 527, '2016-12-26');
 insert into sales values ('Helen', 'Cherry', 7, 9, 2020, 'NY', 332, '2020-09-07');
 insert into sales values ('Wally', 'Fish', 30, 4, 2017, 'NJ', 634, '2017-04-30');
@@ -3861,15 +3584,13 @@ insert into sales values ('Emily', 'Grapes', 26, 8, 2017, 'CT', 389, '2017-08-26
 insert into sales values ('Emily', 'Eggs', 9, 5, 2016, 'NY', 235, '2016-05-09');
 insert into sales values ('Claire', 'Apple', 8, 7, 2017, 'CT', 633, '2017-07-08');
 insert into sales values ('Boo', 'Dates', 10, 11, 2019, 'NY', 444, '2019-11-10');
-insert into sales values ('Claire', 'Butter', 24, 2, 2020, 'CT', 240, '2020-02-
-24');
+insert into sales values ('Claire', 'Butter', 24, 2, 2020, 'CT', 240, '2020-02-24');
 insert into sales values ('Boo', 'Ham', 17, 1, 2017, 'CT', 278, '2017-01-17');
 insert into sales values ('Emily', 'Grapes', 3, 2, 2016, 'NY', 246, '2016-02-03');
 insert into sales values ('Chae', 'Ice', 26, 7, 2020, 'NY', 802, '2020-07-26');
 insert into sales values ('Wally', 'Ham', 1, 5, 2019, 'NJ', 1, '2019-05-01');
 insert into sales values ('Boo', 'Eggs', 24, 5, 2018, 'CT', 823, '2018-05-24');
-insert into sales values ('Helen', 'Jellies', 30, 3, 2020, 'NJ', 259, '2020-03-
-30');
+insert into sales values ('Helen', 'Jellies', 30, 3, 2020, 'NJ', 259, '2020-03-30');
 insert into sales values ('Helen', 'Fish', 27, 2, 2019, 'PA', 724, '2019-02-27');
 insert into sales values ('Boo', 'Ham', 17, 10, 2017, 'CT', 612, '2017-10-17');
 insert into sales values ('Mia', 'Eggs', 13, 3, 2020, 'CT', 664, '2020-03-13');
@@ -3880,8 +3601,7 @@ insert into sales values ('Mia', 'Butter', 16, 7, 2019, 'NY', 123, '2019-07-16')
 insert into sales values ('Sam', 'Jellies', 24, 8, 2017, 'CT', 297, '2017-08-24');
 insert into sales values ('Wally', 'Eggs', 19, 11, 2017, 'NY', 434, '2017-11-19');
 insert into sales values ('Mia', 'Cherry', 24, 2, 2017, 'NJ', 612, '2017-02-24');
-insert into sales values ('Chae', 'Jellies', 18, 10, 2016, 'CT', 542, '2016-10-
-18');
+insert into sales values ('Chae', 'Jellies', 18, 10, 2016, 'CT', 542, '2016-10-18');
 insert into sales values ('Mia', 'Dates', 15, 12, 2016, 'NY', 855, '2016-12-15');
 insert into sales values ('Boo', 'Ice', 18, 9, 2019, 'PA', 985, '2019-09-18');
 insert into sales values ('Emily', 'Grapes', 4, 2, 2018, 'PA', 449, '2018-02-04');
@@ -3892,8 +3612,7 @@ insert into sales values ('Boo', 'Eggs', 26, 12, 2017, 'CT', 11, '2017-12-26');
 insert into sales values ('Chae', 'Eggs', 30, 6, 2017, 'PA', 220, '2017-06-30');
 insert into sales values ('Helen', 'Dates', 7, 10, 2018, 'NJ', 103, '2018-10-07');
 insert into sales values ('Dan', 'Ice', 25, 5, 2016, 'PA', 465, '2016-05-25');
-insert into sales values ('Claire', 'Grapes', 5, 12, 2018, 'PA', 731, '2018-12-
-05');
+insert into sales values ('Claire', 'Grapes', 5, 12, 2018, 'PA', 731, '2018-12-05');
 insert into sales values ('Mia', 'Dates', 3, 5, 2017, 'PA', 605, '2017-05-03');
 insert into sales values ('Chae', 'Butter', 1, 2, 2017, 'PA', 82, '2017-02-01');
 insert into sales values ('Helen', 'Cherry', 11, 2, 2020, 'PA', 45, '2020-02-11');
@@ -3945,15 +3664,13 @@ insert into sales values ('Helen', 'Dates', 25, 9, 2020, 'NY', 628, '2020-09-25'
 insert into sales values ('Dan', 'Eggs', 31, 1, 2019, 'CT', 21, '2019-01-31');
 insert into sales values ('Emily', 'Apple', 27, 11, 2019, 'CT', 874, '2019-11-27');
 insert into sales values ('Boo', 'Butter', 17, 9, 2017, 'NJ', 172, '2017-09-17');
-insert into sales values ('Emily', 'Jellies', 3, 11, 2020, 'NJ', 340, '2020-11-
-03');
+insert into sales values ('Emily', 'Jellies', 3, 11, 2020, 'NJ', 340, '2020-11-03');
 insert into sales values ('Wally', 'Eggs', 31, 5, 2018, 'NJ', 671, '2018-05-31');
 insert into sales values ('Helen', 'Eggs', 20, 6, 2016, 'CT', 123, '2016-06-20');
 insert into sales values ('Boo', 'Fish', 25, 8, 2016, 'NJ', 210, '2016-08-25');
 insert into sales values ('Dan', 'Dates', 9, 3, 2020, 'NJ', 683, '2020-03-09');
 insert into sales values ('Boo', 'Eggs', 28, 8, 2020, 'CT', 789, '2020-08-28');
-insert into sales values ('Claire', 'Dates', 27, 12, 2017, 'NJ', 571, '2017-12-
-27');
+insert into sales values ('Claire', 'Dates', 27, 12, 2017, 'NJ', 571, '2017-12-27');
 insert into sales values ('Chae', 'Dates', 22, 10, 2018, 'NY', 385, '2018-10-22');
 insert into sales values ('Boo', 'Apple', 20, 4, 2017, 'CT', 978, '2017-04-20');
 insert into sales values ('Chae', 'Jellies', 7, 6, 2016, 'NY', 7, '2016-06-07');
@@ -3961,8 +3678,7 @@ insert into sales values ('Chae', 'Apple', 20, 12, 2017, 'NJ', 581, '2017-12-20'
 insert into sales values ('Wally', 'Fish', 14, 12, 2017, 'CT', 982, '2017-12-14');
 insert into sales values ('Chae', 'Fish', 16, 5, 2019, 'PA', 420, '2019-05-16');
 insert into sales values ('Boo', 'Dates', 20, 10, 2020, 'PA', 891, '2020-10-20');
-insert into sales values ('Wally', 'Jellies', 28, 4, 2016, 'NY', 329, '2016-04-
-28');
+insert into sales values ('Wally', 'Jellies', 28, 4, 2016, 'NY', 329, '2016-04-28');
 insert into sales values ('Emily', 'Ham', 10, 5, 2019, 'CT', 751, '2019-05-10');
 insert into sales values ('Helen', 'Jellies', 5, 3, 2019, 'PA', 775, '2019-03-05');
 insert into sales values ('Sam', 'Ice', 16, 11, 2017, 'CT', 231, '2017-11-16');
@@ -3971,11 +3687,9 @@ insert into sales values ('Dan', 'Butter', 29, 8, 2016, 'NJ', 801, '2016-08-29')
 insert into sales values ('Sam', 'Eggs', 31, 3, 2016, 'NJ', 924, '2016-03-31');
 insert into sales values ('Dan', 'Apple', 18, 3, 2019, 'PA', 736, '2019-03-18');
 insert into sales values ('Wally', 'Ham', 19, 10, 2020, 'NY', 481, '2020-10-19');
-insert into sales values ('Emily', 'Butter', 12, 10, 2016, 'NJ', 450, '2016-10-
-12');
+insert into sales values ('Emily', 'Butter', 12, 10, 2016, 'NJ', 450, '2016-10-12');
 insert into sales values ('Mia', 'Butter', 8, 7, 2016, 'NJ', 336, '2016-07-08');
-insert into sales values ('Emily', 'Butter', 24, 12, 2018, 'NY', 458, '2018-12-
-24');
+insert into sales values ('Emily', 'Butter', 24, 12, 2018, 'NY', 458, '2018-12-24');
 insert into sales values ('Chae', 'Butter', 19, 8, 2018, 'CT', 70, '2018-08-19');
 insert into sales values ('Chae', 'Dates', 7, 1, 2016, 'CT', 25, '2016-01-07');
 insert into sales values ('Claire', 'Eggs', 1, 10, 2016, 'CT', 296, '2016-10-01');
@@ -3985,8 +3699,7 @@ insert into sales values ('Claire', 'Ham', 8, 7, 2019, 'NY', 619, '2019-07-08');
 insert into sales values ('Chae', 'Apple', 30, 7, 2017, 'NY', 812, '2017-07-30');
 insert into sales values ('Dan', 'Butter', 26, 2, 2016, 'NJ', 176, '2016-02-26');
 insert into sales values ('Sam', 'Cherry', 3, 5, 2019, 'NY', 21, '2019-05-03');
-insert into sales values ('Chae', 'Jellies', 24, 10, 2018, 'PA', 857, '2018-10-
-24');
+insert into sales values ('Chae', 'Jellies', 24, 10, 2018, 'PA', 857, '2018-10-24');
 insert into sales values ('Helen', 'Ice', 9, 11, 2020, 'PA', 779, '2020-11-09');
 insert into sales values ('Dan', 'Cherry', 23, 7, 2020, 'NY', 273, '2020-07-23');
 insert into sales values ('Boo', 'Butter', 6, 9, 2016, 'NY', 543, '2016-09-06');
@@ -4001,8 +3714,7 @@ insert into sales values ('Helen', 'Apple', 29, 3, 2016, 'NJ', 840, '2016-03-29'
 insert into sales values ('Wally', 'Fish', 6, 9, 2019, 'PA', 591, '2019-09-06');
 insert into sales values ('Dan', 'Butter', 12, 3, 2020, 'CT', 139, '2020-03-12');
 insert into sales values ('Wally', 'Cherry', 27, 6, 2020, 'PA', 466, '2020-06-27');
-insert into sales values ('Claire', 'Butter', 9, 11, 2018, 'NY', 780, '2018-11-
-09');
+insert into sales values ('Claire', 'Butter', 9, 11, 2018, 'NY', 780, '2018-11-09');
 insert into sales values ('Sam', 'Ice', 3, 1, 2019, 'PA', 928, '2019-01-03');
 insert into sales values ('Mia', 'Ice', 1, 3, 2019, 'PA', 287, '2019-03-01');
 insert into sales values ('Boo', 'Eggs', 16, 2, 2020, 'CT', 780, '2020-02-16');
@@ -4010,8 +3722,7 @@ insert into sales values ('Dan', 'Apple', 11, 3, 2020, 'CT', 385, '2020-03-11');
 insert into sales values ('Emily', 'Cherry', 14, 1, 2020, 'CT', 702, '2020-01-14');
 insert into sales values ('Dan', 'Eggs', 6, 8, 2020, 'NJ', 230, '2020-08-06');
 insert into sales values ('Wally', 'Grapes', 2, 2, 2016, 'CT', 945, '2016-02-02');
-insert into sales values ('Claire', 'Jellies', 17, 4, 2016, 'NJ', 318, '2016-04-
-17');
+insert into sales values ('Claire', 'Jellies', 17, 4, 2016, 'NJ', 318, '2016-04-17');
 insert into sales values ('Emily', 'Fish', 25, 12, 2018, 'NY', 162, '2018-12-25');
 insert into sales values ('Mia', 'Apple', 23, 1, 2019, 'PA', 654, '2019-01-23');
 insert into sales values ('Wally', 'Eggs', 5, 11, 2016, 'NJ', 953, '2016-11-05');
@@ -4032,8 +3743,7 @@ insert into sales values ('Emily', 'Dates', 30, 9, 2016, 'NJ', 771, '2016-09-30'
 insert into sales values ('Sam', 'Ham', 13, 3, 2019, 'NY', 972, '2019-03-13');
 insert into sales values ('Wally', 'Apple', 30, 3, 2018, 'NY', 510, '2018-03-30');
 insert into sales values ('Claire', 'Ham', 9, 11, 2020, 'NJ', 906, '2020-11-09');
-insert into sales values ('Chae', 'Jellies', 15, 11, 2020, 'NY', 601, '2020-11-
-15');
+insert into sales values ('Chae', 'Jellies', 15, 11, 2020, 'NY', 601, '2020-11-15');
 insert into sales values ('Dan', 'Dates', 29, 3, 2019, 'NY', 549, '2019-03-29');
 insert into sales values ('Emily', 'Fish', 4, 2, 2016, 'NY', 599, '2016-02-04');
 insert into sales values ('Boo', 'Jellies', 13, 9, 2020, 'PA', 322, '2020-09-13');
@@ -4044,10 +3754,8 @@ insert into sales values ('Wally', 'Dates', 25, 7, 2019, 'CT', 981, '2019-07-25'
 insert into sales values ('Chae', 'Ham', 14, 1, 2016, 'NY', 532, '2016-01-14');
 insert into sales values ('Mia', 'Fish', 1, 7, 2017, 'NJ', 718, '2017-07-01');
 insert into sales values ('Dan', 'Apple', 15, 4, 2020, 'NJ', 325, '2020-04-15');
-insert into sales values ('Claire', 'Butter', 10, 3, 2019, 'NY', 980, '2019-03-
-10');
-insert into sales values ('Wally', 'Jellies', 30, 10, 2017, 'CT', 858, '2017-10-
-30');
+insert into sales values ('Claire', 'Butter', 10, 3, 2019, 'NY', 980, '2019-03-10');
+insert into sales values ('Wally', 'Jellies', 30, 10, 2017, 'CT', 858, '2017-10-30');
 insert into sales values ('Helen', 'Fish', 20, 10, 2019, 'NY', 790, '2019-10-20');
 insert into sales values ('Sam', 'Butter', 16, 9, 2017, 'NJ', 251, '2017-09-16');
 insert into sales values ('Sam', 'Ice', 28, 8, 2019, 'NY', 319, '2019-08-28');
@@ -4059,8 +3767,7 @@ insert into sales values ('Emily', 'Grapes', 24, 6, 2016, 'NY', 269, '2016-06-24
 insert into sales values ('Mia', 'Dates', 15, 10, 2020, 'NY', 243, '2020-10-15');
 insert into sales values ('Boo', 'Eggs', 16, 3, 2016, 'NJ', 740, '2016-03-16');
 insert into sales values ('Boo', 'Fish', 1, 12, 2018, 'CT', 306, '2018-12-01');
-insert into sales values ('Claire', 'Jellies', 8, 2, 2020, 'NY', 315, '2020-02-
-08');
+insert into sales values ('Claire', 'Jellies', 8, 2, 2020, 'NY', 315, '2020-02-08');
 insert into sales values ('Boo', 'Grapes', 4, 4, 2018, 'NJ', 795, '2018-04-04');
 insert into sales values ('Claire', 'Fish', 8, 6, 2020, 'CT', 258, '2020-06-08');
 insert into sales values ('Emily', 'Fish', 8, 2, 2018, 'CT', 926, '2018-02-08');
@@ -4069,14 +3776,12 @@ insert into sales values ('Dan', 'Ham', 15, 7, 2016, 'CT', 687, '2016-07-15');
 insert into sales values ('Sam', 'Fish', 18, 2, 2016, 'CT', 73, '2016-02-18');
 insert into sales values ('Chae', 'Butter', 29, 8, 2016, 'CT', 282, '2016-08-29');
 insert into sales values ('Emily', 'Ice', 24, 1, 2017, 'NY', 560, '2017-01-24');
-insert into sales values ('Wally', 'Jellies', 16, 7, 2016, 'NY', 928, '2016-07-
-16');
+insert into sales values ('Wally', 'Jellies', 16, 7, 2016, 'NY', 928, '2016-07-16');
 insert into sales values ('Dan', 'Butter', 5, 12, 2017, 'NJ', 27, '2017-12-05');
 insert into sales values ('Claire', 'Apple', 10, 4, 2017, 'NY', 42, '2017-04-10');
 insert into sales values ('Mia', 'Ham', 18, 6, 2018, 'PA', 34, '2018-06-18');
 insert into sales values ('Claire', 'Cherry', 14, 1, 2018, 'NJ', 8, '2018-01-14');
-insert into sales values ('Wally', 'Grapes', 31, 10, 2016, 'NJ', 286, '2016-10-
-31');
+insert into sales values ('Wally', 'Grapes', 31, 10, 2016, 'NJ', 286, '2016-10-31');
 insert into sales values ('Sam', 'Fish', 30, 1, 2020, 'CT', 219, '2020-01-30');
 insert into sales values ('Mia', 'Cherry', 25, 10, 2016, 'PA', 199, '2016-10-25');
 insert into sales values ('Mia', 'Cherry', 5, 2, 2018, 'CT', 286, '2018-02-05');
@@ -4101,12 +3806,10 @@ insert into sales values ('Helen', 'Cherry', 2, 9, 2019, 'PA', 379, '2019-09-02'
 insert into sales values ('Dan', 'Apple', 28, 6, 2018, 'PA', 216, '2018-06-28');
 insert into sales values ('Wally', 'Dates', 12, 6, 2016, 'NJ', 256, '2016-06-12');
 insert into sales values ('Sam', 'Apple', 11, 7, 2020, 'CT', 51, '2020-07-11');
-insert into sales values ('Claire', 'Jellies', 20, 10, 2017, 'CT', 518, '2017-10-
-20');
+insert into sales values ('Claire', 'Jellies', 20, 10, 2017, 'CT', 518, '2017-10-20');
 insert into sales values ('Mia', 'Fish', 24, 11, 2018, 'NJ', 936, '2018-11-24');
 insert into sales values ('Chae', 'Jellies', 4, 12, 2019, 'NY', 499, '2019-12-04');
-insert into sales values ('Claire', 'Dates', 20, 10, 2016, 'NJ', 745, '2016-10-
-20');
+insert into sales values ('Claire', 'Dates', 20, 10, 2016, 'NJ', 745, '2016-10-20');
 insert into sales values ('Helen', 'Ice', 25, 1, 2017, 'NJ', 435, '2017-01-25');
 insert into sales values ('Mia', 'Ice', 23, 11, 2019, 'PA', 377, '2019-11-23');
 insert into sales values ('Dan', 'Cherry', 3, 7, 2020, 'PA', 124, '2020-07-03');
@@ -4116,8 +3819,7 @@ insert into sales values ('Wally', 'Eggs', 5, 7, 2018, 'CT', 632, '2018-07-05');
 insert into sales values ('Helen', 'Eggs', 9, 3, 2018, 'CT', 584, '2018-03-09');
 insert into sales values ('Sam', 'Jellies', 27, 5, 2016, 'CT', 634, '2016-05-27');
 insert into sales values ('Mia', 'Fish', 24, 4, 2020, 'NY', 294, '2020-04-24');
-insert into sales values ('Wally', 'Jellies', 30, 3, 2017, 'NJ', 526, '2017-03-
-30');
+insert into sales values ('Wally', 'Jellies', 30, 3, 2017, 'NJ', 526, '2017-03-30');
 insert into sales values ('Emily', 'Fish', 25, 10, 2020, 'NY', 917, '2020-10-25');
 insert into sales values ('Helen', 'Eggs', 20, 11, 2018, 'PA', 17, '2018-11-20');
 insert into sales values ('Boo', 'Grapes', 9, 3, 2016, 'PA', 750, '2016-03-09');
@@ -4133,8 +3835,7 @@ insert into sales values ('Helen', 'Ice', 31, 10, 2017, 'CT', 223, '2017-10-31')
 insert into sales values ('Wally', 'Fish', 18, 8, 2020, 'CT', 374, '2020-08-18');
 insert into sales values ('Sam', 'Eggs', 2, 11, 2019, 'PA', 395, '2019-11-02');
 insert into sales values ('Sam', 'Dates', 23, 6, 2020, 'NY', 971, '2020-06-23');
-insert into sales values ('Claire', 'Cherry', 26, 7, 2020, 'NJ', 926, '2020-07-
-26');
+insert into sales values ('Claire', 'Cherry', 26, 7, 2020, 'NJ', 926, '2020-07-26');
 insert into sales values ('Mia', 'Dates', 25, 12, 2018, 'CT', 643, '2018-12-25');
 insert into sales values ('Claire', 'Apple', 11, 3, 2020, 'NJ', 161, '2020-03-11');
 insert into sales values ('Sam', 'Butter', 27, 4, 2016, 'NY', 728, '2016-04-27');
@@ -4142,8 +3843,7 @@ insert into sales values ('Dan', 'Fish', 23, 5, 2016, 'NY', 986, '2016-05-23');
 insert into sales values ('Sam', 'Ice', 10, 2, 2019, 'PA', 264, '2019-02-10');
 insert into sales values ('Boo', 'Fish', 14, 6, 2019, 'CT', 997, '2019-06-14');
 insert into sales values ('Helen', 'Dates', 24, 6, 2019, 'NJ', 405, '2019-06-24');
-insert into sales values ('Emily', 'Butter', 23, 11, 2020, 'CT', 367, '2020-11-
-23');
+insert into sales values ('Emily', 'Butter', 23, 11, 2020, 'CT', 367, '2020-11-23');
 insert into sales values ('Helen', 'Cherry', 28, 1, 2018, 'NJ', 992, '2018-01-28');
 insert into sales values ('Emily', 'Butter', 1, 6, 2016, 'CT', 362, '2016-06-01');
 insert into sales values ('Dan', 'Dates', 24, 10, 2018, 'NY', 315, '2018-10-24');
@@ -4171,10 +3871,8 @@ insert into sales values ('Mia', 'Ice', 15, 6, 2016, 'NJ', 678, '2016-06-15');
 insert into sales values ('Helen', 'Grapes', 18, 9, 2018, 'NJ', 248, '2018-09-18');
 insert into sales values ('Boo', 'Ham', 17, 6, 2018, 'NJ', 654, '2018-06-17');
 insert into sales values ('Claire', 'Butter', 5, 7, 2016, 'PA', 413, '2016-07-05');
-insert into sales values ('Emily', 'Jellies', 16, 6, 2018, 'PA', 253, '2018-06-
-16');
-insert into sales values ('Helen', 'Jellies', 13, 7, 2020, 'PA', 797, '2020-07-
-13');
+insert into sales values ('Emily', 'Jellies', 16, 6, 2018, 'PA', 253, '2018-06-16');
+insert into sales values ('Helen', 'Jellies', 13, 7, 2020, 'PA', 797, '2020-07-13');
 insert into sales values ('Emily', 'Butter', 9, 4, 2020, 'NY', 251, '2020-04-09');
 insert into sales values ('Sam', 'Grapes', 13, 7, 2018, 'NY', 56, '2018-07-13');
 insert into sales values ('Sam', 'Fish', 16, 5, 2018, 'PA', 72, '2018-05-16');
@@ -4190,15 +3888,12 @@ insert into sales values ('Dan', 'Cherry', 28, 3, 2017, 'CT', 7, '2017-03-28');
 insert into sales values ('Boo', 'Apple', 21, 10, 2019, 'NY', 940, '2019-10-21');
 insert into sales values ('Emily', 'Cherry', 7, 2, 2019, 'PA', 658, '2019-02-07');
 insert into sales values ('Boo', 'Butter', 7, 12, 2019, 'NJ', 659, '2019-12-07');
-insert into sales values ('Claire', 'Cherry', 21, 12, 2019, 'NJ', 582, '2019-12-
-21');
-insert into sales values ('Helen', 'Jellies', 14, 10, 2019, 'PA', 12, '2019-10-
-14');
+insert into sales values ('Claire', 'Cherry', 21, 12, 2019, 'NJ', 582, '2019-12-21');
+insert into sales values ('Helen', 'Jellies', 14, 10, 2019, 'PA', 12, '2019-10-14');
 insert into sales values ('Sam', 'Apple', 5, 9, 2020, 'NJ', 669, '2020-09-05');
 insert into sales values ('Helen', 'Ham', 12, 4, 2017, 'NY', 897, '2017-04-12');
 insert into sales values ('Claire', 'Fish', 5, 1, 2019, 'PA', 884, '2019-01-05');
-insert into sales values ('Helen', 'Jellies', 11, 7, 2018, 'PA', 989, '2018-07-
-11');
+insert into sales values ('Helen', 'Jellies', 11, 7, 2018, 'PA', 989, '2018-07-11');
 insert into sales values ('Mia', 'Butter', 26, 10, 2017, 'NJ', 879, '2017-10-26');
 insert into sales values ('Mia', 'Ice', 12, 4, 2018, 'NJ', 184, '2018-04-12');
 insert into sales values ('Chae', 'Dates', 19, 10, 2019, 'PA', 658, '2019-10-19');
@@ -4221,8 +3916,7 @@ insert into sales values ('Mia', 'Butter', 26, 6, 2019, 'CT', 354, '2019-06-26')
 insert into sales values ('Mia', 'Apple', 31, 3, 2017, 'NY', 186, '2017-03-31');
 insert into sales values ('Dan', 'Apple', 25, 11, 2017, 'NY', 937, '2017-11-25');
 insert into sales values ('Emily', 'Dates', 14, 3, 2016, 'NJ', 301, '2016-03-14');
-insert into sales values ('Claire', 'Cherry', 20, 11, 2018, 'CT', 733, '2018-11-
-20');
+insert into sales values ('Claire', 'Cherry', 20, 11, 2018, 'CT', 733, '2018-11-20');
 insert into sales values ('Dan', 'Ham', 22, 2, 2020, 'NY', 343, '2020-02-22');
 insert into sales values ('Emily', 'Butter', 8, 8, 2016, 'NJ', 742, '2016-08-08');
 insert into sales values ('Emily', 'Dates', 30, 11, 2017, 'NY', 203, '2017-11-30');
@@ -4269,22 +3963,18 @@ insert into sales values ('Sam', 'Cherry', 22, 4, 2018, 'NJ', 634, '2018-04-22')
 insert into sales values ('Dan', 'Grapes', 19, 6, 2019, 'CT', 594, '2019-06-19');
 insert into sales values ('Wally', 'Butter', 5, 5, 2017, 'PA', 170, '2017-05-05');
 insert into sales values ('Dan', 'Apple', 21, 2, 2016, 'NJ', 524, '2016-02-21');
-insert into sales values ('Claire', 'Dates', 27, 10, 2018, 'NY', 764, '2018-10-
-27');
-insert into sales values ('Emily', 'Cherry', 11, 10, 2019, 'NY', 870, '2019-10-
-11');
+insert into sales values ('Claire', 'Dates', 27, 10, 2018, 'NY', 764, '2018-10-27');
+insert into sales values ('Emily', 'Cherry', 11, 10, 2019, 'NY', 870, '2019-10-11');
 insert into sales values ('Helen', 'Ham', 26, 2, 2018, 'PA', 622, '2018-02-26');
 insert into sales values ('Dan', 'Ham', 4, 8, 2017, 'NY', 474, '2017-08-04');
 insert into sales values ('Wally', 'Eggs', 6, 4, 2020, 'NJ', 803, '2020-04-06');
 insert into sales values ('Dan', 'Eggs', 10, 7, 2016, 'NJ', 461, '2016-07-10');
 insert into sales values ('Chae', 'Ice', 16, 4, 2020, 'CT', 215, '2020-04-16');
 insert into sales values ('Helen', 'Ham', 10, 2, 2016, 'NJ', 196, '2016-02-10');
-insert into sales values ('Claire', 'Cherry', 19, 9, 2016, 'NJ', 619, '2016-09-
-19');
+insert into sales values ('Claire', 'Cherry', 19, 9, 2016, 'NJ', 619, '2016-09-19');
 insert into sales values ('Wally', 'Apple', 27, 4, 2020, 'NY', 432, '2020-04-27');
 insert into sales values ('Emily', 'Dates', 1, 7, 2017, 'PA', 420, '2017-07-01');
-insert into sales values ('Emily', 'Butter', 26, 11, 2017, 'NJ', 448, '2017-11-
-26');
+insert into sales values ('Emily', 'Butter', 26, 11, 2017, 'NJ', 448, '2017-11-26');
 insert into sales values ('Boo', 'Grapes', 11, 3, 2016, 'CT', 997, '2016-03-11');
 insert into sales values ('Mia', 'Apple', 31, 8, 2020, 'CT', 14, '2020-08-31');
 insert into sales values ('Chae', 'Butter', 23, 2, 2019, 'CT', 143, '2019-02-23');
@@ -4296,8 +3986,7 @@ insert into sales values ('Sam', 'Eggs', 5, 4, 2018, 'NJ', 655, '2018-04-05');
 insert into sales values ('Dan', 'Grapes', 16, 7, 2019, 'NY', 561, '2019-07-16');
 insert into sales values ('Mia', 'Grapes', 18, 1, 2020, 'CT', 133, '2020-01-18');
 insert into sales values ('Chae', 'Fish', 5, 8, 2017, 'NJ', 44, '2017-08-05');
-insert into sales values ('Claire', 'Jellies', 19, 1, 2020, 'NY', 70, '2020-01-
-19');
+insert into sales values ('Claire', 'Jellies', 19, 1, 2020, 'NY', 70, '2020-01-19');
 insert into sales values ('Emily', 'Dates', 7, 12, 2019, 'NJ', 404, '2019-12-07');
 insert into sales values ('Dan', 'Eggs', 15, 9, 2019, 'NJ', 653, '2019-09-15');
 insert into sales values ('Dan', 'Ham', 24, 10, 2019, 'NY', 402, '2019-10-24');
@@ -4313,8 +4002,7 @@ insert into sales values ('Sam', 'Apple', 12, 6, 2016, 'PA', 71, '2016-06-12');
 insert into sales values ('Sam', 'Butter', 17, 6, 2017, 'NJ', 359, '2017-06-17');
 insert into sales values ('Wally', 'Grapes', 3, 6, 2018, 'PA', 429, '2018-06-03');
 insert into sales values ('Sam', 'Ice', 16, 3, 2020, 'NJ', 920, '2020-03-16');
-insert into sales values ('Claire', 'Butter', 12, 8, 2017, 'CT', 839, '2017-08-
-12');
+insert into sales values ('Claire', 'Butter', 12, 8, 2017, 'CT', 839, '2017-08-12');
 insert into sales values ('Dan', 'Cherry', 17, 5, 2018, 'NY', 728, '2018-05-17');
 insert into sales values ('Emily', 'Fish', 8, 5, 2020, 'PA', 117, '2020-05-08');
 insert into sales values ('Helen', 'Ice', 14, 4, 2019, 'NY', 226, '2019-04-14');
@@ -4367,17 +4055,14 @@ insert into sales values ('Helen', 'Dates', 22, 10, 2018, 'PA', 985, '2018-10-22
 insert into sales values ('Wally', 'Dates', 15, 4, 2018, 'PA', 664, '2018-04-15');
 insert into sales values ('Dan', 'Jellies', 20, 8, 2019, 'CT', 172, '2019-08-20');
 insert into sales values ('Emily', 'Eggs', 17, 9, 2020, 'NY', 62, '2020-09-17');
-insert into sales values ('Wally', 'Jellies', 31, 1, 2017, 'NY', 230, '2017-01-
-31');
-insert into sales values ('Helen', 'Jellies', 30, 5, 2016, 'CT', 217, '2016-05-
-30');
+insert into sales values ('Wally', 'Jellies', 31, 1, 2017, 'NY', 230, '2017-01-31');
+insert into sales values ('Helen', 'Jellies', 30, 5, 2016, 'CT', 217, '2016-05-30');
 insert into sales values ('Boo', 'Ice', 11, 12, 2017, 'NY', 370, '2017-12-11');
 insert into sales values ('Sam', 'Apple', 13, 2, 2016, 'PA', 791, '2016-02-13');
 insert into sales values ('Mia', 'Fish', 2, 12, 2018, 'NY', 116, '2018-12-02');
 insert into sales values ('Dan', 'Dates', 3, 10, 2016, 'CT', 656, '2016-10-03');
 insert into sales values ('Sam', 'Butter', 20, 12, 2019, 'PA', 602, '2019-12-20');
-insert into sales values ('Claire', 'Cherry', 30, 4, 2020, 'NJ', 203, '2020-04-
-30');
+insert into sales values ('Claire', 'Cherry', 30, 4, 2020, 'NJ', 203, '2020-04-30');
 insert into sales values ('Boo', 'Dates', 27, 6, 2017, 'NY', 16, '2017-06-27');
 insert into sales values ('Helen', 'Eggs', 22, 3, 2020, 'NY', 918, '2020-03-22');
 insert into sales values ('Wally', 'Grapes', 5, 6, 2019, 'NJ', 57, '2019-06-05');
@@ -4387,8 +4072,7 @@ insert into sales values ('Helen', 'Dates', 27, 11, 2018, 'CT', 976, '2018-11-27
 insert into sales values ('Mia', 'Ham', 5, 4, 2020, 'NY', 822, '2020-04-05');
 insert into sales values ('Dan', 'Dates', 2, 12, 2020, 'CT', 123, '2020-12-02');
 insert into sales values ('Emily', 'Eggs', 22, 9, 2016, 'NJ', 325, '2016-09-22');
-insert into sales values ('Claire', 'Cherry', 24, 5, 2020, 'NJ', 214, '2020-05-
-24');
+insert into sales values ('Claire', 'Cherry', 24, 5, 2020, 'NJ', 214, '2020-05-24');
 insert into sales values ('Dan', 'Dates', 5, 9, 2019, 'PA', 661, '2019-09-05');
 insert into sales values ('Wally', 'Grapes', 6, 9, 2019, 'CT', 236, '2019-09-06');
 insert into sales values ('Helen', 'Apple', 27, 2, 2018, 'NJ', 256, '2018-02-27');
@@ -4400,8 +4084,7 @@ insert into sales values ('Sam', 'Butter', 20, 2, 2016, 'PA', 12, '2016-02-20');
 insert into sales values ('Boo', 'Grapes', 24, 4, 2020, 'CT', 526, '2020-04-24');
 insert into sales values ('Sam', 'Eggs', 24, 4, 2019, 'CT', 65, '2019-04-24');
 insert into sales values ('Wally', 'Butter', 29, 9, 2018, 'NY', 634, '2018-09-29');
-insert into sales values ('Claire', 'Butter', 16, 5, 2019, 'NJ', 883, '2019-05-
-16');
+insert into sales values ('Claire', 'Butter', 16, 5, 2019, 'NJ', 883, '2019-05-16');
 insert into sales values ('Sam', 'Eggs', 19, 8, 2016, 'PA', 497, '2016-08-19');
 insert into sales values ('Mia', 'Cherry', 7, 5, 2019, 'NJ', 522, '2019-05-07');
 insert into sales values ('Sam', 'Jellies', 15, 8, 2017, 'PA', 42, '2017-08-15');
@@ -4418,8 +4101,7 @@ insert into sales values ('Wally', 'Grapes', 12, 7, 2016, 'NJ', 503, '2016-07-12
 insert into sales values ('Wally', 'Grapes', 8, 10, 2018, 'PA', 758, '2018-10-08');
 insert into sales values ('Mia', 'Dates', 18, 2, 2018, 'CT', 89, '2018-02-18');
 insert into sales values ('Wally', 'Butter', 12, 7, 2020, 'NY', 938, '2020-07-12');
-insert into sales values ('Chae', 'Jellies', 23, 11, 2020, 'PA', 510, '2020-11-
-23');
+insert into sales values ('Chae', 'Jellies', 23, 11, 2020, 'PA', 510, '2020-11-23');
 insert into sales values ('Emily', 'Fish', 17, 8, 2017, 'PA', 875, '2017-08-17');
 insert into sales values ('Helen', 'Jellies', 18, 2, 2018, 'NY', 85, '2018-02-18');
 insert into sales values ('Wally', 'Butter', 11, 8, 2019, 'PA', 372, '2019-08-11');
@@ -4428,8 +4110,7 @@ insert into sales values ('Chae', 'Cherry', 29, 6, 2019, 'NY', 877, '2019-06-29'
 insert into sales values ('Chae', 'Butter', 27, 11, 2020, 'NJ', 909, '2020-11-27');
 insert into sales values ('Dan', 'Fish', 5, 4, 2020, 'NY', 464, '2020-04-05');
 insert into sales values ('Emily', 'Butter', 18, 3, 2016, 'NJ', 2, '2016-03-18');
-insert into sales values ('Helen', 'Jellies', 15, 10, 2017, 'NY', 353, '2017-10-
-15');
+insert into sales values ('Helen', 'Jellies', 15, 10, 2017, 'NY', 353, '2017-10-15');
 insert into sales values ('Dan', 'Eggs', 28, 8, 2020, 'PA', 659, '2020-08-28');
 insert into sales values ('Dan', 'Dates', 25, 9, 2018, 'PA', 38, '2018-09-25');
 insert into sales values ('Chae', 'Ice', 9, 10, 2019, 'PA', 464, '2019-10-09');
@@ -4438,21 +4119,18 @@ insert into sales values ('Wally', 'Apple', 25, 3, 2017, 'CT', 228, '2017-03-25'
 insert into sales values ('Boo', 'Grapes', 23, 8, 2020, 'CT', 698, '2020-08-23');
 insert into sales values ('Chae', 'Fish', 7, 9, 2019, 'PA', 648, '2019-09-07');
 insert into sales values ('Helen', 'Ham', 9, 2, 2016, 'NJ', 731, '2016-02-09');
-insert into sales values ('Helen', 'Butter', 29, 10, 2018, 'NJ', 871, '2018-10-
-29');
+insert into sales values ('Helen', 'Butter', 29, 10, 2018, 'NJ', 871, '2018-10-29');
 insert into sales values ('Chae', 'Fish', 30, 8, 2016, 'NJ', 339, '2016-08-30');
 insert into sales values ('Claire', 'Fish', 15, 11, 2019, 'NJ', 694, '2019-11-15');
 insert into sales values ('Boo', 'Butter', 24, 11, 2019, 'NY', 562, '2019-11-24');
-insert into sales values ('Chae', 'Jellies', 20, 12, 2017, 'CT', 603, '2017-12-
-20');
+insert into sales values ('Chae', 'Jellies', 20, 12, 2017, 'CT', 603, '2017-12-20');
 insert into sales values ('Helen', 'Grapes', 8, 3, 2019, 'PA', 27, '2019-03-08');
 insert into sales values ('Boo', 'Jellies', 2, 9, 2018, 'CT', 279, '2018-09-02');
 insert into sales values ('Helen', 'Fish', 20, 10, 2016, 'NJ', 586, '2016-10-20');
 insert into sales values ('Wally', 'Fish', 24, 11, 2016, 'NY', 310, '2016-11-24');
 insert into sales values ('Mia', 'Cherry', 26, 1, 2019, 'NJ', 11, '2019-01-26');
 insert into sales values ('Emily', 'Cherry', 28, 7, 2020, 'PA', 955, '2020-07-28');
-insert into sales values ('Helen', 'Jellies', 15, 2, 2017, 'CT', 520, '2017-02-
-15');
+insert into sales values ('Helen', 'Jellies', 15, 2, 2017, 'CT', 520, '2017-02-15');
 insert into sales values ('Mia', 'Apple', 28, 4, 2016, 'PA', 292, '2016-04-28');
 insert into sales values ('Sam', 'Ham', 14, 12, 2019, 'NY', 590, '2019-12-14');
 insert into sales values ('Wally', 'Fish', 18, 2, 2019, 'PA', 431, '2019-02-18');
@@ -4499,12 +4177,10 @@ insert into sales values ('Chae', 'Butter', 21, 2, 2020, 'CT', 854, '2020-02-21'
 insert into sales values ('Claire', 'Apple', 15, 4, 2016, 'CT', 6, '2016-04-15');
 insert into sales values ('Mia', 'Apple', 23, 10, 2017, 'CT', 730, '2017-10-23');
 insert into sales values ('Chae', 'Dates', 18, 11, 2017, 'PA', 889, '2017-11-18');
-insert into sales values ('Claire', 'Jellies', 24, 2, 2016, 'NY', 103, '2016-02-
-24');
+insert into sales values ('Claire', 'Jellies', 24, 2, 2016, 'NY', 103, '2016-02-24');
 insert into sales values ('Helen', 'Fish', 4, 2, 2016, 'NJ', 33, '2016-02-04');
 insert into sales values ('Wally', 'Cherry', 18, 9, 2016, 'NJ', 770, '2016-09-18');
-insert into sales values ('Claire', 'Jellies', 11, 12, 2020, 'PA', 605, '2020-12-
-11');
+insert into sales values ('Claire', 'Jellies', 11, 12, 2020, 'PA', 605, '2020-12-11');
 insert into sales values ('Boo', 'Apple', 15, 7, 2017, 'NJ', 10, '2017-07-15');
 insert into sales values ('Emily', 'Fish', 22, 4, 2019, 'NJ', 125, '2019-04-22');
 insert into sales values ('Sam', 'Ham', 4, 9, 2020, 'CT', 834, '2020-09-04');
@@ -4519,13 +4195,11 @@ insert into sales values ('Helen', 'Ice', 9, 6, 2019, 'CT', 302, '2019-06-09');
 insert into sales values ('Boo', 'Butter', 8, 10, 2017, 'NY', 178, '2017-10-08');
 insert into sales values ('Helen', 'Ice', 22, 7, 2016, 'NY', 350, '2016-07-22');
 insert into sales values ('Helen', 'Fish', 21, 7, 2019, 'NY', 590, '2019-07-21');
-insert into sales values ('Claire', 'Grapes', 28, 2, 2020, 'NJ', 670, '2020-02-
-28');
+insert into sales values ('Claire', 'Grapes', 28, 2, 2020, 'NJ', 670, '2020-02-28');
 insert into sales values ('Helen', 'Ice', 24, 10, 2016, 'NY', 827, '2016-10-24');
 insert into sales values ('Emily', 'Ham', 18, 10, 2020, 'NJ', 605, '2020-10-18');
 insert into sales values ('Chae', 'Fish', 31, 3, 2016, 'PA', 515, '2016-03-31');
-insert into sales values ('Wally', 'Cherry', 21, 12, 2018, 'NJ', 429, '2018-12-
-21');
+insert into sales values ('Wally', 'Cherry', 21, 12, 2018, 'NJ', 429, '2018-12-21');
 insert into sales values ('Emily', 'Ham', 21, 8, 2018, 'NY', 326, '2018-08-21');
 insert into sales values ('Wally', 'Cherry', 1, 7, 2018, 'PA', 765, '2018-07-01');
 insert into sales values ('Boo', 'Dates', 19, 12, 2017, 'NJ', 226, '2017-12-19');
@@ -4534,8 +4208,7 @@ insert into sales values ('Sam', 'Butter', 2, 7, 2016, 'PA', 729, '2016-07-02');
 insert into sales values ('Sam', 'Dates', 19, 12, 2020, 'PA', 71, '2020-12-19');
 insert into sales values ('Chae', 'Cherry', 24, 6, 2018, 'NY', 887, '2018-06-24');
 insert into sales values ('Boo', 'Dates', 31, 3, 2017, 'NY', 166, '2017-03-31');
-insert into sales values ('Emily', 'Butter', 29, 12, 2019, 'NY', 510, '2019-12-
-29');
+insert into sales values ('Emily', 'Butter', 29, 12, 2019, 'NY', 510, '2019-12-29');
 insert into sales values ('Dan', 'Grapes', 14, 9, 2019, 'NY', 998, '2019-09-14');
 insert into sales values ('Mia', 'Grapes', 1, 11, 2020, 'NY', 390, '2020-11-01');
 insert into sales values ('Claire', 'Fish', 19, 1, 2019, 'CT', 951, '2019-01-19');
@@ -4567,16 +4240,14 @@ insert into sales values ('Chae', 'Fish', 23, 4, 2019, 'PA', 394, '2019-04-23');
 insert into sales values ('Claire', 'Eggs', 21, 1, 2017, 'NY', 881, '2017-01-21');
 insert into sales values ('Helen', 'Cherry', 22, 8, 2017, 'PA', 718, '2017-08-22');
 insert into sales values ('Chae', 'Ham', 15, 3, 2017, 'NJ', 215, '2017-03-15');
-insert into sales values ('Emily', 'Grapes', 11, 11, 2019, 'PA', 561, '2019-11-
-11');
+insert into sales values ('Emily', 'Grapes', 11, 11, 2019, 'PA', 561, '2019-11-11');
 insert into sales values ('Sam', 'Fish', 25, 6, 2018, 'CT', 593, '2018-06-25');
 insert into sales values ('Emily', 'Dates', 8, 3, 2018, 'NY', 296, '2018-03-08');
 insert into sales values ('Sam', 'Butter', 13, 5, 2017, 'NY', 940, '2017-05-13');
 insert into sales values ('Dan', 'Butter', 23, 10, 2017, 'NJ', 348, '2017-10-23');
 insert into sales values ('Helen', 'Grapes', 16, 9, 2016, 'CT', 840, '2016-09-16');
 insert into sales values ('Mia', 'Grapes', 21, 11, 2017, 'NY', 417, '2017-11-21');
-insert into sales values ('Wally', 'Jellies', 13, 11, 2017, 'NJ', 638, '2017-11-
-13');
+insert into sales values ('Wally', 'Jellies', 13, 11, 2017, 'NJ', 638, '2017-11-13');
 insert into sales values ('Emily', 'Eggs', 1, 6, 2019, 'NJ', 478, '2019-06-01');
 insert into sales values ('Claire', 'Grapes', 8, 9, 2017, 'PA', 958, '2017-09-08');
 insert into sales values ('Wally', 'Grapes', 26, 7, 2016, 'CT', 312, '2016-07-26');
@@ -4590,8 +4261,7 @@ insert into sales values ('Helen', 'Butter', 26, 8, 2019, 'CT', 709, '2019-08-26
 insert into sales values ('Emily', 'Ham', 30, 11, 2017, 'CT', 388, '2017-11-30');
 insert into sales values ('Chae', 'Apple', 17, 12, 2019, 'PA', 307, '2019-12-17');
 insert into sales values ('Emily', 'Ice', 16, 2, 2017, 'NY', 733, '2017-02-16');
-insert into sales values ('Claire', 'Jellies', 9, 4, 2018, 'CT', 196, '2018-04-
-09');
+insert into sales values ('Claire', 'Jellies', 9, 4, 2018, 'CT', 196, '2018-04-09');
 insert into sales values ('Emily', 'Ice', 17, 6, 2016, 'NJ', 779, '2016-06-17');
 insert into sales values ('Claire', 'Cherry', 12, 5, 2020, 'NY', 24, '2020-05-12');
 insert into sales values ('Dan', 'Eggs', 21, 12, 2019, 'NJ', 787, '2019-12-21');
@@ -4600,8 +4270,7 @@ insert into sales values ('Boo', 'Grapes', 12, 7, 2019, 'NY', 703, '2019-07-12')
 insert into sales values ('Chae', 'Cherry', 13, 7, 2020, 'CT', 315, '2020-07-13');
 insert into sales values ('Dan', 'Dates', 9, 11, 2019, 'NJ', 323, '2019-11-09');
 insert into sales values ('Chae', 'Fish', 12, 12, 2017, 'PA', 463, '2017-12-12');
-insert into sales values ('Claire', 'Cherry', 7, 12, 2020, 'NJ', 489, '2020-12-
-07');
+insert into sales values ('Claire', 'Cherry', 7, 12, 2020, 'NJ', 489, '2020-12-07');
 insert into sales values ('Dan', 'Eggs', 6, 7, 2020, 'NY', 214, '2020-07-06');
 insert into sales values ('Helen', 'Cherry', 27, 7, 2016, 'CT', 724, '2016-07-27');
 insert into sales values ('Mia', 'Ice', 7, 11, 2016, 'CT', 453, '2016-11-07');
@@ -4616,16 +4285,14 @@ insert into sales values ('Sam', 'Eggs', 25, 1, 2016, 'CT', 805, '2016-01-25');
 insert into sales values ('Claire', 'Ham', 18, 2, 2018, 'NJ', 626, '2018-02-18');
 insert into sales values ('Boo', 'Eggs', 30, 7, 2019, 'NY', 836, '2019-07-30');
 insert into sales values ('Chae', 'Fish', 25, 3, 2016, 'NY', 43, '2016-03-25');
-insert into sales values ('Claire', 'Jellies', 10, 1, 2018, 'PA', 311, '2018-01-
-10');
+insert into sales values ('Claire', 'Jellies', 10, 1, 2018, 'PA', 311, '2018-01-10');
 insert into sales values ('Wally', 'Jellies', 6, 9, 2019, 'NY', 734, '2019-09-06');
 insert into sales values ('Mia', 'Grapes', 11, 1, 2020, 'CT', 667, '2020-01-11');
 insert into sales values ('Boo', 'Ice', 9, 6, 2016, 'CT', 612, '2016-06-09');
 insert into sales values ('Boo', 'Fish', 11, 3, 2020, 'PA', 325, '2020-03-11');
 insert into sales values ('Emily', 'Grapes', 21, 6, 2017, 'PA', 682, '2017-06-21');
 insert into sales values ('Boo', 'Eggs', 21, 5, 2019, 'NJ', 850, '2019-05-21');
-insert into sales values ('Wally', 'Jellies', 23, 6, 2019, 'NY', 779, '2019-06-
-23');
+insert into sales values ('Wally', 'Jellies', 23, 6, 2019, 'NY', 779, '2019-06-23');
 insert into sales values ('Chae', 'Grapes', 30, 1, 2016, 'PA', 632, '2016-01-30');
 insert into sales values ('Emily', 'Fish', 7, 6, 2017, 'PA', 911, '2017-06-07');
 insert into sales values ('Sam', 'Ice', 20, 2, 2016, 'NJ', 848, '2016-02-20');
@@ -4636,11 +4303,9 @@ insert into sales values ('Dan', 'Ham', 10, 2, 2019, 'PA', 175, '2019-02-10');
 insert into sales values ('Boo', 'Ham', 20, 5, 2017, 'NJ', 370, '2017-05-20');
 insert into sales values ('Dan', 'Fish', 26, 5, 2017, 'NJ', 556, '2017-05-26');
 insert into sales values ('Dan', 'Fish', 6, 3, 2019, 'NJ', 570, '2019-03-06');
-insert into sales values ('Wally', 'Grapes', 23, 11, 2016, 'CT', 608, '2016-11-
-23');
+insert into sales values ('Wally', 'Grapes', 23, 11, 2016, 'CT', 608, '2016-11-23');
 insert into sales values ('Boo', 'Dates', 17, 7, 2020, 'CT', 188, '2020-07-17');
-insert into sales values ('Wally', 'Jellies', 24, 5, 2017, 'CT', 196, '2017-05-
-24');
+insert into sales values ('Wally', 'Jellies', 24, 5, 2017, 'CT', 196, '2017-05-24');
 insert into sales values ('Sam', 'Dates', 29, 1, 2017, 'NJ', 267, '2017-01-29');
 insert into sales values ('Helen', 'Apple', 26, 9, 2016, 'PA', 569, '2016-09-26');
 insert into sales values ('Emily', 'Butter', 13, 2, 2016, 'PA', 283, '2016-02-13');
@@ -4649,19 +4314,16 @@ insert into sales values ('Sam', 'Eggs', 19, 7, 2018, 'CT', 235, '2018-07-19');
 insert into sales values ('Sam', 'Apple', 22, 12, 2017, 'NJ', 388, '2017-12-22');
 insert into sales values ('Boo', 'Grapes', 21, 1, 2016, 'PA', 234, '2016-01-21');
 insert into sales values ('Chae', 'Cherry', 27, 12, 2016, 'NY', 956, '2016-12-27');
-insert into sales values ('Wally', 'Jellies', 14, 10, 2019, 'PA', 786, '2019-10-
-14');
+insert into sales values ('Wally', 'Jellies', 14, 10, 2019, 'PA', 786, '2019-10-14');
 insert into sales values ('Chae', 'Fish', 5, 11, 2018, 'NJ', 661, '2018-11-05');
 insert into sales values ('Boo', 'Fish', 31, 12, 2016, 'CT', 932, '2016-12-31');
 insert into sales values ('Emily', 'Eggs', 29, 10, 2017, 'NY', 468, '2017-10-29');
 insert into sales values ('Dan', 'Grapes', 11, 1, 2020, 'PA', 722, '2020-01-11');
-insert into sales values ('Emily', 'Butter', 27, 12, 2017, 'PA', 828, '2017-12-
-27');
+insert into sales values ('Emily', 'Butter', 27, 12, 2017, 'PA', 828, '2017-12-27');
 insert into sales values ('Helen', 'Dates', 30, 11, 2016, 'CT', 721, '2016-11-30');
 insert into sales values ('Wally', 'Ham', 5, 9, 2016, 'PA', 928, '2016-09-05');
 insert into sales values ('Sam', 'Butter', 8, 10, 2016, 'CT', 11, '2016-10-08');
-insert into sales values ('Wally', 'Jellies', 16, 8, 2019, 'NJ', 488, '2019-08-
-16');
+insert into sales values ('Wally', 'Jellies', 16, 8, 2019, 'NJ', 488, '2019-08-16');
 insert into sales values ('Chae', 'Butter', 13, 2, 2017, 'PA', 993, '2017-02-13');
 insert into sales values ('Helen', 'Dates', 13, 11, 2020, 'NJ', 749, '2020-11-13');
 insert into sales values ('Boo', 'Ice', 25, 2, 2016, 'NJ', 776, '2016-02-25');
@@ -4685,13 +4347,11 @@ insert into sales values ('Sam', 'Apple', 27, 8, 2020, 'PA', 385, '2020-08-27');
 insert into sales values ('Wally', 'Fish', 15, 4, 2019, 'NY', 338, '2019-04-15');
 insert into sales values ('Wally', 'Cherry', 27, 11, 2017, 'PA', 99, '2017-11-27');
 insert into sales values ('Emily', 'Apple', 14, 6, 2019, 'NJ', 248, '2019-06-14');
-insert into sales values ('Emily', 'Jellies', 15, 10, 2018, 'PA', 904, '2018-10-
-15');
+insert into sales values ('Emily', 'Jellies', 15, 10, 2018, 'PA', 904, '2018-10-15');
 insert into sales values ('Dan', 'Cherry', 13, 7, 2018, 'NJ', 661, '2018-07-13');
 insert into sales values ('Wally', 'Dates', 21, 11, 2018, 'CT', 676, '2018-11-21');
 insert into sales values ('Chae', 'Butter', 13, 8, 2018, 'CT', 765, '2018-08-13');
-insert into sales values ('Claire', 'Butter', 21, 2, 2018, 'CT', 537, '2018-02-
-21');
+insert into sales values ('Claire', 'Butter', 21, 2, 2018, 'CT', 537, '2018-02-21');
 insert into sales values ('Sam', 'Dates', 26, 6, 2020, 'NY', 531, '2020-06-26');
 insert into sales values ('Helen', 'Apple', 23, 8, 2020, 'NY', 339, '2020-08-23');
 insert into sales values ('Boo', 'Eggs', 5, 10, 2017, 'NJ', 150, '2017-10-05');
@@ -4742,8 +4402,7 @@ insert into sales values ('Mia', 'Butter', 10, 4, 2016, 'NY', 317, '2016-04-10')
 insert into sales values ('Boo', 'Butter', 1, 8, 2016, 'CT', 94, '2016-08-01');
 insert into sales values ('Chae', 'Apple', 22, 10, 2016, 'CT', 1, '2016-10-22');
 insert into sales values ('Mia', 'Apple', 10, 6, 2016, 'NY', 262, '2016-06-10');
-insert into sales values ('Claire', 'Cherry', 11, 12, 2019, 'NY', 653, '2019-12-
-11');
+insert into sales values ('Claire', 'Cherry', 11, 12, 2019, 'NY', 653, '2019-12-11');
 insert into sales values ('Sam', 'Fish', 18, 10, 2018, 'NY', 823, '2018-10-18');
 insert into sales values ('Mia', 'Fish', 30, 7, 2017, 'NY', 816, '2017-07-30');
 insert into sales values ('Dan', 'Eggs', 23, 10, 2019, 'PA', 107, '2019-10-23');
@@ -4757,8 +4416,7 @@ insert into sales values ('Sam', 'Ice', 22, 5, 2016, 'NJ', 378, '2016-05-22');
 insert into sales values ('Mia', 'Cherry', 5, 2, 2018, 'NY', 195, '2018-02-05');
 insert into sales values ('Chae', 'Fish', 9, 9, 2019, 'NY', 893, '2019-09-09');
 insert into sales values ('Dan', 'Dates', 30, 7, 2016, 'PA', 229, '2016-07-30');
-insert into sales values ('Claire', 'Grapes', 2, 10, 2020, 'PA', 593, '2020-10-
-02');
+insert into sales values ('Claire', 'Grapes', 2, 10, 2020, 'PA', 593, '2020-10-02');
 insert into sales values ('Helen', 'Ham', 11, 9, 2017, 'CT', 607, '2017-09-11');
 insert into sales values ('Mia', 'Grapes', 16, 5, 2017, 'NY', 606, '2017-05-16');
 insert into sales values ('Mia', 'Apple', 3, 10, 2020, 'CT', 435, '2020-10-03');
@@ -4787,8 +4445,7 @@ insert into sales values ('Boo', 'Ice', 29, 3, 2019, 'CT', 352, '2019-03-29');
 insert into sales values ('Mia', 'Ice', 28, 1, 2018, 'NJ', 737, '2018-01-28');
 insert into sales values ('Dan', 'Ice', 3, 7, 2020, 'PA', 500, '2020-07-03');
 insert into sales values ('Helen', 'Dates', 12, 4, 2020, 'NY', 453, '2020-04-12');
-insert into sales values ('Wally', 'Grapes', 23, 11, 2020, 'NY', 920, '2020-11-
-23');
+insert into sales values ('Wally', 'Grapes', 23, 11, 2020, 'NY', 920, '2020-11-23');
 insert into sales values ('Claire', 'Fish', 1, 5, 2016, 'NJ', 923, '2016-05-01');
 insert into sales values ('Mia', 'Apple', 24, 6, 2018, 'NJ', 283, '2018-06-24');
 insert into sales values ('Chae', 'Apple', 23, 9, 2016, 'NJ', 229, '2016-09-23');
@@ -4805,14 +4462,12 @@ insert into sales values ('Wally', 'Butter', 12, 11, 2020, 'NY', 63, '2020-11-12
 insert into sales values ('Mia', 'Ice', 28, 4, 2016, 'CT', 769, '2016-04-28');
 insert into sales values ('Sam', 'Apple', 30, 7, 2018, 'NY', 888, '2018-07-30');
 insert into sales values ('Helen', 'Eggs', 1, 1, 2018, 'NJ', 513, '2018-01-01');
-insert into sales values ('Claire', 'Grapes', 26, 10, 2019, 'CT', 721, '2019-10-
-26');
+insert into sales values ('Claire', 'Grapes', 26, 10, 2019, 'CT', 721, '2019-10-26');
 insert into sales values ('Sam', 'Ice', 2, 1, 2018, 'NJ', 802, '2018-01-02');
 insert into sales values ('Mia', 'Fish', 9, 7, 2016, 'PA', 194, '2016-07-09');
 insert into sales values ('Wally', 'Eggs', 15, 11, 2017, 'PA', 470, '2017-11-15');
 insert into sales values ('Claire', 'Grapes', 4, 8, 2020, 'NJ', 766, '2020-08-04');
-insert into sales values ('Helen', 'Jellies', 18, 9, 2016, 'CT', 741, '2016-09-
-18');
+insert into sales values ('Helen', 'Jellies', 18, 9, 2016, 'CT', 741, '2016-09-18');
 insert into sales values ('Mia', 'Fish', 24, 5, 2019, 'CT', 438, '2019-05-24');
 insert into sales values ('Dan', 'Eggs', 4, 6, 2018, 'NJ', 734, '2018-06-04');
 insert into sales values ('Chae', 'Fish', 2, 4, 2017, 'NJ', 761, '2017-04-02');
@@ -4844,8 +4499,7 @@ insert into sales values ('Dan', 'Dates', 25, 5, 2020, 'PA', 963, '2020-05-25');
 insert into sales values ('Wally', 'Grapes', 23, 1, 2018, 'CT', 763, '2018-01-23');
 insert into sales values ('Dan', 'Jellies', 2, 11, 2016, 'PA', 48, '2016-11-02');
 insert into sales values ('Boo', 'Grapes', 9, 8, 2016, 'NY', 890, '2016-08-09');
-insert into sales values ('Claire', 'Jellies', 17, 6, 2016, 'PA', 254, '2016-06-
-17');
+insert into sales values ('Claire', 'Jellies', 17, 6, 2016, 'PA', 254, '2016-06-17');
 insert into sales values ('Emily', 'Ice', 13, 11, 2016, 'NJ', 950, '2016-11-13');
 insert into sales values ('Boo', 'Ham', 6, 7, 2019, 'CT', 832, '2019-07-06');
 insert into sales values ('Mia', 'Grapes', 21, 11, 2017, 'NJ', 425, '2017-11-21');
@@ -4873,8 +4527,7 @@ insert into sales values ('Emily', 'Fish', 12, 8, 2017, 'CT', 580, '2017-08-12')
 insert into sales values ('Helen', 'Butter', 14, 7, 2017, 'NY', 185, '2017-07-14');
 insert into sales values ('Helen', 'Ham', 8, 5, 2016, 'NY', 10, '2016-05-08');
 insert into sales values ('Dan', 'Apple', 10, 1, 2016, 'PA', 41, '2016-01-10');
-insert into sales values ('Wally', 'Butter', 24, 11, 2016, 'NY', 675, '2016-11-
-24');
+insert into sales values ('Wally', 'Butter', 24, 11, 2016, 'NY', 675, '2016-11-24');
 insert into sales values ('Emily', 'Ham', 15, 2, 2016, 'NJ', 433, '2016-02-15');
 insert into sales values ('Helen', 'Fish', 22, 5, 2020, 'CT', 119, '2020-05-22');
 insert into sales values ('Mia', 'Eggs', 4, 10, 2016, 'PA', 632, '2016-10-04');
@@ -4882,8 +4535,7 @@ insert into sales values ('Dan', 'Fish', 2, 3, 2020, 'NY', 947, '2020-03-02');
 insert into sales values ('Mia', 'Dates', 21, 9, 2018, 'CT', 884, '2018-09-21');
 insert into sales values ('Emily', 'Grapes', 1, 12, 2018, 'PA', 708, '2018-12-01');
 insert into sales values ('Claire', 'Cherry', 4, 6, 2017, 'NJ', 91, '2017-06-04');
-insert into sales values ('Emily', 'Jellies', 27, 7, 2020, 'NJ', 572, '2020-07-
-27');
+insert into sales values ('Emily', 'Jellies', 27, 7, 2020, 'NJ', 572, '2020-07-27');
 insert into sales values ('Dan', 'Jellies', 17, 4, 2020, 'NJ', 918, '2020-04-17');
 insert into sales values ('Mia', 'Jellies', 8, 12, 2018, 'PA', 739, '2018-12-08');
 insert into sales values ('Wally', 'Cherry', 24, 2, 2016, 'PA', 739, '2016-02-24');
@@ -4898,11 +4550,9 @@ insert into sales values ('Sam', 'Grapes', 21, 7, 2019, 'CT', 13, '2019-07-21');
 insert into sales values ('Mia', 'Grapes', 14, 4, 2019, 'NJ', 560, '2019-04-14');
 insert into sales values ('Helen', 'Apple', 21, 6, 2018, 'PA', 756, '2018-06-21');
 insert into sales values ('Emily', 'Apple', 18, 1, 2020, 'NJ', 126, '2020-01-18');
-insert into sales values ('Claire', 'Butter', 12, 7, 2020, 'NJ', 996, '2020-07-
-12');
+insert into sales values ('Claire', 'Butter', 12, 7, 2020, 'NJ', 996, '2020-07-12');
 insert into sales values ('Claire', 'Grapes', 3, 4, 2019, 'CT', 353, '2019-04-03');
-insert into sales values ('Claire', 'Butter', 18, 3, 2019, 'NJ', 380, '2019-03-
-18');
+insert into sales values ('Claire', 'Butter', 18, 3, 2019, 'NJ', 380, '2019-03-18');
 insert into sales values ('Mia', 'Fish', 31, 7, 2016, 'CT', 600, '2016-07-31');
 insert into sales values ('Helen', 'Cherry', 29, 4, 2019, 'NJ', 690, '2019-04-29');
 insert into sales values ('Sam', 'Eggs', 26, 7, 2016, 'NJ', 556, '2016-07-26');
@@ -4910,38 +4560,32 @@ insert into sales values ('Boo', 'Ham', 19, 4, 2018, 'CT', 232, '2018-04-19');
 insert into sales values ('Wally', 'Eggs', 26, 8, 2016, 'CT', 644, '2016-08-26');
 insert into sales values ('Emily', 'Cherry', 5, 1, 2018, 'CT', 693, '2018-01-05');
 insert into sales values ('Chae', 'Jellies', 23, 7, 2019, 'PA', 746, '2019-07-23');
-insert into sales values ('Helen', 'Jellies', 12, 11, 2017, 'PA', 699, '2017-11-
-12');
+insert into sales values ('Helen', 'Jellies', 12, 11, 2017, 'PA', 699, '2017-11-12');
 insert into sales values ('Emily', 'Dates', 7, 7, 2020, 'CT', 866, '2020-07-07');
 insert into sales values ('Emily', 'Cherry', 3, 12, 2019, 'NJ', 964, '2019-12-03');
 insert into sales values ('Wally', 'Ham', 30, 4, 2016, 'PA', 647, '2016-04-30');
 insert into sales values ('Chae', 'Grapes', 11, 9, 2016, 'PA', 976, '2016-09-11');
-insert into sales values ('Helen', 'Cherry', 29, 11, 2018, 'PA', 330, '2018-11-
-29');
+insert into sales values ('Helen', 'Cherry', 29, 11, 2018, 'PA', 330, '2018-11-29');
 insert into sales values ('Dan', 'Fish', 28, 11, 2020, 'NJ', 90, '2020-11-28');
 insert into sales values ('Wally', 'Cherry', 28, 7, 2020, 'NY', 835, '2020-07-28');
 insert into sales values ('Helen', 'Ice', 21, 6, 2019, 'NJ', 808, '2019-06-21');
 insert into sales values ('Emily', 'Ham', 19, 7, 2017, 'PA', 897, '2017-07-19');
 insert into sales values ('Chae', 'Butter', 18, 10, 2016, 'PA', 436, '2016-10-18');
-insert into sales values ('Chae', 'Jellies', 14, 11, 2016, 'PA', 694, '2016-11-
-14');
+insert into sales values ('Chae', 'Jellies', 14, 11, 2016, 'PA', 694, '2016-11-14');
 insert into sales values ('Emily', 'Ice', 7, 11, 2018, 'CT', 610, '2018-11-07');
 insert into sales values ('Boo', 'Eggs', 6, 3, 2020, 'NJ', 515, '2020-03-06');
-insert into sales values ('Helen', 'Jellies', 17, 2, 2016, 'PA', 885, '2016-02-
-17');
+insert into sales values ('Helen', 'Jellies', 17, 2, 2016, 'PA', 885, '2016-02-17');
 insert into sales values ('Dan', 'Ham', 13, 2, 2020, 'NJ', 709, '2020-02-13');
 insert into sales values ('Sam', 'Dates', 10, 5, 2020, 'CT', 109, '2020-05-10');
 insert into sales values ('Boo', 'Cherry', 15, 1, 2020, 'NJ', 435, '2020-01-15');
 insert into sales values ('Boo', 'Jellies', 13, 6, 2019, 'PA', 35, '2019-06-13');
 insert into sales values ('Chae', 'Cherry', 3, 3, 2019, 'CT', 731, '2019-03-03');
 insert into sales values ('Boo', 'Cherry', 23, 3, 2017, 'CT', 695, '2017-03-23');
-insert into sales values ('Wally', 'Grapes', 28, 11, 2018, 'CT', 986, '2018-11-
-28');
+insert into sales values ('Wally', 'Grapes', 28, 11, 2018, 'CT', 986, '2018-11-28');
 insert into sales values ('Emily', 'Eggs', 14, 3, 2017, 'NY', 882, '2017-03-14');
 insert into sales values ('Dan', 'Ice', 24, 10, 2017, 'PA', 481, '2017-10-24');
 insert into sales values ('Emily', 'Dates', 21, 5, 2018, 'PA', 52, '2018-05-21');
-insert into sales values ('Emily', 'Grapes', 14, 10, 2020, 'PA', 452, '2020-10-
-14');
+insert into sales values ('Emily', 'Grapes', 14, 10, 2020, 'PA', 452, '2020-10-14');
 insert into sales values ('Wally', 'Butter', 21, 5, 2019, 'NJ', 986, '2019-05-21');
 insert into sales values ('Mia', 'Apple', 10, 2, 2018, 'NY', 441, '2018-02-10');
 insert into sales values ('Emily', 'Ice', 30, 10, 2016, 'CT', 984, '2016-10-30');
@@ -4955,8 +4599,7 @@ insert into sales values ('Boo', 'Eggs', 27, 9, 2017, 'PA', 70, '2017-09-27');
 insert into sales values ('Mia', 'Dates', 16, 3, 2017, 'NY', 443, '2017-03-16');
 insert into sales values ('Helen', 'Fish', 11, 4, 2018, 'NJ', 401, '2018-04-11');
 insert into sales values ('Claire', 'Eggs', 9, 10, 2020, 'NJ', 286, '2020-10-09');
-insert into sales values ('Wally', 'Grapes', 18, 11, 2020, 'PA', 702, '2020-11-
-18');
+insert into sales values ('Wally', 'Grapes', 18, 11, 2020, 'PA', 702, '2020-11-18');
 insert into sales values ('Sam', 'Ice', 27, 4, 2017, 'PA', 272, '2017-04-27');
 insert into sales values ('Boo', 'Dates', 27, 9, 2020, 'NJ', 802, '2020-09-27');
 insert into sales values ('Wally', 'Butter', 21, 2, 2017, 'PA', 864, '2017-02-21');
@@ -4997,37 +4640,30 @@ insert into sales values ('Dan', 'Eggs', 30, 8, 2019, 'CT', 505, '2019-08-30');
 insert into sales values ('Claire', 'Ham', 9, 5, 2019, 'NY', 951, '2019-05-09');
 insert into sales values ('Claire', 'Ham', 10, 10, 2018, 'NY', 674, '2018-10-10');
 insert into sales values ('Mia', 'Ice', 17, 8, 2016, 'PA', 479, '2016-08-17');
-insert into sales values ('Helen', 'Jellies', 22, 12, 2016, 'PA', 628, '2016-12-
-22');
+insert into sales values ('Helen', 'Jellies', 22, 12, 2016, 'PA', 628, '2016-12-22');
 insert into sales values ('Boo', 'Butter', 19, 7, 2017, 'NJ', 695, '2017-07-19');
 insert into sales values ('Wally', 'Fish', 13, 12, 2016, 'NY', 280, '2016-12-13');
 insert into sales values ('Mia', 'Grapes', 16, 7, 2016, 'NY', 223, '2016-07-16');
 insert into sales values ('Chae', 'Ice', 25, 4, 2017, 'NY', 203, '2017-04-25');
 insert into sales values ('Mia', 'Eggs', 20, 12, 2017, 'PA', 301, '2017-12-20');
-insert into sales values ('Helen', 'Grapes', 15, 10, 2019, 'CT', 346, '2019-10-
-15');
+insert into sales values ('Helen', 'Grapes', 15, 10, 2019, 'CT', 346, '2019-10-15');
 insert into sales values ('Dan', 'Butter', 21, 2, 2018, 'NJ', 26, '2018-02-21');
 insert into sales values ('Mia', 'Fish', 9, 12, 2019, 'NY', 537, '2019-12-09');
 insert into sales values ('Wally', 'Ice', 3, 11, 2016, 'PA', 267, '2016-11-03');
-insert into sales values ('Wally', 'Grapes', 17, 10, 2018, 'CT', 788, '2018-10-
-17');
-insert into sales values ('Claire', 'Butter', 10, 3, 2017, 'NJ', 658, '2017-03-
-10');
+insert into sales values ('Wally', 'Grapes', 17, 10, 2018, 'CT', 788, '2018-10-17');
+insert into sales values ('Claire', 'Butter', 10, 3, 2017, 'NJ', 658, '2017-03-10');
 insert into sales values ('Helen', 'Ham', 29, 11, 2019, 'CT', 155, '2019-11-29');
 insert into sales values ('Mia', 'Eggs', 5, 2, 2019, 'NJ', 318, '2019-02-05');
-insert into sales values ('Claire', 'Butter', 29, 8, 2017, 'PA', 362, '2017-08-
-29');
+insert into sales values ('Claire', 'Butter', 29, 8, 2017, 'PA', 362, '2017-08-29');
 insert into sales values ('Wally', 'Fish', 1, 4, 2017, 'PA', 366, '2017-04-01');
-insert into sales values ('Chae', 'Jellies', 29, 12, 2018, 'CT', 761, '2018-12-
-29');
+insert into sales values ('Chae', 'Jellies', 29, 12, 2018, 'CT', 761, '2018-12-29');
 insert into sales values ('Dan', 'Apple', 6, 4, 2020, 'NY', 656, '2020-04-06');
 insert into sales values ('Wally', 'Apple', 1, 12, 2016, 'CT', 896, '2016-12-01');
 insert into sales values ('Claire', 'Eggs', 4, 11, 2020, 'PA', 711, '2020-11-04');
 insert into sales values ('Chae', 'Ice', 21, 9, 2019, 'CT', 690, '2019-09-21');
 insert into sales values ('Boo', 'Eggs', 2, 6, 2019, 'NJ', 349, '2019-06-02');
 insert into sales values ('Boo', 'Butter', 27, 5, 2017, 'NY', 921, '2017-05-27');
-insert into sales values ('Helen', 'Jellies', 23, 3, 2019, 'CT', 265, '2019-03-
-23');
+insert into sales values ('Helen', 'Jellies', 23, 3, 2019, 'CT', 265, '2019-03-23');
 insert into sales values ('Helen', 'Dates', 19, 11, 2019, 'CT', 762, '2019-11-19');
 insert into sales values ('Mia', 'Apple', 3, 12, 2018, 'NY', 274, '2018-12-03');
 insert into sales values ('Emily', 'Dates', 8, 10, 2019, 'PA', 223, '2019-10-08');
@@ -5054,8 +4690,7 @@ insert into sales values ('Emily', 'Ham', 3, 5, 2016, 'CT', 73, '2016-05-03');
 insert into sales values ('Wally', 'Ice', 2, 9, 2019, 'NY', 97, '2019-09-02');
 insert into sales values ('Emily', 'Eggs', 4, 12, 2019, 'NJ', 660, '2019-12-04');
 insert into sales values ('Boo', 'Jellies', 15, 6, 2016, 'PA', 350, '2016-06-15');
-insert into sales values ('Claire', 'Grapes', 22, 7, 2020, 'NY', 325, '2020-07-
-22');
+insert into sales values ('Claire', 'Grapes', 22, 7, 2020, 'NY', 325, '2020-07-22');
 insert into sales values ('Helen', 'Fish', 20, 4, 2017, 'PA', 960, '2017-04-20');
 insert into sales values ('Mia', 'Apple', 13, 7, 2017, 'NJ', 87, '2017-07-13');
 insert into sales values ('Mia', 'Apple', 26, 2, 2019, 'NJ', 541, '2019-02-26');
@@ -5072,16 +4707,14 @@ insert into sales values ('Claire', 'Apple', 6, 8, 2020, 'NJ', 418, '2020-08-06'
 insert into sales values ('Wally', 'Fish', 27, 10, 2017, 'NJ', 868, '2017-10-27');
 insert into sales values ('Dan', 'Butter', 28, 9, 2018, 'NY', 79, '2018-09-28');
 insert into sales values ('Helen', 'Jellies', 4, 8, 2017, 'PA', 282, '2017-08-04');
-insert into sales values ('Claire', 'Apple', 26, 12, 2019, 'CT', 971, '2019-12-
-26');
+insert into sales values ('Claire', 'Apple', 26, 12, 2019, 'CT', 971, '2019-12-26');
 insert into sales values ('Mia', 'Dates', 24, 8, 2017, 'PA', 721, '2017-08-24');
 insert into sales values ('Claire', 'Dates', 5, 4, 2020, 'PA', 746, '2020-04-05');
 insert into sales values ('Wally', 'Dates', 4, 10, 2018, 'PA', 643, '2018-10-04');
 insert into sales values ('Helen', 'Eggs', 6, 4, 2016, 'NY', 263, '2016-04-06');
 insert into sales values ('Helen', 'Ham', 30, 7, 2017, 'NY', 774, '2017-07-30');
 insert into sales values ('Chae', 'Butter', 19, 8, 2019, 'CT', 11, '2019-08-19');
-insert into sales values ('Emily', 'Jellies', 13, 5, 2018, 'NY', 606, '2018-05-
-13');
+insert into sales values ('Emily', 'Jellies', 13, 5, 2018, 'NY', 606, '2018-05-13');
 insert into sales values ('Sam', 'Dates', 4, 8, 2019, 'CT', 826, '2019-08-04');
 insert into sales values ('Claire', 'Dates', 24, 6, 2019, 'NJ', 575, '2019-06-24');
 insert into sales values ('Wally', 'Eggs', 13, 11, 2020, 'PA', 244, '2020-11-13');
@@ -5130,16 +4763,13 @@ insert into sales values ('Dan', 'Apple', 10, 12, 2016, 'NY', 134, '2016-12-10')
 insert into sales values ('Emily', 'Jellies', 21, 1, 2018, 'NY', 76, '2018-01-21');
 insert into sales values ('Wally', 'Cherry', 26, 1, 2018, 'NJ', 492, '2018-01-26');
 insert into sales values ('Chae', 'Eggs', 7, 1, 2016, 'PA', 967, '2016-01-07');
-insert into sales values ('Claire', 'Butter', 24, 11, 2018, 'NY', 157, '2018-11-
-24');
+insert into sales values ('Claire', 'Butter', 24, 11, 2018, 'NY', 157, '2018-11-24');
 insert into sales values ('Mia', 'Ham', 28, 5, 2020, 'NY', 376, '2020-05-28');
 insert into sales values ('Dan', 'Ice', 5, 9, 2019, 'NY', 941, '2019-09-05');
 insert into sales values ('Dan', 'Eggs', 10, 5, 2020, 'NJ', 293, '2020-05-10');
 insert into sales values ('Emily', 'Ham', 8, 6, 2020, 'NY', 969, '2020-06-08');
-insert into sales values ('Claire', 'Butter', 6, 11, 2020, 'CT', 882, '2020-11-
-06');
-insert into sales values ('Claire', 'Jellies', 31, 7, 2016, 'NY', 358, '2016-07-
-31');
+insert into sales values ('Claire', 'Butter', 6, 11, 2020, 'CT', 882, '2020-11-06');
+insert into sales values ('Claire', 'Jellies', 31, 7, 2016, 'NY', 358, '2016-07-31');
 insert into sales values ('Chae', 'Jellies', 6, 5, 2016, 'CT', 708, '2016-05-06');
 insert into sales values ('Mia', 'Dates', 15, 10, 2019, 'PA', 744, '2019-10-15');
 insert into sales values ('Boo', 'Ice', 25, 11, 2017, 'NJ', 621, '2017-11-25');
@@ -5164,13 +4794,11 @@ insert into sales values ('Claire', 'Fish', 18, 9, 2016, 'PA', 953, '2016-09-18'
 insert into sales values ('Mia', 'Eggs', 11, 9, 2019, 'NY', 172, '2019-09-11');
 insert into sales values ('Dan', 'Dates', 13, 6, 2019, 'PA', 637, '2019-06-13');
 insert into sales values ('Claire', 'Dates', 19, 6, 2018, 'NJ', 30, '2018-06-19');
-insert into sales values ('Emily', 'Jellies', 19, 12, 2020, 'NJ', 54, '2020-12-
-19');
+insert into sales values ('Emily', 'Jellies', 19, 12, 2020, 'NJ', 54, '2020-12-19');
 insert into sales values ('Emily', 'Ham', 26, 7, 2017, 'CT', 179, '2017-07-26');
 insert into sales values ('Wally', 'Ham', 26, 8, 2018, 'CT', 565, '2018-08-26');
 insert into sales values ('Mia', 'Jellies', 15, 12, 2019, 'NY', 818, '2019-12-15');
-insert into sales values ('Claire', 'Jellies', 21, 12, 2018, 'CT', 513, '2018-12-
-21');
+insert into sales values ('Claire', 'Jellies', 21, 12, 2018, 'CT', 513, '2018-12-21');
 insert into sales values ('Mia', 'Cherry', 5, 12, 2018, 'CT', 532, '2018-12-05');
 insert into sales values ('Chae', 'Ham', 20, 2, 2020, 'PA', 760, '2020-02-20');
 insert into sales values ('Claire', 'Dates', 16, 5, 2017, 'CT', 284, '2017-05-16');
@@ -5179,12 +4807,10 @@ insert into sales values ('Dan', 'Ice', 10, 7, 2019, 'NY', 26, '2019-07-10');
 insert into sales values ('Helen', 'Eggs', 18, 9, 2017, 'NJ', 913, '2017-09-18');
 insert into sales values ('Sam', 'Apple', 13, 4, 2019, 'CT', 130, '2019-04-13');
 insert into sales values ('Chae', 'Fish', 18, 11, 2019, 'NY', 409, '2019-11-18');
-insert into sales values ('Wally', 'Jellies', 15, 4, 2019, 'NJ', 214, '2019-04-
-15');
+insert into sales values ('Wally', 'Jellies', 15, 4, 2019, 'NJ', 214, '2019-04-15');
 insert into sales values ('Dan', 'Ice', 15, 8, 2017, 'NY', 886, '2017-08-15');
 insert into sales values ('Boo', 'Jellies', 11, 9, 2017, 'PA', 89, '2017-09-11');
-insert into sales values ('Claire', 'Grapes', 18, 11, 2017, 'CT', 965, '2017-11-
-18');
+insert into sales values ('Claire', 'Grapes', 18, 11, 2017, 'CT', 965, '2017-11-18');
 insert into sales values ('Helen', 'Butter', 15, 1, 2020, 'NJ', 132, '2020-01-15');
 insert into sales values ('Claire', 'Ice', 24, 12, 2017, 'CT', 488, '2017-12-24');
 insert into sales values ('Dan', 'Jellies', 11, 12, 2017, 'CT', 451, '2017-12-11');
@@ -5194,8 +4820,7 @@ insert into sales values ('Wally', 'Cherry', 26, 5, 2018, 'NJ', 733, '2018-05-26
 insert into sales values ('Mia', 'Eggs', 7, 9, 2017, 'PA', 266, '2017-09-07');
 insert into sales values ('Chae', 'Cherry', 26, 6, 2020, 'CT', 298, '2020-06-26');
 insert into sales values ('Boo', 'Fish', 27, 10, 2019, 'NJ', 83, '2019-10-27');
-insert into sales values ('Wally', 'Jellies', 15, 10, 2017, 'CT', 394, '2017-10-
-15');
+insert into sales values ('Wally', 'Jellies', 15, 10, 2017, 'CT', 394, '2017-10-15');
 insert into sales values ('Wally', 'Dates', 10, 12, 2018, 'PA', 263, '2018-12-10');
 insert into sales values ('Wally', 'Ham', 19, 6, 2019, 'NY', 52, '2019-06-19');
 insert into sales values ('Wally', 'Cherry', 25, 8, 2020, 'NJ', 647, '2020-08-25');
@@ -5224,12 +4849,10 @@ insert into sales values ('Emily', 'Ham', 14, 5, 2020, 'NJ', 390, '2020-05-14');
 insert into sales values ('Sam', 'Butter', 8, 10, 2016, 'PA', 376, '2016-10-08');
 insert into sales values ('Helen', 'Ham', 1, 5, 2017, 'NY', 716, '2017-05-01');
 insert into sales values ('Emily', 'Butter', 18, 4, 2020, 'NJ', 130, '2020-04-18');
-insert into sales values ('Emily', 'Jellies', 24, 9, 2018, 'NY', 225, '2018-09-
-24');
+insert into sales values ('Emily', 'Jellies', 24, 9, 2018, 'NY', 225, '2018-09-24');
 insert into sales values ('Chae', 'Apple', 23, 4, 2017, 'NY', 893, '2017-04-23');
 insert into sales values ('Sam', 'Fish', 12, 8, 2017, 'CT', 820, '2017-08-12');
-insert into sales values ('Claire', 'Grapes', 11, 2, 2016, 'NY', 472, '2016-02-
-11');
+insert into sales values ('Claire', 'Grapes', 11, 2, 2016, 'NY', 472, '2016-02-11');
 insert into sales values ('Helen', 'Dates', 1, 1, 2016, 'CT', 351, '2016-01-01');
 insert into sales values ('Sam', 'Cherry', 25, 5, 2019, 'CT', 828, '2019-05-25');
 insert into sales values ('Boo', 'Eggs', 23, 10, 2019, 'NJ', 753, '2019-10-23');
@@ -5248,8 +4871,7 @@ insert into sales values ('Chae', 'Apple', 18, 4, 2018, 'NY', 220, '2018-04-18')
 insert into sales values ('Wally', 'Butter', 18, 8, 2017, 'NY', 483, '2017-08-18');
 insert into sales values ('Sam', 'Cherry', 12, 5, 2018, 'NJ', 402, '2018-05-12');
 insert into sales values ('Emily', 'Fish', 5, 7, 2016, 'CT', 185, '2016-07-05');
-insert into sales values ('Claire', 'Cherry', 16, 11, 2020, 'NY', 723, '2020-11-
-16');
+insert into sales values ('Claire', 'Cherry', 16, 11, 2020, 'NY', 723, '2020-11-16');
 insert into sales values ('Dan', 'Eggs', 5, 10, 2019, 'CT', 475, '2019-10-05');
 insert into sales values ('Mia', 'Ham', 1, 3, 2020, 'NY', 623, '2020-03-01');
 insert into sales values ('Helen', 'Ham', 2, 9, 2018, 'PA', 66, '2018-09-02');
@@ -5266,11 +4888,9 @@ insert into sales values ('Sam', 'Apple', 5, 11, 2018, 'PA', 975, '2018-11-05');
 insert into sales values ('Boo', 'Fish', 27, 5, 2017, 'CT', 309, '2017-05-27');
 insert into sales values ('Boo', 'Butter', 15, 1, 2017, 'NJ', 666, '2017-01-15');
 insert into sales values ('Chae', 'Ham', 8, 5, 2020, 'NJ', 234, '2020-05-08');
-insert into sales values ('Claire', 'Dates', 27, 10, 2016, 'NJ', 417, '2016-10-
-27');
+insert into sales values ('Claire', 'Dates', 27, 10, 2016, 'NJ', 417, '2016-10-27');
 insert into sales values ('Mia', 'Ice', 18, 11, 2019, 'NJ', 978, '2019-11-18');
-insert into sales values ('Helen', 'Jellies', 15, 10, 2020, 'NJ', 918, '2020-10-
-15');
+insert into sales values ('Helen', 'Jellies', 15, 10, 2020, 'NJ', 918, '2020-10-15');
 insert into sales values ('Chae', 'Cherry', 16, 12, 2018, 'CT', 387, '2018-12-16');
 insert into sales values ('Sam', 'Ice', 20, 11, 2017, 'NY', 678, '2017-11-20');
 insert into sales values ('Claire', 'Eggs', 14, 2, 2020, 'NY', 445, '2020-02-14');
@@ -5293,8 +4913,7 @@ insert into sales values ('Boo', 'Cherry', 18, 6, 2016, 'NY', 276, '2016-06-18')
 insert into sales values ('Claire', 'Apple', 8, 9, 2017, 'PA', 208, '2017-09-08');
 insert into sales values ('Mia', 'Cherry', 5, 4, 2020, 'CT', 88, '2020-04-05');
 insert into sales values ('Mia', 'Jellies', 5, 4, 2018, 'NY', 815, '2018-04-05');
-insert into sales values ('Claire', 'Jellies', 22, 11, 2019, 'CT', 570, '2019-11-
-22');
+insert into sales values ('Claire', 'Jellies', 22, 11, 2019, 'CT', 570, '2019-11-22');
 insert into sales values ('Helen', 'Apple', 20, 12, 2016, 'PA', 269, '2016-12-20');
 insert into sales values ('Emily', 'Dates', 10, 7, 2018, 'CT', 178, '2018-07-10');
 insert into sales values ('Emily', 'Cherry', 11, 5, 2016, 'NJ', 708, '2016-05-11');
@@ -5304,8 +4923,7 @@ insert into sales values ('Helen', 'Cherry', 14, 2, 2019, 'NY', 348, '2019-02-14
 insert into sales values ('Wally', 'Dates', 23, 4, 2020, 'NJ', 771, '2020-04-23');
 insert into sales values ('Dan', 'Apple', 29, 8, 2016, 'CT', 363, '2016-08-29');
 insert into sales values ('Boo', 'Grapes', 7, 10, 2016, 'NJ', 283, '2016-10-07');
-insert into sales values ('Claire', 'Butter', 12, 12, 2017, 'PA', 665, '2017-12-
-12');
+insert into sales values ('Claire', 'Butter', 12, 12, 2017, 'PA', 665, '2017-12-12');
 insert into sales values ('Sam', 'Dates', 31, 12, 2020, 'NY', 988, '2020-12-31');
 insert into sales values ('Mia', 'Jellies', 13, 9, 2019, 'CT', 566, '2019-09-13');
 insert into sales values ('Dan', 'Eggs', 24, 8, 2020, 'NJ', 786, '2020-08-24');
@@ -5320,13 +4938,11 @@ insert into sales values ('Chae', 'Apple', 4, 11, 2020, 'CT', 189, '2020-11-04')
 insert into sales values ('Sam', 'Ham', 7, 2, 2017, 'NJ', 449, '2017-02-07');
 insert into sales values ('Mia', 'Jellies', 28, 11, 2019, 'CT', 536, '2019-11-28');
 insert into sales values ('Mia', 'Ice', 12, 4, 2017, 'CT', 538, '2017-04-12');
-insert into sales values ('Helen', 'Cherry', 27, 11, 2018, 'NJ', 821, '2018-11-
-27');
+insert into sales values ('Helen', 'Cherry', 27, 11, 2018, 'NJ', 821, '2018-11-27');
 insert into sales values ('Dan', 'Dates', 22, 6, 2019, 'CT', 230, '2019-06-22');
 insert into sales values ('Wally', 'Fish', 18, 12, 2019, 'NJ', 819, '2019-12-18');
 insert into sales values ('Helen', 'Butter', 2, 3, 2016, 'NY', 108, '2016-03-02');
-insert into sales values ('Emily', 'Jellies', 17, 11, 2018, 'NJ', 209, '2018-11-
-17');
+insert into sales values ('Emily', 'Jellies', 17, 11, 2018, 'NJ', 209, '2018-11-17');
 insert into sales values ('Dan', 'Apple', 14, 4, 2019, 'NJ', 78, '2019-04-14');
 insert into sales values ('Wally', 'Cherry', 10, 7, 2018, 'NJ', 114, '2018-07-10');
 insert into sales values ('Mia', 'Dates', 16, 5, 2017, 'NY', 34, '2017-05-16');
@@ -5341,8 +4957,7 @@ insert into sales values ('Wally', 'Apple', 23, 7, 2020, 'NY', 525, '2020-07-23'
 insert into sales values ('Sam', 'Eggs', 8, 3, 2017, 'NY', 799, '2017-03-08');
 insert into sales values ('Boo', 'Butter', 21, 12, 2017, 'PA', 560, '2017-12-21');
 insert into sales values ('Helen', 'Dates', 7, 1, 2019, 'NY', 67, '2019-01-07');
-insert into sales values ('Helen', 'Jellies', 5, 12, 2017, 'NY', 427, '2017-12-
-05');
+insert into sales values ('Helen', 'Jellies', 5, 12, 2017, 'NY', 427, '2017-12-05');
 insert into sales values ('Chae', 'Fish', 23, 11, 2019, 'PA', 844, '2019-11-23');
 insert into sales values ('Mia', 'Jellies', 13, 9, 2016, 'NJ', 554, '2016-09-13');
 insert into sales values ('Mia', 'Eggs', 1, 12, 2016, 'NJ', 398, '2016-12-01');
@@ -5369,8 +4984,7 @@ insert into sales values ('Helen', 'Eggs', 6, 9, 2019, 'NY', 862, '2019-09-06');
 insert into sales values ('Dan', 'Eggs', 26, 6, 2020, 'NJ', 709, '2020-06-26');
 insert into sales values ('Helen', 'Ham', 3, 4, 2018, 'PA', 887, '2018-04-03');
 insert into sales values ('Dan', 'Ham', 19, 9, 2018, 'CT', 593, '2018-09-19');
-insert into sales values ('Emily', 'Jellies', 12, 2, 2018, 'NJ', 154, '2018-02-
-12');
+insert into sales values ('Emily', 'Jellies', 12, 2, 2018, 'NJ', 154, '2018-02-12');
 insert into sales values ('Sam', 'Butter', 29, 12, 2020, 'PA', 911, '2020-12-29');
 insert into sales values ('Wally', 'Ham', 20, 10, 2016, 'NY', 783, '2016-10-20');
 insert into sales values ('Sam', 'Eggs', 7, 1, 2016, 'NY', 792, '2016-01-07');
@@ -5395,13 +5009,10 @@ insert into sales values ('Mia', 'Apple', 6, 1, 2020, 'CT', 381, '2020-01-06');
 insert into sales values ('Wally', 'Fish', 10, 5, 2020, 'PA', 188, '2020-05-10');
 insert into sales values ('Emily', 'Eggs', 12, 1, 2020, 'NY', 187, '2020-01-12');
 insert into sales values ('Helen', 'Fish', 9, 8, 2016, 'NJ', 786, '2016-08-09');
-insert into sales values ('Claire', 'Jellies', 7, 7, 2019, 'NY', 320, '2019-07-
-07');
-insert into sales values ('Claire', 'Jellies', 19, 3, 2020, 'NJ', 230, '2020-03-
-19');
+insert into sales values ('Claire', 'Jellies', 7, 7, 2019, 'NY', 320, '2019-07-07');
+insert into sales values ('Claire', 'Jellies', 19, 3, 2020, 'NJ', 230, '2020-03-19');
 insert into sales values ('Wally', 'Cherry', 19, 5, 2016, 'NJ', 831, '2016-05-19');
-insert into sales values ('Claire', 'Jellies', 9, 11, 2016, 'NJ', 597, '2016-11-
-09');
+insert into sales values ('Claire', 'Jellies', 9, 11, 2016, 'NJ', 597, '2016-11-09');
 insert into sales values ('Mia', 'Apple', 14, 4, 2016, 'NY', 295, '2016-04-14');
 insert into sales values ('Emily', 'Dates', 25, 10, 2017, 'NY', 445, '2017-10-25');
 insert into sales values ('Mia', 'Cherry', 21, 4, 2016, 'NY', 558, '2016-04-21');
@@ -5444,8 +5055,7 @@ insert into sales values ('Boo', 'Ham', 30, 7, 2017, 'CT', 69, '2017-07-30');
 insert into sales values ('Claire', 'Ice', 19, 5, 2019, 'NY', 622, '2019-05-19');
 insert into sales values ('Helen', 'Butter', 5, 6, 2017, 'NJ', 992, '2017-06-05');
 insert into sales values ('Chae', 'Ice', 13, 1, 2018, 'NY', 679, '2018-01-13');
-insert into sales values ('Claire', 'Butter', 15, 1, 2017, 'NJ', 475, '2017-01-
-15');
+insert into sales values ('Claire', 'Butter', 15, 1, 2017, 'NJ', 475, '2017-01-15');
 insert into sales values ('Helen', 'Cherry', 7, 12, 2017, 'NY', 571, '2017-12-07');
 insert into sales values ('Claire', 'Ham', 14, 12, 2019, 'CT', 427, '2019-12-14');
 insert into sales values ('Mia', 'Eggs', 8, 4, 2019, 'NJ', 598, '2019-04-08');
@@ -5454,8 +5064,7 @@ insert into sales values ('Helen', 'Ice', 6, 5, 2017, 'NY', 979, '2017-05-06');
 insert into sales values ('Helen', 'Grapes', 27, 1, 2020, 'NJ', 524, '2020-01-27');
 insert into sales values ('Dan', 'Ham', 18, 8, 2017, 'NY', 457, '2017-08-18');
 insert into sales values ('Wally', 'Dates', 21, 12, 2020, 'NY', 116, '2020-12-21');
-insert into sales values ('Claire', 'Butter', 26, 8, 2019, 'PA', 179, '2019-08-
-26');
+insert into sales values ('Claire', 'Butter', 26, 8, 2019, 'PA', 179, '2019-08-26');
 insert into sales values ('Wally', 'Ice', 12, 11, 2016, 'CT', 161, '2016-11-12');
 insert into sales values ('Claire', 'Ice', 17, 6, 2019, 'CT', 674, '2019-06-17');
 insert into sales values ('Helen', 'Cherry', 26, 3, 2020, 'PA', 954, '2020-03-26');
@@ -5463,8 +5072,7 @@ insert into sales values ('Emily', 'Apple', 6, 3, 2019, 'CT', 393, '2019-03-06')
 insert into sales values ('Chae', 'Dates', 16, 11, 2019, 'PA', 514, '2019-11-16');
 insert into sales values ('Helen', 'Grapes', 4, 11, 2016, 'CT', 849, '2016-11-04');
 insert into sales values ('Emily', 'Dates', 20, 1, 2018, 'PA', 526, '2018-01-20');
-insert into sales values ('Wally', 'Jellies', 20, 11, 2017, 'PA', 371, '2017-11-
-20');
+insert into sales values ('Wally', 'Jellies', 20, 11, 2017, 'PA', 371, '2017-11-20');
 insert into sales values ('Chae', 'Ham', 30, 11, 2016, 'NY', 187, '2016-11-30');
 insert into sales values ('Wally', 'Apple', 13, 8, 2019, 'NJ', 639, '2019-08-13');
 insert into sales values ('Claire', 'Apple', 19, 6, 2019, 'PA', 845, '2019-06-19');
@@ -5476,8 +5084,7 @@ insert into sales values ('Dan', 'Ham', 24, 8, 2017, 'CT', 194, '2017-08-24');
 insert into sales values ('Claire', 'Eggs', 8, 1, 2020, 'NY', 595, '2020-01-08');
 insert into sales values ('Helen', 'Ice', 14, 12, 2017, 'CT', 60, '2017-12-14');
 insert into sales values ('Boo', 'Apple', 23, 3, 2020, 'NJ', 557, '2020-03-23');
-insert into sales values ('Claire', 'Jellies', 14, 7, 2016, 'PA', 42, '2016-07-
-14');
+insert into sales values ('Claire', 'Jellies', 14, 7, 2016, 'PA', 42, '2016-07-14');
 insert into sales values ('Wally', 'Eggs', 23, 11, 2017, 'NJ', 843, '2017-11-23');
 insert into sales values ('Emily', 'Jellies', 28, 6, 2019, 'NJ', 50, '2019-06-28');
 insert into sales values ('Wally', 'Cherry', 21, 10, 2018, 'CT', 46, '2018-10-21');
@@ -5491,8 +5098,7 @@ insert into sales values ('Dan', 'Fish', 20, 4, 2019, 'NJ', 426, '2019-04-20');
 insert into sales values ('Boo', 'Apple', 29, 6, 2016, 'PA', 524, '2016-06-29');
 insert into sales values ('Boo', 'Apple', 26, 6, 2016, 'CT', 130, '2016-06-26');
 insert into sales values ('Chae', 'Apple', 24, 3, 2018, 'NJ', 921, '2018-03-24');
-insert into sales values ('Claire', 'Jellies', 18, 4, 2016, 'NY', 797, '2016-04-
-18');
+insert into sales values ('Claire', 'Jellies', 18, 4, 2016, 'NY', 797, '2016-04-18');
 insert into sales values ('Dan', 'Eggs', 30, 8, 2020, 'CT', 619, '2020-08-30');
 insert into sales values ('Boo', 'Jellies', 8, 11, 2018, 'NJ', 788, '2018-11-08');
 insert into sales values ('Chae', 'Dates', 22, 4, 2016, 'CT', 586, '2016-04-22');
@@ -5510,8 +5116,7 @@ insert into sales values ('Claire', 'Ham', 6, 9, 2018, 'NJ', 512, '2018-09-06');
 insert into sales values ('Mia', 'Fish', 16, 8, 2018, 'NY', 534, '2018-08-16');
 insert into sales values ('Mia', 'Grapes', 29, 12, 2016, 'PA', 641, '2016-12-29');
 insert into sales values ('Claire', 'Ham', 16, 9, 2016, 'PA', 104, '2016-09-16');
-insert into sales values ('Claire', 'Cherry', 16, 9, 2017, 'CT', 574, '2017-09-
-16');
+insert into sales values ('Claire', 'Cherry', 16, 9, 2017, 'CT', 574, '2017-09-16');
 insert into sales values ('Emily', 'Ice', 29, 4, 2016, 'PA', 422, '2016-04-29');
 insert into sales values ('Emily', 'Grapes', 30, 8, 2018, 'NJ', 742, '2018-08-30');
 insert into sales values ('Mia', 'Butter', 10, 8, 2017, 'PA', 55, '2017-08-10');
@@ -5519,8 +5124,7 @@ insert into sales values ('Chae', 'Eggs', 29, 11, 2016, 'NY', 923, '2016-11-29')
 insert into sales values ('Mia', 'Fish', 2, 2, 2017, 'NY', 832, '2017-02-02');
 insert into sales values ('Emily', 'Jellies', 2, 1, 2019, 'PA', 251, '2019-01-02');
 insert into sales values ('Dan', 'Cherry', 10, 3, 2019, 'NY', 345, '2019-03-10');
-insert into sales values ('Claire', 'Jellies', 18, 6, 2016, 'PA', 862, '2016-06-
-18');
+insert into sales values ('Claire', 'Jellies', 18, 6, 2016, 'PA', 862, '2016-06-18');
 insert into sales values ('Sam', 'Eggs', 30, 12, 2016, 'NJ', 801, '2016-12-30');
 insert into sales values ('Wally', 'Apple', 17, 5, 2017, 'CT', 442, '2017-05-17');
 insert into sales values ('Chae', 'Ham', 2, 9, 2020, 'CT', 804, '2020-09-02');
@@ -5530,8 +5134,7 @@ insert into sales values ('Claire', 'Grapes', 10, 6, 2017, 'NY', 44, '2017-06-10
 insert into sales values ('Helen', 'Dates', 26, 6, 2018, 'PA', 771, '2018-06-26');
 insert into sales values ('Chae', 'Grapes', 3, 9, 2017, 'CT', 239, '2017-09-03');
 insert into sales values ('Wally', 'Grapes', 22, 6, 2018, 'NJ', 359, '2018-06-22');
-insert into sales values ('Claire', 'Jellies', 20, 1, 2019, 'NY', 914, '2019-01-
-20');
+insert into sales values ('Claire', 'Jellies', 20, 1, 2019, 'NY', 914, '2019-01-20');
 insert into sales values ('Boo', 'Ice', 20, 5, 2017, 'PA', 792, '2017-05-20');
 insert into sales values ('Sam', 'Cherry', 1, 6, 2020, 'PA', 315, '2020-06-01');
 insert into sales values ('Helen', 'Cherry', 16, 12, 2020, 'CT', 44, '2020-12-16');
@@ -5557,13 +5160,11 @@ insert into sales values ('Mia', 'Jellies', 22, 10, 2016, 'NJ', 26, '2016-10-22'
 insert into sales values ('Chae', 'Dates', 7, 6, 2018, 'CT', 675, '2018-06-07');
 insert into sales values ('Mia', 'Cherry', 22, 12, 2019, 'NJ', 992, '2019-12-22');
 insert into sales values ('Wally', 'Eggs', 12, 2, 2017, 'NY', 411, '2017-02-12');
-insert into sales values ('Claire', 'Jellies', 30, 5, 2018, 'PA', 409, '2018-05-
-30');
+insert into sales values ('Claire', 'Jellies', 30, 5, 2018, 'PA', 409, '2018-05-30');
 insert into sales values ('Mia', 'Cherry', 10, 9, 2020, 'CT', 742, '2020-09-10');
 insert into sales values ('Helen', 'Cherry', 3, 1, 2018, 'PA', 213, '2018-01-03');
 insert into sales values ('Helen', 'Ice', 5, 10, 2017, 'NY', 838, '2017-10-05');
-insert into sales values ('Claire', 'Cherry', 29, 4, 2016, 'NY', 469, '2016-04-
-29');
+insert into sales values ('Claire', 'Cherry', 29, 4, 2016, 'NY', 469, '2016-04-29');
 insert into sales values ('Wally', 'Dates', 18, 3, 2016, 'CT', 143, '2016-03-18');
 insert into sales values ('Dan', 'Fish', 12, 12, 2016, 'NY', 205, '2016-12-12');
 insert into sales values ('Mia', 'Butter', 29, 12, 2018, 'NJ', 390, '2018-12-29');
@@ -5578,8 +5179,7 @@ insert into sales values ('Chae', 'Cherry', 6, 7, 2017, 'CT', 933, '2017-07-06')
 insert into sales values ('Dan', 'Butter', 4, 4, 2020, 'NJ', 727, '2020-04-04');
 insert into sales values ('Dan', 'Dates', 25, 4, 2018, 'PA', 146, '2018-04-25');
 insert into sales values ('Chae', 'Apple', 1, 1, 2019, 'PA', 241, '2019-01-01');
-insert into sales values ('Claire', 'Cherry', 21, 11, 2018, 'NY', 520, '2018-11-
-21');
+insert into sales values ('Claire', 'Cherry', 21, 11, 2018, 'NY', 520, '2018-11-21');
 insert into sales values ('Dan', 'Grapes', 21, 5, 2017, 'PA', 401, '2017-05-21');
 insert into sales values ('Boo', 'Fish', 24, 1, 2019, 'NJ', 832, '2019-01-24');
 insert into sales values ('Wally', 'Fish', 7, 3, 2019, 'NJ', 330, '2019-03-07');
@@ -5589,8 +5189,7 @@ insert into sales values ('Boo', 'Grapes', 3, 12, 2018, 'PA', 600, '2018-12-03')
 insert into sales values ('Helen', 'Dates', 26, 10, 2016, 'CT', 949, '2016-10-26');
 insert into sales values ('Mia', 'Jellies', 3, 9, 2018, 'NJ', 978, '2018-09-03');
 insert into sales values ('Boo', 'Fish', 20, 7, 2019, 'NJ', 249, '2019-07-20');
-insert into sales values ('Claire', 'Jellies', 5, 2, 2016, 'NY', 151, '2016-02-
-05');
+insert into sales values ('Claire', 'Jellies', 5, 2, 2016, 'NY', 151, '2016-02-05');
 insert into sales values ('Mia', 'Ham', 23, 5, 2019, 'CT', 176, '2019-05-23');
 insert into sales values ('Dan', 'Dates', 26, 3, 2020, 'NY', 28, '2020-03-26');
 insert into sales values ('Boo', 'Apple', 10, 10, 2019, 'NY', 88, '2019-10-10');
@@ -5602,8 +5201,7 @@ insert into sales values ('Claire', 'Fish', 10, 3, 2018, 'CT', 160, '2018-03-10'
 insert into sales values ('Boo', 'Eggs', 30, 3, 2016, 'NY', 767, '2016-03-30');
 insert into sales values ('Emily', 'Dates', 4, 1, 2016, 'NY', 885, '2016-01-04');
 insert into sales values ('Boo', 'Dates', 18, 5, 2017, 'NJ', 966, '2017-05-18');
-insert into sales values ('Claire', 'Grapes', 20, 4, 2020, 'NJ', 976, '2020-04-
-20');
+insert into sales values ('Claire', 'Grapes', 20, 4, 2020, 'NJ', 976, '2020-04-20');
 insert into sales values ('Dan', 'Grapes', 22, 2, 2020, 'PA', 452, '2020-02-22');
 insert into sales values ('Dan', 'Dates', 14, 1, 2016, 'PA', 544, '2016-01-14');
 insert into sales values ('Chae', 'Ham', 30, 7, 2016, 'CT', 76, '2016-07-30');
@@ -5641,8 +5239,7 @@ insert into sales values ('Wally', 'Eggs', 28, 4, 2018, 'NY', 916, '2018-04-28')
 insert into sales values ('Wally', 'Grapes', 21, 1, 2019, 'NJ', 351, '2019-01-21');
 insert into sales values ('Dan', 'Ham', 29, 7, 2020, 'NJ', 843, '2020-07-29');
 insert into sales values ('Dan', 'Butter', 11, 4, 2016, 'CT', 854, '2016-04-11');
-insert into sales values ('Wally', 'Grapes', 18, 10, 2018, 'PA', 382, '2018-10-
-18');
+insert into sales values ('Wally', 'Grapes', 18, 10, 2018, 'PA', 382, '2018-10-18');
 insert into sales values ('Chae', 'Ice', 10, 8, 2020, 'CT', 691, '2020-08-10');
 insert into sales values ('Helen', 'Dates', 4, 12, 2016, 'NJ', 387, '2016-12-04');
 insert into sales values ('Dan', 'Grapes', 25, 10, 2016, 'CT', 631, '2016-10-25');
@@ -5677,8 +5274,7 @@ insert into sales values ('Mia', 'Jellies', 7, 6, 2018, 'NY', 483, '2018-06-07')
 insert into sales values ('Wally', 'Eggs', 29, 7, 2018, 'PA', 223, '2018-07-29');
 insert into sales values ('Wally', 'Apple', 10, 9, 2020, 'CT', 757, '2020-09-10');
 insert into sales values ('Wally', 'Apple', 24, 5, 2016, 'CT', 383, '2016-05-24');
-insert into sales values ('Claire', 'Butter', 10, 10, 2020, 'NY', 332, '2020-10-
-10');
+insert into sales values ('Claire', 'Butter', 10, 10, 2020, 'NY', 332, '2020-10-10');
 insert into sales values ('Dan', 'Cherry', 14, 6, 2018, 'NY', 790, '2018-06-14');
 insert into sales values ('Helen', 'Ham', 8, 6, 2016, 'NY', 105, '2016-06-08');
 insert into sales values ('Dan', 'Fish', 20, 9, 2017, 'PA', 259, '2017-09-20');
@@ -5686,8 +5282,7 @@ insert into sales values ('Boo', 'Eggs', 13, 4, 2018, 'CT', 729, '2018-04-13');
 insert into sales values ('Mia', 'Dates', 10, 8, 2020, 'CT', 960, '2020-08-10');
 insert into sales values ('Mia', 'Grapes', 6, 5, 2019, 'CT', 535, '2019-05-06');
 insert into sales values ('Boo', 'Jellies', 19, 9, 2019, 'PA', 606, '2019-09-19');
-insert into sales values ('Claire', 'Butter', 19, 1, 2018, 'NY', 190, '2018-01-
-19');
+insert into sales values ('Claire', 'Butter', 19, 1, 2018, 'NY', 190, '2018-01-19');
 insert into sales values ('Helen', 'Grapes', 11, 7, 2018, 'NY', 746, '2018-07-11');
 insert into sales values ('Sam', 'Cherry', 17, 2, 2016, 'PA', 36, '2016-02-17');
 insert into sales values ('Chae', 'Ice', 11, 8, 2018, 'CT', 98, '2018-08-11');
@@ -5699,8 +5294,7 @@ insert into sales values ('Claire', 'Ham', 25, 5, 2018, 'PA', 42, '2018-05-25');
 insert into sales values ('Emily', 'Grapes', 25, 8, 2018, 'CT', 160, '2018-08-25');
 insert into sales values ('Helen', 'Grapes', 16, 5, 2016, 'NY', 660, '2016-05-16');
 insert into sales values ('Emily', 'Ice', 3, 1, 2020, 'PA', 887, '2020-01-03');
-insert into sales values ('Claire', 'Grapes', 20, 10, 2017, 'NY', 348, '2017-10-
-20');
+insert into sales values ('Claire', 'Grapes', 20, 10, 2017, 'NY', 348, '2017-10-20');
 insert into sales values ('Dan', 'Eggs', 4, 1, 2020, 'CT', 675, '2020-01-04');
 insert into sales values ('Sam', 'Eggs', 12, 6, 2016, 'NY', 575, '2016-06-12');
 insert into sales values ('Chae', 'Ice', 31, 10, 2017, 'NY', 633, '2017-10-31');
@@ -5712,16 +5306,14 @@ insert into sales values ('Helen', 'Ice', 6, 5, 2017, 'NY', 939, '2017-05-06');
 insert into sales values ('Emily', 'Dates', 25, 4, 2017, 'PA', 333, '2017-04-25');
 insert into sales values ('Dan', 'Jellies', 6, 12, 2016, 'NY', 804, '2016-12-06');
 insert into sales values ('Claire', 'Eggs', 7, 11, 2016, 'CT', 592, '2016-11-07');
-insert into sales values ('Claire', 'Jellies', 14, 10, 2020, 'PA', 633, '2020-10-
-14');
+insert into sales values ('Claire', 'Jellies', 14, 10, 2020, 'PA', 633, '2020-10-14');
 insert into sales values ('Dan', 'Apple', 11, 9, 2016, 'PA', 538, '2016-09-11');
 insert into sales values ('Sam', 'Ice', 21, 11, 2017, 'PA', 738, '2017-11-21');
 insert into sales values ('Emily', 'Ham', 1, 11, 2020, 'CT', 443, '2020-11-01');
 insert into sales values ('Boo', 'Grapes', 16, 10, 2016, 'NY', 259, '2016-10-16');
 insert into sales values ('Mia', 'Fish', 24, 10, 2018, 'NY', 199, '2018-10-24');
 insert into sales values ('Dan', 'Fish', 31, 12, 2016, 'CT', 967, '2016-12-31');
-insert into sales values ('Claire', 'Grapes', 28, 8, 2018, 'PA', 804, '2018-08-
-28');
+insert into sales values ('Claire', 'Grapes', 28, 8, 2018, 'PA', 804, '2018-08-28');
 insert into sales values ('Helen', 'Jellies', 3, 8, 2020, 'CT', 214, '2020-08-03');
 insert into sales values ('Sam', 'Cherry', 31, 12, 2017, 'CT', 97, '2017-12-31');
 insert into sales values ('Emily', 'Ham', 14, 4, 2016, 'NY', 978, '2016-04-14');
@@ -5741,32 +5333,27 @@ insert into sales values ('Emily', 'Cherry', 16, 2, 2018, 'CT', 412, '2018-02-16
 insert into sales values ('Sam', 'Apple', 24, 8, 2019, 'PA', 799, '2019-08-24');
 insert into sales values ('Claire', 'Ham', 2, 1, 2017, 'CT', 978, '2017-01-02');
 insert into sales values ('Sam', 'Dates', 28, 9, 2018, 'NY', 272, '2018-09-28');
-insert into sales values ('Claire', 'Butter', 6, 12, 2017, 'NJ', 363, '2017-12-
-06');
+insert into sales values ('Claire', 'Butter', 6, 12, 2017, 'NJ', 363, '2017-12-06');
 insert into sales values ('Wally', 'Jellies', 16, 5, 2018, 'CT', 1, '2018-05-16');
 insert into sales values ('Helen', 'Eggs', 29, 8, 2020, 'PA', 637, '2020-08-29');
 insert into sales values ('Emily', 'Grapes', 1, 5, 2016, 'NJ', 894, '2016-05-01');
 insert into sales values ('Chae', 'Grapes', 1, 9, 2020, 'PA', 700, '2020-09-01');
-insert into sales values ('Emily', 'Jellies', 31, 3, 2016, 'CT', 339, '2016-03-
-31');
+insert into sales values ('Emily', 'Jellies', 31, 3, 2016, 'CT', 339, '2016-03-31');
 insert into sales values ('Chae', 'Butter', 21, 3, 2019, 'NJ', 519, '2019-03-21');
 insert into sales values ('Chae', 'Apple', 18, 6, 2020, 'CT', 431, '2020-06-18');
 insert into sales values ('Mia', 'Butter', 8, 1, 2020, 'NY', 790, '2020-01-08');
-insert into sales values ('Claire', 'Grapes', 7, 11, 2017, 'PA', 413, '2017-11-
-07');
+insert into sales values ('Claire', 'Grapes', 7, 11, 2017, 'PA', 413, '2017-11-07');
 insert into sales values ('Claire', 'Eggs', 9, 6, 2017, 'PA', 980, '2017-06-09');
 insert into sales values ('Emily', 'Eggs', 7, 1, 2018, 'NY', 116, '2018-01-07');
 insert into sales values ('Sam', 'Jellies', 4, 8, 2016, 'NY', 986, '2016-08-04');
 insert into sales values ('Chae', 'Fish', 11, 3, 2016, 'NY', 448, '2016-03-11');
-insert into sales values ('Claire', 'Cherry', 24, 1, 2019, 'CT', 877, '2019-01-
-24');
+insert into sales values ('Claire', 'Cherry', 24, 1, 2019, 'CT', 877, '2019-01-24');
 insert into sales values ('Boo', 'Eggs', 8, 9, 2018, 'CT', 350, '2018-09-08');
 insert into sales values ('Mia', 'Eggs', 26, 2, 2019, 'PA', 822, '2019-02-26');
 insert into sales values ('Wally', 'Apple', 16, 8, 2019, 'CT', 319, '2019-08-16');
 insert into sales values ('Emily', 'Jellies', 9, 8, 2019, 'CT', 747, '2019-08-09');
 insert into sales values ('Wally', 'Fish', 5, 3, 2020, 'CT', 518, '2020-03-05');
-insert into sales values ('Wally', 'Jellies', 26, 10, 2019, 'PA', 165, '2019-10-
-26');
+insert into sales values ('Wally', 'Jellies', 26, 10, 2019, 'PA', 165, '2019-10-26');
 insert into sales values ('Mia', 'Jellies', 12, 3, 2019, 'NJ', 850, '2019-03-12');
 insert into sales values ('Dan', 'Grapes', 6, 9, 2017, 'CT', 24, '2017-09-06');
 insert into sales values ('Chae', 'Jellies', 29, 7, 2019, 'NY', 463, '2019-07-29');
@@ -5785,22 +5372,17 @@ insert into sales values ('Boo', 'Grapes', 26, 4, 2016, 'NY', 145, '2016-04-26')
 insert into sales values ('Wally', 'Butter', 9, 2, 2020, 'NJ', 576, '2020-02-09');
 insert into sales values ('Mia', 'Grapes', 23, 8, 2019, 'NJ', 792, '2019-08-23');
 insert into sales values ('Boo', 'Butter', 23, 11, 2017, 'NY', 416, '2017-11-23');
-insert into sales values ('Claire', 'Butter', 26, 5, 2020, 'PA', 116, '2020-05-
-26');
+insert into sales values ('Claire', 'Butter', 26, 5, 2020, 'PA', 116, '2020-05-26');
 insert into sales values ('Dan', 'Fish', 10, 5, 2019, 'NJ', 229, '2019-05-10');
-insert into sales values ('Claire', 'Butter', 22, 8, 2020, 'NJ', 696, '2020-08-
-22');
+insert into sales values ('Claire', 'Butter', 22, 8, 2020, 'NJ', 696, '2020-08-22');
 insert into sales values ('Emily', 'Jellies', 4, 8, 2016, 'NJ', 156, '2016-08-04');
 insert into sales values ('Wally', 'Dates', 14, 9, 2019, 'NY', 309, '2019-09-14');
 insert into sales values ('Chae', 'Ice', 11, 10, 2017, 'PA', 475, '2017-10-11');
-insert into sales values ('Claire', 'Jellies', 18, 7, 2018, 'PA', 638, '2018-07-
-18');
+insert into sales values ('Claire', 'Jellies', 18, 7, 2018, 'PA', 638, '2018-07-18');
 insert into sales values ('Helen', 'Butter', 4, 8, 2019, 'CT', 706, '2019-08-04');
 insert into sales values ('Claire', 'Butter', 1, 3, 2018, 'CT', 519, '2018-03-01');
-insert into sales values ('Helen', 'Jellies', 22, 12, 2018, 'PA', 150, '2018-12-
-22');
-insert into sales values ('Helen', 'Grapes', 15, 11, 2020, 'PA', 753, '2020-11-
-15');
+insert into sales values ('Helen', 'Jellies', 22, 12, 2018, 'PA', 150, '2018-12-22');
+insert into sales values ('Helen', 'Grapes', 15, 11, 2020, 'PA', 753, '2020-11-15');
 insert into sales values ('Chae', 'Jellies', 14, 5, 2016, 'NY', 559, '2016-05-14');
 insert into sales values ('Mia', 'Jellies', 30, 12, 2018, 'NY', 295, '2018-12-30');
 insert into sales values ('Claire', 'Dates', 15, 4, 2016, 'NJ', 681, '2016-04-15');
@@ -5809,21 +5391,16 @@ insert into sales values ('Chae', 'Cherry', 14, 4, 2017, 'CT', 477, '2017-04-14'
 insert into sales values ('Mia', 'Fish', 15, 11, 2017, 'CT', 293, '2017-11-15');
 insert into sales values ('Chae', 'Dates', 25, 8, 2017, 'NY', 760, '2017-08-25');
 insert into sales values ('Helen', 'Ham', 1, 2, 2018, 'CT', 619, '2018-02-01');
-insert into sales values ('Claire', 'Grapes', 15, 9, 2016, 'NJ', 525, '2016-09-
-15');
-insert into sales values ('Claire', 'Cherry', 30, 3, 2019, 'CT', 392, '2019-03-
-30');
-insert into sales values ('Claire', 'Grapes', 17, 3, 2018, 'NY', 180, '2018-03-
-17');
+insert into sales values ('Claire', 'Grapes', 15, 9, 2016, 'NJ', 525, '2016-09-15');
+insert into sales values ('Claire', 'Cherry', 30, 3, 2019, 'CT', 392, '2019-03-30');
+insert into sales values ('Claire', 'Grapes', 17, 3, 2018, 'NY', 180, '2018-03-17');
 insert into sales values ('Dan', 'Ham', 30, 11, 2018, 'PA', 78, '2018-11-30');
 insert into sales values ('Dan', 'Jellies', 17, 7, 2019, 'PA', 744, '2019-07-17');
 insert into sales values ('Mia', 'Grapes', 1, 4, 2018, 'PA', 134, '2018-04-01');
-insert into sales values ('Wally', 'Cherry', 16, 11, 2019, 'CT', 957, '2019-11-
-16');
+insert into sales values ('Wally', 'Cherry', 16, 11, 2019, 'CT', 957, '2019-11-16');
 insert into sales values ('Dan', 'Ice', 23, 5, 2020, 'CT', 702, '2020-05-23');
 insert into sales values ('Claire', 'Dates', 11, 1, 2017, 'NJ', 212, '2017-01-11');
-insert into sales values ('Emily', 'Jellies', 11, 3, 2016, 'PA', 131, '2016-03-
-11');
+insert into sales values ('Emily', 'Jellies', 11, 3, 2016, 'PA', 131, '2016-03-11');
 insert into sales values ('Mia', 'Ham', 16, 2, 2017, 'CT', 147, '2017-02-16');
 insert into sales values ('Chae', 'Fish', 24, 6, 2019, 'CT', 179, '2019-06-24');
 insert into sales values ('Sam', 'Apple', 12, 6, 2019, 'NY', 393, '2019-06-12');
@@ -5835,8 +5412,7 @@ insert into sales values ('Chae', 'Apple', 26, 12, 2019, 'PA', 711, '2019-12-26'
 insert into sales values ('Sam', 'Ham', 9, 6, 2019, 'PA', 202, '2019-06-09');
 insert into sales values ('Dan', 'Fish', 20, 4, 2017, 'CT', 246, '2017-04-20');
 insert into sales values ('Emily', 'Cherry', 30, 1, 2018, 'CT', 410, '2018-01-30');
-insert into sales values ('Chae', 'Jellies', 23, 11, 2020, 'NJ', 853, '2020-11-
-23');
+insert into sales values ('Chae', 'Jellies', 23, 11, 2020, 'NJ', 853, '2020-11-23');
 insert into sales values ('Boo', 'Grapes', 13, 6, 2017, 'NJ', 32, '2017-06-13');
 insert into sales values ('Wally', 'Grapes', 30, 7, 2017, 'NY', 518, '2017-07-30');
 insert into sales values ('Mia', 'Ham', 11, 10, 2019, 'CT', 990, '2019-10-11');
@@ -5848,8 +5424,7 @@ insert into sales values ('Sam', 'Ham', 29, 1, 2016, 'CT', 939, '2016-01-29');
 insert into sales values ('Emily', 'Ice', 31, 10, 2019, 'NJ', 407, '2019-10-31');
 insert into sales values ('Claire', 'Dates', 14, 3, 2020, 'NY', 158, '2020-03-14');
 insert into sales values ('Boo', 'Apple', 18, 2, 2017, 'NJ', 922, '2017-02-18');
-insert into sales values ('Emily', 'Jellies', 15, 6, 2018, 'NY', 842, '2018-06-
-15');
+insert into sales values ('Emily', 'Jellies', 15, 6, 2018, 'NY', 842, '2018-06-15');
 insert into sales values ('Helen', 'Dates', 25, 11, 2019, 'NJ', 896, '2019-11-25');
 insert into sales values ('Claire', 'Ham', 25, 11, 2019, 'NY', 37, '2019-11-25');
 insert into sales values ('Chae', 'Ham', 6, 3, 2018, 'NJ', 382, '2018-03-06');
@@ -5871,8 +5446,7 @@ insert into sales values ('Chae', 'Fish', 26, 2, 2020, 'NJ', 838, '2020-02-26');
 insert into sales values ('Mia', 'Fish', 7, 8, 2016, 'PA', 588, '2016-08-07');
 insert into sales values ('Mia', 'Butter', 6, 12, 2017, 'PA', 284, '2017-12-06');
 insert into sales values ('Mia', 'Ham', 12, 3, 2020, 'PA', 780, '2020-03-12');
-insert into sales values ('Claire', 'Butter', 12, 10, 2016, 'PA', 858, '2016-10-
-12');
+insert into sales values ('Claire', 'Butter', 12, 10, 2016, 'PA', 858, '2016-10-12');
 insert into sales values ('Emily', 'Ham', 25, 4, 2016, 'NY', 960, '2016-04-25');
 insert into sales values ('Emily', 'Fish', 24, 12, 2018, 'NJ', 229, '2018-12-24');
 insert into sales values ('Boo', 'Apple', 6, 9, 2016, 'NJ', 977, '2016-09-06');
@@ -5891,8 +5465,7 @@ insert into sales values ('Chae', 'Cherry', 26, 4, 2017, 'NJ', 309, '2017-04-26'
 insert into sales values ('Sam', 'Eggs', 5, 2, 2019, 'NJ', 713, '2019-02-05');
 insert into sales values ('Mia', 'Jellies', 28, 8, 2019, 'CT', 475, '2019-08-28');
 insert into sales values ('Claire', 'Apple', 11, 2, 2017, 'NY', 560, '2017-02-11');
-insert into sales values ('Claire', 'Cherry', 14, 5, 2019, 'NJ', 245, '2019-05-
-14');
+insert into sales values ('Claire', 'Cherry', 14, 5, 2019, 'NJ', 245, '2019-05-14');
 insert into sales values ('Boo', 'Ham', 29, 5, 2016, 'PA', 573, '2016-05-29');
 insert into sales values ('Sam', 'Apple', 3, 11, 2016, 'NY', 400, '2016-11-03');
 insert into sales values ('Claire', 'Fish', 1, 9, 2017, 'NJ', 670, '2017-09-01');
@@ -5925,8 +5498,7 @@ insert into sales values ('Wally', 'Eggs', 17, 12, 2020, 'NJ', 900, '2020-12-17'
 insert into sales values ('Boo', 'Dates', 1, 6, 2018, 'NY', 507, '2018-06-01');
 insert into sales values ('Mia', 'Cherry', 3, 6, 2019, 'CT', 435, '2019-06-03');
 insert into sales values ('Chae', 'Apple', 8, 1, 2020, 'NJ', 813, '2020-01-08');
-insert into sales values ('Emily', 'Jellies', 8, 12, 2016, 'CT', 214, '2016-12-
-08');
+insert into sales values ('Emily', 'Jellies', 8, 12, 2016, 'CT', 214, '2016-12-08');
 insert into sales values ('Wally', 'Cherry', 21, 9, 2018, 'CT', 667, '2018-09-21');
 insert into sales values ('Helen', 'Fish', 7, 7, 2017, 'NY', 498, '2017-07-07');
 insert into sales values ('Boo', 'Ham', 30, 7, 2020, 'CT', 265, '2020-07-30');
@@ -5944,8 +5516,7 @@ insert into sales values ('Emily', 'Ice', 30, 10, 2018, 'PA', 561, '2018-10-30')
 insert into sales values ('Helen', 'Apple', 25, 8, 2016, 'NJ', 801, '2016-08-25');
 insert into sales values ('Wally', 'Butter', 19, 10, 2020, 'PA', 16, '2020-10-19');
 insert into sales values ('Boo', 'Butter', 1, 5, 2018, 'CT', 120, '2018-05-01');
-insert into sales values ('Claire', 'Grapes', 28, 4, 2020, 'CT', 996, '2020-04-
-28');
+insert into sales values ('Claire', 'Grapes', 28, 4, 2020, 'CT', 996, '2020-04-28');
 insert into sales values ('Mia', 'Apple', 29, 5, 2018, 'NY', 361, '2018-05-29');
 insert into sales values ('Sam', 'Ham', 28, 12, 2017, 'NY', 671, '2017-12-28');
 insert into sales values ('Helen', 'Dates', 8, 7, 2016, 'NJ', 550, '2016-07-08');
@@ -5955,8 +5526,7 @@ insert into sales values ('Emily', 'Grapes', 24, 8, 2018, 'NY', 978, '2018-08-24
 insert into sales values ('Sam', 'Eggs', 31, 5, 2019, 'CT', 547, '2019-05-31');
 insert into sales values ('Wally', 'Butter', 6, 2, 2019, 'CT', 160, '2019-02-06');
 insert into sales values ('Wally', 'Eggs', 13, 4, 2020, 'NY', 408, '2020-04-13');
-insert into sales values ('Emily', 'Jellies', 29, 3, 2016, 'CT', 348, '2016-03-
-29');
+insert into sales values ('Emily', 'Jellies', 29, 3, 2016, 'CT', 348, '2016-03-29');
 insert into sales values ('Dan', 'Cherry', 1, 1, 2020, 'NY', 246, '2020-01-01');
 insert into sales values ('Emily', 'Fish', 27, 12, 2019, 'NY', 130, '2019-12-27');
 insert into sales values ('Claire', 'Eggs', 5, 5, 2017, 'NJ', 58, '2017-05-05');
@@ -5972,23 +5542,18 @@ insert into sales values ('Boo', 'Eggs', 20, 10, 2020, 'PA', 615, '2020-10-20');
 insert into sales values ('Wally', 'Dates', 11, 10, 2020, 'NJ', 973, '2020-10-11');
 insert into sales values ('Mia', 'Grapes', 25, 1, 2017, 'CT', 779, '2017-01-25');
 insert into sales values ('Sam', 'Apple', 16, 9, 2019, 'NJ', 454, '2019-09-16');
-insert into sales values ('Wally', 'Jellies', 11, 12, 2018, 'NJ', 747, '2018-12-
-11');
+insert into sales values ('Wally', 'Jellies', 11, 12, 2018, 'NJ', 747, '2018-12-11');
 insert into sales values ('Chae', 'Eggs', 21, 11, 2019, 'PA', 59, '2019-11-21');
-insert into sales values ('Helen', 'Jellies', 10, 5, 2016, 'NY', 352, '2016-05-
-10');
+insert into sales values ('Helen', 'Jellies', 10, 5, 2016, 'NY', 352, '2016-05-10');
 insert into sales values ('Claire', 'Ham', 6, 1, 2019, 'NY', 212, '2019-01-06');
-insert into sales values ('Wally', 'Jellies', 19, 6, 2018, 'NJ', 724, '2018-06-
-19');
+insert into sales values ('Wally', 'Jellies', 19, 6, 2018, 'NJ', 724, '2018-06-19');
 insert into sales values ('Helen', 'Ham', 30, 10, 2020, 'CT', 345, '2020-10-30');
 insert into sales values ('Dan', 'Apple', 29, 9, 2016, 'NY', 819, '2016-09-29');
 insert into sales values ('Claire', 'Ice', 24, 3, 2019, 'NY', 29, '2019-03-24');
-insert into sales values ('Helen', 'Butter', 11, 10, 2017, 'NJ', 173, '2017-10-
-11');
+insert into sales values ('Helen', 'Butter', 11, 10, 2017, 'NJ', 173, '2017-10-11');
 insert into sales values ('Boo', 'Eggs', 14, 7, 2019, 'PA', 563, '2019-07-14');
 insert into sales values ('Mia', 'Apple', 18, 11, 2018, 'CT', 795, '2018-11-18');
-insert into sales values ('Emily', 'Butter', 13, 10, 2016, 'NY', 921, '2016-10-
-13');
+insert into sales values ('Emily', 'Butter', 13, 10, 2016, 'NY', 921, '2016-10-13');
 insert into sales values ('Dan', 'Fish', 7, 5, 2018, 'NY', 936, '2018-05-07');
 insert into sales values ('Sam', 'Dates', 28, 9, 2017, 'CT', 878, '2017-09-28');
 insert into sales values ('Boo', 'Fish', 17, 6, 2019, 'PA', 969, '2019-06-17');
@@ -6017,8 +5582,7 @@ insert into sales values ('Wally', 'Ham', 3, 5, 2016, 'PA', 953, '2016-05-03');
 insert into sales values ('Mia', 'Cherry', 1, 2, 2019, 'NJ', 665, '2019-02-01');
 insert into sales values ('Wally', 'Ham', 31, 7, 2018, 'NJ', 638, '2018-07-31');
 insert into sales values ('Wally', 'Cherry', 14, 9, 2016, 'PA', 497, '2016-09-14');
-insert into sales values ('Claire', 'Butter', 4, 10, 2016, 'NJ', 820, '2016-10-
-04');
+insert into sales values ('Claire', 'Butter', 4, 10, 2016, 'NJ', 820, '2016-10-04');
 insert into sales values ('Dan', 'Eggs', 7, 11, 2019, 'PA', 843, '2019-11-07');
 insert into sales values ('Wally', 'Dates', 6, 9, 2020, 'NJ', 507, '2020-09-06');
 insert into sales values ('Mia', 'Fish', 15, 7, 2020, 'PA', 951, '2020-07-15');
@@ -6040,8 +5604,7 @@ insert into sales values ('Boo', 'Butter', 18, 4, 2016, 'NY', 35, '2016-04-18');
 insert into sales values ('Chae', 'Apple', 3, 11, 2018, 'NJ', 777, '2018-11-03');
 insert into sales values ('Sam', 'Eggs', 28, 12, 2017, 'CT', 987, '2017-12-28');
 insert into sales values ('Wally', 'Dates', 27, 1, 2016, 'CT', 519, '2016-01-27');
-insert into sales values ('Helen', 'Jellies', 16, 8, 2020, 'CT', 730, '2020-08-
-16');
+insert into sales values ('Helen', 'Jellies', 16, 8, 2020, 'CT', 730, '2020-08-16');
 insert into sales values ('Helen', 'Eggs', 22, 2, 2019, 'NY', 920, '2019-02-22');
 insert into sales values ('Sam', 'Jellies', 4, 2, 2017, 'NJ', 413, '2017-02-04');
 insert into sales values ('Wally', 'Ice', 24, 3, 2018, 'CT', 694, '2018-03-24');
@@ -6066,8 +5629,7 @@ insert into sales values ('Mia', 'Butter', 18, 9, 2017, 'CT', 538, '2017-09-18')
 insert into sales values ('Emily', 'Dates', 22, 2, 2018, 'CT', 161, '2018-02-22');
 insert into sales values ('Mia', 'Grapes', 26, 9, 2019, 'CT', 288, '2019-09-26');
 insert into sales values ('Dan', 'Jellies', 24, 11, 2016, 'NY', 215, '2016-11-24');
-insert into sales values ('Claire', 'Grapes', 10, 12, 2018, 'NY', 992, '2018-12-
-10');
+insert into sales values ('Claire', 'Grapes', 10, 12, 2018, 'NY', 992, '2018-12-10');
 insert into sales values ('Boo', 'Ham', 16, 7, 2020, 'CT', 45, '2020-07-16');
 insert into sales values ('Emily', 'Cherry', 15, 6, 2020, 'NJ', 572, '2020-06-15');
 insert into sales values ('Chae', 'Grapes', 18, 6, 2020, 'PA', 53, '2020-06-18');
@@ -6093,8 +5655,7 @@ insert into sales values ('Chae', 'Dates', 22, 4, 2017, 'PA', 773, '2017-04-22')
 insert into sales values ('Wally', 'Cherry', 6, 10, 2020, 'NY', 779, '2020-10-06');
 insert into sales values ('Chae', 'Grapes', 3, 10, 2018, 'NJ', 613, '2018-10-03');
 insert into sales values ('Boo', 'Dates', 29, 10, 2017, 'NY', 285, '2017-10-29');
-insert into sales values ('Wally', 'Cherry', 25, 10, 2017, 'PA', 305, '2017-10-
-25');
+insert into sales values ('Wally', 'Cherry', 25, 10, 2017, 'PA', 305, '2017-10-25');
 insert into sales values ('Mia', 'Apple', 18, 4, 2018, 'CT', 606, '2018-04-18');
 insert into sales values ('Sam', 'Butter', 18, 6, 2016, 'PA', 493, '2016-06-18');
 insert into sales values ('Sam', 'Apple', 16, 6, 2020, 'NY', 101, '2020-06-16');
@@ -6114,8 +5675,7 @@ insert into sales values ('Boo', 'Cherry', 27, 11, 2017, 'NY', 354, '2017-11-27'
 insert into sales values ('Boo', 'Dates', 14, 2, 2019, 'NY', 966, '2019-02-14');
 insert into sales values ('Chae', 'Grapes', 20, 10, 2020, 'NJ', 33, '2020-10-20');
 insert into sales values ('Boo', 'Ice', 15, 9, 2020, 'NJ', 262, '2020-09-15');
-insert into sales values ('Emily', 'Grapes', 14, 11, 2018, 'CT', 857, '2018-11-
-14');
+insert into sales values ('Emily', 'Grapes', 14, 11, 2018, 'CT', 857, '2018-11-14');
 insert into sales values ('Emily', 'Butter', 3, 7, 2020, 'CT', 583, '2020-07-03');
 insert into sales values ('Sam', 'Butter', 29, 3, 2018, 'CT', 142, '2018-03-29');
 insert into sales values ('Mia', 'Dates', 31, 10, 2016, 'PA', 388, '2016-10-31');
@@ -6123,8 +5683,7 @@ insert into sales values ('Mia', 'Butter', 7, 9, 2016, 'NJ', 221, '2016-09-07');
 insert into sales values ('Claire', 'Ham', 7, 12, 2019, 'CT', 857, '2019-12-07');
 insert into sales values ('Helen', 'Dates', 8, 2, 2019, 'CT', 306, '2019-02-08');
 insert into sales values ('Dan', 'Ice', 27, 3, 2019, 'PA', 56, '2019-03-27');
-insert into sales values ('Emily', 'Grapes', 16, 10, 2019, 'NY', 331, '2019-10-
-16');
+insert into sales values ('Emily', 'Grapes', 16, 10, 2019, 'NY', 331, '2019-10-16');
 insert into sales values ('Dan', 'Apple', 31, 1, 2020, 'NY', 101, '2020-01-31');
 insert into sales values ('Boo', 'Eggs', 23, 7, 2017, 'CT', 828, '2017-07-23');
 insert into sales values ('Helen', 'Ice', 3, 10, 2016, 'NJ', 432, '2016-10-03');
@@ -6136,39 +5695,32 @@ insert into sales values ('Boo', 'Eggs', 7, 9, 2018, 'NJ', 302, '2018-09-07');
 insert into sales values ('Sam', 'Butter', 26, 9, 2018, 'NY', 844, '2018-09-26');
 insert into sales values ('Mia', 'Ham', 6, 9, 2016, 'NJ', 908, '2016-09-06');
 insert into sales values ('Wally', 'Apple', 26, 5, 2019, 'PA', 717, '2019-05-26');
-insert into sales values ('Claire', 'Jellies', 31, 8, 2017, 'NY', 695, '2017-08-
-31');
+insert into sales values ('Claire', 'Jellies', 31, 8, 2017, 'NY', 695, '2017-08-31');
 insert into sales values ('Mia', 'Eggs', 12, 2, 2018, 'CT', 696, '2018-02-12');
 insert into sales values ('Mia', 'Fish', 6, 2, 2017, 'CT', 878, '2017-02-06');
 insert into sales values ('Mia', 'Ice', 20, 11, 2020, 'PA', 755, '2020-11-20');
 insert into sales values ('Emily', 'Eggs', 20, 11, 2020, 'NY', 323, '2020-11-20');
 insert into sales values ('Emily', 'Eggs', 25, 6, 2020, 'CT', 449, '2020-06-25');
 insert into sales values ('Helen', 'Grapes', 26, 7, 2018, 'PA', 434, '2018-07-26');
-insert into sales values ('Helen', 'Jellies', 23, 2, 2019, 'NJ', 390, '2019-02-
-23');
+insert into sales values ('Helen', 'Jellies', 23, 2, 2019, 'NJ', 390, '2019-02-23');
 insert into sales values ('Claire', 'Dates', 1, 7, 2019, 'PA', 949, '2019-07-01');
-insert into sales values ('Helen', 'Butter', 14, 11, 2017, 'PA', 546, '2017-11-
-14');
+insert into sales values ('Helen', 'Butter', 14, 11, 2017, 'PA', 546, '2017-11-14');
 insert into sales values ('Wally', 'Dates', 2, 3, 2020, 'CT', 481, '2020-03-02');
 insert into sales values ('Claire', 'Ham', 3, 4, 2016, 'CT', 403, '2016-04-03');
 insert into sales values ('Boo', 'Butter', 3, 10, 2016, 'PA', 788, '2016-10-03');
-insert into sales values ('Claire', 'Cherry', 28, 8, 2017, 'PA', 499, '2017-08-
-28');
+insert into sales values ('Claire', 'Cherry', 28, 8, 2017, 'PA', 499, '2017-08-28');
 insert into sales values ('Sam', 'Ice', 22, 10, 2019, 'NY', 318, '2019-10-22');
 insert into sales values ('Mia', 'Jellies', 7, 8, 2019, 'PA', 743, '2019-08-07');
 insert into sales values ('Emily', 'Fish', 11, 2, 2017, 'CT', 683, '2017-02-11');
 insert into sales values ('Emily', 'Jellies', 1, 8, 2017, 'NY', 597, '2017-08-01');
-insert into sales values ('Emily', 'Butter', 28, 10, 2017, 'PA', 570, '2017-10-
-28');
+insert into sales values ('Emily', 'Butter', 28, 10, 2017, 'PA', 570, '2017-10-28');
 insert into sales values ('Dan', 'Cherry', 22, 9, 2020, 'NJ', 939, '2020-09-22');
-insert into sales values ('Emily', 'Jellies', 11, 5, 2020, 'CT', 196, '2020-05-
-11');
+insert into sales values ('Emily', 'Jellies', 11, 5, 2020, 'CT', 196, '2020-05-11');
 insert into sales values ('Chae', 'Dates', 30, 4, 2017, 'CT', 444, '2017-04-30');
 insert into sales values ('Sam', 'Ice', 10, 1, 2018, 'CT', 811, '2018-01-10');
 insert into sales values ('Wally', 'Ice', 19, 10, 2016, 'NJ', 987, '2016-10-19');
 insert into sales values ('Helen', 'Eggs', 16, 3, 2020, 'NY', 616, '2020-03-16');
-insert into sales values ('Claire', 'Jellies', 23, 12, 2017, 'PA', 323, '2017-12-
-23');
+insert into sales values ('Claire', 'Jellies', 23, 12, 2017, 'PA', 323, '2017-12-23');
 insert into sales values ('Helen', 'Grapes', 8, 1, 2016, 'CT', 368, '2016-01-08');
 insert into sales values ('Dan', 'Eggs', 10, 8, 2020, 'NJ', 296, '2020-08-10');
 insert into sales values ('Dan', 'Butter', 17, 7, 2017, 'NJ', 107, '2017-07-17');
@@ -6180,8 +5732,7 @@ insert into sales values ('Boo', 'Eggs', 12, 1, 2020, 'NJ', 840, '2020-01-12');
 insert into sales values ('Helen', 'Butter', 3, 7, 2019, 'CT', 845, '2019-07-03');
 insert into sales values ('Sam', 'Jellies', 11, 10, 2018, 'NJ', 241, '2018-10-11');
 insert into sales values ('Claire', 'Ham', 16, 11, 2017, 'CT', 150, '2017-11-16');
-insert into sales values ('Wally', 'Cherry', 27, 12, 2016, 'CT', 811, '2016-12-
-27');
+insert into sales values ('Wally', 'Cherry', 27, 12, 2016, 'CT', 811, '2016-12-27');
 insert into sales values ('Dan', 'Butter', 13, 2, 2018, 'NY', 85, '2018-02-13');
 insert into sales values ('Boo', 'Grapes', 15, 9, 2019, 'PA', 757, '2019-09-15');
 insert into sales values ('Claire', 'Ice', 28, 10, 2020, 'NJ', 746, '2020-10-28');
@@ -6227,8 +5778,7 @@ insert into sales values ('Helen', 'Cherry', 12, 9, 2020, 'NJ', 503, '2020-09-12
 insert into sales values ('Helen', 'Cherry', 20, 2, 2018, 'NY', 206, '2018-02-20');
 insert into sales values ('Sam', 'Apple', 2, 6, 2020, 'CT', 279, '2020-06-02');
 insert into sales values ('Emily', 'Eggs', 23, 9, 2017, 'NY', 686, '2017-09-23');
-insert into sales values ('Emily', 'Cherry', 22, 10, 2019, 'NY', 771, '2019-10-
-22');
+insert into sales values ('Emily', 'Cherry', 22, 10, 2019, 'NY', 771, '2019-10-22');
 insert into sales values ('Emily', 'Cherry', 5, 9, 2020, 'PA', 54, '2020-09-05');
 insert into sales values ('Emily', 'Ice', 18, 2, 2016, 'NY', 816, '2016-02-18');
 insert into sales values ('Sam', 'Jellies', 22, 6, 2019, 'PA', 925, '2019-06-22');
@@ -6244,8 +5794,7 @@ insert into sales values ('Wally', 'Ham', 23, 11, 2019, 'NY', 853, '2019-11-23')
 insert into sales values ('Boo', 'Dates', 19, 2, 2020, 'NY', 720, '2020-02-19');
 insert into sales values ('Mia', 'Ice', 9, 8, 2020, 'CT', 766, '2020-08-09');
 insert into sales values ('Dan', 'Cherry', 22, 1, 2016, 'CT', 991, '2016-01-22');
-insert into sales values ('Wally', 'Cherry', 15, 12, 2019, 'NJ', 679, '2019-12-
-15');
+insert into sales values ('Wally', 'Cherry', 15, 12, 2019, 'NJ', 679, '2019-12-15');
 insert into sales values ('Mia', 'Ice', 27, 5, 2020, 'NY', 816, '2020-05-27');
 insert into sales values ('Chae', 'Grapes', 27, 8, 2020, 'NY', 647, '2020-08-27');
 insert into sales values ('Dan', 'Ham', 18, 9, 2017, 'PA', 973, '2017-09-18');
@@ -6279,10 +5828,8 @@ insert into sales values ('Helen', 'Eggs', 30, 4, 2016, 'CT', 609, '2016-04-30')
 insert into sales values ('Claire', 'Ham', 4, 7, 2019, 'CT', 271, '2019-07-04');
 insert into sales values ('Mia', 'Apple', 11, 12, 2016, 'NJ', 463, '2016-12-11');
 insert into sales values ('Claire', 'Ham', 21, 11, 2019, 'CT', 569, '2019-11-21');
-insert into sales values ('Helen', 'Cherry', 14, 10, 2018, 'CT', 413, '2018-10-
-14');
-insert into sales values ('Claire', 'Butter', 12, 7, 2019, 'CT', 188, '2019-07-
-12');
+insert into sales values ('Helen', 'Cherry', 14, 10, 2018, 'CT', 413, '2018-10-14');
+insert into sales values ('Claire', 'Butter', 12, 7, 2019, 'CT', 188, '2019-07-12');
 insert into sales values ('Emily', 'Dates', 28, 11, 2019, 'CT', 667, '2019-11-28');
 insert into sales values ('Wally', 'Fish', 18, 12, 2019, 'NY', 109, '2019-12-18');
 insert into sales values ('Wally', 'Ham', 10, 1, 2016, 'CT', 948, '2016-01-10');
@@ -6307,24 +5854,20 @@ insert into sales values ('Emily', 'Dates', 18, 3, 2020, 'CT', 401, '2020-03-18'
 insert into sales values ('Chae', 'Eggs', 10, 1, 2017, 'NY', 138, '2017-01-10');
 insert into sales values ('Emily', 'Fish', 27, 3, 2017, 'PA', 309, '2017-03-27');
 insert into sales values ('Dan', 'Butter', 13, 5, 2019, 'CT', 151, '2019-05-13');
-insert into sales values ('Claire', 'Butter', 16, 3, 2016, 'NY', 785, '2016-03-
-16');
+insert into sales values ('Claire', 'Butter', 16, 3, 2016, 'NY', 785, '2016-03-16');
 insert into sales values ('Helen', 'Ham', 6, 9, 2016, 'NJ', 924, '2016-09-06');
 insert into sales values ('Dan', 'Grapes', 4, 2, 2019, 'NY', 95, '2019-02-04');
 insert into sales values ('Chae', 'Butter', 12, 3, 2019, 'NJ', 120, '2019-03-12');
 insert into sales values ('Emily', 'Ice', 4, 6, 2016, 'PA', 702, '2016-06-04');
 insert into sales values ('Emily', 'Eggs', 30, 7, 2020, 'PA', 858, '2020-07-30');
 insert into sales values ('Emily', 'Dates', 11, 7, 2018, 'NY', 816, '2018-07-11');
-insert into sales values ('Helen', 'Butter', 22, 11, 2018, 'CT', 424, '2018-11-
-22');
+insert into sales values ('Helen', 'Butter', 22, 11, 2018, 'CT', 424, '2018-11-22');
 insert into sales values ('Boo', 'Ice', 27, 2, 2016, 'NJ', 542, '2016-02-27');
 insert into sales values ('Mia', 'Grapes', 11, 3, 2019, 'PA', 564, '2019-03-11');
-insert into sales values ('Claire', 'Butter', 16, 2, 2019, 'NY', 936, '2019-02-
-16');
+insert into sales values ('Claire', 'Butter', 16, 2, 2019, 'NY', 936, '2019-02-16');
 insert into sales values ('Mia', 'Apple', 6, 10, 2016, 'NJ', 197, '2016-10-06');
 insert into sales values ('Helen', 'Ham', 6, 8, 2019, 'CT', 15, '2019-08-06');
-insert into sales values ('Claire', 'Jellies', 9, 10, 2020, 'CT', 938, '2020-10-
-09');
+insert into sales values ('Claire', 'Jellies', 9, 10, 2020, 'CT', 938, '2020-10-09');
 insert into sales values ('Dan', 'Ham', 25, 8, 2020, 'CT', 901, '2020-08-25');
 insert into sales values ('Dan', 'Butter', 16, 10, 2020, 'PA', 165, '2020-10-16');
 insert into sales values ('Boo', 'Apple', 25, 7, 2016, 'PA', 269, '2016-07-25');
@@ -6332,8 +5875,7 @@ insert into sales values ('Boo', 'Cherry', 21, 3, 2020, 'NJ', 658, '2020-03-21')
 insert into sales values ('Claire', 'Apple', 22, 3, 2020, 'NJ', 584, '2020-03-22');
 insert into sales values ('Wally', 'Eggs', 3, 1, 2017, 'NJ', 978, '2017-01-03');
 insert into sales values ('Wally', 'Apple', 7, 8, 2016, 'CT', 187, '2016-08-07');
-insert into sales values ('Emily', 'Cherry', 17, 10, 2019, 'NY', 573, '2019-10-
-17');
+insert into sales values ('Emily', 'Cherry', 17, 10, 2019, 'NY', 573, '2019-10-17');
 insert into sales values ('Boo', 'Grapes', 12, 8, 2017, 'CT', 354, '2017-08-12');
 insert into sales values ('Wally', 'Fish', 14, 8, 2020, 'NY', 180, '2020-08-14');
 insert into sales values ('Helen', 'Jellies', 7, 5, 2020, 'CT', 473, '2020-05-07');
@@ -6381,8 +5923,7 @@ insert into sales values ('Sam', 'Eggs', 28, 11, 2017, 'CT', 214, '2017-11-28');
 insert into sales values ('Sam', 'Apple', 24, 10, 2018, 'NY', 438, '2018-10-24');
 insert into sales values ('Sam', 'Cherry', 11, 2, 2017, 'NY', 710, '2017-02-11');
 insert into sales values ('Sam', 'Eggs', 11, 2, 2019, 'PA', 67, '2019-02-11');
-insert into sales values ('Claire', 'Jellies', 1, 5, 2019, 'PA', 687, '2019-05-
-01');
+insert into sales values ('Claire', 'Jellies', 1, 5, 2019, 'PA', 687, '2019-05-01');
 insert into sales values ('Boo', 'Cherry', 6, 10, 2019, 'NJ', 467, '2019-10-06');
 insert into sales values ('Sam', 'Dates', 7, 6, 2016, 'NJ', 475, '2016-06-07');
 insert into sales values ('Mia', 'Eggs', 11, 3, 2017, 'PA', 428, '2017-03-11');
@@ -6420,8 +5961,7 @@ insert into sales values ('Emily', 'Cherry', 16, 7, 2018, 'PA', 47, '2018-07-16'
 insert into sales values ('Chae', 'Cherry', 2, 4, 2019, 'PA', 924, '2019-04-02');
 insert into sales values ('Mia', 'Ham', 4, 10, 2019, 'NY', 828, '2019-10-04');
 insert into sales values ('Emily', 'Apple', 6, 6, 2017, 'NY', 591, '2017-06-06');
-insert into sales values ('Wally', 'Jellies', 18, 11, 2018, 'PA', 585, '2018-11-
-18');
+insert into sales values ('Wally', 'Jellies', 18, 11, 2018, 'PA', 585, '2018-11-18');
 insert into sales values ('Sam', 'Ice', 10, 9, 2020, 'NJ', 864, '2020-09-10');
 insert into sales values ('Mia', 'Eggs', 25, 2, 2019, 'CT', 83, '2019-02-25');
 insert into sales values ('Mia', 'Jellies', 4, 5, 2017, 'NY', 997, '2017-05-04');
@@ -6432,10 +5972,8 @@ insert into sales values ('Dan', 'Jellies', 2, 7, 2018, 'PA', 311, '2018-07-02')
 insert into sales values ('Sam', 'Apple', 17, 2, 2017, 'NJ', 809, '2017-02-17');
 insert into sales values ('Emily', 'Dates', 23, 9, 2019, 'NY', 467, '2019-09-23');
 insert into sales values ('Helen', 'Jellies', 4, 1, 2019, 'CT', 107, '2019-01-04');
-insert into sales values ('Claire', 'Butter', 17, 11, 2020, 'NY', 558, '2020-11-
-17');
-insert into sales values ('Wally', 'Butter', 15, 11, 2016, 'CT', 278, '2016-11-
-15');
+insert into sales values ('Claire', 'Butter', 17, 11, 2020, 'NY', 558, '2020-11-17');
+insert into sales values ('Wally', 'Butter', 15, 11, 2016, 'CT', 278, '2016-11-15');
 insert into sales values ('Helen', 'Grapes', 12, 9, 2017, 'NY', 341, '2017-09-12');
 insert into sales values ('Claire', 'Eggs', 27, 9, 2017, 'CT', 522, '2017-09-27');
 insert into sales values ('Dan', 'Grapes', 13, 11, 2020, 'CT', 817, '2020-11-13');
@@ -6443,8 +5981,7 @@ insert into sales values ('Emily', 'Fish', 26, 3, 2019, 'PA', 739, '2019-03-26')
 insert into sales values ('Emily', 'Eggs', 27, 7, 2020, 'NY', 859, '2020-07-27');
 insert into sales values ('Dan', 'Cherry', 21, 7, 2016, 'NY', 435, '2016-07-21');
 insert into sales values ('Wally', 'Grapes', 13, 1, 2019, 'NJ', 805, '2019-01-13');
-insert into sales values ('Emily', 'Cherry', 21, 10, 2017, 'PA', 667, '2017-10-
-21');
+insert into sales values ('Emily', 'Cherry', 21, 10, 2017, 'PA', 667, '2017-10-21');
 insert into sales values ('Helen', 'Ham', 24, 4, 2016, 'NJ', 277, '2016-04-24');
 insert into sales values ('Claire', 'Fish', 27, 10, 2020, 'PA', 710, '2020-10-27');
 insert into sales values ('Mia', 'Fish', 31, 3, 2017, 'PA', 895, '2017-03-31');
@@ -6471,17 +6008,14 @@ insert into sales values ('Wally', 'Ham', 7, 4, 2016, 'CT', 104, '2016-04-07');
 insert into sales values ('Boo', 'Ice', 23, 11, 2019, 'NY', 34, '2019-11-23');
 insert into sales values ('Boo', 'Butter', 4, 2, 2016, 'NJ', 608, '2016-02-04');
 insert into sales values ('Claire', 'Ham', 18, 12, 2017, 'NY', 733, '2017-12-18');
-insert into sales values ('Claire', 'Cherry', 26, 6, 2020, 'CT', 776, '2020-06-
-26');
+insert into sales values ('Claire', 'Cherry', 26, 6, 2020, 'CT', 776, '2020-06-26');
 insert into sales values ('Emily', 'Ham', 25, 10, 2020, 'NJ', 41, '2020-10-25');
 insert into sales values ('Claire', 'Fish', 1, 7, 2017, 'PA', 122, '2017-07-01');
 insert into sales values ('Mia', 'Ham', 11, 12, 2018, 'NJ', 538, '2018-12-11');
 insert into sales values ('Claire', 'Dates', 1, 8, 2020, 'PA', 133, '2020-08-01');
 insert into sales values ('Mia', 'Eggs', 1, 6, 2019, 'PA', 126, '2019-06-01');
-insert into sales values ('Wally', 'Jellies', 16, 11, 2020, 'NJ', 845, '2020-11-
-16');
-insert into sales values ('Claire', 'Butter', 15, 4, 2018, 'NY', 750, '2018-04-
-15');
+insert into sales values ('Wally', 'Jellies', 16, 11, 2020, 'NJ', 845, '2020-11-16');
+insert into sales values ('Claire', 'Butter', 15, 4, 2018, 'NY', 750, '2018-04-15');
 insert into sales values ('Helen', 'Grapes', 19, 9, 2018, 'PA', 64, '2018-09-19');
 insert into sales values ('Helen', 'Eggs', 2, 4, 2016, 'NY', 998, '2016-04-02');
 insert into sales values ('Emily', 'Butter', 17, 8, 2017, 'PA', 991, '2017-08-17');
@@ -6494,8 +6028,7 @@ insert into sales values ('Claire', 'Ice', 20, 11, 2016, 'NJ', 19, '2016-11-20')
 insert into sales values ('Dan', 'Ham', 10, 2, 2020, 'NJ', 333, '2020-02-10');
 insert into sales values ('Emily', 'Butter', 9, 1, 2020, 'CT', 27, '2020-01-09');
 insert into sales values ('Sam', 'Cherry', 15, 12, 2017, 'NJ', 432, '2017-12-15');
-insert into sales values ('Claire', 'Grapes', 27, 9, 2019, 'NY', 819, '2019-09-
-27');
+insert into sales values ('Claire', 'Grapes', 27, 9, 2019, 'NY', 819, '2019-09-27');
 insert into sales values ('Emily', 'Apple', 18, 5, 2017, 'NY', 605, '2017-05-18');
 insert into sales values ('Mia', 'Fish', 10, 8, 2019, 'CT', 857, '2019-08-10');
 insert into sales values ('Emily', 'Apple', 12, 9, 2016, 'NY', 444, '2016-09-12');
@@ -6503,8 +6036,7 @@ insert into sales values ('Mia', 'Apple', 1, 8, 2016, 'NJ', 785, '2016-08-01');
 insert into sales values ('Claire', 'Dates', 15, 3, 2020, 'PA', 875, '2020-03-15');
 insert into sales values ('Sam', 'Eggs', 26, 10, 2017, 'PA', 285, '2017-10-26');
 insert into sales values ('Mia', 'Fish', 23, 2, 2019, 'NJ', 740, '2019-02-23');
-insert into sales values ('Claire', 'Grapes', 27, 3, 2016, 'PA', 419, '2016-03-
-27');
+insert into sales values ('Claire', 'Grapes', 27, 3, 2016, 'PA', 419, '2016-03-27');
 insert into sales values ('Wally', 'Grapes', 26, 4, 2018, 'CT', 554, '2018-04-26');
 insert into sales values ('Claire', 'Grapes', 7, 9, 2017, 'PA', 764, '2017-09-07');
 insert into sales values ('Wally', 'Apple', 2, 3, 2020, 'NY', 173, '2020-03-02');
@@ -6515,8 +6047,7 @@ insert into sales values ('Sam', 'Fish', 29, 12, 2016, 'PA', 783, '2016-12-29');
 insert into sales values ('Chae', 'Ice', 6, 7, 2018, 'NJ', 463, '2018-07-06');
 insert into sales values ('Claire', 'Cherry', 5, 5, 2019, 'CT', 49, '2019-05-05');
 insert into sales values ('Sam', 'Cherry', 9, 10, 2019, 'NY', 2, '2019-10-09');
-insert into sales values ('Wally', 'Jellies', 17, 12, 2016, 'NY', 298, '2016-12-
-17');
+insert into sales values ('Wally', 'Jellies', 17, 12, 2016, 'NY', 298, '2016-12-17');
 insert into sales values ('Mia', 'Eggs', 10, 11, 2020, 'NY', 929, '2020-11-10');
 insert into sales values ('Sam', 'Cherry', 29, 1, 2019, 'PA', 81, '2019-01-29');
 insert into sales values ('Claire', 'Dates', 10, 4, 2016, 'PA', 427, '2016-04-10');
@@ -6602,8 +6133,7 @@ insert into sales values ('Dan', 'Cherry', 4, 5, 2018, 'PA', 450, '2018-05-04');
 insert into sales values ('Sam', 'Eggs', 15, 4, 2018, 'PA', 853, '2018-04-15');
 insert into sales values ('Chae', 'Eggs', 16, 12, 2017, 'CT', 377, '2017-12-16');
 insert into sales values ('Mia', 'Ham', 6, 8, 2016, 'PA', 731, '2016-08-06');
-insert into sales values ('Claire', 'Jellies', 28, 11, 2020, 'CT', 77, '2020-11-
-28');
+insert into sales values ('Claire', 'Jellies', 28, 11, 2020, 'CT', 77, '2020-11-28');
 insert into sales values ('Mia', 'Eggs', 2, 6, 2016, 'NJ', 751, '2016-06-02');
 insert into sales values ('Helen', 'Grapes', 3, 9, 2019, 'PA', 258, '2019-09-03');
 insert into sales values ('Boo', 'Fish', 25, 4, 2016, 'NJ', 212, '2016-04-25');
@@ -6613,8 +6143,7 @@ insert into sales values ('Dan', 'Cherry', 13, 5, 2018, 'PA', 87, '2018-05-13');
 insert into sales values ('Mia', 'Ham', 15, 2, 2020, 'CT', 806, '2020-02-15');
 insert into sales values ('Dan', 'Dates', 3, 9, 2017, 'CT', 458, '2017-09-03');
 insert into sales values ('Chae', 'Eggs', 6, 3, 2017, 'CT', 725, '2017-03-06');
-insert into sales values ('Emily', 'Jellies', 15, 4, 2016, 'NJ', 994, '2016-04-
-15');
+insert into sales values ('Emily', 'Jellies', 15, 4, 2016, 'NJ', 994, '2016-04-15');
 insert into sales values ('Sam', 'Apple', 3, 12, 2019, 'CT', 94, '2019-12-03');
 insert into sales values ('Claire', 'Ham', 29, 11, 2020, 'NY', 669, '2020-11-29');
 insert into sales values ('Claire', 'Ice', 5, 12, 2018, 'CT', 553, '2018-12-05');
@@ -6634,17 +6163,14 @@ insert into sales values ('Helen', 'Grapes', 3, 2, 2019, 'CT', 631, '2019-02-03'
 insert into sales values ('Mia', 'Grapes', 24, 4, 2019, 'PA', 419, '2019-04-24');
 insert into sales values ('Dan', 'Dates', 1, 6, 2017, 'NY', 976, '2017-06-01');
 insert into sales values ('Wally', 'Grapes', 8, 3, 2017, 'NY', 304, '2017-03-08');
-insert into sales values ('Emily', 'Cherry', 29, 11, 2018, 'NY', 550, '2018-11-
-29');
-insert into sales values ('Claire', 'Butter', 27, 5, 2016, 'NJ', 783, '2016-05-
-27');
+insert into sales values ('Emily', 'Cherry', 29, 11, 2018, 'NY', 550, '2018-11-29');
+insert into sales values ('Claire', 'Butter', 27, 5, 2016, 'NJ', 783, '2016-05-27');
 insert into sales values ('Wally', 'Eggs', 2, 4, 2018, 'NY', 631, '2018-04-02');
 insert into sales values ('Claire', 'Ham', 15, 12, 2020, 'CT', 709, '2020-12-15');
 insert into sales values ('Wally', 'Eggs', 17, 2, 2019, 'PA', 579, '2019-02-17');
 insert into sales values ('Mia', 'Fish', 9, 2, 2017, 'NY', 194, '2017-02-09');
 insert into sales values ('Wally', 'Butter', 21, 4, 2020, 'CT', 515, '2020-04-21');
-insert into sales values ('Emily', 'Jellies', 17, 11, 2017, 'CT', 638, '2017-11-
-17');
+insert into sales values ('Emily', 'Jellies', 17, 11, 2017, 'CT', 638, '2017-11-17');
 insert into sales values ('Dan', 'Fish', 3, 7, 2019, 'CT', 12, '2019-07-03');
 insert into sales values ('Sam', 'Grapes', 4, 12, 2020, 'NJ', 1000, '2020-12-04');
 insert into sales values ('Boo', 'Dates', 10, 4, 2020, 'CT', 52, '2020-04-10');
@@ -6667,11 +6193,9 @@ insert into sales values ('Claire', 'Dates', 14, 6, 2020, 'NY', 289, '2020-06-14
 insert into sales values ('Boo', 'Eggs', 28, 12, 2018, 'NY', 203, '2018-12-28');
 insert into sales values ('Claire', 'Cherry', 7, 6, 2019, 'NY', 656, '2019-06-07');
 insert into sales values ('Sam', 'Butter', 21, 3, 2016, 'PA', 593, '2016-03-21');
-insert into sales values ('Helen', 'Jellies', 15, 1, 2017, 'NY', 662, '2017-01-
-15');
+insert into sales values ('Helen', 'Jellies', 15, 1, 2017, 'NY', 662, '2017-01-15');
 insert into sales values ('Helen', 'Ice', 12, 6, 2020, 'NJ', 298, '2020-06-12');
-insert into sales values ('Claire', 'Jellies', 24, 6, 2016, 'NJ', 591, '2016-06-
-24');
+insert into sales values ('Claire', 'Jellies', 24, 6, 2016, 'NJ', 591, '2016-06-24');
 insert into sales values ('Helen', 'Ice', 5, 1, 2016, 'NJ', 768, '2016-01-05');
 insert into sales values ('Mia', 'Jellies', 4, 5, 2020, 'NJ', 379, '2020-05-04');
 insert into sales values ('Dan', 'Grapes', 26, 11, 2018, 'PA', 19, '2018-11-26');
@@ -6722,8 +6246,7 @@ insert into sales values ('Boo', 'Grapes', 30, 7, 2017, 'CT', 446, '2017-07-30')
 insert into sales values ('Helen', 'Apple', 3, 8, 2019, 'NJ', 667, '2019-08-03');
 insert into sales values ('Sam', 'Fish', 5, 7, 2019, 'CT', 286, '2019-07-05');
 insert into sales values ('Wally', 'Grapes', 22, 6, 2017, 'NJ', 389, '2017-06-22');
-insert into sales values ('Helen', 'Butter', 28, 11, 2018, 'NJ', 164, '2018-11-
-28');
+insert into sales values ('Helen', 'Butter', 28, 11, 2018, 'NJ', 164, '2018-11-28');
 insert into sales values ('Claire', 'Grapes', 27, 3, 2019, 'NY', 45, '2019-03-27');
 insert into sales values ('Claire', 'Dates', 1, 12, 2020, 'PA', 901, '2020-12-01');
 insert into sales values ('Chae', 'Cherry', 1, 5, 2017, 'PA', 350, '2017-05-01');
@@ -6731,8 +6254,7 @@ insert into sales values ('Emily', 'Dates', 8, 12, 2020, 'NY', 770, '2020-12-08'
 insert into sales values ('Helen', 'Apple', 26, 12, 2017, 'NJ', 887, '2017-12-26');
 insert into sales values ('Chae', 'Ham', 13, 3, 2017, 'NJ', 358, '2017-03-13');
 insert into sales values ('Chae', 'Cherry', 14, 5, 2019, 'CT', 458, '2019-05-14');
-insert into sales values ('Emily', 'Jellies', 27, 3, 2016, 'NY', 140, '2016-03-
-27');
+insert into sales values ('Emily', 'Jellies', 27, 3, 2016, 'NY', 140, '2016-03-27');
 insert into sales values ('Chae', 'Grapes', 12, 9, 2017, 'NY', 992, '2017-09-12');
 insert into sales values ('Sam', 'Eggs', 24, 6, 2018, 'PA', 403, '2018-06-24');
 insert into sales values ('Chae', 'Ham', 16, 3, 2016, 'PA', 843, '2016-03-16');
@@ -6740,8 +6262,7 @@ insert into sales values ('Helen', 'Grapes', 22, 7, 2016, 'NY', 844, '2016-07-22
 insert into sales values ('Sam', 'Grapes', 30, 4, 2018, 'NY', 574, '2018-04-30');
 insert into sales values ('Dan', 'Cherry', 2, 1, 2019, 'NJ', 204, '2019-01-02');
 insert into sales values ('Emily', 'Eggs', 7, 6, 2018, 'PA', 315, '2018-06-07');
-insert into sales values ('Claire', 'Grapes', 27, 4, 2016, 'NY', 245, '2016-04-
-27');
+insert into sales values ('Claire', 'Grapes', 27, 4, 2016, 'NY', 245, '2016-04-27');
 insert into sales values ('Emily', 'Eggs', 25, 1, 2019, 'NY', 77, '2019-01-25');
 insert into sales values ('Mia', 'Fish', 4, 1, 2019, 'NJ', 31, '2019-01-04');
 insert into sales values ('Boo', 'Apple', 24, 8, 2020, 'PA', 490, '2020-08-24');
@@ -6764,10 +6285,8 @@ insert into sales values ('Emily', 'Butter', 20, 8, 2020, 'NY', 336, '2020-08-20
 insert into sales values ('Wally', 'Fish', 9, 11, 2019, 'NY', 353, '2019-11-09');
 insert into sales values ('Mia', 'Ham', 18, 7, 2018, 'PA', 695, '2018-07-18');
 insert into sales values ('Chae', 'Dates', 10, 4, 2017, 'NY', 239, '2017-04-10');
-insert into sales values ('Wally', 'Cherry', 26, 12, 2018, 'CT', 502, '2018-12-
-26');
-insert into sales values ('Wally', 'Jellies', 11, 5, 2017, 'CT', 687, '2017-05-
-11');
+insert into sales values ('Wally', 'Cherry', 26, 12, 2018, 'CT', 502, '2018-12-26');
+insert into sales values ('Wally', 'Jellies', 11, 5, 2017, 'CT', 687, '2017-05-11');
 insert into sales values ('Dan', 'Butter', 16, 7, 2020, 'NJ', 101, '2020-07-16');
 insert into sales values ('Mia', 'Grapes', 9, 8, 2019, 'NY', 843, '2019-08-09');
 insert into sales values ('Boo', 'Butter', 30, 9, 2019, 'CT', 587, '2019-09-30');
@@ -6794,8 +6313,7 @@ insert into sales values ('Emily', 'Grapes', 9, 10, 2016, 'NY', 877, '2016-10-09
 insert into sales values ('Mia', 'Jellies', 6, 5, 2020, 'PA', 666, '2020-05-06');
 insert into sales values ('Wally', 'Apple', 25, 10, 2018, 'NJ', 72, '2018-10-25');
 insert into sales values ('Claire', 'Cherry', 20, 7, 2018, 'CT', 5, '2018-07-20');
-insert into sales values ('Claire', 'Grapes', 1, 10, 2020, 'NJ', 694, '2020-10-
-01');
+insert into sales values ('Claire', 'Grapes', 1, 10, 2020, 'NJ', 694, '2020-10-01');
 insert into sales values ('Sam', 'Dates', 23, 12, 2019, 'NY', 465, '2019-12-23');
 insert into sales values ('Emily', 'Ham', 10, 7, 2016, 'CT', 439, '2016-07-10');
 insert into sales values ('Sam', 'Cherry', 12, 9, 2018, 'NJ', 916, '2018-09-12');
@@ -6809,13 +6327,11 @@ insert into sales values ('Dan', 'Grapes', 26, 1, 2017, 'NY', 68, '2017-01-26');
 insert into sales values ('Mia', 'Apple', 18, 5, 2019, 'CT', 391, '2019-05-18');
 insert into sales values ('Emily', 'Eggs', 18, 10, 2016, 'CT', 319, '2016-10-18');
 insert into sales values ('Emily', 'Grapes', 24, 8, 2018, 'NJ', 57, '2018-08-24');
-insert into sales values ('Claire', 'Grapes', 18, 10, 2017, 'PA', 904, '2017-10-
-18');
+insert into sales values ('Claire', 'Grapes', 18, 10, 2017, 'PA', 904, '2017-10-18');
 insert into sales values ('Dan', 'Dates', 6, 10, 2020, 'CT', 447, '2020-10-06');
 insert into sales values ('Dan', 'Grapes', 23, 8, 2017, 'NY', 949, '2017-08-23');
 insert into sales values ('Mia', 'Ice', 9, 3, 2020, 'NJ', 486, '2020-03-09');
-insert into sales values ('Emily', 'Jellies', 3, 11, 2018, 'NJ', 221, '2018-11-
-03');
+insert into sales values ('Emily', 'Jellies', 3, 11, 2018, 'NJ', 221, '2018-11-03');
 insert into sales values ('Chae', 'Butter', 6, 1, 2018, 'CT', 363, '2018-01-06');
 insert into sales values ('Wally', 'Dates', 24, 12, 2020, 'NJ', 679, '2020-12-24');
 insert into sales values ('Mia', 'Eggs', 25, 12, 2016, 'NJ', 306, '2016-12-25');
@@ -6828,12 +6344,10 @@ insert into sales values ('Wally', 'Ice', 2, 5, 2016, 'NY', 148, '2016-05-02');
 insert into sales values ('Boo', 'Dates', 9, 11, 2017, 'PA', 267, '2017-11-09');
 insert into sales values ('Emily', 'Eggs', 18, 5, 2017, 'NY', 976, '2017-05-18');
 insert into sales values ('Claire', 'Fish', 2, 2, 2016, 'NY', 338, '2016-02-02');
-insert into sales values ('Claire', 'Jellies', 22, 10, 2016, 'PA', 929, '2016-10-
-22');
+insert into sales values ('Claire', 'Jellies', 22, 10, 2016, 'PA', 929, '2016-10-22');
 insert into sales values ('Claire', 'Eggs', 24, 1, 2019, 'PA', 939, '2019-01-24');
 insert into sales values ('Wally', 'Dates', 13, 2, 2018, 'NJ', 751, '2018-02-13');
-insert into sales values ('Wally', 'Jellies', 17, 1, 2020, 'PA', 429, '2020-01-
-17');
+insert into sales values ('Wally', 'Jellies', 17, 1, 2020, 'PA', 429, '2020-01-17');
 insert into sales values ('Wally', 'Ham', 30, 11, 2017, 'PA', 740, '2017-11-30');
 insert into sales values ('Chae', 'Eggs', 23, 1, 2016, 'NY', 27, '2016-01-23');
 insert into sales values ('Emily', 'Dates', 1, 6, 2016, 'CT', 287, '2016-06-01');
@@ -6845,15 +6359,13 @@ insert into sales values ('Helen', 'Ice', 28, 9, 2018, 'CT', 662, '2018-09-28');
 insert into sales values ('Dan', 'Apple', 15, 10, 2019, 'PA', 436, '2019-10-15');
 insert into sales values ('Mia', 'Cherry', 12, 7, 2018, 'NY', 75, '2018-07-12');
 insert into sales values ('Emily', 'Eggs', 14, 3, 2017, 'PA', 531, '2017-03-14');
-insert into sales values ('Helen', 'Jellies', 23, 8, 2018, 'PA', 163, '2018-08-
-23');
+insert into sales values ('Helen', 'Jellies', 23, 8, 2018, 'PA', 163, '2018-08-23');
 insert into sales values ('Helen', 'Ham', 27, 3, 2019, 'NY', 299, '2019-03-27');
 insert into sales values ('Helen', 'Fish', 27, 5, 2018, 'CT', 1, '2018-05-27');
 insert into sales values ('Boo', 'Fish', 19, 9, 2019, 'CT', 243, '2019-09-19');
 insert into sales values ('Sam', 'Eggs', 6, 11, 2016, 'NY', 504, '2016-11-06');
 insert into sales values ('Emily', 'Jellies', 7, 6, 2016, 'NY', 115, '2016-06-07');
-insert into sales values ('Helen', 'Jellies', 10, 9, 2020, 'NY', 693, '2020-09-
-10');
+insert into sales values ('Helen', 'Jellies', 10, 9, 2020, 'NY', 693, '2020-09-10');
 insert into sales values ('Sam', 'Jellies', 23, 2, 2018, 'CT', 760, '2018-02-23');
 insert into sales values ('Claire', 'Ham', 18, 10, 2017, 'NY', 213, '2017-10-18');
 insert into sales values ('Mia', 'Butter', 4, 7, 2017, 'NY', 737, '2017-07-04');
@@ -6865,8 +6377,7 @@ insert into sales values ('Helen', 'Ham', 20, 5, 2016, 'NY', 111, '2016-05-20');
 insert into sales values ('Boo', 'Grapes', 13, 6, 2020, 'CT', 567, '2020-06-13');
 insert into sales values ('Emily', 'Ham', 12, 1, 2018, 'NJ', 936, '2018-01-12');
 insert into sales values ('Chae', 'Jellies', 16, 7, 2016, 'CT', 380, '2016-07-16');
-insert into sales values ('Wally', 'Cherry', 24, 10, 2018, 'PA', 126, '2018-10-
-24');
+insert into sales values ('Wally', 'Cherry', 24, 10, 2018, 'PA', 126, '2018-10-24');
 insert into sales values ('Wally', 'Ice', 19, 9, 2018, 'CT', 553, '2018-09-19');
 insert into sales values ('Mia', 'Fish', 11, 1, 2016, 'NY', 470, '2016-01-11');
 insert into sales values ('Helen', 'Cherry', 29, 7, 2017, 'NJ', 988, '2017-07-29');
@@ -6883,8 +6394,7 @@ insert into sales values ('Dan', 'Jellies', 6, 11, 2017, 'CT', 133, '2017-11-06'
 insert into sales values ('Emily', 'Apple', 20, 1, 2018, 'NY', 80, '2018-01-20');
 insert into sales values ('Emily', 'Eggs', 17, 6, 2020, 'CT', 610, '2020-06-17');
 insert into sales values ('Helen', 'Ice', 19, 8, 2019, 'CT', 147, '2019-08-19');
-insert into sales values ('Claire', 'Butter', 19, 7, 2016, 'PA', 665, '2016-07-
-19');
+insert into sales values ('Claire', 'Butter', 19, 7, 2016, 'PA', 665, '2016-07-19');
 insert into sales values ('Sam', 'Apple', 26, 8, 2020, 'NY', 198, '2020-08-26');
 insert into sales values ('Wally', 'Fish', 23, 5, 2018, 'NJ', 775, '2018-05-23');
 insert into sales values ('Wally', 'Apple', 9, 12, 2019, 'CT', 190, '2019-12-09');
@@ -6893,21 +6403,17 @@ insert into sales values ('Helen', 'Fish', 18, 6, 2020, 'CT', 649, '2020-06-18')
 insert into sales values ('Chae', 'Jellies', 8, 1, 2016, 'NY', 346, '2016-01-08');
 insert into sales values ('Sam', 'Fish', 23, 2, 2016, 'PA', 168, '2016-02-23');
 insert into sales values ('Sam', 'Ice', 23, 1, 2017, 'PA', 794, '2017-01-23');
-insert into sales values ('Claire', 'Apple', 11, 11, 2017, 'NJ', 389, '2017-11-
-11');
+insert into sales values ('Claire', 'Apple', 11, 11, 2017, 'NJ', 389, '2017-11-11');
 insert into sales values ('Boo', 'Ice', 26, 5, 2019, 'NJ', 987, '2019-05-26');
 insert into sales values ('Helen', 'Cherry', 23, 5, 2016, 'CT', 696, '2016-05-23');
 insert into sales values ('Wally', 'Fish', 14, 11, 2016, 'CT', 914, '2016-11-14');
 insert into sales values ('Sam', 'Ice', 24, 1, 2019, 'PA', 102, '2019-01-24');
 insert into sales values ('Emily', 'Fish', 9, 7, 2019, 'NY', 572, '2019-07-09');
-insert into sales values ('Claire', 'Butter', 22, 9, 2018, 'NY', 905, '2018-09-
-22');
+insert into sales values ('Claire', 'Butter', 22, 9, 2018, 'NY', 905, '2018-09-22');
 insert into sales values ('Chae', 'Dates', 19, 9, 2017, 'NJ', 270, '2017-09-19');
 insert into sales values ('Chae', 'Fish', 15, 5, 2020, 'PA', 864, '2020-05-15');
-insert into sales values ('Claire', 'Butter', 23, 12, 2020, 'PA', 821, '2020-12-
-23');
-insert into sales values ('Helen', 'Jellies', 22, 4, 2016, 'PA', 595, '2016-04-
-22');
+insert into sales values ('Claire', 'Butter', 23, 12, 2020, 'PA', 821, '2020-12-23');
+insert into sales values ('Helen', 'Jellies', 22, 4, 2016, 'PA', 595, '2016-04-22');
 insert into sales values ('Dan', 'Cherry', 8, 6, 2017, 'NY', 228, '2017-06-08');
 insert into sales values ('Wally', 'Eggs', 5, 12, 2016, 'PA', 177, '2016-12-05');
 insert into sales values ('Mia', 'Jellies', 19, 10, 2020, 'NY', 249, '2020-10-19');
@@ -6922,20 +6428,17 @@ insert into sales values ('Wally', 'Butter', 25, 7, 2019, 'CT', 754, '2019-07-25
 insert into sales values ('Claire', 'Fish', 22, 2, 2019, 'NY', 62, '2019-02-22');
 insert into sales values ('Boo', 'Ham', 29, 8, 2020, 'NJ', 405, '2020-08-29');
 insert into sales values ('Boo', 'Fish', 15, 4, 2019, 'CT', 18, '2019-04-15');
-insert into sales values ('Emily', 'Cherry', 18, 11, 2018, 'NJ', 594, '2018-11-
-18');
+insert into sales values ('Emily', 'Cherry', 18, 11, 2018, 'NJ', 594, '2018-11-18');
 insert into sales values ('Sam', 'Cherry', 17, 8, 2019, 'NY', 450, '2019-08-17');
 insert into sales values ('Sam', 'Ham', 14, 6, 2017, 'CT', 15, '2017-06-14');
 insert into sales values ('Sam', 'Grapes', 12, 5, 2018, 'NJ', 250, '2018-05-12');
-insert into sales values ('Claire', 'Jellies', 30, 7, 2020, 'NJ', 665, '2020-07-
-30');
+insert into sales values ('Claire', 'Jellies', 30, 7, 2020, 'NJ', 665, '2020-07-30');
 insert into sales values ('Dan', 'Ham', 25, 10, 2018, 'PA', 65, '2018-10-25');
 insert into sales values ('Boo', 'Eggs', 9, 2, 2017, 'PA', 415, '2017-02-09');
 insert into sales values ('Helen', 'Ice', 17, 9, 2016, 'NY', 514, '2016-09-17');
 insert into sales values ('Chae', 'Ham', 2, 6, 2016, 'PA', 920, '2016-06-02');
 insert into sales values ('Chae', 'Grapes', 13, 6, 2016, 'NY', 100, '2016-06-13');
-insert into sales values ('Claire', 'Butter', 21, 4, 2019, 'CT', 115, '2019-04-
-21');
+insert into sales values ('Claire', 'Butter', 21, 4, 2019, 'CT', 115, '2019-04-21');
 insert into sales values ('Mia', 'Grapes', 13, 6, 2018, 'NJ', 274, '2018-06-13');
 insert into sales values ('Boo', 'Fish', 25, 12, 2016, 'NJ', 370, '2016-12-25');
 insert into sales values ('Helen', 'Apple', 7, 3, 2017, 'CT', 638, '2017-03-07');
@@ -6944,8 +6447,7 @@ insert into sales values ('Helen', 'Eggs', 19, 10, 2016, 'PA', 933, '2016-10-19'
 insert into sales values ('Emily', 'Eggs', 19, 11, 2020, 'CT', 503, '2020-11-19');
 insert into sales values ('Boo', 'Dates', 14, 10, 2019, 'NJ', 580, '2019-10-14');
 insert into sales values ('Mia', 'Apple', 5, 1, 2020, 'NY', 62, '2020-01-05');
-insert into sales values ('Helen', 'Grapes', 18, 10, 2018, 'PA', 937, '2018-10-
-18');
+insert into sales values ('Helen', 'Grapes', 18, 10, 2018, 'PA', 937, '2018-10-18');
 insert into sales values ('Boo', 'Cherry', 5, 5, 2017, 'NY', 61, '2017-05-05');
 insert into sales values ('Mia', 'Fish', 23, 3, 2017, 'NJ', 480, '2017-03-23');
 insert into sales values ('Helen', 'Ham', 22, 3, 2017, 'CT', 117, '2017-03-22');
@@ -6976,8 +6478,7 @@ insert into sales values ('Mia', 'Apple', 28, 5, 2017, 'NY', 345, '2017-05-28');
 insert into sales values ('Helen', 'Fish', 5, 10, 2018, 'CT', 930, '2018-10-05');
 insert into sales values ('Sam', 'Ice', 30, 9, 2020, 'NJ', 239, '2020-09-30');
 insert into sales values ('Dan', 'Grapes', 16, 3, 2019, 'CT', 732, '2019-03-16');
-insert into sales values ('Claire', 'Butter', 16, 10, 2017, 'NY', 609, '2017-10-
-16');
+insert into sales values ('Claire', 'Butter', 16, 10, 2017, 'NY', 609, '2017-10-16');
 insert into sales values ('Helen', 'Cherry', 25, 7, 2019, 'CT', 390, '2019-07-25');
 insert into sales values ('Dan', 'Apple', 16, 7, 2020, 'NY', 34, '2020-07-16');
 insert into sales values ('Boo', 'Grapes', 10, 1, 2016, 'NY', 707, '2016-01-10');
@@ -6985,8 +6486,7 @@ insert into sales values ('Emily', 'Ham', 15, 10, 2020, 'PA', 695, '2020-10-15')
 insert into sales values ('Boo', 'Cherry', 18, 12, 2020, 'NJ', 232, '2020-12-18');
 insert into sales values ('Mia', 'Fish', 5, 3, 2017, 'PA', 770, '2017-03-05');
 insert into sales values ('Sam', 'Eggs', 24, 9, 2017, 'NJ', 815, '2017-09-24');
-insert into sales values ('Wally', 'Cherry', 15, 11, 2020, 'CT', 894, '2020-11-
-15');
+insert into sales values ('Wally', 'Cherry', 15, 11, 2020, 'CT', 894, '2020-11-15');
 insert into sales values ('Emily', 'Fish', 9, 10, 2020, 'NY', 872, '2020-10-09');
 insert into sales values ('Mia', 'Ham', 16, 6, 2016, 'CT', 170, '2016-06-16');
 insert into sales values ('Emily', 'Ice', 25, 12, 2017, 'NY', 195, '2017-12-25');
@@ -7020,8 +6520,7 @@ insert into sales values ('Wally', 'Butter', 6, 11, 2019, 'CT', 479, '2019-11-06
 insert into sales values ('Dan', 'Grapes', 28, 9, 2017, 'NY', 420, '2017-09-28');
 insert into sales values ('Emily', 'Fish', 8, 2, 2018, 'NY', 786, '2018-02-08');
 insert into sales values ('Wally', 'Dates', 23, 2, 2017, 'CT', 244, '2017-02-23');
-insert into sales values ('Emily', 'Jellies', 16, 6, 2016, 'CT', 925, '2016-06-
-16');
+insert into sales values ('Emily', 'Jellies', 16, 6, 2016, 'CT', 925, '2016-06-16');
 insert into sales values ('Mia', 'Fish', 6, 1, 2020, 'PA', 179, '2020-01-06');
 insert into sales values ('Boo', 'Fish', 25, 2, 2017, 'CT', 712, '2017-02-25');
 insert into sales values ('Sam', 'Apple', 26, 2, 2016, 'NJ', 701, '2016-02-26');
@@ -7031,8 +6530,7 @@ insert into sales values ('Chae', 'Fish', 29, 1, 2019, 'NY', 464, '2019-01-29');
 insert into sales values ('Wally', 'Butter', 7, 3, 2018, 'NY', 205, '2018-03-07');
 insert into sales values ('Boo', 'Apple', 27, 1, 2020, 'NJ', 739, '2020-01-27');
 insert into sales values ('Helen', 'Eggs', 14, 3, 2018, 'NY', 64, '2018-03-14');
-insert into sales values ('Claire', 'Cherry', 24, 10, 2018, 'PA', 755, '2018-10-
-24');
+insert into sales values ('Claire', 'Cherry', 24, 10, 2018, 'PA', 755, '2018-10-24');
 insert into sales values ('Mia', 'Ham', 7, 10, 2019, 'PA', 745, '2019-10-07');
 insert into sales values ('Boo', 'Apple', 6, 3, 2019, 'NJ', 148, '2019-03-06');
 insert into sales values ('Boo', 'Ham', 22, 2, 2019, 'NJ', 290, '2019-02-22');
@@ -7042,8 +6540,7 @@ insert into sales values ('Chae', 'Ice', 4, 2, 2016, 'CT', 652, '2016-02-04');
 insert into sales values ('Mia', 'Dates', 12, 3, 2017, 'NJ', 544, '2017-03-12');
 insert into sales values ('Chae', 'Dates', 26, 12, 2020, 'NJ', 782, '2020-12-26');
 insert into sales values ('Sam', 'Apple', 24, 9, 2019, 'PA', 28, '2019-09-24');
-insert into sales values ('Helen', 'Jellies', 24, 11, 2020, 'NJ', 825, '2020-11-
-24');
+insert into sales values ('Helen', 'Jellies', 24, 11, 2020, 'NJ', 825, '2020-11-24');
 insert into sales values ('Emily', 'Fish', 11, 5, 2019, 'PA', 472, '2019-05-11');
 insert into sales values ('Dan', 'Butter', 31, 1, 2017, 'NY', 561, '2017-01-31');
 insert into sales values ('Dan', 'Apple', 22, 3, 2018, 'NJ', 531, '2018-03-22');
@@ -7069,21 +6566,18 @@ insert into sales values ('Chae', 'Ice', 5, 3, 2020, 'CT', 682, '2020-03-05');
 insert into sales values ('Wally', 'Dates', 3, 3, 2020, 'CT', 605, '2020-03-03');
 insert into sales values ('Sam', 'Ice', 23, 3, 2020, 'PA', 160, '2020-03-23');
 insert into sales values ('Chae', 'Grapes', 12, 5, 2020, 'PA', 748, '2020-05-12');
-insert into sales values ('Wally', 'Jellies', 30, 12, 2018, 'NJ', 848, '2018-12-
-30');
+insert into sales values ('Wally', 'Jellies', 30, 12, 2018, 'NJ', 848, '2018-12-30');
 insert into sales values ('Chae', 'Butter', 2, 8, 2017, 'CT', 938, '2017-08-02');
 insert into sales values ('Wally', 'Ham', 7, 10, 2018, 'PA', 651, '2018-10-07');
 insert into sales values ('Mia', 'Jellies', 16, 9, 2020, 'NJ', 343, '2020-09-16');
 insert into sales values ('Mia', 'Eggs', 27, 8, 2017, 'NY', 752, '2017-08-27');
-insert into sales values ('Claire', 'Grapes', 26, 9, 2018, 'NJ', 555, '2018-09-
-26');
+insert into sales values ('Claire', 'Grapes', 26, 9, 2018, 'NJ', 555, '2018-09-26');
 insert into sales values ('Sam', 'Ham', 15, 11, 2016, 'CT', 869, '2016-11-15');
 insert into sales values ('Mia', 'Cherry', 4, 6, 2018, 'NJ', 215, '2018-06-04');
 insert into sales values ('Sam', 'Fish', 24, 11, 2018, 'NY', 906, '2018-11-24');
 insert into sales values ('Claire', 'Ice', 1, 12, 2016, 'PA', 457, '2016-12-01');
 insert into sales values ('Emily', 'Eggs', 18, 11, 2018, 'NJ', 42, '2018-11-18');
-insert into sales values ('Claire', 'Jellies', 10, 12, 2019, 'NY', 878, '2019-12-
-10');
+insert into sales values ('Claire', 'Jellies', 10, 12, 2019, 'NY', 878, '2019-12-10');
 insert into sales values ('Helen', 'Ice', 2, 5, 2018, 'NJ', 707, '2018-05-02');
 insert into sales values ('Mia', 'Ham', 28, 5, 2017, 'NJ', 919, '2017-05-28');
 insert into sales values ('Wally', 'Cherry', 29, 4, 2018, 'PA', 533, '2018-04-29');
@@ -7093,8 +6587,7 @@ insert into sales values ('Dan', 'Eggs', 10, 11, 2017, 'NY', 933, '2017-11-10');
 insert into sales values ('Wally', 'Fish', 14, 1, 2016, 'NJ', 739, '2016-01-14');
 insert into sales values ('Emily', 'Apple', 16, 9, 2017, 'PA', 641, '2017-09-16');
 insert into sales values ('Claire', 'Eggs', 10, 12, 2020, 'PA', 462, '2020-12-10');
-insert into sales values ('Emily', 'Jellies', 23, 12, 2020, 'NY', 827, '2020-12-
-23');
+insert into sales values ('Emily', 'Jellies', 23, 12, 2020, 'NY', 827, '2020-12-23');
 insert into sales values ('Wally', 'Dates', 22, 8, 2016, 'NY', 548, '2016-08-22');
 insert into sales values ('Mia', 'Grapes', 30, 8, 2017, 'NJ', 659, '2017-08-30');
 insert into sales values ('Mia', 'Eggs', 21, 6, 2019, 'CT', 433, '2019-06-21');
@@ -7108,10 +6601,8 @@ insert into sales values ('Wally', 'Ham', 22, 4, 2016, 'NY', 714, '2016-04-22');
 insert into sales values ('Wally', 'Butter', 31, 8, 2019, 'PA', 951, '2019-08-31');
 insert into sales values ('Dan', 'Eggs', 30, 4, 2017, 'NY', 35, '2017-04-30');
 insert into sales values ('Dan', 'Ham', 2, 7, 2016, 'NJ', 663, '2016-07-02');
-insert into sales values ('Emily', 'Butter', 14, 12, 2020, 'CT', 718, '2020-12-
-14');
-insert into sales values ('Emily', 'Jellies', 29, 7, 2020, 'CT', 118, '2020-07-
-29');
+insert into sales values ('Emily', 'Butter', 14, 12, 2020, 'CT', 718, '2020-12-14');
+insert into sales values ('Emily', 'Jellies', 29, 7, 2020, 'CT', 118, '2020-07-29');
 insert into sales values ('Dan', 'Fish', 5, 3, 2020, 'PA', 817, '2020-03-05');
 insert into sales values ('Mia', 'Butter', 1, 8, 2019, 'CT', 244, '2019-08-01');
 insert into sales values ('Emily', 'Cherry', 19, 6, 2017, 'CT', 203, '2017-06-19');
@@ -7120,8 +6611,7 @@ insert into sales values ('Boo', 'Grapes', 25, 8, 2017, 'PA', 868, '2017-08-25')
 insert into sales values ('Dan', 'Apple', 20, 2, 2016, 'NJ', 435, '2016-02-20');
 insert into sales values ('Dan', 'Dates', 6, 8, 2017, 'NJ', 463, '2017-08-06');
 insert into sales values ('Boo', 'Ice', 25, 11, 2018, 'NY', 597, '2018-11-25');
-insert into sales values ('Wally', 'Jellies', 24, 4, 2016, 'NY', 673, '2016-04-
-24');
+insert into sales values ('Wally', 'Jellies', 24, 4, 2016, 'NY', 673, '2016-04-24');
 insert into sales values ('Sam', 'Ham', 20, 7, 2020, 'NJ', 890, '2020-07-20');
 insert into sales values ('Helen', 'Butter', 15, 6, 2018, 'NY', 713, '2018-06-15');
 insert into sales values ('Dan', 'Ham', 5, 10, 2018, 'NJ', 431, '2018-10-05');
@@ -7137,8 +6627,7 @@ insert into sales values ('Emily', 'Dates', 24, 6, 2016, 'NJ', 901, '2016-06-24'
 insert into sales values ('Wally', 'Eggs', 8, 10, 2016, 'CT', 324, '2016-10-08');
 insert into sales values ('Sam', 'Ice', 11, 11, 2017, 'NY', 663, '2017-11-11');
 insert into sales values ('Chae', 'Dates', 30, 10, 2018, 'NY', 503, '2018-10-30');
-insert into sales values ('Claire', 'Cherry', 16, 8, 2020, 'NJ', 677, '2020-08-
-16');
+insert into sales values ('Claire', 'Cherry', 16, 8, 2020, 'NJ', 677, '2020-08-16');
 insert into sales values ('Dan', 'Jellies', 6, 1, 2018, 'CT', 202, '2018-01-06');
 insert into sales values ('Emily', 'Apple', 1, 12, 2016, 'NJ', 455, '2016-12-01');
 insert into sales values ('Sam', 'Fish', 12, 7, 2018, 'NJ', 682, '2018-07-12');
@@ -7179,11 +6668,9 @@ insert into sales values ('Claire', 'Apple', 20, 6, 2016, 'CT', 727, '2016-06-20
 insert into sales values ('Wally', 'Apple', 22, 12, 2017, 'PA', 36, '2017-12-22');
 insert into sales values ('Helen', 'Grapes', 16, 5, 2017, 'CT', 886, '2017-05-16');
 insert into sales values ('Sam', 'Apple', 30, 1, 2019, 'NY', 661, '2019-01-30');
-insert into sales values ('Helen', 'Jellies', 12, 1, 2018, 'CT', 131, '2018-01-
-12');
+insert into sales values ('Helen', 'Jellies', 12, 1, 2018, 'CT', 131, '2018-01-12');
 insert into sales values ('Chae', 'Apple', 15, 2, 2017, 'CT', 300, '2017-02-15');
-insert into sales values ('Claire', 'Jellies', 10, 10, 2020, 'NJ', 516, '2020-10-
-10');
+insert into sales values ('Claire', 'Jellies', 10, 10, 2020, 'NJ', 516, '2020-10-10');
 insert into sales values ('Chae', 'Dates', 20, 2, 2019, 'CT', 580, '2019-02-20');
 insert into sales values ('Emily', 'Ham', 13, 4, 2019, 'PA', 387, '2019-04-13');
 insert into sales values ('Helen', 'Eggs', 3, 4, 2020, 'NJ', 246, '2020-04-03');
@@ -7198,8 +6685,7 @@ insert into sales values ('Boo', 'Eggs', 15, 1, 2020, 'NY', 173, '2020-01-15');
 insert into sales values ('Claire', 'Dates', 2, 2, 2019, 'NJ', 323, '2019-02-02');
 insert into sales values ('Chae', 'Apple', 15, 7, 2019, 'NJ', 893, '2019-07-15');
 insert into sales values ('Sam', 'Jellies', 2, 12, 2020, 'PA', 448, '2020-12-02');
-insert into sales values ('Claire', 'Jellies', 18, 3, 2016, 'NY', 15, '2016-03-
-18');
+insert into sales values ('Claire', 'Jellies', 18, 3, 2016, 'NY', 15, '2016-03-18');
 insert into sales values ('Emily', 'Cherry', 24, 3, 2019, 'PA', 327, '2019-03-24');
 insert into sales values ('Emily', 'Dates', 2, 6, 2016, 'NY', 315, '2016-06-02');
 insert into sales values ('Helen', 'Apple', 30, 7, 2020, 'NJ', 406, '2020-07-30');
@@ -7212,17 +6698,13 @@ insert into sales values ('Helen', 'Eggs', 12, 7, 2018, 'NJ', 770, '2018-07-12')
 insert into sales values ('Mia', 'Apple', 20, 11, 2020, 'CT', 136, '2020-11-20');
 insert into sales values ('Boo', 'Dates', 3, 11, 2017, 'NJ', 184, '2017-11-03');
 insert into sales values ('Chae', 'Cherry', 15, 5, 2020, 'PA', 289, '2020-05-15');
-insert into sales values ('Claire', 'Grapes', 10, 3, 2018, 'CT', 899, '2018-03-
-10');
-insert into sales values ('Emily', 'Butter', 13, 12, 2019, 'NJ', 803, '2019-12-
-13');
+insert into sales values ('Claire', 'Grapes', 10, 3, 2018, 'CT', 899, '2018-03-10');
+insert into sales values ('Emily', 'Butter', 13, 12, 2019, 'NJ', 803, '2019-12-13');
 insert into sales values ('Helen', 'Fish', 16, 3, 2016, 'NJ', 423, '2016-03-16');
 insert into sales values ('Mia', 'Ham', 14, 1, 2017, 'NY', 937, '2017-01-14');
-insert into sales values ('Claire', 'Cherry', 10, 7, 2016, 'CT', 395, '2016-07-
-10');
+insert into sales values ('Claire', 'Cherry', 10, 7, 2016, 'CT', 395, '2016-07-10');
 insert into sales values ('Chae', 'Cherry', 24, 2, 2018, 'NY', 929, '2018-02-24');
-insert into sales values ('Helen', 'Butter', 19, 10, 2018, 'PA', 467, '2018-10-
-19');
+insert into sales values ('Helen', 'Butter', 19, 10, 2018, 'PA', 467, '2018-10-19');
 insert into sales values ('Sam', 'Dates', 10, 3, 2017, 'PA', 906, '2017-03-10');
 insert into sales values ('Chae', 'Ice', 15, 7, 2016, 'CT', 73, '2016-07-15');
 insert into sales values ('Helen', 'Ice', 8, 3, 2020, 'PA', 725, '2020-03-08');
@@ -7230,8 +6712,7 @@ insert into sales values ('Dan', 'Dates', 3, 5, 2018, 'NJ', 971, '2018-05-03');
 insert into sales values ('Sam', 'Dates', 27, 2, 2020, 'NJ', 763, '2020-02-27');
 insert into sales values ('Dan', 'Cherry', 16, 4, 2019, 'NY', 596, '2019-04-16');
 insert into sales values ('Claire', 'Ice', 8, 10, 2016, 'NJ', 869, '2016-10-08');
-insert into sales values ('Emily', 'Grapes', 28, 10, 2017, 'NJ', 188, '2017-10-
-28');
+insert into sales values ('Emily', 'Grapes', 28, 10, 2017, 'NJ', 188, '2017-10-28');
 insert into sales values ('Wally', 'Fish', 2, 10, 2019, 'NJ', 947, '2019-10-02');
 insert into sales values ('Claire', 'Fish', 11, 9, 2020, 'NY', 186, '2020-09-11');
 insert into sales values ('Mia', 'Eggs', 7, 7, 2018, 'PA', 882, '2018-07-07');
@@ -7239,8 +6720,7 @@ insert into sales values ('Helen', 'Ice', 9, 7, 2019, 'NJ', 780, '2019-07-09');
 insert into sales values ('Mia', 'Jellies', 5, 2, 2020, 'PA', 269, '2020-02-05');
 insert into sales values ('Helen', 'Apple', 16, 7, 2017, 'NJ', 714, '2017-07-16');
 insert into sales values ('Boo', 'Cherry', 13, 8, 2017, 'NY', 320, '2017-08-13');
-insert into sales values ('Wally', 'Jellies', 15, 1, 2020, 'CT', 420, '2020-01-
-15');
+insert into sales values ('Wally', 'Jellies', 15, 1, 2020, 'CT', 420, '2020-01-15');
 insert into sales values ('Mia', 'Apple', 10, 6, 2020, 'NJ', 746, '2020-06-10');
 insert into sales values ('Chae', 'Dates', 10, 1, 2019, 'NY', 461, '2019-01-10');
 insert into sales values ('Dan', 'Cherry', 18, 2, 2017, 'NY', 1, '2017-02-18');
@@ -7252,8 +6732,7 @@ insert into sales values ('Sam', 'Jellies', 28, 2, 2018, 'NY', 711, '2018-02-28'
 insert into sales values ('Sam', 'Dates', 24, 3, 2019, 'CT', 4, '2019-03-24');
 insert into sales values ('Sam', 'Grapes', 2, 2, 2018, 'NY', 337, '2018-02-02');
 insert into sales values ('Chae', 'Apple', 1, 8, 2019, 'PA', 434, '2019-08-01');
-insert into sales values ('Claire', 'Butter', 30, 11, 2019, 'NJ', 881, '2019-11-
-30');
+insert into sales values ('Claire', 'Butter', 30, 11, 2019, 'NJ', 881, '2019-11-30');
 insert into sales values ('Claire', 'Eggs', 27, 11, 2020, 'NJ', 249, '2020-11-27');
 insert into sales values ('Sam', 'Jellies', 4, 2, 2017, 'PA', 440, '2017-02-04');
 insert into sales values ('Mia', 'Butter', 14, 4, 2018, 'CT', 922, '2018-04-14');
@@ -7265,8 +6744,7 @@ insert into sales values ('Claire', 'Ice', 12, 8, 2019, 'CT', 565, '2019-08-12')
 insert into sales values ('Emily', 'Eggs', 16, 9, 2017, 'NY', 314, '2017-09-16');
 insert into sales values ('Mia', 'Ice', 1, 10, 2018, 'NJ', 855, '2018-10-01');
 insert into sales values ('Claire', 'Fish', 16, 8, 2016, 'CT', 865, '2016-08-16');
-insert into sales values ('Helen', 'Cherry', 24, 12, 2017, 'CT', 327, '2017-12-
-24');
+insert into sales values ('Helen', 'Cherry', 24, 12, 2017, 'CT', 327, '2017-12-24');
 insert into sales values ('Sam', 'Eggs', 2, 9, 2016, 'NJ', 897, '2016-09-02');
 insert into sales values ('Helen', 'Dates', 3, 12, 2020, 'NY', 937, '2020-12-03');
 insert into sales values ('Boo', 'Eggs', 2, 2, 2020, 'NY', 102, '2020-02-02');
@@ -7279,11 +6757,9 @@ insert into sales values ('Dan', 'Cherry', 13, 9, 2016, 'PA', 151, '2016-09-13')
 insert into sales values ('Sam', 'Dates', 24, 3, 2017, 'PA', 251, '2017-03-24');
 insert into sales values ('Boo', 'Butter', 16, 5, 2018, 'PA', 688, '2018-05-16');
 insert into sales values ('Sam', 'Fish', 15, 4, 2016, 'NJ', 875, '2016-04-15');
-insert into sales values ('Wally', 'Jellies', 21, 7, 2019, 'NJ', 516, '2019-07-
-21');
+insert into sales values ('Wally', 'Jellies', 21, 7, 2019, 'NJ', 516, '2019-07-21');
 insert into sales values ('Sam', 'Ice', 3, 11, 2020, 'PA', 148, '2020-11-03');
-insert into sales values ('Helen', 'Cherry', 16, 12, 2018, 'CT', 927, '2018-12-
-16');
+insert into sales values ('Helen', 'Cherry', 16, 12, 2018, 'CT', 927, '2018-12-16');
 insert into sales values ('Sam', 'Ice', 31, 8, 2018, 'NY', 510, '2018-08-31');
 insert into sales values ('Helen', 'Fish', 22, 7, 2020, 'CT', 331, '2020-07-22');
 insert into sales values ('Dan', 'Ice', 28, 10, 2020, 'NY', 548, '2020-10-28');
@@ -7298,12 +6774,10 @@ insert into sales values ('Chae', 'Fish', 28, 8, 2020, 'NY', 846, '2020-08-28');
 insert into sales values ('Sam', 'Jellies', 3, 12, 2018, 'CT', 591, '2018-12-03');
 insert into sales values ('Mia', 'Fish', 10, 3, 2016, 'PA', 38, '2016-03-10');
 insert into sales values ('Claire', 'Eggs', 5, 5, 2020, 'NJ', 87, '2020-05-05');
-insert into sales values ('Wally', 'Jellies', 14, 6, 2017, 'NJ', 453, '2017-06-
-14');
+insert into sales values ('Wally', 'Jellies', 14, 6, 2017, 'NJ', 453, '2017-06-14');
 insert into sales values ('Sam', 'Cherry', 2, 8, 2020, 'NY', 788, '2020-08-02');
 insert into sales values ('Sam', 'Fish', 12, 7, 2016, 'CT', 122, '2016-07-12');
-insert into sales values ('Wally', 'Jellies', 23, 5, 2017, 'PA', 602, '2017-05-
-23');
+insert into sales values ('Wally', 'Jellies', 23, 5, 2017, 'PA', 602, '2017-05-23');
 insert into sales values ('Mia', 'Jellies', 29, 5, 2016, 'NY', 173, '2016-05-29');
 insert into sales values ('Mia', 'Fish', 26, 3, 2017, 'NJ', 437, '2017-03-26');
 insert into sales values ('Chae', 'Dates', 7, 12, 2018, 'PA', 697, '2018-12-07');
@@ -7329,8 +6803,7 @@ insert into sales values ('Boo', 'Grapes', 15, 12, 2018, 'PA', 472, '2018-12-15'
 insert into sales values ('Boo', 'Butter', 24, 5, 2020, 'PA', 288, '2020-05-24');
 insert into sales values ('Chae', 'Eggs', 27, 2, 2017, 'PA', 44, '2017-02-27');
 insert into sales values ('Emily', 'Ice', 24, 8, 2020, 'PA', 473, '2020-08-24');
-insert into sales values ('Emily', 'Jellies', 15, 7, 2020, 'CT', 120, '2020-07-
-15');
+insert into sales values ('Emily', 'Jellies', 15, 7, 2020, 'CT', 120, '2020-07-15');
 insert into sales values ('Boo', 'Apple', 5, 1, 2020, 'CT', 318, '2020-01-05');
 insert into sales values ('Boo', 'Butter', 17, 12, 2019, 'NJ', 175, '2019-12-17');
 insert into sales values ('Emily', 'Dates', 7, 4, 2018, 'NJ', 337, '2018-04-07');
@@ -7361,15 +6834,13 @@ insert into sales values ('Helen', 'Dates', 6, 7, 2018, 'PA', 54, '2018-07-06');
 insert into sales values ('Mia', 'Grapes', 1, 6, 2018, 'NY', 386, '2018-06-01');
 insert into sales values ('Emily', 'Ham', 23, 1, 2018, 'PA', 186, '2018-01-23');
 insert into sales values ('Claire', 'Eggs', 30, 7, 2019, 'PA', 627, '2019-07-30');
-insert into sales values ('Helen', 'Jellies', 19, 1, 2018, 'CT', 312, '2018-01-
-19');
+insert into sales values ('Helen', 'Jellies', 19, 1, 2018, 'CT', 312, '2018-01-19');
 insert into sales values ('Boo', 'Dates', 9, 4, 2016, 'CT', 835, '2016-04-09');
 insert into sales values ('Sam', 'Apple', 26, 3, 2018, 'PA', 87, '2018-03-26');
 insert into sales values ('Mia', 'Cherry', 24, 6, 2016, 'PA', 731, '2016-06-24');
 insert into sales values ('Chae', 'Jellies', 28, 4, 2017, 'CT', 992, '2017-04-28');
 insert into sales values ('Mia', 'Apple', 16, 8, 2019, 'NY', 156, '2019-08-16');
-insert into sales values ('Claire', 'Jellies', 3, 2, 2017, 'PA', 693, '2017-02-
-03');
+insert into sales values ('Claire', 'Jellies', 3, 2, 2017, 'PA', 693, '2017-02-03');
 insert into sales values ('Mia', 'Dates', 18, 9, 2018, 'CT', 987, '2018-09-18');
 insert into sales values ('Wally', 'Eggs', 24, 12, 2017, 'NY', 934, '2017-12-24');
 insert into sales values ('Dan', 'Grapes', 14, 6, 2016, 'CT', 12, '2016-06-14');
@@ -7381,8 +6852,7 @@ insert into sales values ('Emily', 'Eggs', 6, 5, 2018, 'NJ', 765, '2018-05-06');
 insert into sales values ('Chae', 'Jellies', 5, 11, 2019, 'CT', 47, '2019-11-05');
 insert into sales values ('Wally', 'Dates', 1, 6, 2018, 'NY', 84, '2018-06-01');
 insert into sales values ('Sam', 'Ice', 12, 2, 2020, 'NJ', 928, '2020-02-12');
-insert into sales values ('Wally', 'Cherry', 21, 10, 2019, 'NJ', 123, '2019-10-
-21');
+insert into sales values ('Wally', 'Cherry', 21, 10, 2019, 'NJ', 123, '2019-10-21');
 insert into sales values ('Claire', 'Apple', 12, 8, 2020, 'NY', 925, '2020-08-12');
 insert into sales values ('Sam', 'Ice', 4, 2, 2018, 'PA', 446, '2018-02-04');
 insert into sales values ('Sam', 'Dates', 12, 9, 2020, 'NY', 110, '2020-09-12');
@@ -7390,8 +6860,7 @@ insert into sales values ('Sam', 'Cherry', 27, 11, 2019, 'NJ', 674, '2019-11-27'
 insert into sales values ('Emily', 'Dates', 13, 5, 2017, 'CT', 827, '2017-05-13');
 insert into sales values ('Boo', 'Eggs', 25, 3, 2019, 'PA', 15, '2019-03-25');
 insert into sales values ('Emily', 'Dates', 20, 6, 2017, 'NY', 995, '2017-06-20');
-insert into sales values ('Helen', 'Jellies', 10, 3, 2016, 'PA', 735, '2016-03-
-10');
+insert into sales values ('Helen', 'Jellies', 10, 3, 2016, 'PA', 735, '2016-03-10');
 insert into sales values ('Claire', 'Dates', 29, 5, 2017, 'PA', 814, '2017-05-29');
 insert into sales values ('Helen', 'Grapes', 10, 2, 2017, 'NY', 361, '2017-02-10');
 insert into sales values ('Chae', 'Cherry', 19, 10, 2019, 'NY', 60, '2019-10-19');
@@ -7403,29 +6872,24 @@ insert into sales values ('Mia', 'Butter', 20, 8, 2017, 'PA', 94, '2017-08-20');
 insert into sales values ('Helen', 'Cherry', 10, 4, 2017, 'NY', 210, '2017-04-10');
 insert into sales values ('Chae', 'Ice', 8, 6, 2017, 'CT', 179, '2017-06-08');
 insert into sales values ('Sam', 'Grapes', 1, 2, 2019, 'NJ', 585, '2019-02-01');
-insert into sales values ('Wally', 'Jellies', 30, 7, 2019, 'NY', 882, '2019-07-
-30');
+insert into sales values ('Wally', 'Jellies', 30, 7, 2019, 'NY', 882, '2019-07-30');
 insert into sales values ('Claire', 'Dates', 1, 2, 2018, 'NY', 702, '2018-02-01');
 insert into sales values ('Mia', 'Eggs', 22, 8, 2019, 'NY', 344, '2019-08-22');
 insert into sales values ('Helen', 'Butter', 25, 3, 2016, 'NJ', 497, '2016-03-25');
 insert into sales values ('Boo', 'Jellies', 20, 11, 2020, 'NJ', 167, '2020-11-20');
-insert into sales values ('Claire', 'Jellies', 18, 12, 2020, 'CT', 654, '2020-12-
-18');
+insert into sales values ('Claire', 'Jellies', 18, 12, 2020, 'CT', 654, '2020-12-18');
 insert into sales values ('Claire', 'Ice', 30, 8, 2017, 'PA', 954, '2017-08-30');
 insert into sales values ('Sam', 'Cherry', 20, 4, 2020, 'CT', 592, '2020-04-20');
 insert into sales values ('Helen', 'Ham', 18, 8, 2018, 'CT', 777, '2018-08-18');
 insert into sales values ('Wally', 'Cherry', 2, 7, 2018, 'CT', 835, '2018-07-02');
-insert into sales values ('Claire', 'Butter', 6, 11, 2020, 'CT', 938, '2020-11-
-06');
+insert into sales values ('Claire', 'Butter', 6, 11, 2020, 'CT', 938, '2020-11-06');
 insert into sales values ('Dan', 'Ice', 8, 6, 2017, 'CT', 859, '2017-06-08');
-insert into sales values ('Emily', 'Cherry', 28, 11, 2018, 'CT', 163, '2018-11-
-28');
+insert into sales values ('Emily', 'Cherry', 28, 11, 2018, 'CT', 163, '2018-11-28');
 insert into sales values ('Boo', 'Dates', 23, 5, 2017, 'NJ', 945, '2017-05-23');
 insert into sales values ('Mia', 'Eggs', 6, 9, 2020, 'NJ', 7, '2020-09-06');
 insert into sales values ('Emily', 'Grapes', 10, 8, 2017, 'CT', 59, '2017-08-10');
 insert into sales values ('Sam', 'Ham', 7, 9, 2018, 'PA', 988, '2018-09-07');
-insert into sales values ('Claire', 'Butter', 28, 1, 2020, 'NJ', 386, '2020-01-
-28');
+insert into sales values ('Claire', 'Butter', 28, 1, 2020, 'NJ', 386, '2020-01-28');
 insert into sales values ('Sam', 'Ice', 30, 7, 2020, 'NY', 408, '2020-07-30');
 insert into sales values ('Mia', 'Grapes', 1, 10, 2016, 'PA', 488, '2016-10-01');
 insert into sales values ('Chae', 'Ice', 30, 1, 2020, 'NY', 160, '2020-01-30');
@@ -7441,12 +6905,10 @@ insert into sales values ('Emily', 'Grapes', 17, 12, 2018, 'CT', 18, '2018-12-17
 insert into sales values ('Boo', 'Eggs', 13, 1, 2019, 'NJ', 942, '2019-01-13');
 insert into sales values ('Boo', 'Ham', 24, 9, 2016, 'NY', 392, '2016-09-24');
 insert into sales values ('Wally', 'Butter', 9, 9, 2018, 'PA', 851, '2018-09-09');
-insert into sales values ('Emily', 'Jellies', 23, 5, 2018, 'CT', 378, '2018-05-
-23');
+insert into sales values ('Emily', 'Jellies', 23, 5, 2018, 'CT', 378, '2018-05-23');
 insert into sales values ('Dan', 'Dates', 3, 9, 2017, 'CT', 331, '2017-09-03');
 insert into sales values ('Mia', 'Fish', 10, 3, 2019, 'NY', 784, '2019-03-10');
-insert into sales values ('Claire', 'Butter', 22, 3, 2019, 'NJ', 531, '2019-03-
-22');
+insert into sales values ('Claire', 'Butter', 22, 3, 2019, 'NJ', 531, '2019-03-22');
 insert into sales values ('Mia', 'Dates', 13, 7, 2016, 'PA', 505, '2016-07-13');
 insert into sales values ('Mia', 'Ham', 27, 9, 2020, 'PA', 548, '2020-09-27');
 insert into sales values ('Emily', 'Ice', 16, 6, 2016, 'NJ', 4, '2016-06-16');
@@ -7467,15 +6929,13 @@ insert into sales values ('Dan', 'Butter', 11, 2, 2017, 'NJ', 614, '2017-02-11')
 insert into sales values ('Mia', 'Eggs', 23, 8, 2019, 'NY', 907, '2019-08-23');
 insert into sales values ('Boo', 'Dates', 20, 3, 2016, 'NY', 190, '2016-03-20');
 insert into sales values ('Dan', 'Ice', 18, 4, 2019, 'NJ', 825, '2019-04-18');
-insert into sales values ('Emily', 'Jellies', 14, 12, 2017, 'PA', 339, '2017-12-
-14');
+insert into sales values ('Emily', 'Jellies', 14, 12, 2017, 'PA', 339, '2017-12-14');
 insert into sales values ('Sam', 'Jellies', 3, 9, 2016, 'PA', 56, '2016-09-03');
 insert into sales values ('Dan', 'Ham', 29, 9, 2017, 'NJ', 194, '2017-09-29');
 insert into sales values ('Sam', 'Fish', 9, 12, 2019, 'PA', 565, '2019-12-09');
 insert into sales values ('Boo', 'Dates', 4, 4, 2018, 'PA', 355, '2018-04-04');
 insert into sales values ('Chae', 'Grapes', 13, 11, 2019, 'NY', 702, '2019-11-13');
-insert into sales values ('Emily', 'Jellies', 10, 12, 2016, 'PA', 521, '2016-12-
-10');
+insert into sales values ('Emily', 'Jellies', 10, 12, 2016, 'PA', 521, '2016-12-10');
 insert into sales values ('Boo', 'Apple', 21, 3, 2020, 'PA', 217, '2020-03-21');
 insert into sales values ('Dan', 'Ice', 16, 9, 2017, 'NY', 313, '2017-09-16');
 insert into sales values ('Mia', 'Dates', 27, 5, 2020, 'PA', 804, '2020-05-27');
@@ -7483,8 +6943,7 @@ insert into sales values ('Dan', 'Butter', 16, 5, 2017, 'NY', 211, '2017-05-16')
 insert into sales values ('Boo', 'Butter', 19, 4, 2016, 'CT', 31, '2016-04-19');
 insert into sales values ('Boo', 'Apple', 8, 1, 2017, 'NY', 252, '2017-01-08');
 insert into sales values ('Emily', 'Fish', 23, 6, 2016, 'CT', 58, '2016-06-23');
-insert into sales values ('Helen', 'Grapes', 22, 11, 2018, 'NY', 928, '2018-11-
-22');
+insert into sales values ('Helen', 'Grapes', 22, 11, 2018, 'NY', 928, '2018-11-22');
 insert into sales values ('Helen', 'Jellies', 26, 7, 2017, 'NY', 84, '2017-07-26');
 insert into sales values ('Sam', 'Jellies', 13, 5, 2017, 'PA', 317, '2017-05-13');
 insert into sales values ('Wally', 'Dates', 4, 10, 2018, 'NJ', 231, '2018-10-04');
@@ -7492,8 +6951,7 @@ insert into sales values ('Boo', 'Dates', 6, 4, 2019, 'NJ', 305, '2019-04-06');
 insert into sales values ('Dan', 'Jellies', 5, 8, 2020, 'CT', 22, '2020-08-05');
 insert into sales values ('Claire', 'Apple', 13, 11, 2018, 'PA', 78, '2018-11-13');
 insert into sales values ('Sam', 'Grapes', 6, 11, 2017, 'NY', 109, '2017-11-06');
-insert into sales values ('Claire', 'Dates', 15, 11, 2016, 'NY', 309, '2016-11-
-15');
+insert into sales values ('Claire', 'Dates', 15, 11, 2016, 'NY', 309, '2016-11-15');
 insert into sales values ('Sam', 'Ham', 5, 1, 2018, 'NJ', 547, '2018-01-05');
 insert into sales values ('Dan', 'Dates', 15, 12, 2016, 'NY', 902, '2016-12-15');
 insert into sales values ('Helen', 'Dates', 15, 6, 2016, 'PA', 166, '2016-06-15');
@@ -7508,8 +6966,7 @@ insert into sales values ('Emily', 'Apple', 24, 10, 2020, 'NY', 231, '2020-10-24
 insert into sales values ('Boo', 'Dates', 25, 12, 2016, 'CT', 716, '2016-12-25');
 insert into sales values ('Sam', 'Cherry', 1, 10, 2018, 'NY', 794, '2018-10-01');
 insert into sales values ('Mia', 'Ice', 23, 8, 2017, 'NY', 618, '2017-08-23');
-insert into sales values ('Claire', 'Grapes', 23, 12, 2018, 'NJ', 471, '2018-12-
-23');
+insert into sales values ('Claire', 'Grapes', 23, 12, 2018, 'NJ', 471, '2018-12-23');
 insert into sales values ('Dan', 'Grapes', 29, 8, 2019, 'NJ', 787, '2019-08-29');
 insert into sales values ('Boo', 'Butter', 8, 10, 2016, 'CT', 273, '2016-10-08');
 insert into sales values ('Mia', 'Apple', 13, 8, 2016, 'NY', 476, '2016-08-13');
@@ -7517,8 +6974,7 @@ insert into sales values ('Chae', 'Eggs', 19, 12, 2017, 'CT', 425, '2017-12-19')
 insert into sales values ('Sam', 'Butter', 17, 8, 2016, 'NY', 779, '2016-08-17');
 insert into sales values ('Wally', 'Apple', 25, 9, 2019, 'PA', 443, '2019-09-25');
 insert into sales values ('Claire', 'Ice', 1, 1, 2018, 'CT', 604, '2018-01-01');
-insert into sales values ('Wally', 'Jellies', 18, 1, 2017, 'CT', 936, '2017-01-
-18');
+insert into sales values ('Wally', 'Jellies', 18, 1, 2017, 'CT', 936, '2017-01-18');
 insert into sales values ('Sam', 'Ice', 23, 5, 2017, 'CT', 85, '2017-05-23');
 insert into sales values ('Boo', 'Cherry', 17, 8, 2016, 'CT', 879, '2016-08-17');
 insert into sales values ('Wally', 'Fish', 11, 5, 2017, 'PA', 597, '2017-05-11');
@@ -7531,14 +6987,11 @@ insert into sales values ('Boo', 'Ice', 13, 11, 2019, 'CT', 345, '2019-11-13');
 insert into sales values ('Boo', 'Dates', 13, 10, 2020, 'NY', 252, '2020-10-13');
 insert into sales values ('Dan', 'Ham', 30, 9, 2018, 'CT', 994, '2018-09-30');
 insert into sales values ('Mia', 'Fish', 30, 8, 2018, 'NY', 200, '2018-08-30');
-insert into sales values ('Helen', 'Cherry', 30, 11, 2019, 'PA', 489, '2019-11-
-30');
-insert into sales values ('Wally', 'Jellies', 28, 12, 2017, 'CT', 331, '2017-12-
-28');
+insert into sales values ('Helen', 'Cherry', 30, 11, 2019, 'PA', 489, '2019-11-30');
+insert into sales values ('Wally', 'Jellies', 28, 12, 2017, 'CT', 331, '2017-12-28');
 insert into sales values ('Helen', 'Jellies', 7, 4, 2018, 'NY', 565, '2018-04-07');
 insert into sales values ('Sam', 'Apple', 18, 3, 2016, 'PA', 347, '2016-03-18');
-insert into sales values ('Wally', 'Jellies', 26, 4, 2017, 'PA', 708, '2017-04-
-26');
+insert into sales values ('Wally', 'Jellies', 26, 4, 2017, 'PA', 708, '2017-04-26');
 insert into sales values ('Helen', 'Cherry', 17, 3, 2019, 'NY', 725, '2019-03-17');
 insert into sales values ('Wally', 'Dates', 7, 3, 2018, 'PA', 962, '2018-03-07');
 insert into sales values ('Wally', 'Apple', 2, 8, 2019, 'NY', 791, '2019-08-02');
@@ -7549,12 +7002,10 @@ insert into sales values ('Dan', 'Eggs', 27, 1, 2017, 'NY', 540, '2017-01-27');
 insert into sales values ('Chae', 'Butter', 8, 10, 2019, 'PA', 371, '2019-10-08');
 insert into sales values ('Emily', 'Cherry', 13, 4, 2017, 'NJ', 459, '2017-04-13');
 insert into sales values ('Sam', 'Eggs', 16, 11, 2018, 'NY', 468, '2018-11-16');
-insert into sales values ('Claire', 'Grapes', 18, 8, 2018, 'CT', 137, '2018-08-
-18');
+insert into sales values ('Claire', 'Grapes', 18, 8, 2018, 'CT', 137, '2018-08-18');
 insert into sales values ('Sam', 'Grapes', 1, 2, 2019, 'PA', 920, '2019-02-01');
 insert into sales values ('Dan', 'Apple', 2, 10, 2020, 'PA', 80, '2020-10-02');
-insert into sales values ('Claire', 'Cherry', 13, 8, 2016, 'CT', 404, '2016-08-
-13');
+insert into sales values ('Claire', 'Cherry', 13, 8, 2016, 'CT', 404, '2016-08-13');
 insert into sales values ('Mia', 'Jellies', 1, 11, 2020, 'CT', 703, '2020-11-01');
 insert into sales values ('Mia', 'Apple', 29, 7, 2019, 'NJ', 559, '2019-07-29');
 insert into sales values ('Sam', 'Eggs', 23, 1, 2018, 'NY', 835, '2018-01-23');
@@ -7566,8 +7017,7 @@ insert into sales values ('Boo', 'Dates', 25, 7, 2017, 'NJ', 602, '2017-07-25');
 insert into sales values ('Chae', 'Grapes', 25, 7, 2018, 'CT', 71, '2018-07-25');
 insert into sales values ('Mia', 'Ham', 29, 1, 2019, 'NY', 511, '2019-01-29');
 insert into sales values ('Chae', 'Grapes', 20, 2, 2018, 'CT', 841, '2018-02-20');
-insert into sales values ('Claire', 'Butter', 3, 12, 2019, 'PA', 955, '2019-12-
-03');
+insert into sales values ('Claire', 'Butter', 3, 12, 2019, 'PA', 955, '2019-12-03');
 insert into sales values ('Emily', 'Dates', 18, 7, 2017, 'NJ', 743, '2017-07-18');
 insert into sales values ('Chae', 'Cherry', 19, 11, 2018, 'NJ', 831, '2018-11-19');
 insert into sales values ('Wally', 'Ham', 5, 4, 2016, 'NY', 463, '2016-04-05');
@@ -7576,15 +7026,13 @@ insert into sales values ('Chae', 'Butter', 14, 10, 2017, 'NY', 14, '2017-10-14'
 insert into sales values ('Claire', 'Fish', 17, 1, 2018, 'NY', 925, '2018-01-17');
 insert into sales values ('Emily', 'Eggs', 4, 5, 2017, 'NJ', 788, '2017-05-04');
 insert into sales values ('Chae', 'Apple', 30, 9, 2020, 'CT', 138, '2020-09-30');
-insert into sales values ('Wally', 'Jellies', 27, 5, 2016, 'NY', 106, '2016-05-
-27');
+insert into sales values ('Wally', 'Jellies', 27, 5, 2016, 'NY', 106, '2016-05-27');
 insert into sales values ('Sam', 'Grapes', 2, 2, 2017, 'PA', 106, '2017-02-02');
 insert into sales values ('Mia', 'Cherry', 22, 12, 2018, 'PA', 490, '2018-12-22');
 insert into sales values ('Emily', 'Ham', 15, 11, 2020, 'PA', 695, '2020-11-15');
 insert into sales values ('Mia', 'Ice', 5, 9, 2018, 'CT', 508, '2018-09-05');
 insert into sales values ('Emily', 'Ham', 3, 3, 2018, 'NJ', 703, '2018-03-03');
-insert into sales values ('Wally', 'Jellies', 24, 8, 2016, 'NY', 255, '2016-08-
-24');
+insert into sales values ('Wally', 'Jellies', 24, 8, 2016, 'NY', 255, '2016-08-24');
 insert into sales values ('Wally', 'Eggs', 25, 6, 2016, 'CT', 559, '2016-06-25');
 insert into sales values ('Sam', 'Apple', 21, 6, 2020, 'CT', 445, '2020-06-21');
 insert into sales values ('Chae', 'Grapes', 9, 2, 2016, 'NY', 731, '2016-02-09');
@@ -7613,13 +7061,11 @@ insert into sales values ('Dan', 'Jellies', 1, 7, 2016, 'NJ', 699, '2016-07-01')
 insert into sales values ('Dan', 'Butter', 6, 5, 2017, 'NJ', 465, '2017-05-06');
 insert into sales values ('Helen', 'Eggs', 6, 10, 2019, 'NJ', 39, '2019-10-06');
 insert into sales values ('Claire', 'Ice', 1, 8, 2018, 'NY', 372, '2018-08-01');
-insert into sales values ('Claire', 'Cherry', 22, 5, 2018, 'PA', 975, '2018-05-
-22');
+insert into sales values ('Claire', 'Cherry', 22, 5, 2018, 'PA', 975, '2018-05-22');
 insert into sales values ('Boo', 'Eggs', 16, 5, 2016, 'PA', 971, '2016-05-16');
 insert into sales values ('Chae', 'Ice', 24, 8, 2020, 'NJ', 240, '2020-08-24');
 insert into sales values ('Wally', 'Ice', 14, 6, 2020, 'PA', 637, '2020-06-14');
-insert into sales values ('Emily', 'Grapes', 20, 12, 2020, 'CT', 403, '2020-12-
-20');
+insert into sales values ('Emily', 'Grapes', 20, 12, 2020, 'CT', 403, '2020-12-20');
 insert into sales values ('Emily', 'Ice', 27, 2, 2020, 'NJ', 525, '2020-02-27');
 insert into sales values ('Dan', 'Eggs', 10, 12, 2016, 'PA', 801, '2016-12-10');
 insert into sales values ('Chae', 'Jellies', 22, 9, 2019, 'CT', 420, '2019-09-22');
@@ -7628,15 +7074,13 @@ insert into sales values ('Claire', 'Fish', 20, 3, 2020, 'NY', 123, '2020-03-20'
 insert into sales values ('Helen', 'Eggs', 30, 7, 2019, 'NY', 159, '2019-07-30');
 insert into sales values ('Mia', 'Ice', 16, 8, 2016, 'PA', 142, '2016-08-16');
 insert into sales values ('Sam', 'Apple', 12, 8, 2019, 'NJ', 377, '2019-08-12');
-insert into sales values ('Claire', 'Butter', 14, 4, 2020, 'NY', 152, '2020-04-
-14');
+insert into sales values ('Claire', 'Butter', 14, 4, 2020, 'NY', 152, '2020-04-14');
 insert into sales values ('Boo', 'Dates', 3, 8, 2017, 'CT', 961, '2017-08-03');
 insert into sales values ('Boo', 'Fish', 1, 8, 2019, 'CT', 984, '2019-08-01');
 insert into sales values ('Chae', 'Ham', 7, 6, 2017, 'CT', 729, '2017-06-07');
 insert into sales values ('Emily', 'Apple', 3, 10, 2019, 'NJ', 714, '2019-10-03');
 insert into sales values ('Chae', 'Ham', 11, 5, 2018, 'PA', 810, '2018-05-11');
-insert into sales values ('Emily', 'Jellies', 16, 12, 2020, 'PA', 125, '2020-12-
-16');
+insert into sales values ('Emily', 'Jellies', 16, 12, 2020, 'PA', 125, '2020-12-16');
 insert into sales values ('Helen', 'Eggs', 30, 9, 2018, 'NJ', 754, '2018-09-30');
 insert into sales values ('Helen', 'Eggs', 25, 7, 2020, 'NY', 690, '2020-07-25');
 insert into sales values ('Chae', 'Butter', 28, 10, 2019, 'CT', 803, '2019-10-28');
@@ -7663,20 +7107,17 @@ insert into sales values ('Emily', 'Ham', 12, 2, 2017, 'PA', 153, '2017-02-12');
 insert into sales values ('Mia', 'Butter', 13, 4, 2018, 'CT', 384, '2018-04-13');
 insert into sales values ('Sam', 'Dates', 3, 11, 2020, 'PA', 611, '2020-11-03');
 insert into sales values ('Wally', 'Ham', 19, 12, 2019, 'NJ', 714, '2019-12-19');
-insert into sales values ('Helen', 'Jellies', 23, 2, 2020, 'CT', 456, '2020-02-
-23');
+insert into sales values ('Helen', 'Jellies', 23, 2, 2020, 'CT', 456, '2020-02-23');
 insert into sales values ('Claire', 'Fish', 18, 1, 2016, 'NJ', 639, '2016-01-18');
 insert into sales values ('Boo', 'Grapes', 1, 7, 2017, 'CT', 446, '2017-07-01');
 insert into sales values ('Boo', 'Apple', 28, 9, 2020, 'NY', 544, '2020-09-28');
-insert into sales values ('Claire', 'Jellies', 25, 1, 2020, 'PA', 184, '2020-01-
-25');
+insert into sales values ('Claire', 'Jellies', 25, 1, 2020, 'PA', 184, '2020-01-25');
 insert into sales values ('Wally', 'Butter', 22, 3, 2020, 'NJ', 812, '2020-03-22');
 insert into sales values ('Sam', 'Jellies', 17, 4, 2020, 'NY', 692, '2020-04-17');
 insert into sales values ('Mia', 'Grapes', 17, 12, 2018, 'NJ', 271, '2018-12-17');
 insert into sales values ('Sam', 'Jellies', 9, 10, 2017, 'NJ', 113, '2017-10-09');
 insert into sales values ('Chae', 'Ice', 3, 7, 2017, 'PA', 226, '2017-07-03');
-insert into sales values ('Wally', 'Grapes', 19, 12, 2016, 'NY', 935, '2016-12-
-19');
+insert into sales values ('Wally', 'Grapes', 19, 12, 2016, 'NY', 935, '2016-12-19');
 insert into sales values ('Sam', 'Dates', 8, 2, 2019, 'PA', 152, '2019-02-08');
 insert into sales values ('Wally', 'Grapes', 17, 5, 2019, 'PA', 576, '2019-05-17');
 insert into sales values ('Chae', 'Cherry', 15, 2, 2020, 'NY', 517, '2020-02-15');
@@ -7685,8 +7126,7 @@ insert into sales values ('Emily', 'Fish', 14, 8, 2018, 'NJ', 890, '2018-08-14')
 insert into sales values ('Sam', 'Apple', 15, 5, 2016, 'NJ', 396, '2016-05-15');
 insert into sales values ('Dan', 'Cherry', 9, 6, 2018, 'CT', 578, '2018-06-09');
 insert into sales values ('Emily', 'Apple', 15, 8, 2019, 'CT', 99, '2019-08-15');
-insert into sales values ('Emily', 'Jellies', 28, 12, 2020, 'CT', 411, '2020-12-
-28');
+insert into sales values ('Emily', 'Jellies', 28, 12, 2020, 'CT', 411, '2020-12-28');
 insert into sales values ('Dan', 'Fish', 19, 2, 2020, 'NJ', 278, '2020-02-19');
 insert into sales values ('Wally', 'Eggs', 22, 4, 2019, 'NJ', 525, '2019-04-22');
 insert into sales values ('Emily', 'Cherry', 30, 7, 2019, 'PA', 17, '2019-07-30');
@@ -7704,8 +7144,7 @@ insert into sales values ('Dan', 'Butter', 13, 8, 2016, 'CT', 234, '2016-08-13')
 insert into sales values ('Boo', 'Ice', 24, 5, 2018, 'NJ', 55, '2018-05-24');
 insert into sales values ('Helen', 'Grapes', 9, 12, 2020, 'PA', 298, '2020-12-09');
 insert into sales values ('Mia', 'Dates', 24, 7, 2018, 'NY', 509, '2018-07-24');
-insert into sales values ('Claire', 'Butter', 21, 4, 2016, 'PA', 413, '2016-04-
-21');
+insert into sales values ('Claire', 'Butter', 21, 4, 2016, 'PA', 413, '2016-04-21');
 insert into sales values ('Sam', 'Fish', 1, 11, 2016, 'NJ', 406, '2016-11-01');
 insert into sales values ('Chae', 'Jellies', 13, 9, 2018, 'NY', 122, '2018-09-13');
 insert into sales values ('Boo', 'Cherry', 8, 12, 2019, 'NY', 579, '2019-12-08');
@@ -7729,8 +7168,7 @@ insert into sales values ('Chae', 'Butter', 6, 9, 2019, 'CT', 774, '2019-09-06')
 insert into sales values ('Claire', 'Butter', 9, 2, 2019, 'CT', 413, '2019-02-09');
 insert into sales values ('Sam', 'Jellies', 3, 8, 2019, 'CT', 305, '2019-08-03');
 insert into sales values ('Mia', 'Dates', 2, 5, 2020, 'CT', 295, '2020-05-02');
-insert into sales values ('Claire', 'Dates', 16, 10, 2017, 'NJ', 846, '2017-10-
-16');
+insert into sales values ('Claire', 'Dates', 16, 10, 2017, 'NJ', 846, '2017-10-16');
 insert into sales values ('Emily', 'Apple', 11, 2, 2017, 'NY', 679, '2017-02-11');
 insert into sales values ('Chae', 'Butter', 25, 5, 2018, 'CT', 636, '2018-05-25');
 insert into sales values ('Chae', 'Dates', 19, 9, 2018, 'NJ', 113, '2018-09-19');
@@ -7742,13 +7180,11 @@ insert into sales values ('Mia', 'Grapes', 14, 10, 2018, 'PA', 58, '2018-10-14')
 insert into sales values ('Dan', 'Fish', 1, 8, 2016, 'CT', 190, '2016-08-01');
 insert into sales values ('Sam', 'Cherry', 22, 2, 2017, 'NJ', 284, '2017-02-22');
 insert into sales values ('Sam', 'Eggs', 27, 7, 2018, 'CT', 522, '2018-07-27');
-insert into sales values ('Chae', 'Jellies', 17, 12, 2020, 'NJ', 747, '2020-12-
-17');
+insert into sales values ('Chae', 'Jellies', 17, 12, 2020, 'NJ', 747, '2020-12-17');
 insert into sales values ('Sam', 'Fish', 23, 6, 2017, 'CT', 344, '2017-06-23');
 insert into sales values ('Boo', 'Eggs', 28, 9, 2019, 'PA', 429, '2019-09-28');
 insert into sales values ('Helen', 'Ham', 2, 6, 2020, 'PA', 218, '2020-06-02');
-insert into sales values ('Claire', 'Jellies', 29, 11, 2016, 'NJ', 750, '2016-11-
-29');
+insert into sales values ('Claire', 'Jellies', 29, 11, 2016, 'NJ', 750, '2016-11-29');
 insert into sales values ('Claire', 'Eggs', 21, 3, 2016, 'CT', 257, '2016-03-21');
 insert into sales values ('Dan', 'Jellies', 29, 1, 2016, 'PA', 200, '2016-01-29');
 insert into sales values ('Chae', 'Ice', 28, 9, 2018, 'PA', 973, '2018-09-28');
@@ -7768,8 +7204,7 @@ insert into sales values ('Mia', 'Ice', 4, 4, 2020, 'NJ', 707, '2020-04-04');
 insert into sales values ('Mia', 'Ham', 2, 3, 2016, 'NJ', 386, '2016-03-02');
 insert into sales values ('Helen', 'Cherry', 6, 7, 2016, 'NJ', 596, '2016-07-06');
 insert into sales values ('Dan', 'Eggs', 24, 4, 2016, 'NY', 664, '2016-04-24');
-insert into sales values ('Chae', 'Jellies', 21, 10, 2020, 'NJ', 926, '2020-10-
-21');
+insert into sales values ('Chae', 'Jellies', 21, 10, 2020, 'NJ', 926, '2020-10-21');
 insert into sales values ('Emily', 'Ice', 27, 10, 2017, 'NY', 152, '2017-10-27');
 insert into sales values ('Boo', 'Jellies', 20, 1, 2016, 'NY', 516, '2016-01-20');
 insert into sales values ('Helen', 'Ice', 9, 1, 2016, 'PA', 504, '2016-01-09');
@@ -7811,8 +7246,7 @@ insert into sales values ('Mia', 'Ice', 20, 6, 2019, 'CT', 262, '2019-06-20');
 insert into sales values ('Helen', 'Apple', 12, 7, 2020, 'NJ', 704, '2020-07-12');
 insert into sales values ('Claire', 'Ice', 29, 7, 2019, 'NJ', 997, '2019-07-29');
 insert into sales values ('Sam', 'Cherry', 14, 7, 2016, 'NJ', 699, '2016-07-14');
-insert into sales values ('Claire', 'Apple', 14, 10, 2020, 'NJ', 969, '2020-10-
-14');
+insert into sales values ('Claire', 'Apple', 14, 10, 2020, 'NJ', 969, '2020-10-14');
 insert into sales values ('Sam', 'Butter', 17, 7, 2017, 'NY', 963, '2017-07-17');
 insert into sales values ('Sam', 'Apple', 13, 2, 2018, 'NJ', 240, '2018-02-13');
 insert into sales values ('Emily', 'Cherry', 24, 9, 2017, 'PA', 69, '2017-09-24');
@@ -7820,15 +7254,13 @@ insert into sales values ('Emily', 'Ice', 24, 8, 2020, 'NY', 5, '2020-08-24');
 insert into sales values ('Boo', 'Ice', 18, 4, 2018, 'PA', 7, '2018-04-18');
 insert into sales values ('Claire', 'Butter', 4, 4, 2016, 'NJ', 364, '2016-04-04');
 insert into sales values ('Dan', 'Ham', 17, 3, 2020, 'PA', 196, '2020-03-17');
-insert into sales values ('Claire', 'Jellies', 25, 11, 2018, 'NY', 659, '2018-11-
-25');
+insert into sales values ('Claire', 'Jellies', 25, 11, 2018, 'NY', 659, '2018-11-25');
 insert into sales values ('Sam', 'Fish', 13, 9, 2016, 'CT', 361, '2016-09-13');
 insert into sales values ('Wally', 'Apple', 17, 6, 2019, 'NY', 420, '2019-06-17');
 insert into sales values ('Helen', 'Butter', 5, 4, 2016, 'NJ', 114, '2016-04-05');
 insert into sales values ('Emily', 'Jellies', 5, 8, 2018, 'PA', 961, '2018-08-05');
 insert into sales values ('Claire', 'Butter', 6, 8, 2017, 'NJ', 574, '2017-08-06');
-insert into sales values ('Claire', 'Apple', 18, 11, 2019, 'PA', 722, '2019-11-
-18');
+insert into sales values ('Claire', 'Apple', 18, 11, 2019, 'PA', 722, '2019-11-18');
 insert into sales values ('Sam', 'Ice', 18, 11, 2018, 'PA', 764, '2018-11-18');
 insert into sales values ('Emily', 'Grapes', 17, 3, 2019, 'CT', 757, '2019-03-17');
 insert into sales values ('Dan', 'Cherry', 16, 10, 2018, 'NY', 191, '2018-10-16');
@@ -7848,16 +7280,14 @@ insert into sales values ('Wally', 'Ham', 15, 8, 2019, 'NY', 34, '2019-08-15');
 insert into sales values ('Claire', 'Ice', 18, 1, 2017, 'NJ', 973, '2017-01-18');
 insert into sales values ('Boo', 'Fish', 15, 6, 2017, 'NJ', 365, '2017-06-15');
 insert into sales values ('Emily', 'Grapes', 18, 9, 2018, 'NY', 614, '2018-09-18');
-insert into sales values ('Emily', 'Butter', 13, 11, 2020, 'NY', 777, '2020-11-
-13');
+insert into sales values ('Emily', 'Butter', 13, 11, 2020, 'NY', 777, '2020-11-13');
 insert into sales values ('Helen', 'Ham', 28, 12, 2020, 'NJ', 260, '2020-12-28');
 insert into sales values ('Sam', 'Ham', 28, 3, 2017, 'NJ', 907, '2017-03-28');
 insert into sales values ('Wally', 'Ham', 30, 12, 2019, 'CT', 870, '2019-12-30');
 insert into sales values ('Claire', 'Apple', 27, 6, 2017, 'NJ', 17, '2017-06-27');
 insert into sales values ('Boo', 'Grapes', 16, 1, 2018, 'NY', 333, '2018-01-16');
 insert into sales values ('Helen', 'Ice', 30, 1, 2019, 'NJ', 72, '2019-01-30');
-insert into sales values ('Claire', 'Butter', 14, 12, 2020, 'NY', 387, '2020-12-
-14');
+insert into sales values ('Claire', 'Butter', 14, 12, 2020, 'NY', 387, '2020-12-14');
 insert into sales values ('Dan', 'Eggs', 22, 5, 2016, 'NJ', 45, '2016-05-22');
 insert into sales values ('Claire', 'Cherry', 2, 9, 2017, 'NY', 919, '2017-09-02');
 insert into sales values ('Emily', 'Eggs', 26, 5, 2017, 'PA', 120, '2017-05-26');
@@ -7895,10 +7325,8 @@ insert into sales values ('Boo', 'Ice', 19, 8, 2016, 'NY', 60, '2016-08-19');
 insert into sales values ('Boo', 'Grapes', 15, 7, 2018, 'NJ', 593, '2018-07-15');
 insert into sales values ('Chae', 'Ham', 27, 12, 2020, 'CT', 564, '2020-12-27');
 insert into sales values ('Mia', 'Grapes', 22, 7, 2018, 'CT', 13, '2018-07-22');
-insert into sales values ('Emily', 'Jellies', 27, 9, 2018, 'NJ', 561, '2018-09-
-27');
-insert into sales values ('Claire', 'Apple', 10, 10, 2020, 'NY', 880, '2020-10-
-10');
+insert into sales values ('Emily', 'Jellies', 27, 9, 2018, 'NJ', 561, '2018-09-27');
+insert into sales values ('Claire', 'Apple', 10, 10, 2020, 'NY', 880, '2020-10-10');
 insert into sales values ('Sam', 'Fish', 11, 2, 2016, 'CT', 331, '2016-02-11');
 insert into sales values ('Claire', 'Apple', 27, 3, 2019, 'CT', 460, '2019-03-27');
 insert into sales values ('Helen', 'Jellies', 3, 2, 2020, 'NY', 582, '2020-02-03');
@@ -7921,11 +7349,9 @@ insert into sales values ('Wally', 'Grapes', 15, 11, 2019, 'PA', 91, '2019-11-15
 insert into sales values ('Boo', 'Cherry', 4, 12, 2016, 'CT', 318, '2016-12-04');
 insert into sales values ('Boo', 'Ham', 28, 1, 2020, 'CT', 749, '2020-01-28');
 insert into sales values ('Claire', 'Fish', 30, 10, 2018, 'PA', 24, '2018-10-30');
-insert into sales values ('Claire', 'Butter', 23, 5, 2019, 'NY', 545, '2019-05-
-23');
+insert into sales values ('Claire', 'Butter', 23, 5, 2019, 'NY', 545, '2019-05-23');
 insert into sales values ('Emily', 'Apple', 13, 4, 2020, 'NY', 151, '2020-04-13');
-insert into sales values ('Claire', 'Butter', 11, 1, 2016, 'CT', 459, '2016-01-
-11');
+insert into sales values ('Claire', 'Butter', 11, 1, 2016, 'CT', 459, '2016-01-11');
 insert into sales values ('Chae', 'Ice', 9, 5, 2018, 'NY', 62, '2018-05-09');
 insert into sales values ('Mia', 'Butter', 4, 4, 2016, 'CT', 972, '2016-04-04');
 insert into sales values ('Sam', 'Cherry', 9, 8, 2017, 'PA', 240, '2017-08-09');
@@ -7935,12 +7361,9 @@ insert into sales values ('Helen', 'Cherry', 8, 6, 2016, 'NY', 201, '2016-06-08'
 insert into sales values ('Mia', 'Ice', 29, 3, 2016, 'CT', 223, '2016-03-29');
 insert into sales values ('Emily', 'Cherry', 24, 3, 2019, 'PA', 295, '2019-03-24');
 insert into sales values ('Dan', 'Cherry', 18, 12, 2018, 'PA', 660, '2018-12-18');
-insert into sales values ('Claire', 'Dates', 19, 12, 2020, 'NY', 723, '2020-12-
-19');
-insert into sales values ('Helen', 'Jellies', 22, 9, 2016, 'PA', 418, '2016-09-
-22');
-insert into sales values ('Claire', 'Cherry', 24, 5, 2016, 'NY', 569, '2016-05-
-24');
+insert into sales values ('Claire', 'Dates', 19, 12, 2020, 'NY', 723, '2020-12-19');
+insert into sales values ('Helen', 'Jellies', 22, 9, 2016, 'PA', 418, '2016-09-22');
+insert into sales values ('Claire', 'Cherry', 24, 5, 2016, 'NY', 569, '2016-05-24');
 insert into sales values ('Boo', 'Ice', 4, 5, 2019, 'CT', 485, '2019-05-04');
 insert into sales values ('Wally', 'Ice', 2, 7, 2017, 'NY', 877, '2017-07-02');
 insert into sales values ('Mia', 'Eggs', 30, 10, 2020, 'PA', 562, '2020-10-30');
@@ -7958,8 +7381,7 @@ insert into sales values ('Wally', 'Dates', 20, 9, 2019, 'PA', 865, '2019-09-20'
 insert into sales values ('Emily', 'Apple', 7, 3, 2019, 'CT', 259, '2019-03-07');
 insert into sales values ('Helen', 'Fish', 17, 10, 2018, 'CT', 729, '2018-10-17');
 insert into sales values ('Wally', 'Ice', 10, 3, 2020, 'CT', 677, '2020-03-10');
-insert into sales values ('Emily', 'Jellies', 26, 8, 2018, 'NY', 412, '2018-08-
-26');
+insert into sales values ('Emily', 'Jellies', 26, 8, 2018, 'NY', 412, '2018-08-26');
 insert into sales values ('Dan', 'Cherry', 21, 12, 2019, 'NY', 658, '2019-12-21');
 insert into sales values ('Chae', 'Ham', 3, 3, 2017, 'NJ', 576, '2017-03-03');
 insert into sales values ('Chae', 'Jellies', 16, 5, 2020, 'NJ', 922, '2020-05-16');
@@ -7975,14 +7397,12 @@ insert into sales values ('Chae', 'Fish', 27, 7, 2019, 'NJ', 114, '2019-07-27');
 insert into sales values ('Emily', 'Eggs', 9, 7, 2018, 'CT', 237, '2018-07-09');
 insert into sales values ('Chae', 'Fish', 4, 11, 2020, 'NJ', 768, '2020-11-04');
 insert into sales values ('Wally', 'Butter', 29, 11, 2016, 'PA', 21, '2016-11-29');
-insert into sales values ('Claire', 'Jellies', 8, 12, 2017, 'CT', 398, '2017-12-
-08');
+insert into sales values ('Claire', 'Jellies', 8, 12, 2017, 'CT', 398, '2017-12-08');
 insert into sales values ('Mia', 'Dates', 18, 2, 2017, 'PA', 608, '2017-02-18');
 insert into sales values ('Claire', 'Apple', 4, 12, 2020, 'PA', 92, '2020-12-04');
 insert into sales values ('Wally', 'Cherry', 29, 4, 2018, 'NJ', 917, '2018-04-29');
 insert into sales values ('Claire', 'Ice', 28, 3, 2016, 'NY', 714, '2016-03-28');
-insert into sales values ('Emily', 'Butter', 15, 11, 2017, 'CT', 341, '2017-11-
-15');
+insert into sales values ('Emily', 'Butter', 15, 11, 2017, 'CT', 341, '2017-11-15');
 insert into sales values ('Boo', 'Butter', 18, 1, 2016, 'CT', 195, '2016-01-18');
 insert into sales values ('Claire', 'Butter', 1, 1, 2017, 'PA', 526, '2017-01-01');
 insert into sales values ('Chae', 'Ice', 13, 3, 2016, 'PA', 667, '2016-03-13');
@@ -7994,8 +7414,7 @@ insert into sales values ('Mia', 'Apple', 27, 6, 2018, 'CT', 476, '2018-06-27');
 insert into sales values ('Wally', 'Eggs', 18, 3, 2019, 'PA', 411, '2019-03-18');
 insert into sales values ('Chae', 'Eggs', 16, 9, 2018, 'PA', 669, '2018-09-16');
 insert into sales values ('Claire', 'Grapes', 3, 6, 2018, 'NJ', 130, '2018-06-03');
-insert into sales values ('Wally', 'Jellies', 26, 11, 2016, 'PA', 802, '2016-11-
-26');
+insert into sales values ('Wally', 'Jellies', 26, 11, 2016, 'PA', 802, '2016-11-26');
 insert into sales values ('Emily', 'Butter', 15, 9, 2019, 'PA', 26, '2019-09-15');
 insert into sales values ('Chae', 'Apple', 18, 6, 2017, 'NJ', 381, '2017-06-18');
 insert into sales values ('Emily', 'Ice', 22, 7, 2020, 'NJ', 290, '2020-07-22');
@@ -8005,20 +7424,16 @@ insert into sales values ('Helen', 'Dates', 1, 7, 2019, 'CT', 633, '2019-07-01')
 insert into sales values ('Boo', 'Butter', 27, 10, 2016, 'PA', 3, '2016-10-27');
 insert into sales values ('Dan', 'Fish', 26, 11, 2018, 'NJ', 935, '2018-11-26');
 insert into sales values ('Emily', 'Apple', 19, 8, 2018, 'CT', 863, '2018-08-19');
-insert into sales values ('Emily', 'Cherry', 28, 10, 2018, 'NJ', 558, '2018-10-
-28');
+insert into sales values ('Emily', 'Cherry', 28, 10, 2018, 'NJ', 558, '2018-10-28');
 insert into sales values ('Mia', 'Cherry', 18, 8, 2018, 'NJ', 68, '2018-08-18');
 insert into sales values ('Claire', 'Fish', 6, 1, 2016, 'CT', 1000, '2016-01-06');
 insert into sales values ('Claire', 'Eggs', 25, 3, 2019, 'PA', 346, '2019-03-25');
 insert into sales values ('Chae', 'Butter', 6, 2, 2019, 'NJ', 466, '2019-02-06');
-insert into sales values ('Helen', 'Grapes', 27, 12, 2017, 'NJ', 790, '2017-12-
-27');
+insert into sales values ('Helen', 'Grapes', 27, 12, 2017, 'NJ', 790, '2017-12-27');
 insert into sales values ('Emily', 'Dates', 27, 4, 2016, 'NY', 771, '2016-04-27');
-insert into sales values ('Claire', 'Jellies', 23, 7, 2019, 'NY', 859, '2019-07-
-23');
+insert into sales values ('Claire', 'Jellies', 23, 7, 2019, 'NY', 859, '2019-07-23');
 insert into sales values ('Mia', 'Apple', 17, 5, 2019, 'NJ', 731, '2019-05-17');
-insert into sales values ('Helen', 'Cherry', 25, 11, 2019, 'NY', 645, '2019-11-
-25');
+insert into sales values ('Helen', 'Cherry', 25, 11, 2019, 'NY', 645, '2019-11-25');
 insert into sales values ('Mia', 'Fish', 27, 9, 2019, 'NJ', 436, '2019-09-27');
 insert into sales values ('Sam', 'Dates', 28, 7, 2019, 'CT', 189, '2019-07-28');
 insert into sales values ('Wally', 'Eggs', 30, 9, 2020, 'CT', 534, '2020-09-30');
@@ -8031,8 +7446,7 @@ insert into sales values ('Chae', 'Eggs', 6, 11, 2020, 'NY', 831, '2020-11-06');
 insert into sales values ('Dan', 'Ice', 18, 5, 2018, 'CT', 21, '2018-05-18');
 insert into sales values ('Chae', 'Dates', 17, 8, 2018, 'CT', 945, '2018-08-17');
 insert into sales values ('Sam', 'Dates', 16, 4, 2017, 'NY', 832, '2017-04-16');
-insert into sales values ('Wally', 'Cherry', 15, 10, 2020, 'PA', 476, '2020-10-
-15');
+insert into sales values ('Wally', 'Cherry', 15, 10, 2020, 'PA', 476, '2020-10-15');
 insert into sales values ('Boo', 'Dates', 28, 1, 2018, 'PA', 447, '2018-01-28');
 insert into sales values ('Mia', 'Fish', 19, 7, 2019, 'NY', 245, '2019-07-19');
 insert into sales values ('Sam', 'Dates', 10, 8, 2016, 'PA', 750, '2016-08-10');
@@ -8048,8 +7462,7 @@ insert into sales values ('Chae', 'Dates', 2, 9, 2017, 'PA', 81, '2017-09-02');
 insert into sales values ('Emily', 'Butter', 19, 1, 2020, 'NJ', 682, '2020-01-19');
 insert into sales values ('Mia', 'Butter', 3, 10, 2019, 'PA', 548, '2019-10-03');
 insert into sales values ('Helen', 'Eggs', 2, 4, 2017, 'NJ', 375, '2017-04-02');
-insert into sales values ('Claire', 'Butter', 15, 9, 2019, 'NJ', 109, '2019-09-
-15');
+insert into sales values ('Claire', 'Butter', 15, 9, 2019, 'NJ', 109, '2019-09-15');
 insert into sales values ('Mia', 'Eggs', 12, 4, 2016, 'NJ', 194, '2016-04-12');
 insert into sales values ('Emily', 'Apple', 27, 11, 2019, 'CT', 363, '2019-11-27');
 insert into sales values ('Helen', 'Grapes', 18, 1, 2020, 'NY', 41, '2020-01-18');
@@ -8058,8 +7471,7 @@ insert into sales values ('Sam', 'Fish', 27, 12, 2016, 'CT', 587, '2016-12-27');
 insert into sales values ('Mia', 'Grapes', 9, 9, 2019, 'NJ', 970, '2019-09-09');
 insert into sales values ('Dan', 'Ice', 11, 3, 2020, 'PA', 881, '2020-03-11');
 insert into sales values ('Sam', 'Butter', 14, 4, 2020, 'PA', 434, '2020-04-14');
-insert into sales values ('Helen', 'Jellies', 1, 10, 2018, 'NJ', 980, '2018-10-
-01');
+insert into sales values ('Helen', 'Jellies', 1, 10, 2018, 'NJ', 980, '2018-10-01');
 insert into sales values ('Dan', 'Fish', 15, 9, 2017, 'PA', 399, '2017-09-15');
 insert into sales values ('Boo', 'Ham', 2, 6, 2017, 'PA', 699, '2017-06-02');
 insert into sales values ('Chae', 'Dates', 14, 3, 2018, 'NJ', 51, '2018-03-14');
@@ -8075,8 +7487,7 @@ insert into sales values ('Dan', 'Cherry', 3, 1, 2016, 'NJ', 283, '2016-01-03');
 insert into sales values ('Dan', 'Dates', 9, 7, 2020, 'CT', 267, '2020-07-09');
 insert into sales values ('Dan', 'Apple', 17, 6, 2019, 'NJ', 190, '2019-06-17');
 insert into sales values ('Wally', 'Cherry', 6, 2, 2019, 'NJ', 775, '2019-02-06');
-insert into sales values ('Claire', 'Cherry', 16, 4, 2017, 'PA', 327, '2017-04-
-16');
+insert into sales values ('Claire', 'Cherry', 16, 4, 2017, 'PA', 327, '2017-04-16');
 insert into sales values ('Dan', 'Jellies', 8, 9, 2016, 'PA', 104, '2016-09-08');
 insert into sales values ('Chae', 'Butter', 13, 7, 2020, 'PA', 928, '2020-07-13');
 insert into sales values ('Wally', 'Grapes', 25, 1, 2019, 'CT', 479, '2019-01-25');
@@ -8109,8 +7520,7 @@ insert into sales values ('Dan', 'Apple', 30, 5, 2016, 'PA', 125, '2016-05-30');
 insert into sales values ('Sam', 'Fish', 11, 4, 2016, 'PA', 479, '2016-04-11');
 insert into sales values ('Sam', 'Apple', 21, 3, 2016, 'PA', 479, '2016-03-21');
 insert into sales values ('Mia', 'Grapes', 9, 2, 2019, 'CT', 643, '2019-02-09');
-insert into sales values ('Claire', 'Butter', 15, 1, 2016, 'PA', 229, '2016-01-
-15');
+insert into sales values ('Claire', 'Butter', 15, 1, 2016, 'PA', 229, '2016-01-15');
 insert into sales values ('Sam', 'Butter', 10, 11, 2020, 'PA', 857, '2020-11-10');
 insert into sales values ('Dan', 'Dates', 28, 11, 2020, 'CT', 495, '2020-11-28');
 insert into sales values ('Mia', 'Jellies', 15, 4, 2017, 'PA', 970, '2017-04-15');
@@ -8118,16 +7528,14 @@ insert into sales values ('Sam', 'Apple', 31, 12, 2020, 'NY', 866, '2020-12-31')
 insert into sales values ('Mia', 'Dates', 14, 3, 2019, 'PA', 826, '2019-03-14');
 insert into sales values ('Boo', 'Dates', 12, 3, 2019, 'CT', 562, '2019-03-12');
 insert into sales values ('Boo', 'Jellies', 11, 2, 2020, 'NY', 266, '2020-02-11');
-insert into sales values ('Claire', 'Jellies', 9, 10, 2020, 'NJ', 930, '2020-10-
-09');
+insert into sales values ('Claire', 'Jellies', 9, 10, 2020, 'NJ', 930, '2020-10-09');
 insert into sales values ('Dan', 'Ice', 16, 5, 2016, 'CT', 703, '2016-05-16');
 insert into sales values ('Mia', 'Jellies', 3, 4, 2016, 'NY', 450, '2016-04-03');
 insert into sales values ('Helen', 'Butter', 31, 8, 2019, 'PA', 564, '2019-08-31');
 insert into sales values ('Chae', 'Dates', 5, 12, 2017, 'NY', 964, '2017-12-05');
 insert into sales values ('Wally', 'Apple', 1, 10, 2018, 'CT', 323, '2018-10-01');
 insert into sales values ('Sam', 'Dates', 16, 6, 2016, 'NY', 83, '2016-06-16');
-insert into sales values ('Helen', 'Jellies', 23, 2, 2016, 'PA', 525, '2016-02-
-23');
+insert into sales values ('Helen', 'Jellies', 23, 2, 2016, 'PA', 525, '2016-02-23');
 insert into sales values ('Mia', 'Eggs', 10, 10, 2017, 'NY', 623, '2017-10-10');
 insert into sales values ('Dan', 'Grapes', 7, 9, 2017, 'CT', 84, '2017-09-07');
 insert into sales values ('Boo', 'Eggs', 17, 9, 2016, 'PA', 498, '2016-09-17');
@@ -8146,8 +7554,7 @@ insert into sales values ('Mia', 'Cherry', 24, 4, 2017, 'CT', 31, '2017-04-24');
 insert into sales values ('Sam', 'Butter', 14, 10, 2020, 'PA', 789, '2020-10-14');
 insert into sales values ('Chae', 'Fish', 2, 1, 2016, 'NJ', 540, '2016-01-02');
 insert into sales values ('Sam', 'Jellies', 24, 8, 2017, 'PA', 708, '2017-08-24');
-insert into sales values ('Helen', 'Jellies', 21, 2, 2020, 'NJ', 534, '2020-02-
-21');
+insert into sales values ('Helen', 'Jellies', 21, 2, 2020, 'NJ', 534, '2020-02-21');
 insert into sales values ('Boo', 'Butter', 31, 10, 2020, 'PA', 96, '2020-10-31');
 insert into sales values ('Emily', 'Ice', 23, 8, 2018, 'NJ', 871, '2018-08-23');
 insert into sales values ('Wally', 'Cherry', 17, 9, 2016, 'CT', 332, '2016-09-17');
@@ -8168,16 +7575,13 @@ insert into sales values ('Sam', 'Butter', 9, 2, 2020, 'PA', 23, '2020-02-09');
 insert into sales values ('Mia', 'Ice', 6, 9, 2017, 'PA', 669, '2017-09-06');
 insert into sales values ('Wally', 'Apple', 10, 7, 2020, 'PA', 478, '2020-07-10');
 insert into sales values ('Helen', 'Fish', 10, 10, 2020, 'NJ', 862, '2020-10-10');
-insert into sales values ('Claire', 'Cherry', 13, 4, 2019, 'CT', 954, '2019-04-
-13');
+insert into sales values ('Claire', 'Cherry', 13, 4, 2019, 'CT', 954, '2019-04-13');
 insert into sales values ('Claire', 'Dates', 26, 6, 2020, 'CT', 88, '2020-06-26');
 insert into sales values ('Sam', 'Fish', 13, 5, 2019, 'CT', 535, '2019-05-13');
-insert into sales values ('Emily', 'Jellies', 21, 7, 2019, 'NY', 564, '2019-07-
-21');
+insert into sales values ('Emily', 'Jellies', 21, 7, 2019, 'NY', 564, '2019-07-21');
 insert into sales values ('Chae', 'Butter', 23, 5, 2018, 'CT', 83, '2018-05-23');
 insert into sales values ('Sam', 'Eggs', 15, 8, 2016, 'NJ', 359, '2016-08-15');
-insert into sales values ('Emily', 'Jellies', 26, 2, 2018, 'NJ', 181, '2018-02-
-26');
+insert into sales values ('Emily', 'Jellies', 26, 2, 2018, 'NJ', 181, '2018-02-26');
 insert into sales values ('Boo', 'Grapes', 16, 8, 2018, 'NJ', 11, '2018-08-16');
 insert into sales values ('Dan', 'Apple', 25, 9, 2018, 'NJ', 104, '2018-09-25');
 insert into sales values ('Helen', 'Ham', 17, 5, 2016, 'NY', 34, '2016-05-17');
@@ -8192,26 +7596,22 @@ insert into sales values ('Helen', 'Grapes', 20, 6, 2016, 'NY', 173, '2016-06-20
 insert into sales values ('Chae', 'Butter', 13, 10, 2020, 'CT', 172, '2020-10-13');
 insert into sales values ('Sam', 'Grapes', 30, 8, 2016, 'CT', 825, '2016-08-30');
 insert into sales values ('Boo', 'Dates', 17, 2, 2016, 'NJ', 429, '2016-02-17');
-insert into sales values ('Helen', 'Cherry', 11, 11, 2017, 'NY', 846, '2017-11-
-11');
+insert into sales values ('Helen', 'Cherry', 11, 11, 2017, 'NY', 846, '2017-11-11');
 insert into sales values ('Chae', 'Jellies', 5, 4, 2017, 'NJ', 965, '2017-04-05');
 insert into sales values ('Dan', 'Grapes', 1, 2, 2016, 'NY', 90, '2016-02-01');
-insert into sales values ('Claire', 'Jellies', 28, 6, 2019, 'NY', 800, '2019-06-
-28');
+insert into sales values ('Claire', 'Jellies', 28, 6, 2019, 'NY', 800, '2019-06-28');
 insert into sales values ('Dan', 'Grapes', 21, 3, 2017, 'PA', 561, '2017-03-21');
 insert into sales values ('Helen', 'Fish', 2, 6, 2017, 'NY', 599, '2017-06-02');
 insert into sales values ('Dan', 'Jellies', 25, 9, 2019, 'NJ', 917, '2019-09-25');
 insert into sales values ('Claire', 'Ham', 1, 5, 2018, 'NY', 564, '2018-05-01');
 insert into sales values ('Wally', 'Ice', 26, 5, 2020, 'NY', 707, '2020-05-26');
-insert into sales values ('Claire', 'Jellies', 5, 1, 2016, 'NJ', 221, '2016-01-
-05');
+insert into sales values ('Claire', 'Jellies', 5, 1, 2016, 'NJ', 221, '2016-01-05');
 insert into sales values ('Wally', 'Eggs', 23, 3, 2017, 'CT', 763, '2017-03-23');
 insert into sales values ('Helen', 'Ham', 21, 2, 2019, 'NJ', 389, '2019-02-21');
 insert into sales values ('Mia', 'Butter', 18, 11, 2017, 'NY', 744, '2017-11-18');
 insert into sales values ('Boo', 'Cherry', 15, 10, 2016, 'NJ', 585, '2016-10-15');
 insert into sales values ('Chae', 'Apple', 23, 3, 2016, 'PA', 180, '2016-03-23');
-insert into sales values ('Claire', 'Butter', 19, 3, 2019, 'CT', 114, '2019-03-
-19');
+insert into sales values ('Claire', 'Butter', 19, 3, 2019, 'CT', 114, '2019-03-19');
 insert into sales values ('Claire', 'Ham', 20, 9, 2018, 'CT', 459, '2018-09-20');
 insert into sales values ('Emily', 'Eggs', 21, 12, 2018, 'PA', 677, '2018-12-21');
 insert into sales values ('Claire', 'Butter', 5, 9, 2020, 'NY', 453, '2020-09-05');
@@ -8229,8 +7629,7 @@ insert into sales values ('Boo', 'Ice', 17, 1, 2020, 'NJ', 832, '2020-01-17');
 insert into sales values ('Dan', 'Fish', 30, 11, 2019, 'PA', 987, '2019-11-30');
 insert into sales values ('Helen', 'Fish', 9, 7, 2020, 'NY', 374, '2020-07-09');
 insert into sales values ('Sam', 'Cherry', 28, 9, 2018, 'PA', 244, '2018-09-28');
-insert into sales values ('Claire', 'Grapes', 5, 12, 2017, 'CT', 323, '2017-12-
-05');
+insert into sales values ('Claire', 'Grapes', 5, 12, 2017, 'CT', 323, '2017-12-05');
 insert into sales values ('Mia', 'Ham', 7, 5, 2018, 'NY', 811, '2018-05-07');
 insert into sales values ('Emily', 'Dates', 10, 12, 2017, 'NJ', 599, '2017-12-10');
 insert into sales values ('Emily', 'Eggs', 23, 11, 2020, 'CT', 874, '2020-11-23');
@@ -8243,8 +7642,7 @@ insert into sales values ('Chae', 'Jellies', 24, 7, 2016, 'NJ', 180, '2016-07-24
 insert into sales values ('Mia', 'Butter', 10, 1, 2019, 'PA', 361, '2019-01-10');
 insert into sales values ('Emily', 'Cherry', 3, 9, 2017, 'CT', 346, '2017-09-03');
 insert into sales values ('Emily', 'Apple', 11, 3, 2017, 'CT', 462, '2017-03-11');
-insert into sales values ('Claire', 'Dates', 13, 10, 2019, 'NJ', 219, '2019-10-
-13');
+insert into sales values ('Claire', 'Dates', 13, 10, 2019, 'NJ', 219, '2019-10-13');
 insert into sales values ('Claire', 'Dates', 12, 8, 2019, 'PA', 976, '2019-08-12');
 insert into sales values ('Chae', 'Ham', 10, 7, 2020, 'NJ', 297, '2020-07-10');
 insert into sales values ('Sam', 'Ice', 7, 6, 2019, 'NJ', 571, '2019-06-07');
@@ -8264,8 +7662,7 @@ insert into sales values ('Chae', 'Fish', 14, 3, 2020, 'NJ', 874, '2020-03-14');
 insert into sales values ('Sam', 'Ham', 7, 7, 2019, 'CT', 364, '2019-07-07');
 insert into sales values ('Boo', 'Grapes', 22, 4, 2018, 'NY', 778, '2018-04-22');
 insert into sales values ('Chae', 'Jellies', 19, 4, 2018, 'CT', 583, '2018-04-19');
-insert into sales values ('Claire', 'Jellies', 10, 3, 2020, 'NY', 808, '2020-03-
-10');
+insert into sales values ('Claire', 'Jellies', 10, 3, 2020, 'NY', 808, '2020-03-10');
 insert into sales values ('Dan', 'Apple', 12, 2, 2020, 'NY', 905, '2020-02-12');
 insert into sales values ('Dan', 'Cherry', 27, 7, 2017, 'PA', 632, '2017-07-27');
 insert into sales values ('Sam', 'Jellies', 23, 11, 2019, 'PA', 354, '2019-11-23');
@@ -8279,14 +7676,12 @@ insert into sales values ('Helen', 'Ice', 27, 2, 2017, 'NY', 128, '2017-02-27');
 insert into sales values ('Helen', 'Jellies', 9, 9, 2017, 'NY', 848, '2017-09-09');
 insert into sales values ('Dan', 'Butter', 21, 11, 2019, 'CT', 3, '2019-11-21');
 insert into sales values ('Boo', 'Jellies', 2, 11, 2019, 'NJ', 223, '2019-11-02');
-insert into sales values ('Claire', 'Butter', 22, 4, 2020, 'NJ', 633, '2020-04-
-22');
+insert into sales values ('Claire', 'Butter', 22, 4, 2020, 'NJ', 633, '2020-04-22');
 insert into sales values ('Sam', 'Grapes', 19, 10, 2018, 'CT', 481, '2018-10-19');
 insert into sales values ('Dan', 'Fish', 23, 4, 2017, 'CT', 175, '2017-04-23');
 insert into sales values ('Sam', 'Ham', 17, 11, 2019, 'NJ', 47, '2019-11-17');
 insert into sales values ('Wally', 'Cherry', 3, 2, 2018, 'NY', 800, '2018-02-03');
-insert into sales values ('Wally', 'Jellies', 12, 12, 2017, 'NJ', 702, '2017-12-
-12');
+insert into sales values ('Wally', 'Jellies', 12, 12, 2017, 'NJ', 702, '2017-12-12');
 insert into sales values ('Dan', 'Grapes', 6, 3, 2020, 'CT', 729, '2020-03-06');
 insert into sales values ('Boo', 'Grapes', 11, 10, 2018, 'NY', 227, '2018-10-11');
 insert into sales values ('Dan', 'Fish', 30, 3, 2017, 'NJ', 268, '2017-03-30');
@@ -8300,10 +7695,8 @@ insert into sales values ('Wally', 'Eggs', 19, 7, 2020, 'NY', 51, '2020-07-19');
 insert into sales values ('Emily', 'Fish', 6, 1, 2018, 'NJ', 65, '2018-01-06');
 insert into sales values ('Chae', 'Fish', 30, 9, 2020, 'CT', 133, '2020-09-30');
 insert into sales values ('Claire', 'Fish', 5, 10, 2019, 'CT', 152, '2019-10-05');
-insert into sales values ('Emily', 'Grapes', 18, 11, 2019, 'NY', 385, '2019-11-
-18');
-insert into sales values ('Wally', 'Butter', 24, 10, 2020, 'NJ', 647, '2020-10-
-24');
+insert into sales values ('Emily', 'Grapes', 18, 11, 2019, 'NY', 385, '2019-11-18');
+insert into sales values ('Wally', 'Butter', 24, 10, 2020, 'NJ', 647, '2020-10-24');
 insert into sales values ('Wally', 'Dates', 24, 12, 2017, 'NY', 140, '2017-12-24');
 insert into sales values ('Dan', 'Fish', 28, 1, 2016, 'NJ', 822, '2016-01-28');
 insert into sales values ('Dan', 'Fish', 20, 5, 2017, 'CT', 423, '2017-05-20');
@@ -8313,8 +7706,7 @@ insert into sales values ('Boo', 'Ice', 11, 7, 2016, 'NY', 548, '2016-07-11');
 insert into sales values ('Helen', 'Ham', 15, 5, 2016, 'NY', 634, '2016-05-15');
 insert into sales values ('Emily', 'Grapes', 9, 9, 2016, 'PA', 119, '2016-09-09');
 insert into sales values ('Boo', 'Dates', 25, 1, 2019, 'PA', 369, '2019-01-25');
-insert into sales values ('Claire', 'Cherry', 15, 10, 2016, 'PA', 409, '2016-10-
-15');
+insert into sales values ('Claire', 'Cherry', 15, 10, 2016, 'PA', 409, '2016-10-15');
 insert into sales values ('Sam', 'Apple', 11, 11, 2018, 'CT', 726, '2018-11-11');
 insert into sales values ('Dan', 'Ham', 20, 3, 2019, 'PA', 363, '2019-03-20');
 insert into sales values ('Sam', 'Eggs', 8, 1, 2019, 'PA', 150, '2019-01-08');
@@ -8334,8 +7726,7 @@ insert into sales values ('Dan', 'Eggs', 14, 8, 2018, 'PA', 492, '2018-08-14');
 insert into sales values ('Dan', 'Grapes', 23, 5, 2019, 'NJ', 475, '2019-05-23');
 insert into sales values ('Wally', 'Ice', 2, 12, 2020, 'PA', 151, '2020-12-02');
 insert into sales values ('Emily', 'Grapes', 8, 4, 2018, 'CT', 493, '2018-04-08');
-insert into sales values ('Claire', 'Cherry', 9, 12, 2018, 'CT', 544, '2018-12-
-09');
+insert into sales values ('Claire', 'Cherry', 9, 12, 2018, 'CT', 544, '2018-12-09');
 insert into sales values ('Boo', 'Ham', 24, 7, 2019, 'NJ', 853, '2019-07-24');
 insert into sales values ('Claire', 'Eggs', 25, 12, 2019, 'NY', 197, '2019-12-25');
 insert into sales values ('Chae', 'Grapes', 11, 4, 2016, 'NJ', 421, '2016-04-11');
@@ -8351,11 +7742,9 @@ insert into sales values ('Dan', 'Dates', 11, 9, 2020, 'CT', 73, '2020-09-11');
 insert into sales values ('Chae', 'Jellies', 17, 1, 2016, 'NY', 758, '2016-01-17');
 insert into sales values ('Emily', 'Dates', 25, 6, 2020, 'NY', 558, '2020-06-25');
 insert into sales values ('Emily', 'Ice', 8, 1, 2020, 'PA', 446, '2020-01-08');
-insert into sales values ('Claire', 'Butter', 27, 10, 2020, 'NJ', 151, '2020-10-
-27');
+insert into sales values ('Claire', 'Butter', 27, 10, 2020, 'NJ', 151, '2020-10-27');
 insert into sales values ('Sam', 'Apple', 14, 9, 2020, 'PA', 540, '2020-09-14');
-insert into sales values ('Wally', 'Cherry', 14, 10, 2016, 'NY', 414, '2016-10-
-14');
+insert into sales values ('Wally', 'Cherry', 14, 10, 2016, 'NY', 414, '2016-10-14');
 insert into sales values ('Helen', 'Apple', 1, 6, 2018, 'NJ', 821, '2018-06-01');
 insert into sales values ('Chae', 'Fish', 21, 11, 2016, 'PA', 524, '2016-11-21');
 insert into sales values ('Chae', 'Fish', 31, 1, 2018, 'NJ', 873, '2018-01-31');
@@ -8363,25 +7752,21 @@ insert into sales values ('Boo', 'Dates', 12, 3, 2017, 'CT', 686, '2017-03-12');
 insert into sales values ('Emily', 'Ice', 26, 10, 2016, 'PA', 339, '2016-10-26');
 insert into sales values ('Emily', 'Eggs', 6, 12, 2020, 'NY', 30, '2020-12-06');
 insert into sales values ('Boo', 'Ham', 24, 6, 2017, 'PA', 91, '2017-06-24');
-insert into sales values ('Emily', 'Jellies', 1, 10, 2018, 'PA', 603, '2018-10-
-01');
+insert into sales values ('Emily', 'Jellies', 1, 10, 2018, 'PA', 603, '2018-10-01');
 insert into sales values ('Dan', 'Dates', 9, 12, 2020, 'NY', 540, '2020-12-09');
 insert into sales values ('Claire', 'Ham', 24, 8, 2019, 'NJ', 375, '2019-08-24');
 insert into sales values ('Helen', 'Cherry', 5, 9, 2019, 'CT', 256, '2019-09-05');
 insert into sales values ('Emily', 'Ham', 14, 10, 2017, 'PA', 943, '2017-10-14');
 insert into sales values ('Helen', 'Butter', 9, 12, 2016, 'CT', 208, '2016-12-09');
 insert into sales values ('Emily', 'Fish', 21, 8, 2018, 'CT', 400, '2018-08-21');
-insert into sales values ('Helen', 'Jellies', 23, 9, 2019, 'NY', 804, '2019-09-
-23');
+insert into sales values ('Helen', 'Jellies', 23, 9, 2019, 'NY', 804, '2019-09-23');
 insert into sales values ('Dan', 'Grapes', 28, 9, 2019, 'CT', 290, '2019-09-28');
 insert into sales values ('Claire', 'Eggs', 8, 8, 2019, 'NJ', 554, '2019-08-08');
 insert into sales values ('Wally', 'Eggs', 21, 11, 2019, 'NJ', 655, '2019-11-21');
 insert into sales values ('Dan', 'Butter', 8, 4, 2016, 'NY', 281, '2016-04-08');
-insert into sales values ('Claire', 'Butter', 19, 1, 2019, 'NJ', 546, '2019-01-
-19');
+insert into sales values ('Claire', 'Butter', 19, 1, 2019, 'NJ', 546, '2019-01-19');
 insert into sales values ('Mia', 'Jellies', 21, 6, 2016, 'PA', 410, '2016-06-21');
-insert into sales values ('Claire', 'Cherry', 29, 1, 2019, 'CT', 394, '2019-01-
-29');
+insert into sales values ('Claire', 'Cherry', 29, 1, 2019, 'CT', 394, '2019-01-29');
 insert into sales values ('Chae', 'Eggs', 28, 3, 2016, 'NJ', 841, '2016-03-28');
 insert into sales values ('Claire', 'Dates', 1, 1, 2016, 'PA', 35, '2016-01-01');
 insert into sales values ('Wally', 'Ham', 17, 4, 2020, 'PA', 406, '2020-04-17');
@@ -8410,8 +7795,7 @@ insert into sales values ('Wally', 'Cherry', 14, 2, 2016, 'CT', 46, '2016-02-14'
 insert into sales values ('Helen', 'Ice', 27, 11, 2016, 'PA', 227, '2016-11-27');
 insert into sales values ('Claire', 'Ice', 9, 7, 2017, 'CT', 616, '2017-07-09');
 insert into sales values ('Sam', 'Butter', 29, 4, 2017, 'NY', 266, '2017-04-29');
-insert into sales values ('Claire', 'Jellies', 28, 7, 2020, 'NY', 97, '2020-07-
-28');
+insert into sales values ('Claire', 'Jellies', 28, 7, 2020, 'NY', 97, '2020-07-28');
 insert into sales values ('Emily', 'Butter', 12, 3, 2016, 'NJ', 560, '2016-03-12');
 insert into sales values ('Boo', 'Ham', 10, 9, 2018, 'NJ', 812, '2018-09-10');
 insert into sales values ('Sam', 'Dates', 23, 3, 2020, 'NJ', 473, '2020-03-23');
@@ -8427,12 +7811,9 @@ insert into sales values ('Mia', 'Grapes', 10, 12, 2016, 'NY', 294, '2016-12-10'
 insert into sales values ('Boo', 'Butter', 25, 3, 2019, 'PA', 600, '2019-03-25');
 insert into sales values ('Dan', 'Dates', 1, 12, 2017, 'CT', 702, '2017-12-01');
 insert into sales values ('Boo', 'Ice', 30, 8, 2017, 'NY', 698, '2017-08-30');
-insert into sales values ('Emily', 'Butter', 10, 11, 2017, 'NJ', 336, '2017-11-
-10');
-insert into sales values ('Claire', 'Jellies', 14, 10, 2020, 'CT', 487, '2020-10-
-14');
-insert into sales values ('Emily', 'Jellies', 16, 3, 2020, 'CT', 614, '2020-03-
-16');
+insert into sales values ('Emily', 'Butter', 10, 11, 2017, 'NJ', 336, '2017-11-10');
+insert into sales values ('Claire', 'Jellies', 14, 10, 2020, 'CT', 487, '2020-10-14');
+insert into sales values ('Emily', 'Jellies', 16, 3, 2020, 'CT', 614, '2020-03-16');
 insert into sales values ('Claire', 'Dates', 21, 5, 2016, 'CT', 369, '2016-05-21');
 insert into sales values ('Mia', 'Apple', 5, 7, 2018, 'CT', 633, '2018-07-05');
 insert into sales values ('Sam', 'Cherry', 19, 10, 2018, 'NJ', 854, '2018-10-19');
@@ -8441,16 +7822,14 @@ insert into sales values ('Emily', 'Ham', 1, 7, 2017, 'PA', 979, '2017-07-01');
 insert into sales values ('Helen', 'Ice', 3, 7, 2017, 'CT', 701, '2017-07-03');
 insert into sales values ('Helen', 'Grapes', 11, 5, 2016, 'PA', 420, '2016-05-11');
 insert into sales values ('Boo', 'Butter', 31, 10, 2018, 'CT', 833, '2018-10-31');
-insert into sales values ('Claire', 'Jellies', 5, 5, 2020, 'PA', 329, '2020-05-
-05');
+insert into sales values ('Claire', 'Jellies', 5, 5, 2020, 'PA', 329, '2020-05-05');
 insert into sales values ('Dan', 'Apple', 24, 11, 2016, 'NY', 217, '2016-11-24');
 insert into sales values ('Dan', 'Ham', 12, 11, 2020, 'PA', 231, '2020-11-12');
 insert into sales values ('Helen', 'Eggs', 18, 1, 2016, 'NJ', 557, '2016-01-18');
 insert into sales values ('Emily', 'Butter', 28, 10, 2016, 'PA', 93, '2016-10-28');
 insert into sales values ('Chae', 'Grapes', 25, 2, 2016, 'NJ', 38, '2016-02-25');
 insert into sales values ('Mia', 'Ice', 10, 6, 2018, 'NJ', 632, '2018-06-10');
-insert into sales values ('Claire', 'Jellies', 2, 8, 2016, 'CT', 343, '2016-08-
-02');
+insert into sales values ('Claire', 'Jellies', 2, 8, 2016, 'CT', 343, '2016-08-02');
 insert into sales values ('Helen', 'Ice', 8, 9, 2020, 'PA', 369, '2020-09-08');
 insert into sales values ('Emily', 'Ice', 8, 8, 2016, 'NY', 898, '2016-08-08');
 insert into sales values ('Dan', 'Jellies', 18, 5, 2016, 'CT', 766, '2016-05-18');
@@ -8488,8 +7867,7 @@ insert into sales values ('Chae', 'Fish', 9, 1, 2018, 'NJ', 387, '2018-01-09');
 insert into sales values ('Claire', 'Ham', 10, 6, 2018, 'CT', 548, '2018-06-10');
 insert into sales values ('Claire', 'Ham', 16, 11, 2019, 'NJ', 472, '2019-11-16');
 insert into sales values ('Mia', 'Jellies', 30, 9, 2017, 'PA', 497, '2017-09-30');
-insert into sales values ('Helen', 'Jellies', 19, 7, 2018, 'CT', 429, '2018-07-
-19');
+insert into sales values ('Helen', 'Jellies', 19, 7, 2018, 'CT', 429, '2018-07-19');
 insert into sales values ('Emily', 'Apple', 28, 1, 2017, 'NY', 219, '2017-01-28');
 insert into sales values ('Dan', 'Grapes', 28, 11, 2018, 'NJ', 445, '2018-11-28');
 insert into sales values ('Claire', 'Ice', 26, 12, 2020, 'NY', 437, '2020-12-26');
@@ -8504,8 +7882,7 @@ insert into sales values ('Helen', 'Apple', 15, 7, 2017, 'PA', 358, '2017-07-15'
 insert into sales values ('Helen', 'Eggs', 27, 6, 2018, 'CT', 746, '2018-06-27');
 insert into sales values ('Emily', 'Ice', 13, 5, 2017, 'CT', 111, '2017-05-13');
 insert into sales values ('Mia', 'Butter', 28, 8, 2016, 'NJ', 501, '2016-08-28');
-insert into sales values ('Helen', 'Jellies', 31, 8, 2020, 'NJ', 420, '2020-08-
-31');
+insert into sales values ('Helen', 'Jellies', 31, 8, 2020, 'NJ', 420, '2020-08-31');
 insert into sales values ('Claire', 'Ham', 7, 9, 2020, 'NJ', 249, '2020-09-07');
 insert into sales values ('Mia', 'Grapes', 10, 9, 2020, 'NY', 501, '2020-09-10');
 insert into sales values ('Helen', 'Fish', 5, 10, 2018, 'CT', 158, '2018-10-05');
@@ -8544,8 +7921,7 @@ insert into sales values ('Sam', 'Eggs', 31, 10, 2018, 'CT', 887, '2018-10-31');
 insert into sales values ('Claire', 'Ice', 30, 10, 2018, 'NJ', 688, '2018-10-30');
 insert into sales values ('Claire', 'Eggs', 5, 12, 2019, 'PA', 578, '2019-12-05');
 insert into sales values ('Boo', 'Grapes', 21, 7, 2020, 'NJ', 41, '2020-07-21');
-insert into sales values ('Emily', 'Jellies', 13, 11, 2016, 'PA', 664, '2016-11-
-13');
+insert into sales values ('Emily', 'Jellies', 13, 11, 2016, 'PA', 664, '2016-11-13');
 insert into sales values ('Wally', 'Butter', 21, 2, 2020, 'PA', 301, '2020-02-21');
 insert into sales values ('Claire', 'Dates', 13, 4, 2016, 'CT', 275, '2016-04-13');
 insert into sales values ('Sam', 'Cherry', 17, 11, 2018, 'NJ', 803, '2018-11-17');
@@ -8554,13 +7930,11 @@ insert into sales values ('Boo', 'Jellies', 1, 9, 2017, 'PA', 213, '2017-09-01')
 insert into sales values ('Mia', 'Grapes', 3, 5, 2019, 'NJ', 156, '2019-05-03');
 insert into sales values ('Chae', 'Jellies', 7, 5, 2017, 'PA', 997, '2017-05-07');
 insert into sales values ('Boo', 'Dates', 13, 3, 2016, 'NJ', 378, '2016-03-13');
-insert into sales values ('Claire', 'Jellies', 18, 8, 2020, 'NJ', 198, '2020-08-
-18');
+insert into sales values ('Claire', 'Jellies', 18, 8, 2020, 'NJ', 198, '2020-08-18');
 insert into sales values ('Chae', 'Ice', 31, 1, 2018, 'NJ', 172, '2018-01-31');
 insert into sales values ('Wally', 'Fish', 22, 8, 2017, 'PA', 405, '2017-08-22');
 insert into sales values ('Wally', 'Apple', 19, 9, 2018, 'CT', 592, '2018-09-19');
-insert into sales values ('Emily', 'Cherry', 29, 10, 2017, 'NJ', 604, '2017-10-
-29');
+insert into sales values ('Emily', 'Cherry', 29, 10, 2017, 'NJ', 604, '2017-10-29');
 insert into sales values ('Dan', 'Ham', 20, 6, 2019, 'NJ', 501, '2019-06-20');
 insert into sales values ('Claire', 'Butter', 8, 9, 2020, 'PA', 980, '2020-09-08');
 insert into sales values ('Emily', 'Fish', 6, 8, 2017, 'NY', 929, '2017-08-06');
@@ -8582,20 +7956,17 @@ insert into sales values ('Boo', 'Grapes', 11, 11, 2016, 'CT', 426, '2016-11-11'
 insert into sales values ('Wally', 'Fish', 27, 9, 2019, 'CT', 89, '2019-09-27');
 insert into sales values ('Boo', 'Eggs', 7, 7, 2018, 'CT', 451, '2018-07-07');
 insert into sales values ('Mia', 'Apple', 17, 4, 2018, 'NY', 345, '2018-04-17');
-insert into sales values ('Emily', 'Jellies', 1, 11, 2020, 'NJ', 712, '2020-11-
-01');
+insert into sales values ('Emily', 'Jellies', 1, 11, 2020, 'NJ', 712, '2020-11-01');
 insert into sales values ('Dan', 'Fish', 15, 6, 2017, 'CT', 972, '2017-06-15');
 insert into sales values ('Chae', 'Cherry', 14, 2, 2020, 'NJ', 950, '2020-02-14');
 insert into sales values ('Wally', 'Apple', 8, 11, 2018, 'PA', 815, '2018-11-08');
 insert into sales values ('Dan', 'Butter', 14, 2, 2017, 'NJ', 331, '2017-02-14');
 insert into sales values ('Dan', 'Jellies', 11, 3, 2017, 'NY', 372, '2017-03-11');
 insert into sales values ('Chae', 'Butter', 9, 5, 2019, 'PA', 366, '2019-05-09');
-insert into sales values ('Claire', 'Grapes', 20, 10, 2017, 'CT', 544, '2017-10-
-20');
+insert into sales values ('Claire', 'Grapes', 20, 10, 2017, 'CT', 544, '2017-10-20');
 insert into sales values ('Chae', 'Eggs', 1, 12, 2020, 'CT', 788, '2020-12-01');
 insert into sales values ('Emily', 'Cherry', 17, 3, 2018, 'NY', 626, '2018-03-17');
-insert into sales values ('Claire', 'Jellies', 18, 3, 2019, 'NJ', 580, '2019-03-
-18');
+insert into sales values ('Claire', 'Jellies', 18, 3, 2019, 'NJ', 580, '2019-03-18');
 insert into sales values ('Wally', 'Ice', 30, 11, 2016, 'NJ', 253, '2016-11-30');
 insert into sales values ('Dan', 'Grapes', 21, 4, 2016, 'CT', 410, '2016-04-21');
 insert into sales values ('Dan', 'Butter', 7, 2, 2018, 'NY', 502, '2018-02-07');
@@ -8611,8 +7982,7 @@ insert into sales values ('Dan', 'Ham', 13, 8, 2020, 'NJ', 14, '2020-08-13');
 insert into sales values ('Chae', 'Ice', 29, 4, 2018, 'NJ', 521, '2018-04-29');
 insert into sales values ('Sam', 'Ice', 14, 5, 2016, 'CT', 740, '2016-05-14');
 insert into sales values ('Mia', 'Grapes', 14, 12, 2018, 'CT', 218, '2018-12-14');
-insert into sales values ('Wally', 'Cherry', 20, 12, 2019, 'NJ', 719, '2019-12-
-20');
+insert into sales values ('Wally', 'Cherry', 20, 12, 2019, 'NJ', 719, '2019-12-20');
 insert into sales values ('Wally', 'Dates', 22, 2, 2016, 'NY', 553, '2016-02-22');
 insert into sales values ('Sam', 'Jellies', 30, 6, 2020, 'CT', 362, '2020-06-30');
 insert into sales values ('Dan', 'Cherry', 22, 8, 2019, 'CT', 428, '2019-08-22');
@@ -8666,11 +8036,9 @@ insert into sales values ('Boo', 'Dates', 20, 11, 2018, 'NY', 95, '2018-11-20');
 insert into sales values ('Chae', 'Eggs', 10, 8, 2016, 'PA', 516, '2016-08-10');
 insert into sales values ('Helen', 'Ham', 14, 12, 2018, 'NY', 323, '2018-12-14');
 insert into sales values ('Mia', 'Dates', 16, 3, 2016, 'NJ', 117, '2016-03-16');
-insert into sales values ('Emily', 'Jellies', 16, 12, 2017, 'NJ', 359, '2017-12-
-16');
+insert into sales values ('Emily', 'Jellies', 16, 12, 2017, 'NJ', 359, '2017-12-16');
 insert into sales values ('Helen', 'Eggs', 3, 7, 2017, 'NJ', 95, '2017-07-03');
-insert into sales values ('Helen', 'Grapes', 10, 11, 2019, 'NJ', 726, '2019-11-
-10');
+insert into sales values ('Helen', 'Grapes', 10, 11, 2019, 'NJ', 726, '2019-11-10');
 insert into sales values ('Dan', 'Butter', 9, 7, 2020, 'NJ', 136, '2020-07-09');
 insert into sales values ('Chae', 'Butter', 3, 2, 2017, 'PA', 589, '2017-02-03');
 insert into sales values ('Wally', 'Grapes', 11, 2, 2017, 'PA', 417, '2017-02-11');
@@ -8680,8 +8048,7 @@ insert into sales values ('Helen', 'Ice', 26, 6, 2018, 'NJ', 126, '2018-06-26');
 insert into sales values ('Dan', 'Dates', 21, 2, 2019, 'CT', 317, '2019-02-21');
 insert into sales values ('Chae', 'Ham', 24, 2, 2020, 'CT', 93, '2020-02-24');
 insert into sales values ('Mia', 'Cherry', 30, 5, 2016, 'NJ', 925, '2016-05-30');
-insert into sales values ('Claire', 'Jellies', 31, 12, 2019, 'NJ', 22, '2019-12-
-31');
+insert into sales values ('Claire', 'Jellies', 31, 12, 2019, 'NJ', 22, '2019-12-31');
 insert into sales values ('Chae', 'Fish', 4, 10, 2016, 'NY', 379, '2016-10-04');
 insert into sales values ('Chae', 'Dates', 4, 5, 2018, 'CT', 695, '2018-05-04');
 insert into sales values ('Chae', 'Grapes', 24, 8, 2018, 'NY', 270, '2018-08-24');
@@ -8692,8 +8059,7 @@ insert into sales values ('Boo', 'Apple', 27, 4, 2018, 'NY', 972, '2018-04-27');
 insert into sales values ('Sam', 'Grapes', 20, 10, 2018, 'NJ', 569, '2018-10-20');
 insert into sales values ('Wally', 'Ice', 22, 12, 2016, 'CT', 835, '2016-12-22');
 insert into sales values ('Boo', 'Apple', 1, 2, 2018, 'NY', 224, '2018-02-01');
-insert into sales values ('Emily', 'Jellies', 30, 4, 2020, 'CT', 266, '2020-04-
-30');
+insert into sales values ('Emily', 'Jellies', 30, 4, 2020, 'CT', 266, '2020-04-30');
 insert into sales values ('Wally', 'Eggs', 18, 5, 2020, 'CT', 286, '2020-05-18');
 insert into sales values ('Emily', 'Ham', 8, 6, 2019, 'PA', 771, '2019-06-08');
 insert into sales values ('Wally', 'Dates', 7, 9, 2018, 'PA', 964, '2018-09-07');
@@ -8719,27 +8085,23 @@ insert into sales values ('Dan', 'Dates', 7, 10, 2017, 'NY', 795, '2017-10-07');
 insert into sales values ('Helen', 'Dates', 19, 1, 2019, 'PA', 618, '2019-01-19');
 insert into sales values ('Dan', 'Apple', 10, 8, 2017, 'PA', 258, '2017-08-10');
 insert into sales values ('Dan', 'Fish', 13, 8, 2018, 'PA', 559, '2018-08-13');
-insert into sales values ('Claire', 'Cherry', 29, 11, 2019, 'NJ', 591, '2019-11-
-29');
+insert into sales values ('Claire', 'Cherry', 29, 11, 2019, 'NJ', 591, '2019-11-29');
 insert into sales values ('Helen', 'Cherry', 10, 1, 2016, 'PA', 921, '2016-01-10');
 insert into sales values ('Emily', 'Cherry', 24, 3, 2019, 'NJ', 48, '2019-03-24');
 insert into sales values ('Sam', 'Dates', 27, 11, 2019, 'PA', 930, '2019-11-27');
 insert into sales values ('Mia', 'Butter', 30, 11, 2018, 'PA', 352, '2018-11-30');
-insert into sales values ('Emily', 'Butter', 10, 10, 2020, 'NJ', 974, '2020-10-
-10');
+insert into sales values ('Emily', 'Butter', 10, 10, 2020, 'NJ', 974, '2020-10-10');
 insert into sales values ('Claire', 'Fish', 1, 10, 2020, 'CT', 893, '2020-10-01');
 insert into sales values ('Mia', 'Dates', 13, 1, 2016, 'CT', 219, '2016-01-13');
 insert into sales values ('Chae', 'Apple', 6, 10, 2020, 'CT', 913, '2020-10-06');
 insert into sales values ('Dan', 'Fish', 31, 5, 2017, 'CT', 877, '2017-05-31');
-insert into sales values ('Claire', 'Jellies', 4, 12, 2019, 'NY', 488, '2019-12-
-04');
+insert into sales values ('Claire', 'Jellies', 4, 12, 2019, 'NY', 488, '2019-12-04');
 insert into sales values ('Dan', 'Dates', 24, 3, 2018, 'NY', 689, '2018-03-24');
 insert into sales values ('Emily', 'Grapes', 13, 7, 2017, 'NJ', 296, '2017-07-13');
 insert into sales values ('Dan', 'Eggs', 23, 4, 2017, 'CT', 123, '2017-04-23');
 insert into sales values ('Helen', 'Eggs', 11, 2, 2017, 'CT', 301, '2017-02-11');
 insert into sales values ('Mia', 'Eggs', 28, 3, 2017, 'NY', 743, '2017-03-28');
-insert into sales values ('Helen', 'Butter', 22, 10, 2019, 'CT', 120, '2019-10-
-22');
+insert into sales values ('Helen', 'Butter', 22, 10, 2019, 'CT', 120, '2019-10-22');
 insert into sales values ('Sam', 'Cherry', 25, 9, 2020, 'NJ', 778, '2020-09-25');
 insert into sales values ('Sam', 'Dates', 18, 3, 2020, 'NJ', 508, '2020-03-18');
 insert into sales values ('Mia', 'Dates', 26, 6, 2020, 'NJ', 988, '2020-06-26');
@@ -8749,10 +8111,8 @@ insert into sales values ('Sam', 'Ham', 17, 1, 2016, 'NJ', 233, '2016-01-17');
 insert into sales values ('Chae', 'Dates', 14, 11, 2018, 'CT', 134, '2018-11-14');
 insert into sales values ('Claire', 'Eggs', 18, 4, 2019, 'CT', 195, '2019-04-18');
 insert into sales values ('Dan', 'Fish', 29, 3, 2020, 'NJ', 987, '2020-03-29');
-insert into sales values ('Helen', 'Jellies', 20, 4, 2018, 'CT', 281, '2018-04-
-20');
-insert into sales values ('Claire', 'Butter', 22, 6, 2017, 'PA', 239, '2017-06-
-22');
+insert into sales values ('Helen', 'Jellies', 20, 4, 2018, 'CT', 281, '2018-04-20');
+insert into sales values ('Claire', 'Butter', 22, 6, 2017, 'PA', 239, '2017-06-22');
 insert into sales values ('Dan', 'Grapes', 31, 5, 2016, 'NY', 680, '2016-05-31');
 insert into sales values ('Mia', 'Jellies', 5, 11, 2017, 'NJ', 762, '2017-11-05');
 insert into sales values ('Helen', 'Dates', 11, 8, 2016, 'PA', 250, '2016-08-11');
@@ -8761,8 +8121,7 @@ insert into sales values ('Claire', 'Apple', 19, 7, 2019, 'NJ', 435, '2019-07-19
 insert into sales values ('Wally', 'Cherry', 2, 5, 2018, 'PA', 978, '2018-05-02');
 insert into sales values ('Claire', 'Dates', 25, 8, 2019, 'CT', 159, '2019-08-25');
 insert into sales values ('Emily', 'Ham', 9, 7, 2019, 'PA', 449, '2019-07-09');
-insert into sales values ('Claire', 'Butter', 19, 12, 2020, 'CT', 96, '2020-12-
-19');
+insert into sales values ('Claire', 'Butter', 19, 12, 2020, 'CT', 96, '2020-12-19');
 insert into sales values ('Dan', 'Cherry', 30, 10, 2016, 'NY', 170, '2016-10-30');
 insert into sales values ('Wally', 'Butter', 28, 1, 2020, 'NY', 175, '2020-01-28');
 insert into sales values ('Wally', 'Ham', 17, 4, 2019, 'NJ', 506, '2019-04-17');
@@ -8777,8 +8136,7 @@ insert into sales values ('Claire', 'Dates', 19, 6, 2020, 'NJ', 577, '2020-06-19
 insert into sales values ('Sam', 'Ice', 18, 4, 2017, 'NY', 605, '2017-04-18');
 insert into sales values ('Dan', 'Dates', 6, 12, 2017, 'NJ', 174, '2017-12-06');
 insert into sales values ('Wally', 'Ice', 8, 7, 2016, 'CT', 570, '2016-07-08');
-insert into sales values ('Emily', 'Jellies', 26, 2, 2017, 'NY', 126, '2017-02-
-26');
+insert into sales values ('Emily', 'Jellies', 26, 2, 2017, 'NY', 126, '2017-02-26');
 insert into sales values ('Boo', 'Ice', 5, 2, 2018, 'PA', 860, '2018-02-05');
 insert into sales values ('Chae', 'Ice', 24, 4, 2019, 'CT', 439, '2019-04-24');
 insert into sales values ('Boo', 'Butter', 8, 6, 2016, 'PA', 829, '2016-06-08');
@@ -8786,8 +8144,7 @@ insert into sales values ('Boo', 'Ham', 16, 11, 2018, 'NY', 932, '2018-11-16');
 insert into sales values ('Sam', 'Jellies', 31, 8, 2019, 'NJ', 970, '2019-08-31');
 insert into sales values ('Claire', 'Ice', 17, 7, 2019, 'CT', 33, '2019-07-17');
 insert into sales values ('Mia', 'Jellies', 2, 4, 2017, 'NJ', 804, '2017-04-02');
-insert into sales values ('Helen', 'Jellies', 17, 11, 2016, 'CT', 83, '2016-11-
-17');
+insert into sales values ('Helen', 'Jellies', 17, 11, 2016, 'CT', 83, '2016-11-17');
 insert into sales values ('Dan', 'Dates', 6, 6, 2016, 'NY', 405, '2016-06-06');
 insert into sales values ('Emily', 'Dates', 9, 7, 2016, 'CT', 731, '2016-07-09');
 insert into sales values ('Boo', 'Cherry', 20, 7, 2017, 'NY', 137, '2017-07-20');
@@ -8796,11 +8153,9 @@ insert into sales values ('Wally', 'Grapes', 22, 2, 2018, 'PA', 897, '2018-02-22
 insert into sales values ('Emily', 'Ice', 30, 4, 2016, 'NY', 31, '2016-04-30');
 insert into sales values ('Mia', 'Dates', 26, 11, 2016, 'NJ', 648, '2016-11-26');
 insert into sales values ('Wally', 'Apple', 6, 5, 2019, 'NJ', 522, '2019-05-06');
-insert into sales values ('Emily', 'Jellies', 14, 2, 2019, 'PA', 439, '2019-02-
-14');
+insert into sales values ('Emily', 'Jellies', 14, 2, 2019, 'PA', 439, '2019-02-14');
 insert into sales values ('Boo', 'Jellies', 12, 1, 2020, 'PA', 540, '2020-01-12');
-insert into sales values ('Claire', 'Jellies', 31, 1, 2018, 'PA', 233, '2018-01-
-31');
+insert into sales values ('Claire', 'Jellies', 31, 1, 2018, 'PA', 233, '2018-01-31');
 insert into sales values ('Mia', 'Ham', 1, 1, 2020, 'CT', 496, '2020-01-01');
 insert into sales values ('Boo', 'Grapes', 30, 4, 2018, 'NJ', 630, '2018-04-30');
 insert into sales values ('Dan', 'Ham', 10, 11, 2018, 'PA', 227, '2018-11-10');
@@ -8810,14 +8165,12 @@ insert into sales values ('Dan', 'Apple', 22, 5, 2016, 'NJ', 739, '2016-05-22');
 insert into sales values ('Chae', 'Ham', 8, 7, 2018, 'PA', 977, '2018-07-08');
 insert into sales values ('Boo', 'Jellies', 12, 10, 2019, 'CT', 587, '2019-10-12');
 insert into sales values ('Helen', 'Eggs', 30, 6, 2019, 'PA', 524, '2019-06-30');
-insert into sales values ('Claire', 'Grapes', 11, 4, 2016, 'PA', 956, '2016-04-
-11');
+insert into sales values ('Claire', 'Grapes', 11, 4, 2016, 'PA', 956, '2016-04-11');
 insert into sales values ('Dan', 'Ice', 10, 12, 2017, 'NJ', 29, '2017-12-10');
 insert into sales values ('Chae', 'Dates', 12, 9, 2017, 'NJ', 21, '2017-09-12');
 insert into sales values ('Helen', 'Eggs', 1, 2, 2017, 'PA', 979, '2017-02-01');
 insert into sales values ('Mia', 'Apple', 1, 2, 2017, 'NY', 112, '2017-02-01');
-insert into sales values ('Claire', 'Grapes', 11, 10, 2019, 'PA', 397, '2019-10-
-11');
+insert into sales values ('Claire', 'Grapes', 11, 10, 2019, 'PA', 397, '2019-10-11');
 insert into sales values ('Dan', 'Fish', 13, 6, 2016, 'PA', 778, '2016-06-13');
 insert into sales values ('Mia', 'Ice', 13, 9, 2017, 'CT', 620, '2017-09-13');
 insert into sales values ('Mia', 'Apple', 2, 1, 2017, 'NJ', 692, '2017-01-02');
@@ -8837,8 +8190,7 @@ insert into sales values ('Dan', 'Fish', 5, 4, 2019, 'NY', 137, '2019-04-05');
 insert into sales values ('Sam', 'Butter', 24, 8, 2018, 'NY', 972, '2018-08-24');
 insert into sales values ('Emily', 'Apple', 28, 12, 2016, 'NY', 476, '2016-12-28');
 insert into sales values ('Helen', 'Cherry', 10, 7, 2020, 'PA', 367, '2020-07-10');
-insert into sales values ('Emily', 'Jellies', 12, 11, 2019, 'NY', 845, '2019-11-
-12');
+insert into sales values ('Emily', 'Jellies', 12, 11, 2019, 'NY', 845, '2019-11-12');
 insert into sales values ('Claire', 'Ice', 19, 3, 2016, 'NY', 786, '2016-03-19');
 insert into sales values ('Chae', 'Dates', 15, 10, 2017, 'PA', 414, '2017-10-15');
 insert into sales values ('Boo', 'Ice', 5, 9, 2018, 'NY', 346, '2018-09-05');
@@ -8846,8 +8198,7 @@ insert into sales values ('Chae', 'Fish', 19, 1, 2018, 'CT', 93, '2018-01-19');
 insert into sales values ('Sam', 'Fish', 26, 5, 2017, 'CT', 85, '2017-05-26');
 insert into sales values ('Emily', 'Ham', 4, 8, 2018, 'CT', 308, '2018-08-04');
 insert into sales values ('Dan', 'Apple', 11, 6, 2020, 'NY', 843, '2020-06-11');
-insert into sales values ('Claire', 'Jellies', 3, 9, 2017, 'NY', 775, '2017-09-
-03');
+insert into sales values ('Claire', 'Jellies', 3, 9, 2017, 'NY', 775, '2017-09-03');
 insert into sales values ('Boo', 'Ham', 19, 8, 2017, 'NJ', 496, '2017-08-19');
 insert into sales values ('Helen', 'Eggs', 11, 5, 2018, 'PA', 710, '2018-05-11');
 insert into sales values ('Emily', 'Grapes', 19, 4, 2017, 'PA', 746, '2017-04-19');
@@ -8875,8 +8226,7 @@ insert into sales values ('Helen', 'Dates', 20, 4, 2016, 'NY', 120, '2016-04-20'
 insert into sales values ('Helen', 'Grapes', 21, 1, 2017, 'CT', 698, '2017-01-21');
 insert into sales values ('Chae', 'Eggs', 31, 7, 2016, 'NJ', 14, '2016-07-31');
 insert into sales values ('Boo', 'Butter', 5, 4, 2016, 'PA', 754, '2016-04-05');
-insert into sales values ('Wally', 'Jellies', 23, 1, 2018, 'PA', 686, '2018-01-
-23');
+insert into sales values ('Wally', 'Jellies', 23, 1, 2018, 'PA', 686, '2018-01-23');
 insert into sales values ('Wally', 'Dates', 11, 4, 2020, 'NJ', 110, '2020-04-11');
 insert into sales values ('Helen', 'Butter', 20, 8, 2016, 'NY', 933, '2016-08-20');
 insert into sales values ('Mia', 'Jellies', 12, 6, 2018, 'NY', 758, '2018-06-12');
@@ -8909,12 +8259,10 @@ insert into sales values ('Chae', 'Ham', 20, 1, 2017, 'PA', 256, '2017-01-20');
 insert into sales values ('Helen', 'Ice', 20, 7, 2019, 'CT', 841, '2019-07-20');
 insert into sales values ('Emily', 'Cherry', 9, 10, 2020, 'NY', 325, '2020-10-09');
 insert into sales values ('Boo', 'Jellies', 22, 9, 2019, 'PA', 466, '2019-09-22');
-insert into sales values ('Claire', 'Grapes', 29, 9, 2019, 'NJ', 380, '2019-09-
-29');
+insert into sales values ('Claire', 'Grapes', 29, 9, 2019, 'NJ', 380, '2019-09-29');
 insert into sales values ('Claire', 'Eggs', 17, 2, 2019, 'NY', 86, '2019-02-17');
 insert into sales values ('Sam', 'Dates', 28, 4, 2018, 'NY', 625, '2018-04-28');
-insert into sales values ('Claire', 'Jellies', 17, 8, 2020, 'CT', 339, '2020-08-
-17');
+insert into sales values ('Claire', 'Jellies', 17, 8, 2020, 'CT', 339, '2020-08-17');
 insert into sales values ('Wally', 'Grapes', 15, 2, 2019, 'NY', 373, '2019-02-15');
 insert into sales values ('Chae', 'Fish', 26, 7, 2020, 'NY', 659, '2020-07-26');
 insert into sales values ('Chae', 'Butter', 29, 6, 2016, 'CT', 856, '2016-06-29');
@@ -8963,13 +8311,11 @@ insert into sales values ('Sam', 'Jellies', 13, 3, 2018, 'NJ', 499, '2018-03-13'
 insert into sales values ('Chae', 'Butter', 4, 5, 2020, 'NY', 522, '2020-05-04');
 insert into sales values ('Mia', 'Butter', 16, 4, 2017, 'NY', 265, '2017-04-16');
 insert into sales values ('Boo', 'Jellies', 22, 5, 2020, 'PA', 922, '2020-05-22');
-insert into sales values ('Claire', 'Cherry', 29, 6, 2018, 'NJ', 524, '2018-06-
-29');
+insert into sales values ('Claire', 'Cherry', 29, 6, 2018, 'NJ', 524, '2018-06-29');
 insert into sales values ('Sam', 'Jellies', 8, 5, 2020, 'NY', 399, '2020-05-08');
 insert into sales values ('Sam', 'Ice', 22, 8, 2017, 'NJ', 87, '2017-08-22');
 insert into sales values ('Wally', 'Fish', 7, 9, 2020, 'NY', 967, '2020-09-07');
-insert into sales values ('Wally', 'Cherry', 22, 11, 2018, 'PA', 652, '2018-11-
-22');
+insert into sales values ('Wally', 'Cherry', 22, 11, 2018, 'PA', 652, '2018-11-22');
 insert into sales values ('Mia', 'Apple', 9, 12, 2019, 'NJ', 412, '2019-12-09');
 insert into sales values ('Sam', 'Apple', 22, 2, 2018, 'CT', 669, '2018-02-22');
 insert into sales values ('Mia', 'Cherry', 28, 6, 2016, 'NY', 571, '2016-06-28');
@@ -9003,8 +8349,7 @@ insert into sales values ('Wally', 'Eggs', 23, 11, 2018, 'NJ', 759, '2018-11-23'
 insert into sales values ('Helen', 'Apple', 19, 10, 2017, 'NY', 294, '2017-10-19');
 insert into sales values ('Chae', 'Ice', 10, 10, 2017, 'PA', 430, '2017-10-10');
 insert into sales values ('Helen', 'Dates', 24, 2, 2016, 'CT', 749, '2016-02-24');
-insert into sales values ('Helen', 'Jellies', 4, 11, 2020, 'NJ', 671, '2020-11-
-04');
+insert into sales values ('Helen', 'Jellies', 4, 11, 2020, 'NJ', 671, '2020-11-04');
 insert into sales values ('Dan', 'Cherry', 1, 2, 2016, 'PA', 658, '2016-02-01');
 insert into sales values ('Helen', 'Eggs', 1, 4, 2019, 'NJ', 294, '2019-04-01');
 insert into sales values ('Dan', 'Grapes', 27, 2, 2020, 'CT', 261, '2020-02-27');
@@ -9017,13 +8362,11 @@ insert into sales values ('Claire', 'Dates', 14, 2, 2020, 'CT', 643, '2020-02-14
 insert into sales values ('Dan', 'Jellies', 26, 12, 2018, 'CT', 781, '2018-12-26');
 insert into sales values ('Boo', 'Eggs', 13, 1, 2020, 'CT', 682, '2020-01-13');
 insert into sales values ('Boo', 'Ice', 8, 5, 2018, 'CT', 98, '2018-05-08');
-insert into sales values ('Wally', 'Jellies', 3, 3, 2019, 'NY', 1000, '2019-03-
-03');
+insert into sales values ('Wally', 'Jellies', 3, 3, 2019, 'NY', 1000, '2019-03-03');
 insert into sales values ('Chae', 'Apple', 9, 4, 2019, 'CT', 120, '2019-04-09');
 insert into sales values ('Mia', 'Eggs', 13, 9, 2020, 'NJ', 300, '2020-09-13');
 insert into sales values ('Chae', 'Eggs', 9, 11, 2017, 'NY', 971, '2017-11-09');
-insert into sales values ('Wally', 'Cherry', 20, 11, 2019, 'CT', 442, '2019-11-
-20');
+insert into sales values ('Wally', 'Cherry', 20, 11, 2019, 'CT', 442, '2019-11-20');
 insert into sales values ('Sam', 'Grapes', 14, 7, 2020, 'NJ', 631, '2020-07-14');
 insert into sales values ('Chae', 'Dates', 27, 10, 2019, 'PA', 616, '2019-10-27');
 insert into sales values ('Emily', 'Apple', 11, 3, 2016, 'CT', 105, '2016-03-11');
@@ -9059,8 +8402,7 @@ insert into sales values ('Claire', 'Eggs', 1, 4, 2016, 'NY', 600, '2016-04-01')
 insert into sales values ('Chae', 'Butter', 17, 8, 2016, 'NJ', 99, '2016-08-17');
 insert into sales values ('Dan', 'Apple', 11, 3, 2016, 'CT', 872, '2016-03-11');
 insert into sales values ('Wally', 'Apple', 8, 6, 2017, 'CT', 44, '2017-06-08');
-insert into sales values ('Wally', 'Jellies', 18, 12, 2018, 'PA', 902, '2018-12-
-18');
+insert into sales values ('Wally', 'Jellies', 18, 12, 2018, 'PA', 902, '2018-12-18');
 insert into sales values ('Sam', 'Ham', 22, 2, 2017, 'NY', 431, '2017-02-22');
 insert into sales values ('Dan', 'Ham', 7, 3, 2019, 'CT', 306, '2019-03-07');
 insert into sales values ('Boo', 'Eggs', 15, 10, 2019, 'NJ', 566, '2019-10-15');
@@ -9071,26 +8413,22 @@ insert into sales values ('Sam', 'Cherry', 9, 4, 2016, 'NY', 453, '2016-04-09');
 insert into sales values ('Chae', 'Eggs', 12, 3, 2019, 'CT', 591, '2019-03-12');
 insert into sales values ('Mia', 'Cherry', 23, 7, 2017, 'CT', 723, '2017-07-23');
 insert into sales values ('Chae', 'Cherry', 18, 3, 2018, 'PA', 189, '2018-03-18');
-insert into sales values ('Claire', 'Dates', 26, 12, 2020, 'NY', 567, '2020-12-
-26');
+insert into sales values ('Claire', 'Dates', 26, 12, 2020, 'NY', 567, '2020-12-26');
 insert into sales values ('Chae', 'Fish', 7, 7, 2017, 'NY', 689, '2017-07-07');
 insert into sales values ('Chae', 'Jellies', 4, 4, 2018, 'CT', 331, '2018-04-04');
 insert into sales values ('Claire', 'Ham', 20, 2, 2018, 'NY', 89, '2018-02-20');
 insert into sales values ('Dan', 'Fish', 29, 9, 2017, 'CT', 947, '2017-09-29');
 insert into sales values ('Dan', 'Jellies', 18, 9, 2017, 'PA', 919, '2017-09-18');
 insert into sales values ('Mia', 'Dates', 2, 2, 2020, 'CT', 536, '2020-02-02');
-insert into sales values ('Helen', 'Cherry', 13, 11, 2017, 'PA', 551, '2017-11-
-13');
+insert into sales values ('Helen', 'Cherry', 13, 11, 2017, 'PA', 551, '2017-11-13');
 insert into sales values ('Claire', 'Eggs', 4, 6, 2019, 'NJ', 597, '2019-06-04');
 insert into sales values ('Helen', 'Grapes', 3, 10, 2019, 'NJ', 397, '2019-10-03');
-insert into sales values ('Wally', 'Butter', 27, 11, 2016, 'NY', 171, '2016-11-
-27');
+insert into sales values ('Wally', 'Butter', 27, 11, 2016, 'NY', 171, '2016-11-27');
 insert into sales values ('Mia', 'Apple', 18, 8, 2019, 'CT', 431, '2019-08-18');
 insert into sales values ('Helen', 'Ham', 20, 8, 2016, 'CT', 20, '2016-08-20');
 insert into sales values ('Mia', 'Eggs', 18, 4, 2016, 'NY', 321, '2016-04-18');
 insert into sales values ('Wally', 'Ham', 2, 4, 2019, 'NY', 994, '2019-04-02');
-insert into sales values ('Claire', 'Grapes', 16, 1, 2019, 'CT', 614, '2019-01-
-16');
+insert into sales values ('Claire', 'Grapes', 16, 1, 2019, 'CT', 614, '2019-01-16');
 insert into sales values ('Chae', 'Ham', 2, 10, 2016, 'CT', 787, '2016-10-02');
 insert into sales values ('Wally', 'Apple', 17, 1, 2016, 'NY', 629, '2016-01-17');
 insert into sales values ('Helen', 'Grapes', 17, 3, 2017, 'PA', 435, '2017-03-17');
@@ -9103,8 +8441,7 @@ insert into sales values ('Mia', 'Fish', 5, 8, 2016, 'NY', 27, '2016-08-05');
 insert into sales values ('Dan', 'Apple', 26, 2, 2019, 'CT', 938, '2019-02-26');
 insert into sales values ('Boo', 'Apple', 6, 8, 2018, 'NJ', 574, '2018-08-06');
 insert into sales values ('Chae', 'Grapes', 14, 10, 2019, 'NJ', 234, '2019-10-14');
-insert into sales values ('Wally', 'Cherry', 15, 10, 2017, 'NJ', 735, '2017-10-
-15');
+insert into sales values ('Wally', 'Cherry', 15, 10, 2017, 'NJ', 735, '2017-10-15');
 insert into sales values ('Helen', 'Dates', 11, 2, 2020, 'PA', 503, '2020-02-11');
 insert into sales values ('Dan', 'Butter', 18, 1, 2016, 'NY', 216, '2016-01-18');
 insert into sales values ('Chae', 'Eggs', 16, 11, 2020, 'NY', 334, '2020-11-16');
@@ -9125,13 +8462,11 @@ insert into sales values ('Chae', 'Dates', 9, 11, 2017, 'NY', 715, '2017-11-09')
 insert into sales values ('Claire', 'Ice', 12, 11, 2017, 'CT', 396, '2017-11-12');
 insert into sales values ('Helen', 'Grapes', 13, 1, 2017, 'NJ', 522, '2017-01-13');
 insert into sales values ('Sam', 'Dates', 19, 6, 2016, 'NJ', 329, '2016-06-19');
-insert into sales values ('Emily', 'Jellies', 22, 3, 2020, 'NJ', 692, '2020-03-
-22');
+insert into sales values ('Emily', 'Jellies', 22, 3, 2020, 'NJ', 692, '2020-03-22');
 insert into sales values ('Emily', 'Apple', 11, 12, 2020, 'PA', 124, '2020-12-11');
 insert into sales values ('Sam', 'Dates', 6, 9, 2016, 'NJ', 664, '2016-09-06');
 insert into sales values ('Mia', 'Grapes', 21, 5, 2019, 'PA', 22, '2019-05-21');
-insert into sales values ('Helen', 'Jellies', 10, 9, 2016, 'NJ', 850, '2016-09-
-10');
+insert into sales values ('Helen', 'Jellies', 10, 9, 2016, 'NJ', 850, '2016-09-10');
 insert into sales values ('Boo', 'Fish', 17, 11, 2020, 'CT', 356, '2020-11-17');
 insert into sales values ('Boo', 'Dates', 10, 4, 2020, 'CT', 330, '2020-04-10');
 insert into sales values ('Sam', 'Fish', 29, 6, 2019, 'CT', 897, '2019-06-29');
@@ -9156,14 +8491,12 @@ insert into sales values ('Chae', 'Ice', 4, 1, 2019, 'PA', 219, '2019-01-04');
 insert into sales values ('Helen', 'Eggs', 3, 9, 2018, 'PA', 132, '2018-09-03');
 insert into sales values ('Helen', 'Eggs', 16, 1, 2016, 'NJ', 445, '2016-01-16');
 insert into sales values ('Boo', 'Apple', 8, 11, 2016, 'CT', 191, '2016-11-08');
-insert into sales values ('Claire', 'Apple', 18, 11, 2018, 'CT', 989, '2018-11-
-18');
+insert into sales values ('Claire', 'Apple', 18, 11, 2018, 'CT', 989, '2018-11-18');
 insert into sales values ('Boo', 'Eggs', 27, 10, 2017, 'NY', 258, '2017-10-27');
 insert into sales values ('Sam', 'Butter', 4, 3, 2020, 'NJ', 872, '2020-03-04');
 insert into sales values ('Emily', 'Fish', 27, 4, 2016, 'NJ', 496, '2016-04-27');
 insert into sales values ('Boo', 'Grapes', 1, 8, 2016, 'PA', 804, '2016-08-01');
-insert into sales values ('Claire', 'Butter', 25, 9, 2018, 'CT', 946, '2018-09-
-25');
+insert into sales values ('Claire', 'Butter', 25, 9, 2018, 'CT', 946, '2018-09-25');
 insert into sales values ('Emily', 'Grapes', 18, 1, 2016, 'NJ', 707, '2016-01-18');
 insert into sales values ('Wally', 'Eggs', 6, 10, 2020, 'PA', 562, '2020-10-06');
 insert into sales values ('Mia', 'Dates', 28, 8, 2017, 'CT', 308, '2017-08-28');
@@ -9201,8 +8534,7 @@ insert into sales values ('Helen', 'Apple', 2, 10, 2017, 'NY', 745, '2017-10-02'
 insert into sales values ('Claire', 'Fish', 12, 2, 2016, 'CT', 950, '2016-02-12');
 insert into sales values ('Dan', 'Dates', 20, 5, 2019, 'CT', 356, '2019-05-20');
 insert into sales values ('Mia', 'Dates', 25, 10, 2019, 'PA', 832, '2019-10-25');
-insert into sales values ('Claire', 'Jellies', 9, 1, 2017, 'NY', 865, '2017-01-
-09');
+insert into sales values ('Claire', 'Jellies', 9, 1, 2017, 'NY', 865, '2017-01-09');
 insert into sales values ('Emily', 'Ice', 13, 10, 2019, 'NJ', 518, '2019-10-13');
 insert into sales values ('Sam', 'Dates', 3, 6, 2018, 'NY', 270, '2018-06-03');
 insert into sales values ('Claire', 'Dates', 12, 5, 2020, 'NY', 153, '2020-05-12');
@@ -9236,28 +8568,22 @@ insert into sales values ('Wally', 'Apple', 25, 8, 2018, 'NY', 603, '2018-08-25'
 insert into sales values ('Sam', 'Eggs', 30, 5, 2020, 'NJ', 746, '2020-05-30');
 insert into sales values ('Claire', 'Butter', 9, 8, 2016, 'NY', 138, '2016-08-09');
 insert into sales values ('Boo', 'Eggs', 8, 8, 2018, 'NJ', 410, '2018-08-08');
-insert into sales values ('Claire', 'Butter', 5, 10, 2020, 'CT', 294, '2020-10-
-05');
+insert into sales values ('Claire', 'Butter', 5, 10, 2020, 'CT', 294, '2020-10-05');
 insert into sales values ('Helen', 'Apple', 18, 4, 2016, 'PA', 315, '2016-04-18');
 insert into sales values ('Chae', 'Jellies', 28, 2, 2017, 'CT', 381, '2017-02-28');
 insert into sales values ('Wally', 'Ice', 19, 12, 2017, 'CT', 425, '2017-12-19');
 insert into sales values ('Dan', 'Dates', 30, 11, 2017, 'PA', 418, '2017-11-30');
-insert into sales values ('Claire', 'Butter', 4, 12, 2018, 'CT', 546, '2018-12-
-04');
+insert into sales values ('Claire', 'Butter', 4, 12, 2018, 'CT', 546, '2018-12-04');
 insert into sales values ('Chae', 'Cherry', 8, 6, 2016, 'NY', 498, '2016-06-08');
-insert into sales values ('Emily', 'Jellies', 18, 2, 2017, 'PA', 881, '2017-02-
-18');
-insert into sales values ('Claire', 'Grapes', 16, 3, 2020, 'NY', 960, '2020-03-
-16');
+insert into sales values ('Emily', 'Jellies', 18, 2, 2017, 'PA', 881, '2017-02-18');
+insert into sales values ('Claire', 'Grapes', 16, 3, 2020, 'NY', 960, '2020-03-16');
 insert into sales values ('Boo', 'Butter', 2, 1, 2017, 'NJ', 117, '2017-01-02');
 insert into sales values ('Wally', 'Butter', 31, 3, 2019, 'NJ', 984, '2019-03-31');
-insert into sales values ('Claire', 'Jellies', 16, 8, 2020, 'NJ', 631, '2020-08-
-16');
+insert into sales values ('Claire', 'Jellies', 16, 8, 2020, 'NJ', 631, '2020-08-16');
 insert into sales values ('Dan', 'Apple', 29, 6, 2016, 'CT', 603, '2016-06-29');
 insert into sales values ('Boo', 'Grapes', 21, 12, 2020, 'CT', 287, '2020-12-21');
 insert into sales values ('Boo', 'Cherry', 27, 3, 2018, 'NJ', 161, '2018-03-27');
-insert into sales values ('Claire', 'Butter', 14, 1, 2018, 'NY', 655, '2018-01-
-14');
+insert into sales values ('Claire', 'Butter', 14, 1, 2018, 'NY', 655, '2018-01-14');
 insert into sales values ('Emily', 'Eggs', 8, 3, 2016, 'NY', 390, '2016-03-08');
 insert into sales values ('Mia', 'Eggs', 14, 11, 2017, 'NY', 275, '2017-11-14');
 insert into sales values ('Chae', 'Ham', 18, 11, 2016, 'PA', 204, '2016-11-18');
@@ -9276,13 +8602,11 @@ insert into sales values ('Mia', 'Butter', 22, 4, 2016, 'CT', 618, '2016-04-22')
 insert into sales values ('Boo', 'Fish', 4, 3, 2018, 'NJ', 212, '2018-03-04');
 insert into sales values ('Helen', 'Dates', 28, 4, 2017, 'NY', 879, '2017-04-28');
 insert into sales values ('Dan', 'Cherry', 5, 3, 2020, 'NJ', 103, '2020-03-05');
-insert into sales values ('Wally', 'Grapes', 15, 10, 2017, 'CT', 693, '2017-10-
-15');
+insert into sales values ('Wally', 'Grapes', 15, 10, 2017, 'CT', 693, '2017-10-15');
 insert into sales values ('Sam', 'Apple', 15, 10, 2016, 'NY', 690, '2016-10-15');
 insert into sales values ('Helen', 'Eggs', 25, 5, 2017, 'CT', 64, '2017-05-25');
 insert into sales values ('Boo', 'Cherry', 12, 3, 2016, 'PA', 370, '2016-03-12');
-insert into sales values ('Claire', 'Cherry', 15, 9, 2019, 'NY', 418, '2019-09-
-15');
+insert into sales values ('Claire', 'Cherry', 15, 9, 2019, 'NY', 418, '2019-09-15');
 insert into sales values ('Boo', 'Fish', 26, 10, 2016, 'PA', 148, '2016-10-26');
 insert into sales values ('Chae', 'Butter', 13, 7, 2016, 'PA', 458, '2016-07-13');
 insert into sales values ('Boo', 'Grapes', 13, 2, 2019, 'PA', 271, '2019-02-13');
@@ -9298,8 +8622,7 @@ insert into sales values ('Boo', 'Ham', 30, 10, 2016, 'NJ', 894, '2016-10-30');
 insert into sales values ('Mia', 'Cherry', 29, 9, 2017, 'NJ', 315, '2017-09-29');
 insert into sales values ('Boo', 'Ice', 17, 8, 2016, 'NJ', 88, '2016-08-17');
 insert into sales values ('Mia', 'Apple', 27, 11, 2017, 'NJ', 743, '2017-11-27');
-insert into sales values ('Claire', 'Butter', 21, 6, 2020, 'PA', 343, '2020-06-
-21');
+insert into sales values ('Claire', 'Butter', 21, 6, 2020, 'PA', 343, '2020-06-21');
 insert into sales values ('Chae', 'Grapes', 9, 8, 2020, 'CT', 283, '2020-08-09');
 insert into sales values ('Dan', 'Jellies', 3, 7, 2019, 'NY', 554, '2019-07-03');
 insert into sales values ('Wally', 'Apple', 1, 4, 2017, 'NY', 249, '2017-04-01');
@@ -9324,11 +8647,9 @@ insert into sales values ('Claire', 'Grapes', 2, 4, 2016, 'NJ', 569, '2016-04-02
 insert into sales values ('Helen', 'Apple', 27, 4, 2019, 'NY', 328, '2019-04-27');
 insert into sales values ('Sam', 'Fish', 11, 10, 2018, 'NJ', 599, '2018-10-11');
 insert into sales values ('Chae', 'Eggs', 29, 9, 2016, 'CT', 279, '2016-09-29');
-insert into sales values ('Claire', 'Grapes', 4, 10, 2019, 'CT', 231, '2019-10-
-04');
+insert into sales values ('Claire', 'Grapes', 4, 10, 2019, 'CT', 231, '2019-10-04');
 insert into sales values ('Chae', 'Ham', 3, 2, 2019, 'CT', 818, '2019-02-03');
-insert into sales values ('Emily', 'Jellies', 20, 12, 2020, 'PA', 343, '2020-12-
-20');
+insert into sales values ('Emily', 'Jellies', 20, 12, 2020, 'PA', 343, '2020-12-20');
 insert into sales values ('Claire', 'Apple', 30, 5, 2017, 'CT', 38, '2017-05-30');
 insert into sales values ('Emily', 'Apple', 3, 12, 2020, 'NY', 153, '2020-12-03');
 insert into sales values ('Emily', 'Dates', 12, 5, 2017, 'PA', 318, '2017-05-12');
@@ -9343,8 +8664,7 @@ insert into sales values ('Helen', 'Apple', 21, 10, 2018, 'NY', 885, '2018-10-21
 insert into sales values ('Boo', 'Ice', 28, 10, 2020, 'NY', 591, '2020-10-28');
 insert into sales values ('Dan', 'Butter', 6, 10, 2017, 'CT', 176, '2017-10-06');
 insert into sales values ('Emily', 'Ice', 21, 11, 2017, 'CT', 38, '2017-11-21');
-insert into sales values ('Claire', 'Cherry', 25, 7, 2017, 'NY', 519, '2017-07-
-25');
+insert into sales values ('Claire', 'Cherry', 25, 7, 2017, 'NY', 519, '2017-07-25');
 insert into sales values ('Wally', 'Apple', 1, 11, 2016, 'CT', 942, '2016-11-01');
 insert into sales values ('Dan', 'Grapes', 19, 2, 2019, 'NJ', 836, '2019-02-19');
 insert into sales values ('Wally', 'Eggs', 1, 2, 2016, 'NJ', 218, '2016-02-01');
@@ -9359,8 +8679,7 @@ insert into sales values ('Wally', 'Ice', 1, 5, 2020, 'NJ', 49, '2020-05-01');
 insert into sales values ('Dan', 'Butter', 8, 6, 2017, 'PA', 441, '2017-06-08');
 insert into sales values ('Sam', 'Eggs', 2, 8, 2016, 'PA', 242, '2016-08-02');
 insert into sales values ('Emily', 'Ham', 26, 12, 2019, 'NJ', 416, '2019-12-26');
-insert into sales values ('Claire', 'Cherry', 28, 9, 2019, 'NJ', 665, '2019-09-
-28');
+insert into sales values ('Claire', 'Cherry', 28, 9, 2019, 'NJ', 665, '2019-09-28');
 insert into sales values ('Mia', 'Cherry', 7, 9, 2017, 'CT', 377, '2017-09-07');
 insert into sales values ('Sam', 'Butter', 19, 4, 2018, 'PA', 205, '2018-04-19');
 insert into sales values ('Mia', 'Ice', 24, 6, 2020, 'NY', 602, '2020-06-24');
@@ -9380,15 +8699,12 @@ insert into sales values ('Wally', 'Grapes', 3, 12, 2016, 'NY', 296, '2016-12-03
 insert into sales values ('Dan', 'Ham', 19, 4, 2016, 'CT', 329, '2016-04-19');
 insert into sales values ('Chae', 'Ice', 11, 9, 2019, 'CT', 844, '2019-09-11');
 insert into sales values ('Boo', 'Jellies', 4, 1, 2016, 'PA', 42, '2016-01-04');
-insert into sales values ('Helen', 'Butter', 22, 10, 2017, 'PA', 558, '2017-10-
-22');
-insert into sales values ('Claire', 'Cherry', 26, 5, 2019, 'NY', 284, '2019-05-
-26');
+insert into sales values ('Helen', 'Butter', 22, 10, 2017, 'PA', 558, '2017-10-22');
+insert into sales values ('Claire', 'Cherry', 26, 5, 2019, 'NY', 284, '2019-05-26');
 insert into sales values ('Sam', 'Eggs', 25, 3, 2017, 'NJ', 267, '2017-03-25');
 insert into sales values ('Sam', 'Ice', 30, 6, 2016, 'NY', 48, '2016-06-30');
 insert into sales values ('Chae', 'Apple', 26, 9, 2019, 'PA', 207, '2019-09-26');
-insert into sales values ('Claire', 'Cherry', 26, 8, 2018, 'NY', 548, '2018-08-
-26');
+insert into sales values ('Claire', 'Cherry', 26, 8, 2018, 'NY', 548, '2018-08-26');
 insert into sales values ('Dan', 'Grapes', 28, 11, 2018, 'NY', 823, '2018-11-28');
 insert into sales values ('Sam', 'Ice', 25, 9, 2017, 'CT', 436, '2017-09-25');
 insert into sales values ('Mia', 'Ham', 19, 12, 2020, 'PA', 805, '2020-12-19');
@@ -9423,8 +8739,7 @@ insert into sales values ('Wally', 'Eggs', 20, 9, 2020, 'NY', 510, '2020-09-20')
 insert into sales values ('Boo', 'Jellies', 18, 10, 2020, 'PA', 784, '2020-10-18');
 insert into sales values ('Mia', 'Jellies', 22, 3, 2019, 'CT', 99, '2019-03-22');
 insert into sales values ('Wally', 'Ice', 16, 12, 2018, 'PA', 306, '2018-12-16');
-insert into sales values ('Wally', 'Jellies', 23, 5, 2020, 'NJ', 905, '2020-05-
-23');
+insert into sales values ('Wally', 'Jellies', 23, 5, 2020, 'NJ', 905, '2020-05-23');
 insert into sales values ('Helen', 'Butter', 13, 9, 2018, 'NJ', 480, '2018-09-13');
 insert into sales values ('Chae', 'Eggs', 27, 10, 2016, 'CT', 510, '2016-10-27');
 insert into sales values ('Chae', 'Butter', 1, 7, 2017, 'NJ', 943, '2017-07-01');
@@ -9433,8 +8748,7 @@ insert into sales values ('Helen', 'Cherry', 21, 1, 2017, 'NY', 112, '2017-01-21
 insert into sales values ('Claire', 'Eggs', 23, 4, 2016, 'NJ', 338, '2016-04-23');
 insert into sales values ('Sam', 'Ice', 14, 4, 2019, 'NY', 993, '2019-04-14');
 insert into sales values ('Chae', 'Apple', 6, 5, 2017, 'CT', 494, '2017-05-06');
-insert into sales values ('Claire', 'Grapes', 16, 12, 2018, 'NY', 703, '2018-12-
-16');
+insert into sales values ('Claire', 'Grapes', 16, 12, 2018, 'NY', 703, '2018-12-16');
 insert into sales values ('Mia', 'Ham', 27, 7, 2019, 'PA', 535, '2019-07-27');
 insert into sales values ('Emily', 'Butter', 14, 7, 2016, 'PA', 537, '2016-07-14');
 insert into sales values ('Emily', 'Eggs', 23, 11, 2017, 'NY', 685, '2017-11-23');
@@ -9446,8 +8760,7 @@ insert into sales values ('Emily', 'Ham', 3, 11, 2016, 'PA', 810, '2016-11-03');
 insert into sales values ('Claire', 'Dates', 11, 5, 2017, 'NJ', 853, '2017-05-11');
 insert into sales values ('Emily', 'Butter', 2, 11, 2018, 'PA', 397, '2018-11-02');
 insert into sales values ('Claire', 'Apple', 2, 7, 2018, 'NJ', 648, '2018-07-02');
-insert into sales values ('Claire', 'Grapes', 21, 8, 2019, 'CT', 860, '2019-08-
-21');
+insert into sales values ('Claire', 'Grapes', 21, 8, 2019, 'CT', 860, '2019-08-21');
 insert into sales values ('Sam', 'Dates', 9, 6, 2016, 'CT', 988, '2016-06-09');
 insert into sales values ('Mia', 'Ham', 4, 11, 2020, 'PA', 720, '2020-11-04');
 insert into sales values ('Claire', 'Cherry', 3, 6, 2018, 'PA', 335, '2018-06-03');
@@ -9488,8 +8801,7 @@ insert into sales values ('Helen', 'Ham', 7, 12, 2017, 'CT', 775, '2017-12-07');
 insert into sales values ('Mia', 'Cherry', 23, 11, 2018, 'PA', 882, '2018-11-23');
 insert into sales values ('Emily', 'Apple', 27, 12, 2016, 'NY', 580, '2016-12-27');
 insert into sales values ('Helen', 'Grapes', 26, 5, 2020, 'CT', 740, '2020-05-26');
-insert into sales values ('Helen', 'Jellies', 25, 1, 2017, 'NY', 365, '2017-01-
-25');
+insert into sales values ('Helen', 'Jellies', 25, 1, 2017, 'NY', 365, '2017-01-25');
 insert into sales values ('Chae', 'Grapes', 7, 1, 2016, 'NJ', 283, '2016-01-07');
 insert into sales values ('Sam', 'Cherry', 5, 12, 2020, 'PA', 328, '2020-12-05');
 insert into sales values ('Dan', 'Butter', 30, 6, 2016, 'NY', 625, '2016-06-30');
@@ -9510,8 +8822,7 @@ insert into sales values ('Boo', 'Ice', 10, 1, 2016, 'PA', 101, '2016-01-10');
 insert into sales values ('Chae', 'Dates', 9, 7, 2016, 'NY', 893, '2016-07-09');
 insert into sales values ('Emily', 'Apple', 20, 9, 2016, 'CT', 526, '2016-09-20');
 insert into sales values ('Boo', 'Dates', 2, 7, 2019, 'PA', 228, '2019-07-02');
-insert into sales values ('Emily', 'Cherry', 22, 12, 2019, 'CT', 230, '2019-12-
-22');
+insert into sales values ('Emily', 'Cherry', 22, 12, 2019, 'CT', 230, '2019-12-22');
 insert into sales values ('Helen', 'Cherry', 11, 1, 2017, 'CT', 373, '2017-01-11');
 insert into sales values ('Boo', 'Cherry', 27, 1, 2017, 'NY', 505, '2017-01-27');
 insert into sales values ('Claire', 'Apple', 12, 3, 2019, 'NJ', 829, '2019-03-12');
@@ -9523,8 +8834,7 @@ insert into sales values ('Emily', 'Ham', 13, 10, 2016, 'NY', 627, '2016-10-13')
 insert into sales values ('Boo', 'Dates', 12, 11, 2016, 'CT', 941, '2016-11-12');
 insert into sales values ('Sam', 'Grapes', 29, 5, 2019, 'PA', 309, '2019-05-29');
 insert into sales values ('Chae', 'Butter', 24, 9, 2019, 'PA', 70, '2019-09-24');
-insert into sales values ('Claire', 'Butter', 26, 12, 2018, 'PA', 916, '2018-12-
-26');
+insert into sales values ('Claire', 'Butter', 26, 12, 2018, 'PA', 916, '2018-12-26');
 insert into sales values ('Boo', 'Butter', 14, 4, 2017, 'NY', 346, '2017-04-14');
 insert into sales values ('Boo', 'Ice', 24, 10, 2016, 'NY', 543, '2016-10-24');
 insert into sales values ('Claire', 'Ham', 23, 9, 2020, 'NJ', 530, '2020-09-23');
@@ -9551,8 +8861,7 @@ insert into sales values ('Wally', 'Grapes', 14, 5, 2020, 'NY', 778, '2020-05-14
 insert into sales values ('Mia', 'Butter', 29, 5, 2017, 'CT', 520, '2017-05-29');
 insert into sales values ('Sam', 'Fish', 7, 4, 2018, 'NJ', 113, '2018-04-07');
 insert into sales values ('Dan', 'Grapes', 11, 3, 2017, 'CT', 325, '2017-03-11');
-insert into sales values ('Helen', 'Grapes', 29, 11, 2020, 'NY', 988, '2020-11-
-29');
+insert into sales values ('Helen', 'Grapes', 29, 11, 2020, 'NY', 988, '2020-11-29');
 insert into sales values ('Mia', 'Apple', 8, 3, 2020, 'CT', 860, '2020-03-08');
 insert into sales values ('Dan', 'Butter', 30, 11, 2020, 'CT', 953, '2020-11-30');
 insert into sales values ('Boo', 'Ice', 1, 4, 2018, 'CT', 944, '2018-04-01');
@@ -9585,10 +8894,8 @@ insert into sales values ('Helen', 'Ham', 7, 8, 2020, 'NY', 589, '2020-08-07');
 insert into sales values ('Boo', 'Dates', 9, 7, 2017, 'NY', 483, '2017-07-09');
 insert into sales values ('Claire', 'Ice', 26, 12, 2018, 'NJ', 482, '2018-12-26');
 insert into sales values ('Sam', 'Ham', 24, 8, 2017, 'CT', 163, '2017-08-24');
-insert into sales values ('Emily', 'Butter', 13, 11, 2017, 'NJ', 487, '2017-11-
-13');
-insert into sales values ('Claire', 'Butter', 17, 12, 2018, 'NY', 843, '2018-12-
-17');
+insert into sales values ('Emily', 'Butter', 13, 11, 2017, 'NJ', 487, '2017-11-13');
+insert into sales values ('Claire', 'Butter', 17, 12, 2018, 'NY', 843, '2018-12-17');
 insert into sales values ('Helen', 'Butter', 24, 6, 2020, 'NY', 852, '2020-06-24');
 insert into sales values ('Claire', 'Ham', 2, 1, 2018, 'NY', 456, '2018-01-02');
 insert into sales values ('Boo', 'Apple', 29, 9, 2018, 'CT', 969, '2018-09-29');
@@ -9620,8 +8927,7 @@ insert into sales values ('Chae', 'Eggs', 23, 9, 2019, 'NJ', 891, '2019-09-23');
 insert into sales values ('Boo', 'Jellies', 25, 2, 2016, 'NJ', 514, '2016-02-25');
 insert into sales values ('Dan', 'Cherry', 15, 7, 2016, 'CT', 706, '2016-07-15');
 insert into sales values ('Wally', 'Cherry', 17, 6, 2018, 'CT', 132, '2018-06-17');
-insert into sales values ('Claire', 'Grapes', 17, 4, 2019, 'NY', 622, '2019-04-
-17');
+insert into sales values ('Claire', 'Grapes', 17, 4, 2019, 'NY', 622, '2019-04-17');
 insert into sales values ('Dan', 'Fish', 2, 3, 2019, 'PA', 817, '2019-03-02');
 insert into sales values ('Boo', 'Fish', 22, 7, 2019, 'NY', 895, '2019-07-22');
 insert into sales values ('Claire', 'Eggs', 2, 11, 2019, 'NJ', 399, '2019-11-02');
@@ -9681,8 +8987,7 @@ insert into sales values ('Chae', 'Eggs', 20, 10, 2019, 'CT', 841, '2019-10-20')
 insert into sales values ('Dan', 'Eggs', 6, 11, 2020, 'PA', 738, '2020-11-06');
 insert into sales values ('Boo', 'Cherry', 26, 7, 2016, 'CT', 726, '2016-07-26');
 insert into sales values ('Chae', 'Ice', 25, 12, 2020, 'CT', 808, '2020-12-25');
-insert into sales values ('Wally', 'Butter', 26, 11, 2017, 'PA', 243, '2017-11-
-26');
+insert into sales values ('Wally', 'Butter', 26, 11, 2017, 'PA', 243, '2017-11-26');
 insert into sales values ('Helen', 'Ham', 23, 6, 2018, 'PA', 951, '2018-06-23');
 insert into sales values ('Mia', 'Grapes', 20, 11, 2020, 'PA', 840, '2020-11-20');
 insert into sales values ('Helen', 'Butter', 13, 2, 2019, 'NJ', 42, '2019-02-13');
@@ -9710,27 +9015,22 @@ insert into sales values ('Dan', 'Jellies', 6, 8, 2020, 'PA', 255, '2020-08-06')
 insert into sales values ('Wally', 'Jellies', 6, 5, 2017, 'PA', 702, '2017-05-06');
 insert into sales values ('Sam', 'Grapes', 17, 10, 2018, 'CT', 94, '2018-10-17');
 insert into sales values ('Claire', 'Dates', 13, 6, 2019, 'NY', 863, '2019-06-13');
-insert into sales values ('Chae', 'Jellies', 10, 11, 2018, 'PA', 395, '2018-11-
-10');
-insert into sales values ('Claire', 'Cherry', 19, 8, 2016, 'CT', 400, '2016-08-
-19');
+insert into sales values ('Chae', 'Jellies', 10, 11, 2018, 'PA', 395, '2018-11-10');
+insert into sales values ('Claire', 'Cherry', 19, 8, 2016, 'CT', 400, '2016-08-19');
 insert into sales values ('Claire', 'Eggs', 1, 11, 2016, 'NY', 102, '2016-11-01');
-insert into sales values ('Claire', 'Cherry', 11, 5, 2017, 'NJ', 101, '2017-05-
-11');
+insert into sales values ('Claire', 'Cherry', 11, 5, 2017, 'NJ', 101, '2017-05-11');
 insert into sales values ('Wally', 'Fish', 28, 2, 2017, 'NJ', 671, '2017-02-28');
 insert into sales values ('Dan', 'Ice', 31, 10, 2017, 'PA', 593, '2017-10-31');
 insert into sales values ('Claire', 'Ice', 23, 6, 2017, 'PA', 789, '2017-06-23');
 insert into sales values ('Wally', 'Ice', 26, 12, 2017, 'NJ', 131, '2017-12-26');
 insert into sales values ('Wally', 'Eggs', 1, 10, 2019, 'PA', 150, '2019-10-01');
-insert into sales values ('Claire', 'Jellies', 13, 4, 2018, 'CT', 878, '2018-04-
-13');
+insert into sales values ('Claire', 'Jellies', 13, 4, 2018, 'CT', 878, '2018-04-13');
 insert into sales values ('Mia', 'Eggs', 17, 3, 2019, 'NY', 820, '2019-03-17');
 insert into sales values ('Sam', 'Dates', 27, 12, 2020, 'NJ', 543, '2020-12-27');
 insert into sales values ('Sam', 'Butter', 30, 1, 2019, 'CT', 755, '2019-01-30');
 insert into sales values ('Chae', 'Eggs', 13, 1, 2016, 'NY', 324, '2016-01-13');
 insert into sales values ('Emily', 'Ham', 25, 7, 2017, 'CT', 32, '2017-07-25');
-insert into sales values ('Helen', 'Jellies', 11, 6, 2019, 'PA', 296, '2019-06-
-11');
+insert into sales values ('Helen', 'Jellies', 11, 6, 2019, 'PA', 296, '2019-06-11');
 insert into sales values ('Wally', 'Butter', 19, 7, 2017, 'NY', 918, '2017-07-19');
 insert into sales values ('Helen', 'Ham', 10, 12, 2016, 'NY', 132, '2016-12-10');
 insert into sales values ('Boo', 'Apple', 13, 5, 2019, 'NY', 191, '2019-05-13');
@@ -9757,8 +9057,7 @@ insert into sales values ('Dan', 'Ice', 29, 1, 2020, 'NY', 930, '2020-01-29');
 insert into sales values ('Chae', 'Apple', 23, 7, 2016, 'NY', 540, '2016-07-23');
 insert into sales values ('Chae', 'Butter', 25, 1, 2019, 'PA', 31, '2019-01-25');
 insert into sales values ('Boo', 'Eggs', 15, 7, 2017, 'CT', 236, '2017-07-15');
-insert into sales values ('Emily', 'Jellies', 23, 3, 2019, 'NY', 286, '2019-03-
-23');
+insert into sales values ('Emily', 'Jellies', 23, 3, 2019, 'NY', 286, '2019-03-23');
 insert into sales values ('Dan', 'Jellies', 3, 5, 2019, 'NY', 109, '2019-05-03');
 insert into sales values ('Claire', 'Cherry', 6, 9, 2017, 'PA', 847, '2017-09-06');
 insert into sales values ('Dan', 'Eggs', 29, 4, 2018, 'NY', 564, '2018-04-29');
@@ -9768,12 +9067,10 @@ insert into sales values ('Sam', 'Eggs', 4, 12, 2016, 'CT', 661, '2016-12-04');
 insert into sales values ('Claire', 'Ham', 20, 10, 2020, 'NJ', 856, '2020-10-20');
 insert into sales values ('Boo', 'Jellies', 20, 12, 2020, 'PA', 55, '2020-12-20');
 insert into sales values ('Emily', 'Fish', 15, 1, 2017, 'NY', 313, '2017-01-15');
-insert into sales values ('Claire', 'Jellies', 4, 6, 2018, 'PA', 581, '2018-06-
-04');
+insert into sales values ('Claire', 'Jellies', 4, 6, 2018, 'PA', 581, '2018-06-04');
 insert into sales values ('Chae', 'Grapes', 12, 2, 2018, 'PA', 382, '2018-02-12');
 insert into sales values ('Dan', 'Eggs', 24, 4, 2017, 'NJ', 197, '2017-04-24');
-insert into sales values ('Helen', 'Butter', 27, 12, 2019, 'PA', 111, '2019-12-
-27');
+insert into sales values ('Helen', 'Butter', 27, 12, 2019, 'PA', 111, '2019-12-27');
 insert into sales values ('Claire', 'Dates', 5, 11, 2018, 'PA', 351, '2018-11-05');
 insert into sales values ('Helen', 'Ice', 17, 4, 2016, 'CT', 640, '2016-04-17');
 insert into sales values ('Claire', 'Dates', 19, 3, 2017, 'NJ', 102, '2017-03-19');
@@ -9783,8 +9080,7 @@ insert into sales values ('Chae', 'Cherry', 18, 8, 2020, 'NJ', 62, '2020-08-18')
 insert into sales values ('Helen', 'Eggs', 8, 12, 2016, 'PA', 276, '2016-12-08');
 insert into sales values ('Boo', 'Ham', 12, 5, 2020, 'PA', 113, '2020-05-12');
 insert into sales values ('Helen', 'Cherry', 14, 3, 2019, 'PA', 662, '2019-03-14');
-insert into sales values ('Claire', 'Cherry', 14, 1, 2017, 'PA', 291, '2017-01-
-14');
+insert into sales values ('Claire', 'Cherry', 14, 1, 2017, 'PA', 291, '2017-01-14');
 insert into sales values ('Dan', 'Apple', 11, 5, 2016, 'PA', 595, '2016-05-11');
 insert into sales values ('Boo', 'Dates', 2, 7, 2019, 'CT', 328, '2019-07-02');
 insert into sales values ('Helen', 'Dates', 10, 2, 2018, 'NJ', 183, '2018-02-10');
@@ -9794,18 +9090,15 @@ insert into sales values ('Helen', 'Butter', 22, 9, 2016, 'PA', 170, '2016-09-22
 insert into sales values ('Claire', 'Eggs', 14, 7, 2017, 'PA', 246, '2017-07-14');
 insert into sales values ('Boo', 'Apple', 17, 9, 2017, 'PA', 333, '2017-09-17');
 insert into sales values ('Helen', 'Eggs', 8, 2, 2016, 'NJ', 879, '2016-02-08');
-insert into sales values ('Emily', 'Butter', 11, 10, 2016, 'NJ', 195, '2016-10-
-11');
+insert into sales values ('Emily', 'Butter', 11, 10, 2016, 'NJ', 195, '2016-10-11');
 insert into sales values ('Dan', 'Jellies', 11, 9, 2020, 'CT', 969, '2020-09-11');
 insert into sales values ('Wally', 'Ice', 11, 12, 2018, 'PA', 512, '2018-12-11');
-insert into sales values ('Helen', 'Butter', 27, 10, 2019, 'NJ', 438, '2019-10-
-27');
+insert into sales values ('Helen', 'Butter', 27, 10, 2019, 'NJ', 438, '2019-10-27');
 insert into sales values ('Wally', 'Grapes', 25, 8, 2017, 'PA', 832, '2017-08-25');
 insert into sales values ('Wally', 'Butter', 27, 5, 2018, 'PA', 159, '2018-05-27');
 insert into sales values ('Dan', 'Jellies', 25, 5, 2018, 'NJ', 662, '2018-05-25');
 insert into sales values ('Claire', 'Apple', 31, 3, 2017, 'PA', 770, '2017-03-31');
-insert into sales values ('Chae', 'Jellies', 25, 11, 2016, 'NJ', 611, '2016-11-
-25');
+insert into sales values ('Chae', 'Jellies', 25, 11, 2016, 'NJ', 611, '2016-11-25');
 insert into sales values ('Boo', 'Butter', 17, 7, 2019, 'CT', 852, '2019-07-17');
 insert into sales values ('Sam', 'Ham', 18, 4, 2017, 'CT', 821, '2017-04-18');
 insert into sales values ('Wally', 'Dates', 17, 4, 2016, 'NJ', 500, '2016-04-17');
@@ -9819,12 +9112,10 @@ insert into sales values ('Emily', 'Fish', 2, 10, 2017, 'PA', 159, '2017-10-02')
 insert into sales values ('Sam', 'Cherry', 24, 5, 2016, 'PA', 862, '2016-05-24');
 insert into sales values ('Helen', 'Ham', 19, 2, 2017, 'PA', 446, '2017-02-19');
 insert into sales values ('Wally', 'Eggs', 6, 5, 2020, 'CT', 162, '2020-05-06');
-insert into sales values ('Claire', 'Dates', 15, 12, 2017, 'PA', 626, '2017-12-
-15');
+insert into sales values ('Claire', 'Dates', 15, 12, 2017, 'PA', 626, '2017-12-15');
 insert into sales values ('Sam', 'Butter', 26, 8, 2016, 'PA', 268, '2016-08-26');
 insert into sales values ('Sam', 'Fish', 28, 11, 2018, 'NJ', 836, '2018-11-28');
-insert into sales values ('Helen', 'Grapes', 18, 10, 2020, 'NJ', 953, '2020-10-
-18');
+insert into sales values ('Helen', 'Grapes', 18, 10, 2020, 'NJ', 953, '2020-10-18');
 insert into sales values ('Helen', 'Butter', 30, 5, 2019, 'CT', 780, '2019-05-30');
 insert into sales values ('Boo', 'Butter', 13, 1, 2020, 'CT', 500, '2020-01-13');
 insert into sales values ('Wally', 'Butter', 21, 2, 2016, 'PA', 67, '2016-02-21');
@@ -9839,8 +9130,7 @@ insert into sales values ('Boo', 'Dates', 29, 11, 2019, 'CT', 527, '2019-11-29')
 insert into sales values ('Chae', 'Butter', 5, 12, 2019, 'NJ', 127, '2019-12-05');
 insert into sales values ('Chae', 'Butter', 6, 8, 2020, 'NY', 408, '2020-08-06');
 insert into sales values ('Wally', 'Jellies', 2, 5, 2016, 'PA', 897, '2016-05-02');
-insert into sales values ('Wally', 'Cherry', 12, 12, 2018, 'NY', 581, '2018-12-
-12');
+insert into sales values ('Wally', 'Cherry', 12, 12, 2018, 'NY', 581, '2018-12-12');
 insert into sales values ('Dan', 'Ice', 23, 5, 2016, 'NY', 477, '2016-05-23');
 insert into sales values ('Sam', 'Fish', 5, 5, 2019, 'NY', 383, '2019-05-05');
 insert into sales values ('Sam', 'Ham', 22, 10, 2020, 'CT', 598, '2020-10-22');
@@ -9852,15 +9142,13 @@ insert into sales values ('Chae', 'Butter', 21, 5, 2019, 'PA', 561, '2019-05-21'
 insert into sales values ('Mia', 'Butter', 6, 5, 2020, 'NY', 23, '2020-05-06');
 insert into sales values ('Helen', 'Ice', 2, 11, 2016, 'NY', 640, '2016-11-02');
 insert into sales values ('Mia', 'Butter', 8, 12, 2017, 'NY', 494, '2017-12-08');
-insert into sales values ('Claire', 'Jellies', 18, 4, 2019, 'NY', 170, '2019-04-
-18');
+insert into sales values ('Claire', 'Jellies', 18, 4, 2019, 'NY', 170, '2019-04-18');
 insert into sales values ('Boo', 'Butter', 5, 8, 2020, 'NY', 94, '2020-08-05');
 insert into sales values ('Boo', 'Jellies', 7, 6, 2018, 'CT', 801, '2018-06-07');
 insert into sales values ('Chae', 'Eggs', 7, 4, 2018, 'PA', 890, '2018-04-07');
 insert into sales values ('Boo', 'Eggs', 28, 2, 2020, 'PA', 407, '2020-02-28');
 insert into sales values ('Wally', 'Ice', 10, 6, 2016, 'CT', 237, '2016-06-10');
-insert into sales values ('Wally', 'Cherry', 18, 12, 2016, 'NJ', 263, '2016-12-
-18');
+insert into sales values ('Wally', 'Cherry', 18, 12, 2016, 'NJ', 263, '2016-12-18');
 insert into sales values ('Mia', 'Dates', 3, 4, 2020, 'PA', 215, '2020-04-03');
 insert into sales values ('Boo', 'Fish', 23, 2, 2017, 'CT', 879, '2017-02-23');
 insert into sales values ('Mia', 'Ice', 12, 12, 2018, 'PA', 591, '2018-12-12');
@@ -9883,12 +9171,10 @@ insert into sales values ('Dan', 'Butter', 6, 7, 2017, 'PA', 602, '2017-07-06');
 insert into sales values ('Dan', 'Ham', 1, 12, 2020, 'CT', 73, '2020-12-01');
 insert into sales values ('Emily', 'Grapes', 29, 7, 2019, 'NJ', 380, '2019-07-29');
 insert into sales values ('Emily', 'Ice', 6, 3, 2017, 'CT', 422, '2017-03-06');
-insert into sales values ('Helen', 'Jellies', 21, 4, 2019, 'NY', 740, '2019-04-
-21');
+insert into sales values ('Helen', 'Jellies', 21, 4, 2019, 'NY', 740, '2019-04-21');
 insert into sales values ('Wally', 'Cherry', 17, 7, 2019, 'NJ', 704, '2019-07-17');
 insert into sales values ('Wally', 'Fish', 28, 11, 2018, 'NJ', 786, '2018-11-28');
-insert into sales values ('Emily', 'Jellies', 22, 5, 2020, 'CT', 169, '2020-05-
-22');
+insert into sales values ('Emily', 'Jellies', 22, 5, 2020, 'CT', 169, '2020-05-22');
 insert into sales values ('Helen', 'Cherry', 5, 2, 2018, 'NJ', 831, '2018-02-05');
 insert into sales values ('Helen', 'Cherry', 2, 10, 2018, 'PA', 386, '2018-10-02');
 insert into sales values ('Claire', 'Fish', 15, 12, 2018, 'NY', 433, '2018-12-15');
@@ -9904,32 +9190,26 @@ insert into sales values ('Mia', 'Butter', 11, 10, 2017, 'PA', 614, '2017-10-11'
 insert into sales values ('Dan', 'Cherry', 22, 11, 2020, 'NJ', 109, '2020-11-22');
 insert into sales values ('Claire', 'Apple', 27, 5, 2017, 'CT', 818, '2017-05-27');
 insert into sales values ('Wally', 'Apple', 10, 10, 2020, 'CT', 8, '2020-10-10');
-insert into sales values ('Emily', 'Jellies', 29, 11, 2017, 'PA', 296, '2017-11-
-29');
+insert into sales values ('Emily', 'Jellies', 29, 11, 2017, 'PA', 296, '2017-11-29');
 insert into sales values ('Chae', 'Jellies', 21, 4, 2020, 'NY', 520, '2020-04-21');
 insert into sales values ('Wally', 'Ham', 28, 5, 2018, 'NY', 774, '2018-05-28');
-insert into sales values ('Emily', 'Cherry', 25, 12, 2020, 'CT', 136, '2020-12-
-25');
+insert into sales values ('Emily', 'Cherry', 25, 12, 2020, 'CT', 136, '2020-12-25');
 insert into sales values ('Sam', 'Fish', 13, 9, 2017, 'CT', 168, '2017-09-13');
 insert into sales values ('Emily', 'Cherry', 6, 8, 2016, 'NJ', 750, '2016-08-06');
 insert into sales values ('Sam', 'Eggs', 23, 2, 2019, 'PA', 134, '2019-02-23');
-insert into sales values ('Emily', 'Cherry', 11, 10, 2016, 'PA', 685, '2016-10-
-11');
+insert into sales values ('Emily', 'Cherry', 11, 10, 2016, 'PA', 685, '2016-10-11');
 insert into sales values ('Helen', 'Ham', 21, 8, 2017, 'NY', 56, '2017-08-21');
 insert into sales values ('Dan', 'Eggs', 16, 2, 2018, 'CT', 364, '2018-02-16');
 insert into sales values ('Sam', 'Dates', 30, 5, 2018, 'CT', 838, '2018-05-30');
 insert into sales values ('Dan', 'Ice', 11, 9, 2020, 'NJ', 871, '2020-09-11');
-insert into sales values ('Wally', 'Butter', 15, 11, 2020, 'NJ', 881, '2020-11-
-15');
+insert into sales values ('Wally', 'Butter', 15, 11, 2020, 'NJ', 881, '2020-11-15');
 insert into sales values ('Helen', 'Apple', 16, 7, 2019, 'NY', 812, '2019-07-16');
 insert into sales values ('Mia', 'Jellies', 9, 2, 2020, 'CT', 873, '2020-02-09');
 insert into sales values ('Emily', 'Grapes', 16, 1, 2019, 'CT', 546, '2019-01-16');
 insert into sales values ('Wally', 'Jellies', 2, 8, 2017, 'CT', 8, '2017-08-02');
 insert into sales values ('Emily', 'Cherry', 12, 9, 2017, 'CT', 770, '2017-09-12');
-insert into sales values ('Wally', 'Grapes', 17, 10, 2018, 'NY', 830, '2018-10-
-17');
-insert into sales values ('Claire', 'Butter', 16, 3, 2016, 'PA', 154, '2016-03-
-16');
+insert into sales values ('Wally', 'Grapes', 17, 10, 2018, 'NY', 830, '2018-10-17');
+insert into sales values ('Claire', 'Butter', 16, 3, 2016, 'PA', 154, '2016-03-16');
 insert into sales values ('Dan', 'Ham', 25, 5, 2019, 'CT', 21, '2019-05-25');
 insert into sales values ('Emily', 'Eggs', 18, 1, 2019, 'NY', 271, '2019-01-18');
 insert into sales values ('Claire', 'Ice', 24, 1, 2017, 'NJ', 42, '2017-01-24');
@@ -9937,8 +9217,7 @@ insert into sales values ('Boo', 'Ice', 21, 4, 2018, 'CT', 328, '2018-04-21');
 insert into sales values ('Emily', 'Dates', 17, 4, 2017, 'NY', 251, '2017-04-17');
 insert into sales values ('Helen', 'Butter', 5, 7, 2018, 'PA', 882, '2018-07-05');
 insert into sales values ('Mia', 'Ice', 17, 4, 2017, 'NJ', 670, '2017-04-17');
-insert into sales values ('Claire', 'Jellies', 7, 5, 2018, 'PA', 779, '2018-05-
-07');
+insert into sales values ('Claire', 'Jellies', 7, 5, 2018, 'PA', 779, '2018-05-07');
 insert into sales values ('Boo', 'Jellies', 31, 7, 2017, 'CT', 316, '2017-07-31');
 insert into sales values ('Chae', 'Ice', 10, 2, 2017, 'CT', 696, '2017-02-10');
 insert into sales values ('Chae', 'Butter', 25, 4, 2020, 'PA', 162, '2020-04-25');
@@ -9971,15 +9250,13 @@ insert into sales values ('Helen', 'Ham', 21, 4, 2017, 'NY', 770, '2017-04-21');
 insert into sales values ('Sam', 'Ice', 10, 5, 2019, 'NJ', 257, '2019-05-10');
 insert into sales values ('Helen', 'Eggs', 19, 1, 2017, 'CT', 762, '2017-01-19');
 insert into sales values ('Dan', 'Jellies', 9, 4, 2016, 'CT', 682, '2016-04-09');
-insert into sales values ('Chae', 'Jellies', 12, 11, 2019, 'PA', 740, '2019-11-
-12');
+insert into sales values ('Chae', 'Jellies', 12, 11, 2019, 'PA', 740, '2019-11-12');
 insert into sales values ('Dan', 'Jellies', 31, 7, 2016, 'NJ', 350, '2016-07-31');
 insert into sales values ('Mia', 'Ice', 24, 9, 2016, 'NY', 823, '2016-09-24');
 insert into sales values ('Sam', 'Fish', 18, 12, 2016, 'NY', 526, '2016-12-18');
 insert into sales values ('Helen', 'Fish', 17, 5, 2016, 'NY', 691, '2016-05-17');
 insert into sales values ('Emily', 'Fish', 26, 2, 2020, 'NJ', 274, '2020-02-26');
-insert into sales values ('Claire', 'Cherry', 29, 6, 2016, 'NY', 713, '2016-06-
-29');
+insert into sales values ('Claire', 'Cherry', 29, 6, 2016, 'NY', 713, '2016-06-29');
 insert into sales values ('Sam', 'Apple', 11, 7, 2019, 'PA', 836, '2019-07-11');
 insert into sales values ('Chae', 'Ham', 2, 2, 2017, 'PA', 395, '2017-02-02');
 insert into sales values ('Boo', 'Dates', 27, 2, 2018, 'NJ', 983, '2018-02-27');
@@ -9987,11 +9264,9 @@ insert into sales values ('Chae', 'Eggs', 19, 10, 2016, 'CT', 370, '2016-10-19')
 insert into sales values ('Dan', 'Grapes', 18, 9, 2020, 'CT', 147, '2020-09-18');
 insert into sales values ('Sam', 'Grapes', 12, 9, 2016, 'CT', 412, '2016-09-12');
 insert into sales values ('Sam', 'Apple', 14, 12, 2016, 'NJ', 771, '2016-12-14');
-insert into sales values ('Claire', 'Jellies', 3, 11, 2019, 'NJ', 314, '2019-11-
-03');
+insert into sales values ('Claire', 'Jellies', 3, 11, 2019, 'NJ', 314, '2019-11-03');
 insert into sales values ('Boo', 'Dates', 22, 11, 2017, 'NY', 342, '2017-11-22');
-insert into sales values ('Claire', 'Grapes', 16, 11, 2020, 'NY', 621, '2020-11-
-16');
+insert into sales values ('Claire', 'Grapes', 16, 11, 2020, 'NY', 621, '2020-11-16');
 insert into sales values ('Claire', 'Eggs', 28, 5, 2018, 'CT', 67, '2018-05-28');
 insert into sales values ('Chae', 'Cherry', 15, 9, 2020, 'CT', 398, '2020-09-15');
 insert into sales values ('Helen', 'Apple', 9, 9, 2020, 'PA', 228, '2020-09-09');
@@ -10042,18 +9317,15 @@ insert into sales values ('Claire', 'Butter', 23, 2, 2017, 'NJ', 13, '2017-02-23
 insert into sales values ('Helen', 'Apple', 13, 12, 2016, 'NY', 378, '2016-12-13');
 insert into sales values ('Helen', 'Grapes', 17, 7, 2019, 'CT', 572, '2019-07-17');
 insert into sales values ('Claire', 'Cherry', 4, 11, 2020, 'CT', 94, '2020-11-04');
-insert into sales values ('Wally', 'Jellies', 13, 4, 2019, 'CT', 661, '2019-04-
-13');
+insert into sales values ('Wally', 'Jellies', 13, 4, 2019, 'CT', 661, '2019-04-13');
 insert into sales values ('Helen', 'Cherry', 31, 1, 2018, 'NJ', 996, '2018-01-31');
 insert into sales values ('Mia', 'Ice', 4, 11, 2016, 'NY', 987, '2016-11-04');
 insert into sales values ('Dan', 'Butter', 27, 11, 2020, 'PA', 7, '2020-11-27');
-insert into sales values ('Claire', 'Jellies', 6, 8, 2017, 'NY', 553, '2017-08-
-06');
+insert into sales values ('Claire', 'Jellies', 6, 8, 2017, 'NY', 553, '2017-08-06');
 insert into sales values ('Dan', 'Eggs', 1, 2, 2016, 'NY', 928, '2016-02-01');
 insert into sales values ('Chae', 'Fish', 24, 8, 2016, 'NJ', 455, '2016-08-24');
 insert into sales values ('Emily', 'Grapes', 17, 9, 2020, 'NJ', 460, '2020-09-17');
-insert into sales values ('Emily', 'Jellies', 14, 4, 2016, 'CT', 502, '2016-04-
-14');
+insert into sales values ('Emily', 'Jellies', 14, 4, 2016, 'CT', 502, '2016-04-14');
 insert into sales values ('Helen', 'Dates', 19, 10, 2020, 'PA', 243, '2020-10-19');
 insert into sales values ('Sam', 'Apple', 6, 9, 2017, 'PA', 894, '2017-09-06');
 insert into sales values ('Sam', 'Dates', 26, 3, 2019, 'NY', 625, '2019-03-26');
@@ -10074,8 +9346,7 @@ insert into sales values ('Wally', 'Butter', 5, 11, 2018, 'NY', 663, '2018-11-05
 insert into sales values ('Claire', 'Dates', 5, 2, 2016, 'CT', 163, '2016-02-05');
 insert into sales values ('Boo', 'Butter', 10, 5, 2018, 'PA', 722, '2018-05-10');
 insert into sales values ('Dan', 'Cherry', 27, 2, 2018, 'NJ', 626, '2018-02-27');
-insert into sales values ('Emily', 'Cherry', 14, 12, 2017, 'NJ', 293, '2017-12-
-14');
+insert into sales values ('Emily', 'Cherry', 14, 12, 2017, 'NJ', 293, '2017-12-14');
 insert into sales values ('Emily', 'Apple', 9, 1, 2017, 'NY', 422, '2017-01-09');
 insert into sales values ('Wally', 'Fish', 22, 2, 2017, 'NJ', 575, '2017-02-22');
 insert into sales values ('Mia', 'Ice', 5, 8, 2019, 'NJ', 519, '2019-08-05');
@@ -10087,8 +9358,7 @@ insert into sales values ('Boo', 'Butter', 18, 4, 2020, 'CT', 624, '2020-04-18')
 insert into sales values ('Sam', 'Ham', 4, 4, 2017, 'CT', 174, '2017-04-04');
 insert into sales values ('Wally', 'Jellies', 23, 1, 2017, 'CT', 56, '2017-01-23');
 insert into sales values ('Sam', 'Ham', 17, 9, 2016, 'CT', 969, '2016-09-17');
-insert into sales values ('Chae', 'Jellies', 29, 11, 2016, 'NJ', 525, '2016-11-
-29');
+insert into sales values ('Chae', 'Jellies', 29, 11, 2016, 'NJ', 525, '2016-11-29');
 insert into sales values ('Wally', 'Ham', 14, 8, 2019, 'NY', 615, '2019-08-14');
 insert into sales values ('Chae', 'Grapes', 21, 11, 2017, 'NY', 513, '2017-11-21');
 insert into sales values ('Sam', 'Ice', 21, 4, 2018, 'NY', 532, '2018-04-21');
@@ -10097,11 +9367,9 @@ insert into sales values ('Boo', 'Ham', 5, 7, 2019, 'NJ', 214, '2019-07-05');
 insert into sales values ('Boo', 'Jellies', 19, 2, 2016, 'NY', 432, '2016-02-19');
 insert into sales values ('Wally', 'Eggs', 6, 6, 2016, 'NJ', 472, '2016-06-06');
 insert into sales values ('Boo', 'Cherry', 21, 10, 2020, 'NY', 757, '2020-10-21');
-insert into sales values ('Claire', 'Butter', 21, 3, 2019, 'PA', 159, '2019-03-
-21');
+insert into sales values ('Claire', 'Butter', 21, 3, 2019, 'PA', 159, '2019-03-21');
 insert into sales values ('Wally', 'Butter', 14, 2, 2017, 'NY', 941, '2017-02-14');
-insert into sales values ('Claire', 'Cherry', 14, 12, 2016, 'NJ', 780, '2016-12-
-14');
+insert into sales values ('Claire', 'Cherry', 14, 12, 2016, 'NJ', 780, '2016-12-14');
 insert into sales values ('Claire', 'Apple', 2, 10, 2020, 'NY', 133, '2020-10-02');
 insert into sales values ('Helen', 'Fish', 18, 6, 2017, 'NY', 894, '2017-06-18');
 insert into sales values ('Sam', 'Ham', 27, 7, 2020, 'PA', 893, '2020-07-27');
@@ -10112,20 +9380,17 @@ insert into sales values ('Chae', 'Ham', 11, 2, 2020, 'NY', 153, '2020-02-11');
 insert into sales values ('Dan', 'Butter', 9, 11, 2018, 'NJ', 257, '2018-11-09');
 insert into sales values ('Boo', 'Dates', 5, 2, 2017, 'NJ', 593, '2017-02-05');
 insert into sales values ('Boo', 'Butter', 26, 2, 2019, 'NY', 756, '2019-02-26');
-insert into sales values ('Claire', 'Jellies', 29, 3, 2016, 'NJ', 193, '2016-03-
-29');
+insert into sales values ('Claire', 'Jellies', 29, 3, 2016, 'NJ', 193, '2016-03-29');
 insert into sales values ('Dan', 'Butter', 19, 9, 2018, 'NY', 929, '2018-09-19');
 insert into sales values ('Boo', 'Dates', 25, 2, 2020, 'CT', 754, '2020-02-25');
-insert into sales values ('Wally', 'Jellies', 15, 6, 2019, 'NJ', 528, '2019-06-
-15');
+insert into sales values ('Wally', 'Jellies', 15, 6, 2019, 'NJ', 528, '2019-06-15');
 insert into sales values ('Sam', 'Grapes', 25, 10, 2016, 'NJ', 2, '2016-10-25');
 insert into sales values ('Boo', 'Eggs', 6, 6, 2019, 'PA', 598, '2019-06-06');
 insert into sales values ('Wally', 'Apple', 13, 4, 2017, 'PA', 269, '2017-04-13');
 insert into sales values ('Sam', 'Apple', 6, 10, 2016, 'NY', 381, '2016-10-06');
 insert into sales values ('Sam', 'Fish', 30, 10, 2018, 'NJ', 652, '2018-10-30');
 insert into sales values ('Helen', 'Ham', 29, 5, 2019, 'NY', 890, '2019-05-29');
-insert into sales values ('Wally', 'Cherry', 14, 10, 2016, 'NJ', 893, '2016-10-
-14');
+insert into sales values ('Wally', 'Cherry', 14, 10, 2016, 'NJ', 893, '2016-10-14');
 insert into sales values ('Chae', 'Fish', 4, 3, 2016, 'CT', 353, '2016-03-04');
 insert into sales values ('Sam', 'Eggs', 4, 2, 2019, 'PA', 206, '2019-02-04');
 insert into sales values ('Boo', 'Jellies', 6, 7, 2016, 'NJ', 344, '2016-07-06');
@@ -10144,8 +9409,7 @@ insert into sales values ('Sam', 'Grapes', 23, 5, 2019, 'PA', 756, '2019-05-23')
 insert into sales values ('Chae', 'Apple', 25, 11, 2018, 'NJ', 48, '2018-11-25');
 insert into sales values ('Mia', 'Butter', 26, 1, 2020, 'CT', 414, '2020-01-26');
 insert into sales values ('Boo', 'Apple', 24, 11, 2018, 'CT', 623, '2018-11-24');
-insert into sales values ('Claire', 'Butter', 30, 7, 2019, 'PA', 134, '2019-07-
-30');
+insert into sales values ('Claire', 'Butter', 30, 7, 2019, 'PA', 134, '2019-07-30');
 insert into sales values ('Boo', 'Grapes', 28, 10, 2019, 'CT', 277, '2019-10-28');
 insert into sales values ('Chae', 'Grapes', 25, 3, 2017, 'NY', 58, '2017-03-25');
 insert into sales values ('Wally', 'Eggs', 15, 9, 2016, 'CT', 616, '2016-09-15');
@@ -10169,18 +9433,15 @@ insert into sales values ('Helen', 'Fish', 24, 8, 2018, 'CT', 687, '2018-08-24')
 insert into sales values ('Wally', 'Ham', 8, 7, 2017, 'NY', 892, '2017-07-08');
 insert into sales values ('Sam', 'Butter', 27, 11, 2018, 'PA', 218, '2018-11-27');
 insert into sales values ('Sam', 'Ham', 29, 8, 2018, 'CT', 655, '2018-08-29');
-insert into sales values ('Claire', 'Grapes', 18, 6, 2017, 'NJ', 376, '2017-06-
-18');
+insert into sales values ('Claire', 'Grapes', 18, 6, 2017, 'NJ', 376, '2017-06-18');
 insert into sales values ('Mia', 'Butter', 17, 2, 2018, 'CT', 313, '2018-02-17');
 insert into sales values ('Sam', 'Cherry', 25, 3, 2017, 'PA', 865, '2017-03-25');
 insert into sales values ('Dan', 'Butter', 6, 2, 2019, 'NY', 228, '2019-02-06');
 insert into sales values ('Mia', 'Apple', 12, 7, 2020, 'PA', 393, '2020-07-12');
 insert into sales values ('Boo', 'Grapes', 27, 2, 2016, 'CT', 172, '2016-02-27');
 insert into sales values ('Boo', 'Grapes', 15, 4, 2017, 'PA', 916, '2017-04-15');
-insert into sales values ('Wally', 'Grapes', 14, 10, 2019, 'CT', 399, '2019-10-
-14');
-insert into sales values ('Wally', 'Jellies', 29, 7, 2017, 'NY', 201, '2017-07-
-29');
+insert into sales values ('Wally', 'Grapes', 14, 10, 2019, 'CT', 399, '2019-10-14');
+insert into sales values ('Wally', 'Jellies', 29, 7, 2017, 'NY', 201, '2017-07-29');
 insert into sales values ('Emily', 'Ham', 16, 5, 2020, 'NY', 161, '2020-05-16');
 insert into sales values ('Mia', 'Ice', 11, 10, 2016, 'NJ', 223, '2016-10-11');
 insert into sales values ('Dan', 'Apple', 2, 12, 2016, 'NJ', 120, '2016-12-02');
@@ -10188,15 +9449,13 @@ insert into sales values ('Sam', 'Jellies', 29, 11, 2017, 'NY', 290, '2017-11-29
 insert into sales values ('Boo', 'Fish', 17, 10, 2016, 'CT', 338, '2016-10-17');
 insert into sales values ('Wally', 'Fish', 21, 5, 2019, 'NJ', 965, '2019-05-21');
 insert into sales values ('Dan', 'Apple', 20, 4, 2020, 'NJ', 532, '2020-04-20');
-insert into sales values ('Helen', 'Butter', 19, 10, 2017, 'NJ', 503, '2017-10-
-19');
+insert into sales values ('Helen', 'Butter', 19, 10, 2017, 'NJ', 503, '2017-10-19');
 insert into sales values ('Dan', 'Jellies', 2, 10, 2018, 'NY', 561, '2018-10-02');
 insert into sales values ('Helen', 'Apple', 14, 1, 2016, 'NY', 92, '2016-01-14');
 insert into sales values ('Dan', 'Ice', 19, 1, 2018, 'NJ', 547, '2018-01-19');
 insert into sales values ('Chae', 'Grapes', 25, 10, 2017, 'PA', 61, '2017-10-25');
 insert into sales values ('Helen', 'Butter', 6, 8, 2017, 'NY', 909, '2017-08-06');
-insert into sales values ('Emily', 'Butter', 17, 10, 2018, 'PA', 393, '2018-10-
-17');
+insert into sales values ('Emily', 'Butter', 17, 10, 2018, 'PA', 393, '2018-10-17');
 insert into sales values ('Claire', 'Grapes', 15, 7, 2016, 'NY', 95, '2016-07-15');
 insert into sales values ('Chae', 'Butter', 29, 8, 2016, 'NJ', 489, '2016-08-29');
 insert into sales values ('Wally', 'Fish', 23, 3, 2020, 'NY', 623, '2020-03-23');
@@ -10205,8 +9464,7 @@ insert into sales values ('Emily', 'Dates', 3, 5, 2018, 'PA', 60, '2018-05-03');
 insert into sales values ('Mia', 'Jellies', 21, 2, 2017, 'NY', 329, '2017-02-21');
 insert into sales values ('Dan', 'Cherry', 23, 5, 2019, 'CT', 16, '2019-05-23');
 insert into sales values ('Emily', 'Grapes', 23, 7, 2018, 'PA', 468, '2018-07-23');
-insert into sales values ('Claire', 'Grapes', 11, 10, 2017, 'NJ', 817, '2017-10-
-11');
+insert into sales values ('Claire', 'Grapes', 11, 10, 2017, 'NJ', 817, '2017-10-11');
 insert into sales values ('Mia', 'Grapes', 25, 9, 2020, 'CT', 708, '2020-09-25');
 insert into sales values ('Chae', 'Butter', 26, 2, 2019, 'NJ', 810, '2019-02-26');
 insert into sales values ('Claire', 'Ice', 8, 1, 2017, 'NY', 496, '2017-01-08');
@@ -10214,15 +9472,13 @@ insert into sales values ('Helen', 'Grapes', 27, 4, 2016, 'NJ', 626, '2016-04-27
 insert into sales values ('Mia', 'Apple', 4, 8, 2020, 'NY', 599, '2020-08-04');
 insert into sales values ('Sam', 'Cherry', 12, 4, 2016, 'NY', 260, '2016-04-12');
 insert into sales values ('Claire', 'Fish', 8, 11, 2016, 'NJ', 368, '2016-11-08');
-insert into sales values ('Emily', 'Jellies', 14, 11, 2019, 'PA', 502, '2019-11-
-14');
+insert into sales values ('Emily', 'Jellies', 14, 11, 2019, 'PA', 502, '2019-11-14');
 insert into sales values ('Emily', 'Apple', 9, 2, 2018, 'CT', 886, '2018-02-09');
 insert into sales values ('Chae', 'Dates', 5, 11, 2016, 'PA', 163, '2016-11-05');
 insert into sales values ('Sam', 'Dates', 16, 3, 2020, 'NJ', 926, '2020-03-16');
 insert into sales values ('Claire', 'Fish', 27, 9, 2017, 'PA', 433, '2017-09-27');
 insert into sales values ('Chae', 'Fish', 12, 11, 2017, 'CT', 496, '2017-11-12');
-insert into sales values ('Emily', 'Jellies', 25, 10, 2017, 'PA', 756, '2017-10-
-25');
+insert into sales values ('Emily', 'Jellies', 25, 10, 2017, 'PA', 756, '2017-10-25');
 insert into sales values ('Chae', 'Ice', 25, 4, 2016, 'PA', 740, '2016-04-25');
 insert into sales values ('Helen', 'Butter', 5, 7, 2016, 'CT', 48, '2016-07-05');
 insert into sales values ('Mia', 'Apple', 12, 6, 2018, 'CT', 581, '2018-06-12');
@@ -10236,8 +9492,7 @@ insert into sales values ('Wally', 'Fish', 9, 4, 2019, 'NJ', 576, '2019-04-09');
 insert into sales values ('Emily', 'Jellies', 1, 1, 2020, 'CT', 643, '2020-01-01');
 insert into sales values ('Helen', 'Ice', 2, 5, 2016, 'NY', 826, '2016-05-02');
 insert into sales values ('Dan', 'Ice', 5, 6, 2016, 'PA', 49, '2016-06-05');
-insert into sales values ('Claire', 'Butter', 15, 6, 2020, 'CT', 237, '2020-06-
-15');
+insert into sales values ('Claire', 'Butter', 15, 6, 2020, 'CT', 237, '2020-06-15');
 insert into sales values ('Dan', 'Fish', 29, 5, 2016, 'PA', 436, '2016-05-29');
 insert into sales values ('Emily', 'Eggs', 8, 3, 2019, 'NJ', 212, '2019-03-08');
 insert into sales values ('Wally', 'Ice', 12, 2, 2020, 'NY', 310, '2020-02-12');
@@ -10246,20 +9501,16 @@ insert into sales values ('Chae', 'Ice', 19, 4, 2017, 'NY', 881, '2017-04-19');
 insert into sales values ('Claire', 'Apple', 23, 3, 2016, 'NY', 361, '2016-03-23');
 insert into sales values ('Dan', 'Ham', 12, 5, 2020, 'NJ', 992, '2020-05-12');
 insert into sales values ('Claire', 'Ham', 19, 3, 2017, 'NJ', 171, '2017-03-19');
-insert into sales values ('Wally', 'Jellies', 16, 5, 2016, 'PA', 550, '2016-05-
-16');
+insert into sales values ('Wally', 'Jellies', 16, 5, 2016, 'PA', 550, '2016-05-16');
 insert into sales values ('Claire', 'Fish', 2, 2, 2019, 'NJ', 951, '2019-02-02');
 insert into sales values ('Claire', 'Ice', 8, 1, 2018, 'NY', 75, '2018-01-08');
-insert into sales values ('Claire', 'Butter', 23, 2, 2018, 'NY', 963, '2018-02-
-23');
+insert into sales values ('Claire', 'Butter', 23, 2, 2018, 'NY', 963, '2018-02-23');
 insert into sales values ('Helen', 'Fish', 29, 3, 2016, 'NJ', 283, '2016-03-29');
-insert into sales values ('Claire', 'Grapes', 29, 11, 2020, 'PA', 639, '2020-11-
-29');
+insert into sales values ('Claire', 'Grapes', 29, 11, 2020, 'PA', 639, '2020-11-29');
 insert into sales values ('Boo', 'Jellies', 13, 7, 2017, 'PA', 592, '2017-07-13');
 insert into sales values ('Helen', 'Eggs', 14, 9, 2019, 'PA', 652, '2019-09-14');
 insert into sales values ('Boo', 'Cherry', 27, 4, 2017, 'CT', 932, '2017-04-27');
-insert into sales values ('Helen', 'Jellies', 21, 8, 2019, 'NJ', 397, '2019-08-
-21');
+insert into sales values ('Helen', 'Jellies', 21, 8, 2019, 'NJ', 397, '2019-08-21');
 insert into sales values ('Emily', 'Butter', 14, 9, 2020, 'NJ', 641, '2020-09-14');
 insert into sales values ('Boo', 'Butter', 23, 8, 2017, 'PA', 617, '2017-08-23');
 insert into sales values ('Dan', 'Butter', 27, 8, 2019, 'NJ', 91, '2019-08-27');
@@ -10278,8 +9529,7 @@ insert into sales values ('Chae', 'Butter', 3, 2, 2018, 'NY', 115, '2018-02-03')
 insert into sales values ('Mia', 'Ham', 28, 1, 2018, 'CT', 2, '2018-01-28');
 insert into sales values ('Dan', 'Ice', 14, 12, 2020, 'PA', 843, '2020-12-14');
 insert into sales values ('Dan', 'Dates', 3, 9, 2018, 'NJ', 618, '2018-09-03');
-insert into sales values ('Claire', 'Cherry', 27, 10, 2016, 'NY', 790, '2016-10-
-27');
+insert into sales values ('Claire', 'Cherry', 27, 10, 2016, 'NY', 790, '2016-10-27');
 insert into sales values ('Wally', 'Dates', 1, 8, 2016, 'CT', 978, '2016-08-01');
 insert into sales values ('Dan', 'Ham', 6, 10, 2016, 'NJ', 169, '2016-10-06');
 insert into sales values ('Sam', 'Ice', 12, 9, 2017, 'CT', 161, '2017-09-12');
@@ -10291,8 +9541,7 @@ insert into sales values ('Chae', 'Ham', 7, 4, 2020, 'NY', 290, '2020-04-07');
 insert into sales values ('Dan', 'Fish', 30, 1, 2020, 'PA', 445, '2020-01-30');
 insert into sales values ('Dan', 'Apple', 7, 11, 2017, 'CT', 909, '2017-11-07');
 insert into sales values ('Boo', 'Ice', 13, 5, 2018, 'PA', 990, '2018-05-13');
-insert into sales values ('Claire', 'Cherry', 4, 11, 2018, 'NJ', 919, '2018-11-
-04');
+insert into sales values ('Claire', 'Cherry', 4, 11, 2018, 'NJ', 919, '2018-11-04');
 insert into sales values ('Helen', 'Eggs', 12, 3, 2018, 'CT', 233, '2018-03-12');
 insert into sales values ('Boo', 'Fish', 6, 11, 2016, 'PA', 880, '2016-11-06');
 insert into sales values ('Emily', 'Ham', 7, 6, 2018, 'NY', 194, '2018-06-07');
@@ -10306,12 +9555,10 @@ insert into sales values ('Dan', 'Butter', 27, 5, 2020, 'CT', 74, '2020-05-27');
 insert into sales values ('Dan', 'Ham', 7, 6, 2016, 'CT', 338, '2016-06-07');
 insert into sales values ('Boo', 'Ice', 21, 10, 2018, 'PA', 424, '2018-10-21');
 insert into sales values ('Boo', 'Eggs', 19, 3, 2019, 'CT', 578, '2019-03-19');
-insert into sales values ('Claire', 'Grapes', 24, 10, 2017, 'NJ', 439, '2017-10-
-24');
+insert into sales values ('Claire', 'Grapes', 24, 10, 2017, 'NJ', 439, '2017-10-24');
 insert into sales values ('Boo', 'Eggs', 18, 2, 2019, 'PA', 776, '2019-02-18');
 insert into sales values ('Emily', 'Apple', 22, 10, 2018, 'NY', 100, '2018-10-22');
-insert into sales values ('Emily', 'Cherry', 18, 11, 2019, 'NJ', 571, '2019-11-
-18');
+insert into sales values ('Emily', 'Cherry', 18, 11, 2019, 'NJ', 571, '2019-11-18');
 insert into sales values ('Boo', 'Apple', 21, 6, 2020, 'PA', 844, '2020-06-21');
 insert into sales values ('Chae', 'Eggs', 30, 10, 2020, 'PA', 228, '2020-10-30');
 insert into sales values ('Helen', 'Grapes', 30, 1, 2016, 'CT', 838, '2016-01-30');
@@ -10335,8 +9582,7 @@ insert into sales values ('Dan', 'Ice', 3, 11, 2018, 'PA', 964, '2018-11-03');
 insert into sales values ('Boo', 'Jellies', 5, 2, 2019, 'CT', 463, '2019-02-05');
 insert into sales values ('Dan', 'Ice', 10, 7, 2020, 'NY', 531, '2020-07-10');
 insert into sales values ('Helen', 'Apple', 9, 3, 2016, 'NJ', 715, '2016-03-09');
-insert into sales values ('Chae', 'Jellies', 23, 12, 2018, 'NY', 738, '2018-12-
-23');
+insert into sales values ('Chae', 'Jellies', 23, 12, 2018, 'NY', 738, '2018-12-23');
 insert into sales values ('Emily', 'Ice', 21, 11, 2019, 'NY', 968, '2019-11-21');
 insert into sales values ('Sam', 'Fish', 15, 9, 2017, 'CT', 299, '2017-09-15');
 insert into sales values ('Emily', 'Jellies', 5, 1, 2017, 'PA', 882, '2017-01-05');
@@ -10345,8 +9591,7 @@ insert into sales values ('Mia', 'Fish', 29, 11, 2020, 'NJ', 538, '2020-11-29');
 insert into sales values ('Sam', 'Ham', 29, 1, 2016, 'PA', 95, '2016-01-29');
 insert into sales values ('Wally', 'Grapes', 21, 7, 2018, 'NJ', 388, '2018-07-21');
 insert into sales values ('Chae', 'Grapes', 4, 7, 2020, 'NY', 969, '2020-07-04');
-insert into sales values ('Claire', 'Grapes', 15, 5, 2019, 'NJ', 423, '2019-05-
-15');
+insert into sales values ('Claire', 'Grapes', 15, 5, 2019, 'NJ', 423, '2019-05-15');
 insert into sales values ('Boo', 'Apple', 27, 8, 2016, 'NY', 805, '2016-08-27');
 insert into sales values ('Dan', 'Cherry', 8, 5, 2017, 'NJ', 895, '2017-05-08');
 insert into sales values ('Boo', 'Ham', 29, 3, 2017, 'CT', 597, '2017-03-29');
@@ -10363,18 +9608,15 @@ insert into sales values ('Emily', 'Butter', 2, 6, 2020, 'PA', 658, '2020-06-02'
 insert into sales values ('Chae', 'Eggs', 24, 3, 2020, 'NJ', 254, '2020-03-24');
 insert into sales values ('Sam', 'Ham', 12, 7, 2018, 'NY', 25, '2018-07-12');
 insert into sales values ('Wally', 'Ham', 28, 3, 2020, 'NJ', 27, '2020-03-28');
-insert into sales values ('Claire', 'Jellies', 27, 4, 2019, 'PA', 581, '2019-04-
-27');
+insert into sales values ('Claire', 'Jellies', 27, 4, 2019, 'PA', 581, '2019-04-27');
 insert into sales values ('Claire', 'Ice', 24, 1, 2019, 'PA', 607, '2019-01-24');
 insert into sales values ('Chae', 'Ham', 8, 2, 2017, 'NJ', 352, '2017-02-08');
 insert into sales values ('Boo', 'Fish', 24, 10, 2018, 'CT', 817, '2018-10-24');
 insert into sales values ('Chae', 'Ham', 10, 7, 2018, 'NY', 448, '2018-07-10');
-insert into sales values ('Claire', 'Grapes', 20, 7, 2019, 'NY', 435, '2019-07-
-20');
+insert into sales values ('Claire', 'Grapes', 20, 7, 2019, 'NY', 435, '2019-07-20');
 insert into sales values ('Helen', 'Ice', 8, 11, 2020, 'NY', 866, '2020-11-08');
 insert into sales values ('Emily', 'Ham', 24, 11, 2017, 'NY', 156, '2017-11-24');
-insert into sales values ('Claire', 'Grapes', 26, 5, 2019, 'NJ', 350, '2019-05-
-26');
+insert into sales values ('Claire', 'Grapes', 26, 5, 2019, 'NJ', 350, '2019-05-26');
 insert into sales values ('Chae', 'Eggs', 11, 6, 2016, 'PA', 110, '2016-06-11');
 insert into sales values ('Dan', 'Ham', 26, 10, 2016, 'PA', 351, '2016-10-26');
 insert into sales values ('Boo', 'Butter', 28, 12, 2016, 'NY', 700, '2016-12-28');
@@ -10400,29 +9642,23 @@ insert into sales values ('Chae', 'Jellies', 25, 7, 2019, 'PA', 571, '2019-07-25
 insert into sales values ('Boo', 'Eggs', 24, 5, 2018, 'NJ', 371, '2018-05-24');
 insert into sales values ('Mia', 'Ice', 23, 2, 2016, 'NJ', 831, '2016-02-23');
 insert into sales values ('Helen', 'Apple', 21, 3, 2017, 'NJ', 791, '2017-03-21');
-insert into sales values ('Claire', 'Cherry', 14, 7, 2016, 'PA', 871, '2016-07-
-14');
+insert into sales values ('Claire', 'Cherry', 14, 7, 2016, 'PA', 871, '2016-07-14');
 insert into sales values ('Claire', 'Apple', 20, 1, 2016, 'CT', 557, '2016-01-20');
 insert into sales values ('Wally', 'Cherry', 13, 2, 2019, 'NJ', 42, '2019-02-13');
 insert into sales values ('Dan', 'Apple', 5, 5, 2017, 'PA', 122, '2017-05-05');
 insert into sales values ('Mia', 'Ice', 10, 10, 2016, 'PA', 434, '2016-10-10');
 insert into sales values ('Dan', 'Dates', 28, 7, 2017, 'PA', 557, '2017-07-28');
 insert into sales values ('Emily', 'Fish', 31, 8, 2018, 'NJ', 832, '2018-08-31');
-insert into sales values ('Claire', 'Jellies', 10, 4, 2016, 'NJ', 561, '2016-04-
-10');
+insert into sales values ('Claire', 'Jellies', 10, 4, 2016, 'NJ', 561, '2016-04-10');
 insert into sales values ('Mia', 'Grapes', 29, 6, 2016, 'CT', 53, '2016-06-29');
-insert into sales values ('Claire', 'Cherry', 10, 4, 2019, 'NY', 627, '2019-04-
-10');
-insert into sales values ('Claire', 'Grapes', 20, 4, 2018, 'NY', 639, '2018-04-
-20');
+insert into sales values ('Claire', 'Cherry', 10, 4, 2019, 'NY', 627, '2019-04-10');
+insert into sales values ('Claire', 'Grapes', 20, 4, 2018, 'NY', 639, '2018-04-20');
 insert into sales values ('Helen', 'Eggs', 15, 9, 2020, 'NY', 354, '2020-09-15');
 insert into sales values ('Mia', 'Fish', 25, 5, 2020, 'CT', 366, '2020-05-25');
-insert into sales values ('Claire', 'Butter', 28, 11, 2016, 'CT', 769, '2016-11-
-28');
+insert into sales values ('Claire', 'Butter', 28, 11, 2016, 'CT', 769, '2016-11-28');
 insert into sales values ('Helen', 'Ice', 14, 11, 2019, 'CT', 928, '2019-11-14');
 insert into sales values ('Emily', 'Grapes', 12, 5, 2016, 'PA', 676, '2016-05-12');
-insert into sales values ('Helen', 'Jellies', 11, 5, 2019, 'NJ', 768, '2019-05-
-11');
+insert into sales values ('Helen', 'Jellies', 11, 5, 2019, 'NJ', 768, '2019-05-11');
 insert into sales values ('Mia', 'Jellies', 29, 9, 2018, 'PA', 10, '2018-09-29');
 insert into sales values ('Wally', 'Grapes', 30, 5, 2018, 'PA', 594, '2018-05-30');
 insert into sales values ('Claire', 'Ham', 23, 3, 2017, 'NY', 116, '2017-03-23');
@@ -10439,8 +9675,7 @@ insert into sales values ('Mia', 'Cherry', 25, 4, 2020, 'NY', 897, '2020-04-25')
 insert into sales values ('Boo', 'Ice', 30, 7, 2016, 'NJ', 986, '2016-07-30');
 insert into sales values ('Helen', 'Ice', 25, 7, 2020, 'NY', 256, '2020-07-25');
 insert into sales values ('Emily', 'Apple', 31, 5, 2019, 'NJ', 161, '2019-05-31');
-insert into sales values ('Helen', 'Jellies', 28, 6, 2020, 'NY', 307, '2020-06-
-28');
+insert into sales values ('Helen', 'Jellies', 28, 6, 2020, 'NY', 307, '2020-06-28');
 insert into sales values ('Sam', 'Butter', 1, 3, 2018, 'NY', 278, '2018-03-01');
 insert into sales values ('Dan', 'Jellies', 11, 10, 2017, 'PA', 539, '2017-10-11');
 insert into sales values ('Helen', 'Butter', 26, 4, 2020, 'NY', 875, '2020-04-26');
@@ -10466,8 +9701,7 @@ insert into sales values ('Claire', 'Apple', 7, 4, 2020, 'NY', 837, '2020-04-07'
 insert into sales values ('Wally', 'Dates', 3, 6, 2020, 'PA', 577, '2020-06-03');
 insert into sales values ('Helen', 'Eggs', 28, 3, 2017, 'CT', 708, '2017-03-28');
 insert into sales values ('Dan', 'Ham', 13, 9, 2020, 'CT', 431, '2020-09-13');
-insert into sales values ('Claire', 'Cherry', 22, 12, 2017, 'CT', 437, '2017-12-
-22');
+insert into sales values ('Claire', 'Cherry', 22, 12, 2017, 'CT', 437, '2017-12-22');
 insert into sales values ('Emily', 'Grapes', 19, 4, 2017, 'CT', 932, '2017-04-19');
 insert into sales values ('Claire', 'Grapes', 6, 3, 2020, 'NY', 966, '2020-03-06');
 insert into sales values ('Claire', 'Eggs', 4, 2, 2018, 'NJ', 436, '2018-02-04');
@@ -10480,8 +9714,7 @@ insert into sales values ('Mia', 'Jellies', 31, 1, 2019, 'CT', 430, '2019-01-31'
 insert into sales values ('Dan', 'Cherry', 12, 2, 2018, 'NJ', 150, '2018-02-12');
 insert into sales values ('Emily', 'Dates', 17, 7, 2018, 'PA', 706, '2018-07-17');
 insert into sales values ('Boo', 'Grapes', 18, 7, 2016, 'CT', 60, '2016-07-18');
-insert into sales values ('Claire', 'Cherry', 30, 11, 2020, 'CT', 409, '2020-11-
-30');
+insert into sales values ('Claire', 'Cherry', 30, 11, 2020, 'CT', 409, '2020-11-30');
 insert into sales values ('Claire', 'Fish', 23, 2, 2019, 'NJ', 560, '2019-02-23');
 insert into sales values ('Boo', 'Ham', 22, 5, 2017, 'CT', 676, '2017-05-22');
 insert into sales values ('Chae', 'Jellies', 12, 2, 2016, 'PA', 31, '2016-02-12');
@@ -10523,14 +9756,12 @@ insert into sales values ('Wally', 'Dates', 7, 3, 2019, 'NY', 817, '2019-03-07')
 insert into sales values ('Dan', 'Apple', 20, 8, 2020, 'NY', 41, '2020-08-20');
 insert into sales values ('Dan', 'Butter', 20, 7, 2019, 'CT', 780, '2019-07-20');
 insert into sales values ('Sam', 'Eggs', 29, 7, 2019, 'PA', 989, '2019-07-29');
-insert into sales values ('Helen', 'Butter', 15, 12, 2018, 'PA', 200, '2018-12-
-15');
+insert into sales values ('Helen', 'Butter', 15, 12, 2018, 'PA', 200, '2018-12-15');
 insert into sales values ('Boo', 'Apple', 27, 2, 2019, 'NY', 628, '2019-02-27');
 insert into sales values ('Wally', 'Ham', 3, 1, 2017, 'NY', 793, '2017-01-03');
 insert into sales values ('Sam', 'Ham', 22, 2, 2020, 'CT', 175, '2020-02-22');
 insert into sales values ('Wally', 'Ham', 27, 5, 2016, 'NJ', 495, '2016-05-27');
-insert into sales values ('Claire', 'Butter', 16, 3, 2017, 'NJ', 351, '2017-03-
-16');
+insert into sales values ('Claire', 'Butter', 16, 3, 2017, 'NJ', 351, '2017-03-16');
 insert into sales values ('Mia', 'Fish', 7, 12, 2017, 'CT', 458, '2017-12-07');
 insert into sales values ('Emily', 'Fish', 22, 5, 2016, 'NY', 442, '2016-05-22');
 insert into sales values ('Sam', 'Fish', 15, 5, 2017, 'CT', 903, '2017-05-15');
@@ -10579,8 +9810,7 @@ insert into sales values ('Dan', 'Jellies', 23, 4, 2016, 'PA', 554, '2016-04-23'
 insert into sales values ('Emily', 'Butter', 27, 3, 2016, 'NJ', 210, '2016-03-27');
 insert into sales values ('Sam', 'Butter', 15, 5, 2020, 'NY', 337, '2020-05-15');
 insert into sales values ('Boo', 'Cherry', 22, 5, 2018, 'NJ', 607, '2018-05-22');
-insert into sales values ('Claire', 'Cherry', 19, 2, 2016, 'NY', 754, '2016-02-
-19');
+insert into sales values ('Claire', 'Cherry', 19, 2, 2016, 'NY', 754, '2016-02-19');
 insert into sales values ('Helen', 'Apple', 8, 4, 2020, 'CT', 899, '2020-04-08');
 insert into sales values ('Chae', 'Dates', 10, 2, 2019, 'PA', 521, '2019-02-10');
 insert into sales values ('Dan', 'Butter', 14, 4, 2020, 'NY', 595, '2020-04-14');
@@ -10612,10 +9842,8 @@ insert into sales values ('Chae', 'Fish', 2, 9, 2020, 'NY', 433, '2020-09-02');
 insert into sales values ('Sam', 'Dates', 30, 7, 2016, 'NJ', 618, '2016-07-30');
 insert into sales values ('Claire', 'Fish', 1, 12, 2017, 'PA', 987, '2017-12-01');
 insert into sales values ('Helen', 'Jellies', 8, 12, 2018, 'NY', 83, '2018-12-08');
-insert into sales values ('Helen', 'Cherry', 27, 11, 2020, 'NJ', 881, '2020-11-
-27');
-insert into sales values ('Helen', 'Butter', 21, 12, 2018, 'CT', 522, '2018-12-
-21');
+insert into sales values ('Helen', 'Cherry', 27, 11, 2020, 'NJ', 881, '2020-11-27');
+insert into sales values ('Helen', 'Butter', 21, 12, 2018, 'CT', 522, '2018-12-21');
 insert into sales values ('Sam', 'Ham', 20, 5, 2016, 'NY', 914, '2016-05-20');
 insert into sales values ('Sam', 'Apple', 22, 10, 2018, 'NJ', 457, '2018-10-22');
 insert into sales values ('Emily', 'Dates', 6, 1, 2016, 'CT', 935, '2016-01-06');
@@ -10679,8 +9907,7 @@ insert into sales values ('Boo', 'Jellies', 26, 1, 2016, 'PA', 624, '2016-01-26'
 insert into sales values ('Wally', 'Eggs', 17, 4, 2019, 'CT', 241, '2019-04-17');
 insert into sales values ('Mia', 'Grapes', 2, 4, 2020, 'CT', 924, '2020-04-02');
 insert into sales values ('Chae', 'Butter', 23, 6, 2018, 'CT', 56, '2018-06-23');
-insert into sales values ('Claire', 'Grapes', 15, 11, 2017, 'NY', 507, '2017-11-
-15');
+insert into sales values ('Claire', 'Grapes', 15, 11, 2017, 'NY', 507, '2017-11-15');
 insert into sales values ('Mia', 'Cherry', 18, 9, 2017, 'NJ', 468, '2017-09-18');
 insert into sales values ('Sam', 'Cherry', 29, 8, 2019, 'CT', 326, '2019-08-29');
 insert into sales values ('Wally', 'Apple', 12, 2, 2020, 'PA', 345, '2020-02-12');
@@ -10702,21 +9929,18 @@ insert into sales values ('Chae', 'Eggs', 19, 3, 2018, 'PA', 303, '2018-03-19');
 insert into sales values ('Dan', 'Eggs', 26, 8, 2017, 'NJ', 495, '2017-08-26');
 insert into sales values ('Emily', 'Ice', 16, 12, 2016, 'NJ', 889, '2016-12-16');
 insert into sales values ('Wally', 'Cherry', 5, 6, 2020, 'NY', 863, '2020-06-05');
-insert into sales values ('Claire', 'Butter', 9, 11, 2019, 'CT', 325, '2019-11-
-09');
+insert into sales values ('Claire', 'Butter', 9, 11, 2019, 'CT', 325, '2019-11-09');
 insert into sales values ('Helen', 'Ham', 11, 4, 2019, 'CT', 562, '2019-04-11');
 insert into sales values ('Chae', 'Cherry', 7, 3, 2020, 'PA', 451, '2020-03-07');
 insert into sales values ('Dan', 'Fish', 6, 1, 2019, 'NY', 451, '2019-01-06');
 insert into sales values ('Sam', 'Jellies', 12, 6, 2017, 'CT', 872, '2017-06-12');
-insert into sales values ('Claire', 'Cherry', 9, 11, 2019, 'NJ', 940, '2019-11-
-09');
+insert into sales values ('Claire', 'Cherry', 9, 11, 2019, 'NJ', 940, '2019-11-09');
 insert into sales values ('Claire', 'Eggs', 31, 7, 2019, 'NY', 665, '2019-07-31');
 insert into sales values ('Chae', 'Dates', 30, 5, 2020, 'NY', 256, '2020-05-30');
 insert into sales values ('Mia', 'Jellies', 20, 6, 2016, 'NY', 940, '2016-06-20');
 insert into sales values ('Helen', 'Ice', 22, 3, 2016, 'CT', 977, '2016-03-22');
 insert into sales values ('Dan', 'Eggs', 23, 7, 2020, 'PA', 797, '2020-07-23');
-insert into sales values ('Claire', 'Cherry', 15, 5, 2017, 'NY', 335, '2017-05-
-15');
+insert into sales values ('Claire', 'Cherry', 15, 5, 2017, 'NY', 335, '2017-05-15');
 insert into sales values ('Mia', 'Butter', 8, 4, 2019, 'NY', 404, '2019-04-08');
 insert into sales values ('Helen', 'Apple', 8, 1, 2018, 'PA', 820, '2018-01-08');
 insert into sales values ('Helen', 'Fish', 20, 4, 2020, 'PA', 335, '2020-04-20');
@@ -10728,10 +9952,8 @@ insert into sales values ('Helen', 'Butter', 9, 11, 2020, 'PA', 911, '2020-11-09
 insert into sales values ('Wally', 'Grapes', 25, 3, 2017, 'NJ', 40, '2017-03-25');
 insert into sales values ('Claire', 'Fish', 25, 8, 2019, 'NY', 939, '2019-08-25');
 insert into sales values ('Wally', 'Cherry', 7, 2, 2016, 'PA', 176, '2016-02-07');
-insert into sales values ('Wally', 'Cherry', 19, 12, 2018, 'CT', 635, '2018-12-
-19');
-insert into sales values ('Wally', 'Butter', 22, 11, 2020, 'NJ', 423, '2020-11-
-22');
+insert into sales values ('Wally', 'Cherry', 19, 12, 2018, 'CT', 635, '2018-12-19');
+insert into sales values ('Wally', 'Butter', 22, 11, 2020, 'NJ', 423, '2020-11-22');
 insert into sales values ('Claire', 'Ham', 21, 6, 2017, 'CT', 540, '2017-06-21');
 insert into sales values ('Dan', 'Fish', 18, 5, 2017, 'CT', 689, '2017-05-18');
 insert into sales values ('Claire', 'Eggs', 8, 8, 2020, 'PA', 352, '2020-08-08');
@@ -10747,8 +9969,7 @@ insert into sales values ('Helen', 'Butter', 5, 2, 2019, 'CT', 710, '2019-02-05'
 insert into sales values ('Claire', 'Eggs', 9, 11, 2018, 'NY', 575, '2018-11-09');
 insert into sales values ('Wally', 'Cherry', 13, 3, 2016, 'CT', 207, '2016-03-13');
 insert into sales values ('Wally', 'Butter', 25, 1, 2017, 'NJ', 2, '2017-01-25');
-insert into sales values ('Helen', 'Jellies', 14, 4, 2019, 'CT', 619, '2019-04-
-14');
+insert into sales values ('Helen', 'Jellies', 14, 4, 2019, 'CT', 619, '2019-04-14');
 insert into sales values ('Boo', 'Ham', 4, 10, 2018, 'CT', 485, '2018-10-04');
 insert into sales values ('Boo', 'Dates', 26, 11, 2019, 'PA', 481, '2019-11-26');
 insert into sales values ('Dan', 'Fish', 14, 12, 2019, 'PA', 795, '2019-12-14');
@@ -10765,8 +9986,7 @@ insert into sales values ('Sam', 'Eggs', 27, 9, 2017, 'NJ', 80, '2017-09-27');
 insert into sales values ('Mia', 'Fish', 25, 1, 2016, 'NJ', 124, '2016-01-25');
 insert into sales values ('Dan', 'Ham', 15, 6, 2016, 'PA', 630, '2016-06-15');
 insert into sales values ('Chae', 'Grapes', 19, 3, 2016, 'CT', 780, '2016-03-19');
-insert into sales values ('Wally', 'Cherry', 30, 12, 2017, 'PA', 403, '2017-12-
-30');
+insert into sales values ('Wally', 'Cherry', 30, 12, 2017, 'PA', 403, '2017-12-30');
 insert into sales values ('Sam', 'Grapes', 24, 12, 2020, 'NY', 270, '2020-12-24');
 insert into sales values ('Wally', 'Butter', 18, 1, 2019, 'NJ', 193, '2019-01-18');
 insert into sales values ('Helen', 'Ice', 17, 10, 2020, 'CT', 67, '2020-10-17');

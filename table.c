@@ -14,6 +14,17 @@ void do_exit(PGconn *conn, PGresult *res) {
     exit(1);
 }
 
+
+void do_insert(PGconn *conn, PGresult *res, char* line) {
+    
+    res = PQexec(conn, line);
+    
+    if (PQresultStatus(res) != PGRES_COMMAND_OK) 
+        do_exit(conn, res);     
+    
+    PQclear(res);    
+}
+
 struct field{
     char name[50];
     char type[50];
@@ -34,6 +45,9 @@ int main(int argc, char* argv[]) {
     bool create_table = false;
     bool delete_table = false;
     bool insert_values = false;
+    bool file_values = false;
+    bool query = false;
+
     bool debug = false;
 
     struct database db ;
@@ -59,6 +73,12 @@ int main(int argc, char* argv[]) {
             }else if (strcmp(db.op,"is") == 0){
                 insert_values  = true;
                 strcpy(db.sql, token_5);
+            }else if (strcmp(db.op,"fi") == 0){
+                file_values  = true;
+                strcpy(db.sql, token_5);
+            }else if (strcmp(db.op,"sql") == 0){
+                query  = true;
+                strcpy(db.sql, token_5);
             }else{
                 fprintf(stderr, "Unknown table option: %s . exiting\n", db.op);
                 exit(1);
@@ -69,14 +89,14 @@ int main(int argc, char* argv[]) {
             debug = true;
         }
 
-        
-
     }
     if (debug){
         printf("db is %s\n", (char*) db.name);
         printf("table is %s\n", (char*)  db.table);
         printf("sql is %s\n", (char*)  db.sql);
     }
+
+    // connection
     char connection_string[1024];
     snprintf(connection_string, 1024, "user=postgres dbname=%s", db.name);
     
@@ -94,6 +114,7 @@ int main(int argc, char* argv[]) {
         exit(1);
     }
     
+    // drop table
     PGresult *res;
     if ( create_table || delete_table ){
 
@@ -112,6 +133,7 @@ int main(int argc, char* argv[]) {
         PQclear(res);
     }
     
+    // create table
     if (create_table){
 
         char create_tble_cmd[2056];
@@ -130,19 +152,79 @@ int main(int argc, char* argv[]) {
     }
 
 
+    // sql insert
     if (insert_values){
         char insert_values_cmd[2056];
         snprintf(insert_values_cmd, 2056, "INSERT INTO %s VALUES(%s)", db.table, db.sql);
         if (debug){
             printf("insert_values_cmd is %s\n", insert_values_cmd);
         }
-        res = PQexec(conn, insert_values_cmd);
-        
-        if (PQresultStatus(res) != PGRES_COMMAND_OK) 
-            do_exit(conn, res);     
-        
-        PQclear(res);    
+        do_insert(conn,res,insert_values_cmd);
+    }
 
+    // bulk insert
+    if (file_values){
+
+        FILE* fp;
+        fp = fopen(db.sql, "r");
+        if (fp == NULL) {
+            perror("Failed: ");
+            return 1;
+        }
+        int MAX_LEN = 2056;
+        char buffer[MAX_LEN];
+        while (fgets(buffer, MAX_LEN, fp))
+        {
+            // Remove trailing newline
+            //buffer[strcspn(buffer, "\n")] = 0;
+            if (debug){
+                printf("%s\n", buffer);
+            }
+            
+            do_insert(conn,res,buffer);
+            
+        }
+
+        fclose(fp);
+        return 0;
+
+    }
+
+    if (query){
+        res = PQexec(conn, db.sql);    
+    
+        if (PQresultStatus(res) != PGRES_TUPLES_OK) {
+
+            printf("No data retrieved\n");        
+            PQclear(res);
+            do_exit(conn, res);
+        }    
+        int ncols = PQnfields(res);
+        int rows = PQntuples(res);
+        printf("num cols %d\n", ncols);
+        printf("num rows %d\n", rows);
+        int string_size = 150;
+        for(int i=0; i<rows; i++) {
+            char result[ncols * string_size];
+/*             for(int y=0; y<ncols; y++) {
+                char col_res[100];
+                snprintf(col_res, 100, "%s |", PQgetvalue(res, i, y));
+                strcat(result,col_res);
+            } */
+
+            for (int y=0; y<ncols; y++) {
+                char temp[150]  = "|";
+                sprintf(temp, "%s |", PQgetvalue(res, i, y));
+                strcat(result, temp);
+
+                if ( y == ncols -1){
+                     strcat(result, "\n");
+                }
+            } 
+           
+            //printf("%s",result);
+            printf("%s | %s | %s | %s | %s | %s | %s | %s\n", PQgetvalue(res, i, 0), PQgetvalue(res, i, 1), PQgetvalue(res, i, 2),PQgetvalue(res, i, 3), PQgetvalue(res, i, 4), PQgetvalue(res, i, 5), PQgetvalue(res, i, 6), PQgetvalue(res, i, 7));
+        }    
     }
 
     PQfinish(conn);
