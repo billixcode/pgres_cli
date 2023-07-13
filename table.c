@@ -4,23 +4,23 @@
 #include <string.h>
 #include <stdbool.h>
 
-void do_exit(PGconn *conn, PGresult *res) {
+void exit_and_close(PGconn *conn, PGresult *res) {
     
     fprintf(stderr, "%s\n", PQerrorMessage(conn));    
 
     PQclear(res);
     PQfinish(conn);    
     
-    exit(1);
+    exit_and_close(1);
 }
 
 
-void do_insert(PGconn *conn, PGresult *res, char* line) {
+void insert(PGconn *conn, PGresult *res, char* line) {
     
     res = PQexec(conn, line);
     
     if (PQresultStatus(res) != PGRES_COMMAND_OK) 
-        do_exit(conn, res);     
+        exit_and_close(conn, res);     
     
     PQclear(res);    
 }
@@ -81,7 +81,7 @@ int main(int argc, char* argv[]) {
                 strcpy(db.sql, token_5);
             }else{
                 fprintf(stderr, "Unknown table option: %s . exiting\n", db.op);
-                exit(1);
+                exit_and_close(1);
             }
 
             
@@ -111,7 +111,7 @@ int main(int argc, char* argv[]) {
             PQerrorMessage(conn));
             
         PQfinish(conn);
-        exit(1);
+        exit_and_close(1);
     }
     
     // drop table
@@ -127,7 +127,7 @@ int main(int argc, char* argv[]) {
         res = PQexec(conn, drop_tble_cmd);
         
         if (PQresultStatus(res) != PGRES_COMMAND_OK) {
-            do_exit(conn, res);
+            exit_and_close(conn, res);
         }
         
         PQclear(res);
@@ -144,7 +144,7 @@ int main(int argc, char* argv[]) {
         res = PQexec(conn, create_tble_cmd);
             
         if (PQresultStatus(res) != PGRES_COMMAND_OK) {
-            do_exit(conn, res); 
+            exit_and_close(conn, res); 
         }
         
         PQclear(res);
@@ -159,7 +159,7 @@ int main(int argc, char* argv[]) {
         if (debug){
             printf("insert_values_cmd is %s\n", insert_values_cmd);
         }
-        do_insert(conn,res,insert_values_cmd);
+        insert(conn,res,insert_values_cmd);
     }
 
     // bulk insert
@@ -181,7 +181,7 @@ int main(int argc, char* argv[]) {
                 printf("%s\n", buffer);
             }
             
-            do_insert(conn,res,buffer);
+            insert(conn,res,buffer);
             
         }
 
@@ -197,7 +197,7 @@ int main(int argc, char* argv[]) {
 
             printf("No data retrieved\n");        
             PQclear(res);
-            do_exit(conn, res);
+            exit_and_close(conn, res);
         }    
         int ncols = PQnfields(res);
         int rows = PQntuples(res);
