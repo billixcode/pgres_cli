@@ -14,12 +14,24 @@ ALTER USER postgres PASSWORD 'postgres';
 psql -U postgres -W
 \c testdb
 
-// create
-./table db:testdb:Cars:cr:"Id INTEGER PRIMARY KEY, Name VARCHAR(20), Price INT"
-./table db:testdb:sales:cr:"cust varchar(20), prod varchar(20), day integer, month integer, year integer, state char(2), quant integer, date date"
-
-// query
- ./table db:testdb:sales:sql:'select count(id) from sales'
 
 // compile
  gcc pg_cli.c -o pg_cli -I /usr/include/postgresql -lpq -std=c99 -w
+
+******************** Commands *********************************************
+
+// create db
+
+// create table
+./pg_cli --d=testdb --o=cre --m='Id INTEGER PRIMARY KEY, Name VARCHAR(20), Price INT' --t=salesfoo --debug
+
+// insert data
+
+// bulk daata insert
+
+// query
+./pg_cli --d=testdb --s="select count(cust) from sales" --t=sales
+
+// drop table
+./pg_cli --d=testdb --o=del --t=salesfoo --debug
+

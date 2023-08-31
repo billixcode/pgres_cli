@@ -47,7 +47,7 @@ struct database {
 void print_help(){
 
     printf("\n");
-    printf("cmnd line options:\n");
+    printf("cmd line options:\n");
     printf("\n");
     printf("--d=$DATABASE\n");
     printf("--s=$SQL\n");
