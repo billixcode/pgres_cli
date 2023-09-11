@@ -23,15 +23,16 @@ psql -U postgres -W
 // create db
 
 // create table
-./pg_cli --d=testdb --o=cre --m='Id INTEGER PRIMARY KEY, Name VARCHAR(20), Price INT' --t=salesfoo --debug
+./pg_cli -d testdb -o cre -m 'Id INTEGER PRIMARY KEY, Name VARCHAR(20), Price INT' -t homes -v
 
 // insert data
+./pg_cli -d testdb -o ins -s "28,'Bill Jonx',78000" -t homes -v
 
 // bulk daata insert
 
 // query
-./pg_cli --d=testdb --s="select count(cust) from sales" --t=sales
+./pg_cli -d testdb -s "select count(owner) from homes" -t homes
 
 // drop table
-./pg_cli --d=testdb --o=del --t=salesfoo --debug
+./pg_cli -d testdb -o del -t homes -v
 

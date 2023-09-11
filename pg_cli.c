@@ -3,6 +3,7 @@
 #include <libpq-fe.h>
 #include <string.h>
 #include <stdbool.h>
+#include <unistd.h> 
 
 void exit_and_close(PGconn *conn, PGresult *res) {
     
@@ -18,11 +19,12 @@ void exit_and_close(PGconn *conn, PGresult *res) {
 void insert(PGconn *conn, PGresult *res, char* line) {
     
     res = PQexec(conn, line);
-    
-    if (PQresultStatus(res) != PGRES_COMMAND_OK) 
+    //free(conn);
+    if (PQresultStatus(res) != PGRES_COMMAND_OK){
         exit_and_close(conn, res);     
-    
-    PQclear(res);    
+    }else{
+        PQclear(res);  
+    }  
 }
 
 
@@ -49,70 +51,81 @@ void print_help(){
     printf("\n");
     printf("cmd line options:\n");
     printf("\n");
-    printf("--d=$DATABASE\n");
-    printf("--s=$SQL\n");
-    printf("--t=$TABLE\n");
-    printf("--o=$OP\n");
+    printf("-d $DATABASE\n");
+    printf("-s $SQL\n");
+    printf("-t $TABLE\n");
+    printf("-o $OP\n");
     printf("\n");
 }
 
-int main(int argc, char* argv[]) {
 
+int main(int argc, char *argv[]) 
+{
+    int opt;
+    extern char *optarg;
+    extern int optind, optopt;
     struct database db ;
-    struct option* opt = &option_default;
-
-    for (int i = 1; i < argc; i++) {
-
-        char *param_key = strtok(argv[i], "=");
-        char *param_val = strtok(NULL, "=");
-
-        if ( strcmp(param_key,"--d") == 0){
+    struct option* opt_flg = &option_default;
+      
+    while((opt = getopt(argc, argv, "d:t:s:o:m:hv")) != -1) 
+    { 
+        switch(opt) 
+        { 
             
-            strcpy(db.name, param_val);
+            case 'd': 
+                strcpy(db.name, optarg);
+                break; 
 
-        } else if ( strcmp(param_key,"--t") == 0){
+            case 't': 
+                strcpy(db.table, optarg);
+                break; 
+
+            case 's': 
+                opt_flg->query = true;
+                strcpy(db.sql, optarg);
+                break; 
             
-            strcpy(db.table, param_val);
+            case 'o': 
+                if ( strcmp(optarg,"del") == 0){
+                    opt_flg->delete_table = true;
+                }
+                else if ( strcmp(optarg,"cre") == 0){
+                    opt_flg->create_table = true;
+                    
+                }else if ( strcmp(optarg,"ins") == 0){
+                    opt_flg->insert_values = true;
+                }
+                strcpy(db.op, optarg);
+                break; 
+            
+            case 'm': 
+                strcpy(db.meta, optarg);
+                break; 
 
-        } else if ( strcmp(param_key,"--s") == 0){
+            case 'h': 
+                print_help();
+                exit(1);
+            
+            case 'v':
+                opt_flg->debug = true;
+                break;
 
-            opt->query = true;
-            strcpy(db.sql, param_val);
+            default:
+                fprintf(stderr, "Unknown option: %s . exiting\n", opt );
+                print_help();
+                exit(1);
+        } 
+    } 
+      
 
-        } else if ( strcmp(param_key,"--o") == 0){
-            if ( strcmp(param_val,"del") == 0){
-                opt->delete_table = true;
-            }
-            else if ( strcmp(param_val,"cre") == 0){
-                opt->create_table = true;
-                
-            }else if ( strcmp(param_val,"ins") == 0){
-                opt->insert_values = true;
-                
-            }
-            strcpy(db.op, param_val);
+    execute(opt_flg,db);
 
-        }else if ( strcmp(param_key,"--m") == 0){
+    return 0;
+}
 
-            strcpy(db.meta, param_val);
+void execute(struct option *opt_flg, struct database db){
 
-        }else if ( strcmp(param_key,"--h") == 0){
-
-            print_help();
-
-        }
-        else if ( strcmp(param_key,"--debug") == 0){
-            opt->debug = true;
-
-        }          
-        else{
-            fprintf(stderr, "Unknown pg_cli option: %s . exiting\n", param_key );
-            print_help();
-            exit(1);
-        }
-
-    }
-    if (opt->debug){
+    if (opt_flg->debug){
 
         printf("db is %s\n", (char*) db.name);
         printf("table is %s\n", (char*)  db.table);
@@ -125,7 +138,7 @@ int main(int argc, char* argv[]) {
     char connection_string[1024];
     snprintf(connection_string, 1024, "user=postgres dbname=%s", db.name);
     
-    if (opt->debug){
+    if (opt_flg->debug){
        printf("conn is %s\n", connection_string);
     }
     PGconn *conn = PQconnectdb(connection_string);
@@ -141,11 +154,11 @@ int main(int argc, char* argv[]) {
     
     // drop table
     PGresult *res;
-    if ( opt->create_table || opt->delete_table ){
+    if ( opt_flg->create_table || opt_flg->delete_table ){
 
         char drop_tble_cmd[1024];
         snprintf(drop_tble_cmd, 1024, "DROP TABLE IF EXISTS %s", db.table);
-        if (opt->debug){
+        if (opt_flg->debug){
             printf("drop table is %s\n", drop_tble_cmd);
         }
         
@@ -159,11 +172,11 @@ int main(int argc, char* argv[]) {
     }
     
     // create table
-    if (opt->create_table){
+    if (opt_flg->create_table){
 
         char create_tble_cmd[2056];
         snprintf(create_tble_cmd, 2056, "CREATE TABLE %s(%s)", db.table, db.meta);
-        if (opt->debug){
+        if (opt_flg->debug){
             printf("create_tble_cmd is %s\n", create_tble_cmd);
         }
         res = PQexec(conn, create_tble_cmd);
@@ -178,17 +191,17 @@ int main(int argc, char* argv[]) {
 
 
     // sql insert
-    if (opt->insert_values){
+    if (opt_flg->insert_values){
         char insert_values_cmd[2056];
-        snprintf(insert_values_cmd, 2056, "INSERT INTO %s VALUES(%s)", db.table, db.sql);
-        if (opt->debug){
+        snprintf(insert_values_cmd, 2056, "INSERT INTO %s VALUES ( %s ) RETURNING *", db.table, db.sql);
+        if (opt_flg->debug){
             printf("insert_values_cmd is %s\n", insert_values_cmd);
         }
         insert(conn,res,insert_values_cmd);
     }
 
     // bulk insert
-    if (opt->file_values){
+    if (opt_flg->file_values){
 
         FILE* fp;
         fp = fopen(db.sql, "r");
@@ -202,7 +215,7 @@ int main(int argc, char* argv[]) {
         {
             // Remove trailing newline
             //buffer[strcspn(buffer, "\n")] = 0;
-            if (opt->debug){
+            if (opt_flg->debug){
                 printf("%s\n", buffer);
             }
             
@@ -215,7 +228,7 @@ int main(int argc, char* argv[]) {
 
     }
 
-    if (opt->query){
+    if (opt_flg->query){
         res = PQexec(conn, db.sql);    
     
         if (PQresultStatus(res) != PGRES_TUPLES_OK) {
@@ -226,7 +239,7 @@ int main(int argc, char* argv[]) {
         }    
         int ncols = PQnfields(res);
         int rows = PQntuples(res);
-        if (opt->debug){
+        if (opt_flg->debug){
             printf("num cols %d\n", ncols);
             printf("num rows %d\n", rows);
         }
@@ -246,5 +259,4 @@ int main(int argc, char* argv[]) {
 
     PQfinish(conn);
 
-    return 0;
 }
