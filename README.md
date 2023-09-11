@@ -18,21 +18,21 @@ psql -U postgres -W
 // compile
  gcc pg_cli.c -o pg_cli -I /usr/include/postgresql -lpq -std=c99 -w
 
-******************** Commands *********************************************
+## Comands
+### create db
 
-// create db
-
-// create table
+### create table
 ./pg_cli -d testdb -o cre -m 'Id INTEGER PRIMARY KEY, Name VARCHAR(20), Price INT' -t homes -v
 
-// insert data
+### insert data
 ./pg_cli -d testdb -o ins -s "28,'Bill Jonx',78000" -t homes -v
 
-// bulk daata insert
+### bulk daata insert
+./pg_cli -d testdb -o fle -s homes_load.sql -t homes
 
-// query
+### query
 ./pg_cli -d testdb -s "select count(owner) from homes" -t homes
 
-// drop table
+### drop table
 ./pg_cli -d testdb -o del -t homes -v
 

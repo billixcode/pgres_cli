@@ -95,6 +95,9 @@ int main(int argc, char *argv[])
                 }else if ( strcmp(optarg,"ins") == 0){
                     opt_flg->insert_values = true;
                 }
+                else if ( strcmp(optarg,"fle") == 0){
+                    opt_flg->file_values = true;
+                }
                 strcpy(db.op, optarg);
                 break; 
             
