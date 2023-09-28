@@ -1,5 +1,5 @@
 # About
-This is a simple postgres commandline utility that wraps the libpq C library
+This is a simple commandline utility for postgres that wraps the libpq C library.
 
 https://www.postgresql.org/docs/9.5/libpq.html
 
